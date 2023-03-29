@@ -1,0 +1,87 @@
+---
+id: 155
+title: '5 Ways You Should Be Using Twitter, But Probably Aren&#8217;t'
+date: '2011-05-29T05:42:13+00:00'
+author: Frank
+excerpt: '<p><strong>Originally posted at the&nbsp;<a href="http://www.likeable.com/blog/2011/05/5-ways-you-should-be-using-twitter-but-probably-arent/">Likeable Media Blog</a>.</strong></p><p>I’ve been on&nbsp;<a href="http://twitter.com/frankramblings">Twitter</a>&nbsp;for almost three years now. When I joined, I tweeted for a few weeks, but didn’t really see the point at first. I all but abandoned it for several months. But when I returned, I became a complete addict! I found a core group of interesting, engaging people to follow who shared a number of common interests with me. Once I began to attach personalities to those user names and avatars, I started to see the value that Twitter could have for me personally. And yet, people still ask me, “How do you tweet so much? Don’t you ever run out of things to talk about?!” It actually is a valid question: what exactly do we use Twitter for when we’re not just sharing the mundane details of our everyday lives? Let''s take a look at some really fun and interesting uses for Twitter that you may not have thought of!</p>'
+layout: post
+guid: 'https://34.95.34.211/?p=155'
+permalink: /blog/2011/05/29/2011-5-29-5-ways-you-should-be-using-twitter-but-probably-arent-html/
+categories:
+    - Entertainment
+    - Food
+    - Internet
+    - Life
+    - Likeable
+    - Media
+    - 'Social Media'
+    - TV
+    - Twitter
+    - Uncategorized
+---
+
+**Originally posted at the [Likeable Media Blog](https://frank-emanuele.sqsp.com/config/www.likeable.com/2011/05/5-ways-you-should-be-using-twitter-but-probably-arent/).**
+
+I’ve been on [Twitter](http://twitter.com/frankramblings) for almost three years now. When I joined, I tweeted for a few weeks, but didn’t really see the point at first. I all but abandoned it for several months. But when I returned, I became a complete addict! I found a core group of interesting, engaging people to follow who shared a number of common interests with me. Once I began to attach personalities to those user names and avatars, I started to see the value that Twitter could have for me personally. And yet, people still ask me, “How do you tweet so much? Don’t you ever run out of things to talk about?!” It actually is a valid question: what exactly do we use Twitter for when we’re not just sharing the mundane details of our everyday lives? Let’s take a look at some really fun and interesting uses for Twitter that you may not have thought of!
+
+**Chat with Like-minded people**
+
+![](http://s3.media.squarespace.com/production/1465610/17353535/wp-content/uploads/2011/12/scotty-mccreery11.jpg "American Idol's Scotty McCreery")
+
+For lots of people, Twitter is just a place to push out a steady stream of their thoughts. But one of the most amazing things about Twitter is how easy it is to find people who share your interests. Say you’re a fan of Scotty McCreery on American Idol. You could just tweet about how awesome he is, and how many times you voted for him this week. Or you could do a Twitter search for his name and find other Scotty fans and strike up a great conversation! Joining a fan community like this can be incredibly rewarding. By discussing your favorite shows, movies, books, and hobbies with others, you’ll encounter ideas and new ways of thinking that never would have occurred to you otherwise. And you just might make some new friends!
+
+Find New Places**
+
+![](http://s3.media.squarespace.com/production/1465610/17353535/wp-content/uploads/2011/12/4968745-Skylight_diner-New_York_City-300x22511.jpg "The Skylight Diner")
+
+If you’re anything like me, you and your friends have some go-to places you like to hang out. When all else fails and you’re bored on a Saturday night, you end up at one of your usual hangouts. While it’s fun being a regular at a local bar, sometimes you just need to spice it up and try something new. If you need a change of venue, why not put the question out there for your followers to answer? Maybe someone can recommend a great sports bar, a [food truck](http://www.likeable.com/2011/05/deliciously-social-savvy-food-trucks) with awesome tacos, or a great Indian place no one’s ever heard of. I live just outside New York City, and was recently in Manhattan with a cousin who was visiting from out of town. He wanted to see the sights and really get the most out of his time in New York, and when it was time for dinner, he had just one request: that we eat a real New York diner. I didn’t know of a diner in the area where we were hanging out, so I called on my followers to recommend one. Within 5 minutes, we were heading toward the [Skylight Diner](http://www.skylightdinernyc.com/) on 34th St &amp; 9th Ave at the recommendation of a fellow New Yorker. We had a great meal and I’ve been back there several times since. Don’t underestimate the power of your social sphere!
+
+Win Cool Stuff**
+
+![](http://s3.media.squarespace.com/production/1465610/17353535/wp-content/uploads/2011/12/ipad-win-me1-300x19111.jpg "Win an iPad!")
+
+One of the most shameless ways that brands and even individuals try to amass followers is by simply giving away iPads, tickets to sporting events, gift cards, and all sorts of cool swag in return for follows and retweets. Sure, it may seem annoying to see your Twitter stream filled with tweets about the latest giveaway, but it’s definitely a great way to get ahold of some really cool stuff for the best price possible: free! When the iPad first launched last spring, website building service
+
+[Webs.com](http://www.webs.com/)
+
+ celebrated by giving away an iPad every few hours all weekend long. They came up with some really creative ways of choosing the winners and they documented the live drawings on their
+
+[YouTube channel](http://www.youtube.com/watch?v=MfE3tgZY7Lc&feature=channel_video_title)
+
+. Was it a publicity stunt? No question. But did a bunch of people get free iPads? Absolutely! And for those of us who didn’t win, it was still entertaining and memorable.
+
+Answer ANY Question**
+
+![](http://s3.media.squarespace.com/production/1465610/17353535/wp-content/uploads/2011/12/twitter-bird-3-150x150111.png "twitter-bird-3-150x1501")
+
+Where do you usually go when you’re looking for answers online? My guess is
+
+[Google](http://www.google.com/)
+
+. It’s become second nature, right? Just Google it. But which would you prefer: a search algorithm that provides general information relevant to the key words you feed it, or a living, breathing human being who shares similar experiences with you and has some meaningful input? When you’re deciding which movie to see this weekend, would you rather read what the critics had to say, or would you rather engage with an Average Joe who already saw this week’s blockbuster and ask him what he thinks? Using popular hashtags can make your questions visible to a highly relevant crowd and will often return incredibly useful results. The benefits of
+
+[social search](http://search.twitter.com/)
+
+ are becoming clearer every day, and as it gets easier to rely on crowd sourcing, Google looks increasingly like they’re in big trouble.
+
+Killer Deals**
+
+![](http://s3.media.squarespace.com/production/1465610/17353535/wp-content/uploads/2011/12/amazon-deals-300x8511.jpg "Amazon Deals")
+
+Knowing who to follow is a big part of mastering Twitter. There are plenty of accounts out there dedicated solely to finding and sharing amazing deals that will save you a bundle. For instance, take a look at
+
+[Amazon](http://www.amazon.com/)
+
+. Their
+
+[@AmazonDeals](http://twitter.com/amazondeals)
+
+ and
+
+[@AmazonMP3](http://twitter.com/amazonmp3)
+
+ accounts tweet out daily sales that will shock and amaze you. They’ve got everything from $12 seasons of your favorite TV shows to $5 albums by awesome artists. Finding this kind of value right in your Twitter stream makes it easier by leaps and bounds to save cash on just about everything. You don’t need to actively seek out savings, just get them delivered to you by Twitter and enjoy!
+
+There are so many fascinating uses for this fast-growing social network, many of which haven’t been thought of yet. I really hope you’ll reconsider what Twitter means to you and try to use it to its full potential. Experiment and make the most of it! I think we’re seeing the beginning of something truly amazing taking shape before our very eyes, 140 characters at a time. Let’s all be an active part of it!
+
+***Do you have any alternative uses for Twitter? Share your thoughts in the comments below!***

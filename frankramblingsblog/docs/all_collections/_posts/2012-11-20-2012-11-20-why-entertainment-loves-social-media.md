@@ -1,0 +1,38 @@
+---
+id: 139
+title: 'Why Entertainment Loves Social Media'
+date: '2012-11-20T17:31:00+00:00'
+author: Frank
+excerpt: '<p><em><strong>Originally posted at the&nbsp;<a href="http://www.likeable.com/blog/2012/11/why-entertainment-loves-social-media/">Likeable Media Blog</a>.</strong></em></p><p>Many in the entertainment industry fear the Internet because they don’t understand it. In 2011, those who backed&nbsp;<a href="http://www.likeable.com/2012/01/3-ways-the-entertainment-industry-can-make-money-without-destroying-the-internet/">SOPA</a>&nbsp;made it clear that they would rather alienate an entire segment of their target audience and accuse them of criminal activity instead of harnessing their passion and turning them into brand ambassadors. But almost from the start, entertainers, studios, and networks that are active on social media and engage with their audiences have seen great success as a result. The numbers don’t lie. Social is becoming more and more a part of the entertainment experience, and those who jump aboard the social media train now will reap the rewards!</p><p></p>'
+layout: post
+guid: 'https://34.95.34.211/?p=139'
+permalink: /blog/2012/11/20/2012-11-20-why-entertainment-loves-social-media/
+categories:
+    - Entertainment
+tags:
+    - branding
+    - brands
+    - content
+    - entertainment
+    - Facebook
+    - marketing
+    - movies
+    - music
+    - 'social media'
+    - television
+    - TV
+---
+
+***Originally posted at the [Likeable Media Blog](http://www.likeable.com/2011/12/whats-the-deal-with-newtwitter/).***
+
+Many in the entertainment industry fear the Internet because they don’t understand it. In 2011, those who backed [SOPA](http://www.likeable.com/2012/01/3-ways-the-entertainment-industry-can-make-money-without-destroying-the-internet/) made it clear that they would rather alienate an entire segment of their target audience and accuse them of criminal activity instead of harnessing their passion and turning them into brand ambassadors. But almost from the start, entertainers, studios, and networks that are active on social media and engage with their audiences have seen great success as a result. The numbers don’t lie. Social is becoming more and more a part of the entertainment experience, and those who jump aboard the social media train now will reap the rewards!
+
+According to a [recent poll](http://www.hollywoodreporter.com/gallery/facebook-twitter-social-media-study-302273) by The Hollywood Reporter, 79% of Americans visit Facebook while watching TV, and 41% will Tweet about what they’re watching. If you’re not somehow reaching these people social media during primetime, you’re turning away a substantial piece of the pie. NBC’s Saturday Night Live has a particularly young and social media savvy audience, and they don’t let it go to waste. Since the start of their 2012 season, they’ve done a phenomenal job of tapping into their Facebook and Twitter communities whenever they’re on the air by posting images of the funniest moments from their sketches *as they happen*, complete with one-liner text overlays. Fans who happen to be watching the show when they find one of these images in their News Feeds find them hilarious, and those not watching at the moment often see them as a reminder to tune in and see what all the buzz is about. It’s a simple yet brilliant way to strategically engage with an existing audience at every logical touch point.
+
+So it makes sense that viewers are posting about their favorite TV shows on social media, but what about the movies? Is it really as important to engage with an audience who can’t use their mobile phones at their local theater? When you consider that Americans use Facebook and Twitter to discuss what they’re watching at movie theaters 24% and 21% of the time respectively, you just might change your mind. Not to mention that 72% of users head to their social network of choice to voice opinions on films they just saw. Disney has long received praise for their marketing efforts, and their recent string of social campaigns for theatrical releases has been particularly impressive. In the summer of 2012, the Disney marketing machine turned its eye to *Wreck-It Ralph*, which would hit theaters in November. New images were published daily on the upcoming film’s Facebook page, featuring characters and teasing scenes along with a running countdown to the release date. But Disney went a step further. They released a fully functional version of the video game featured in the movie itself to their Facebook fans, and eventually on the Disney website and even mobile devices. Fans could get a taste of what the movie held in store for them by playing the arcade-style game right on Facebook and then publishing their scores to an online leaderboard, where they could see how they stacked up against their friends. That’s how it’s done. That’s building excitement and positive sentiment. That’s interactive social marketing at its finest.
+
+Okay, so it sounds like social media can be useful for the TV and film industries. But what about music? Aren’t people just going to steal MP3s of their favorite songs no matter what we do? Will a few Facebook posts or Tweets really make a difference in sales? The THR study shows that 7 in 10 music fans listen to music by artists recommended by their friends on social networks. And that’s a statistic that’s working in Jonathan Coulton’s favor. Coulton is a Brooklyn-based independent singer/songwriter-turned-Internet-superstar who promotes his music via [Twitter](https://twitter.com/jonathancoulton) and free downloads. His strategy is a simple one: be a nice guy, connect with your fans, and give them free stuff, and they will remain loyal to you forever. Besides the standard 99¢ MP3 downloads and $5 or $10 album deals, Coulton makes it easy for anyone to stream every song he’s ever released completely free of charge right on his website. Sounds crazy, right? So it might surprise you to hear that in 2010, Jonathan took home [$500,000](http://wiki.creativecommons.org/Case_Studies/Jonathan_Coulton) in income from his music and merchandise sales. He attributes 45% of that sum directly to paid downloads. Why are so many fans paying for Jonathan’s music when he gives them a free alternative? Because he’s likeable! His Twitter account is authentic and super responsive, his YouTube channel features fresh content from his latest gigs, and unlike so many record labels, he doesn’t treat his loyal fan base like thieves. He acknowledges that many who buy his songs are passing them along to friends for free. But he also realizes that someone who receives a free MP3 album eventually turns into a paying customer who buys his next album, or a concert ticket, or a t-shirt. And he’s always quick to use Twitter as a place to thank his fans for their support. Give a little, and you could gain a lot.
+
+The moral of the story is this: social media can be a tremendous force for good in the entertainment industry, if you let it help you. Don’t fear what you don’t understand; embrace it and make it work for you! SNL, Disney, and Jonathan Coulton are just three examples of entities that are integrating social media into the entertainment experience and enjoying its benefits. Why don’t you join the party?
+
+***Have you seen top-notch examples of entertainers activating their online communities? Share with us!***

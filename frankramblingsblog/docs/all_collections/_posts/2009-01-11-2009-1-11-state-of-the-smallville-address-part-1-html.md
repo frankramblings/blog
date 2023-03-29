@@ -1,0 +1,35 @@
+---
+id: 82
+title: 'State of the Smallville Address, Part 1'
+date: '2009-01-11T01:07:00+00:00'
+author: Frank
+layout: post
+guid: 'https://34.95.34.211/?p=82'
+permalink: /blog/2009/01/11/2009-1-11-state-of-the-smallville-address-part-1-html/
+categories:
+    - 'Comic Books'
+    - Entertainment
+    - 'Geek Culture'
+    - Opinion
+    - TV
+---
+
+<div src="v5"><span style="color: rgb(255, 0, 0);">WARNING: SPOILER CROSSING AHEAD! PROCEED AT YOUR OWN PERIL!</span>Madam and Messrs Show Runners, distinguished guests, and fellow fans: it is once again that time of year when we gather to discuss the state of <span style="font-style: italic;">Smallville</span>. Yes, you guessed it: it’s Winter Hiatus time.
+
+So what happened this season? Well, we saw Clark return powerless from a Russian work camp to save Chloe from a LuthorCorp facility where she was held prisoner. After a fatal run-in with a drugged Green Arrow, Clark was revived by J’onn J’onzz, who sacrificed his powers to bring Clark back to life. Lex went missing, but his *protégé* Tess Mercer took over as acting CEO of the company and all its subsidiaries. She proved to be almost as bad as her mentor, gathering superpowered individuals including DC Comics villain Plastique in an effort to form a team to do her dirty work. Oliver Queen and his band of merry do-gooders temporarily parted ways to avoid detection after being identified by Lex’s henchmen. Oliver stayed in Metropolis, however, and proved to be an invaluable help to Clark.
+
+Clark began working across the desk from Lois at the Daily Planet as a copy boy so he could keep up on current events and rush off to save the day whenever it looked like a job for Superm– err, I mean the “red and blue blur,” the name the adoring public had given their anonymous hero. Meanwhile Davis Bloome, a charismatic paramedic, became friendly with Chloe and sparks began to fly. At the same time, though Chloe was planning a wedding with Jimmy Olsen while taking over the Isis Foundation where Lana had left off. Davis revealed to Chloe that he had been experiencing blackouts and that he kept finding himself at the scene of murders with no memory of how he had gotten there.
+
+When Clark received the Kryptonian Crystal of Knowledge previously seen in Seasons 4 and 5, he found himself and Lois accidentally transported to the Phantom Zone, where they encountered Kara, who had been trapped there by BrainIAC in the Season 7 finale. She could have escaped, since the blood of the House of El runs through her veins, but she was afraid she might unleash Phantom Zone prisoners in the process, so she sacrificed her freedom for Earth’s sake. However, when Clark let Lois come back to Earth, Zod’s wife Faora possessed her body. Faora, as we learned, is actually Davis’s mother. Davis is horrified by what he learns and doesn’t know what to do. He discovers that, as Faora says, “That which kills you makes you stronger,” when he notices that attempting to stab himself in the chest has no effect on him whatsoever. In fact, the knife shatters.
+
+Finally, in “Abyss,” my favorite episode of the season thus far, BrainIAC slowly began deleting Chloe’s memories and leaving only those involving Davis. Clark, in a desperate attempt to save Chloe, rebuilt the Fortress of Solitude against her wishes and pleaded with Jor-El to restore all of her memories except for those related to the knowledge of his secret. He saw how keeping his secret affected her life and he decided that it would have been better for her had she never known. Jor-El remarked that Clark had grown up and commended him for finally acting maturely before he fulfilled his son’s request. Chloe’s memories were once again safe, but she had no recollection of Clark’s alien heritage.
+
+Then it finally came time for the wedding of Chloe and Jimmy. They had both the ceremony and reception in the Kent Barn. Oliver Queen was hot on the trail of Lex when he ran into Lana halfway around the world. She even returned to Smallville to help celebrate Sullivan-Olsen nuptials, much to the disappointment of Lois, who had secretly begun falling for Clark. Moments after Lana’s arrival, the bloodbath began. DOOMSDAY was there! A giant monster covered in bony gray protrusions forced its way into the barn, fixing its bright red eyes on Chloe. It left a path of death and destruction in its wake, killing or injuring anyone who dared try and stop it. Jimmy sustained serious wounds in an attempt to defend his bride. By episode’s end, Clark was leaving to find and rescue Chloe from the monster while Lois was to accompany Jimmy to Star City where he was to receive emergency medical treatment and Doomsday was seen bringing an unconscious Chloe to the Fortress of Solitude, where her eyes glazed over, indicating the presence of BrainIAC.
+
+An exciting half-season to be sure! So much happened to our characters in just a few short months. This season has been the best since Season 3, in my opinion. While 5, 6, and 7 were great (note the omission of 4), Season 8 has been much more consistent on a level not seen since Season 3.
+
+So that’s what happened in the first half of Season 8. Tune in next time for spoiler-free look to the future
+
+[![Digg!](http://digg.com/img/badges/100x20-digg-button.gif)  ](http://digg.com/)
+
+</div>
