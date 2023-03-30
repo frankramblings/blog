@@ -20,5 +20,4 @@ categories:
 [This week on Supergirl TV Talk](http://www.supergirltvtalk.com/2017/02/2x11-martian-chronicles.html), Tim and Frank are talking aliens fights and heart to hearts. Sanvers, Karamel, and the Martians. Plus some emails from a few very observant listeners.
 
 <div markdown="1" style="text-align: center;">
-{% include embed-audio.html param='audio' %}
-{% include {{audio}} src="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/STVT2x11/STVT2x11.mp3" %}
+{% include embed-audio.html src="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/STVT2x11/STVT2x11.mp3" %}
