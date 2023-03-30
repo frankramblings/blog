@@ -18,9 +18,7 @@ categories:
 This week on Supergirl TV Talk, hot off their recent hit single, Tim and Frank are back to talk the mid-season premiere “Supergirl Lives” directed by geek icon Kevin Smith. Lots of fun Easter eggs in this one and the guys break them all down.
 
 
-
-<audio controls>
-  <source src="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/STVT2x09/STVT2x09.mp3" type="audio/mpeg">
+<div markdown="1" style="text-align: center;">
+<audio controls><source src="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/STVT2x09/STVT2x09.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
-</audio>
-</div>
+</audio></div>

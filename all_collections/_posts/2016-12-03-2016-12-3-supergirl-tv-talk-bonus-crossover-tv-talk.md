@@ -24,6 +24,7 @@ categories:
 
 **Guests:**<span style="font-size:13.199999809265137px"> </span>[@TheRealBeauYork](http://twitter.com/TheRealBeauYork)<span style="font-size:13.199999809265137px">, </span>[@RingThatBeall](http://twitter.com/RingThatBeall)<span style="font-size:13.199999809265137px">, </span>[@wrbenson](http://twitter.com/wrbenson)
 
+<div markdown="1" style="text-align: center;">
 <audio controls>
   <source src="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/STVT2x08a/STVT2x08a.mp3" type="audio/mpeg">
   Your browser does not support the audio element.

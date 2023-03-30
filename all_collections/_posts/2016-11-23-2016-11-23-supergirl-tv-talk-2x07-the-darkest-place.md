@@ -20,6 +20,8 @@ categories:
 [This week on Supergirl TV Talk](http://www.supergirltvtalk.com/2016/11/2x07-darkest-place.html), it finally happened: #TimWasWrong! Tim’s big prediction may not have come true, but there’s still a ton to talk about this week! Cyborg Superman, Sanvers, Mon-El, Cadmus and so much more.
 
 [Also, don’t miss this week’s bonus outtakes episode!](http://www.supergirltvtalk.com/2016/11/bonus-2x07-outtakes.html)
+
+<div markdown="1" style="text-align: center;">
 <audio controls>
   <source src="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/STVT2x07/STVT2x07.mp3" type="audio/mpeg">
   Your browser does not support the audio element.

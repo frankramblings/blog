@@ -19,6 +19,7 @@ categories:
 </div>
 The Crossover starts here! Tim and Palmer come out of their Thanksgiving food comas to recap this prologue to the DC TV Crossover. Tune in later this week for a bonus episode covering Supergirl’s appearances across the rest of the CW’s superhero shows.
 
+<div markdown="1" style="text-align: center;">
 <audio controls>
   <source src="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/STVT2x08/STVT2x08.mp3" type="audio/mpeg">
   Your browser does not support the audio element.

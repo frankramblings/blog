@@ -20,8 +20,8 @@ categories:
 
 [This week on Supergirl TV Talk](http://www.supergirltvtalk.com/2017/01/2x10-we-can-be-heroes.html), Frank and Tim are feeling electrified as they discuss the return of Livewire, the Martians, Sanvers, and Karamel. So much going on! It’s a good time to be a Supergirl fan.
 
-<audio controls>
-  <source src="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/STVT2x10/STVT2x10.mp3" type="audio/mpeg">
+<div markdown="1" style="text-align: center;">
+<audio controls> <source src="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/STVT2x10/STVT2x10.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
 </div>

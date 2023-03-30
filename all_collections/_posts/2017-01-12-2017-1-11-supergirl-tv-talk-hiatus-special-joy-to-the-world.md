@@ -19,6 +19,7 @@ categories:
 </div>
 A special hiatus presentation from Frank and Tim.
 
+<div markdown="1" style="text-align: center;">
 <audio controls>
   <source src="https://archive.org/download/STVT2x08bJoyToTheWorld/STVT2x08b_JoyToTheWorld.mp3" type="audio/mpeg">
   Your browser does not support the audio element.

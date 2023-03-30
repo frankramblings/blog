@@ -18,6 +18,8 @@ categories:
 ![Supergirl TV Talk cover art - a silhouette of Supergirl floats in front of a light blue background]({{site.url}}{{site.baseurl}}/assets/images/stvtcover.png)
 </div>
 [This week on Supergirl TV Talk](http://www.supergirltvtalk.com/2016/11/2x05-crossfire.html), Tim and Frank don’t know where to begin this week! It’s all about Mon-El and James and Alex and Maggie. Plus, Tim makes another prediction that comes true 20 minutes later.
+
+<div markdown="1" style="text-align: center;">
 <audio controls>
   <source src="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/STVT2x05/STVT2x05.mp3" type="audio/mpeg">
   Your browser does not support the audio element.

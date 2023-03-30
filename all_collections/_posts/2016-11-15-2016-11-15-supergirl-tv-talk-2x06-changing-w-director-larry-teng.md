@@ -19,6 +19,7 @@ categories:
 </div>
 [This week on Supergirl TV Talk](http://www.supergirltvtalk.com/2016/11/2x06-changing-w-director-larry-teng.html), Frank and Tim are joined by episode 6 director Larry Teng for his second appearance on the podcast! They chat about Larry’s experience directing “Changing.” Parasite, Guardian, and more. It’s a packed episode and we hope you enjoy it.
 
+<div markdown="1" style="text-align: center;">
 <audio controls>
   <source src="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/STVT2x06/STVT2x06.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
