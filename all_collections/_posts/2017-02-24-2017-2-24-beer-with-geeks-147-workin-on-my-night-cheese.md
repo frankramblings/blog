@@ -17,6 +17,5 @@ categories:
 
 [This week on Beer With Geeks](http://www.beerwithgeeks.com/2017/02/147-workin-on-my-night-cheese.html), Tim and Frank chat about one of their all-time favorite sitcoms: 30 Rock. Put on your Sheinhardt Wig and grab a beer. Cheers!
 <div markdown="1" style="text-align: center;">
-{% include embed-audio.html param='page.audio' %}
 {% include {{ page.audio }} src="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/BWG147/BWG147.mp3" %}
 </div>
