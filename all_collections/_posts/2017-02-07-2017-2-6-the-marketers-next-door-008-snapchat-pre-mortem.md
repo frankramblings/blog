@@ -20,5 +20,8 @@ categories:
 [This week on The Marketers Next Door](http://www.marketersnextdoor.com/2017/02/008-snapchat-pre-mortem.html), Marissa and Frank talk Superbowl LI ads and the Snap, Inc. IPO. Could this be the last gasp of a dying startup? Or the most successful IPO in history?
 
 <div markdown="1" style="text-align: center;">
-{% include {{ page.audio }} src="http://dts.podtrac.com/redirect.mp3/archive.org/download/MND008_201702/MND008.mp3" %}
+<audio controls>
+  <source src="http://dts.podtrac.com/redirect.mp3/archive.org/download/MND008_201702/MND008.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
 </div>

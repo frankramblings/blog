@@ -22,5 +22,8 @@ categories:
 
 
 <div markdown="1" style="text-align: center;">
-{% include {{ page.audio }} src="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/STVT2x12/STVT2x12.mp3" %}
+	<audio controls>
+	  <source src="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/STVT2x12/STVT2x12.mp3" type="audio/mpeg">
+	  Your browser does not support the audio element.
+	</audio>
 </div>
