@@ -20,5 +20,6 @@ categories:
 [This week on Beer With Geeks](http://www.beerwithgeeks.com/2017/02/144-cocky-kid.html), Tim and Frank battle each other in a Star Wars trivia face-off. Who will win? Who will lose? Who will be thrown to the Sarlacc? Listen and find out. Cheers!
 
 <div markdown="1" style="text-align: center;">
-{% include embed-audio.html src="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/BWG144/BWG144.mp3" %}
+{% include embed-audio.html param='page.audio' %}
+{% include {{ page.audio }} src="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/BWG144/BWG144.mp3" %}
 </div>

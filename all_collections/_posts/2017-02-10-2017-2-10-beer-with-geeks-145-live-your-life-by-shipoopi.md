@@ -19,5 +19,6 @@ categories:
 
 [This week on Beer With Geeks](http://www.beerwithgeeks.com/2017/02/145-live-your-life-by-shipoopi.html), Frank and Tim talk (and sing) about their favorite musicals of all time. Whether the Broadway or Hollywood varitey, there are just too many to choose from, so consider this part 1. Cheers!
 <div markdown="1" style="text-align: center;">
-{% include embed-audio.html src="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/BWG145/BWG145.mp3" %}
+{% include embed-audio.html param='page.audio' %}
+{% include {{ page.audio }} src="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/BWG145/BWG145.mp3" %}
 </div>

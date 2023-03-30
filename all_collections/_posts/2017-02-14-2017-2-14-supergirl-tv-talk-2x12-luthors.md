@@ -22,5 +22,6 @@ categories:
 
 
 <div markdown="1" style="text-align: center;">
-{% include embed-audio.html src="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/STVT2x12/STVT2x12.mp3" %}
+{% include embed-audio.html param='page.audio' %}
+{% include {{ page.audio }} src="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/STVT2x12/STVT2x12.mp3" %}
 </div>
