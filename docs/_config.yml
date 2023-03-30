@@ -38,4 +38,4 @@ defaults:
       path: "/assets/images"
     values:
       image: true
-exclude: ["sitemap.xml", "feed.xml", "LICENSE", "README.md", vendor]
+exclude: ["sitemap.xml", "feed.xml", "LICENSE", "README.md", "vendor"]
