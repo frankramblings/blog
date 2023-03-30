@@ -2,10 +2,11 @@ name: Frank Ramblings
 dp: https://frankramblings.github.io/profile.png
 description: "
   <p>
-    I like talking to nice people on the internet.
+    i ramble. frankly.
   </p>
-  <br/>
 "
 contact:
+  - title: home
+    url: https://frankramblings.github.io
   - title: mastodon
     url: https://ramblings.social/@frank

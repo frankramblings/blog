@@ -6,7 +6,7 @@ author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=490'
 permalink: /2018/9/5/a-modern-life-lesson-from-superman/
-thumbnail: "/assets/images/2018/09/DmQugVxW0AE9aSV%5B1%5D.jpg"
+thumbnail: "/assets/images/2018/09/superman1.jpg"
 categories:
     - 'Comic Books'
     - micro.blog
@@ -37,5 +37,5 @@ The next time someone asks why I still read superhero comic books at age 29, Iâ€
 > 
 > Does that sound like Hell?
 
-![DmQugVxW0AE9aSV[1].jpg]({{site.url}}{{site.baseurl}}/assets/images/2018/09/DmQugVxW0AE9aSV%5B1%5D.jpg)
-![DmQugVyXsAEBUEr[1].jpg]({{site.url}}{{site.baseurl}}/assets/images/2018/09/DmQugVyXsAEBUEr%5B1%5D.jpg)
+![DmQugVxW0AE9aSV[1].jpg]({{site.url}}{{site.baseurl}}/assets/images/2018/09/superman1.jpg)
+![DmQugVyXsAEBUEr[1].jpg]({{site.url}}{{site.baseurl}}/assets/images/2018/09/superman2.jpg)
