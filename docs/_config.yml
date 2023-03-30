@@ -38,4 +38,15 @@ defaults:
       path: "/assets/images"
     values:
       image: true
-exclude: ["sitemap.xml", "feed.xml", "LICENSE", "README.md", "vendor"]
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - sitemap.xml
+  - feed.xml
+  - LICENSE
+  - README.md
