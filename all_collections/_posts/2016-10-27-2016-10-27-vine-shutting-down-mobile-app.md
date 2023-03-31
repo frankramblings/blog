@@ -10,13 +10,15 @@ thumbnail: "/assets/images/2016/10/vine_android_3-786x3055B15D.jpg"
 categories:
     - Links
     - 'Social Media'
----
-![The Vine app launch screen on an Android phone]({{site.url}}{{site.baseurl}}/assets/images/2016/10/vine_android_3-786x3055B15D.jpg)
-              
+---             
 This is a huge shift. And potentially a sign of re-shuffled priorities at Twitter. Earlier this week, despite a positive earnings report, they also announced a layoff of 9% of their staff. Their rumored struggle to sell company is most definitely a motivating factor here. Maybe they’ll be investing more in live video via Periscope and their partnerships with organizations like the NFL? We’ll see soon.
 
 Expect to hear more about this on an upcoming episode of [The Marketers Next Door](http://marketersnextdoor.com).
 
->	"Today, we are sharing the news that in the coming months we’ll be discontinuing the mobile app. Nothing is happening to the apps, website or your Vines today. You will be notified before we make any changes to the app or website."
+>	"Today, we are sharing the news that in the coming 
+>	months we’ll be discontinuing the mobile app. 
+>	Nothing is happening to the apps, website or your 
+>	Vines today. You will be notified before we make 
+>	any changes to the app or website."
 
-<figcaption class="source">— Team Vine &amp; Twitter via Medium</figcaption></figure>
+— Team Vine &amp; Twitter via Medium
