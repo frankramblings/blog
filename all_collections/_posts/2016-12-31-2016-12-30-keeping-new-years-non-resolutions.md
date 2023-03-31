@@ -5,35 +5,13 @@ date: '2016-12-31T02:08:21+00:00'
 author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=415'
-permalink: /blog/2016/12/31/2016-12-30-keeping-new-years-non-resolutions/
-image: 'http://34.95.34.211/wp-content/uploads/2016/12/2015-a.jpg'
+permalink: /2016/12/31/2016-12-30-keeping-new-years-non-resolutions/
+thumbnail: "/assets/images/2016/12/image-asset.jpeg"
 categories:
     - Blogging
     - Life
 ---
-
-<div class="
-          image-block-outer-wrapper
-          layout-caption-hidden
-          design-layout-inline
-          
-          
-          
-        " data-test="image-block-inline-outer-wrapper"><figure class="
-              sqs-block-image-figure
-              intrinsic
-            " style="max-width:1021px;"><div class="image-block-wrapper" data-animation-override="" data-animation-role="image"><div class="sqs-image-shape-container-element
-              
-          
-        
-              has-aspect-ratio
-            " style="
-                position: relative;
-                
-                  padding-bottom:66.18122863769531%;
-                
-                overflow: hidden;
-              "><noscript>![](https://images.squarespace-cdn.com/content/v1/5070e334e4b00907bc18faef/1483149724512-7DR600Q9FMWD5ENW1PFO/image-asset.jpeg)</noscript>![](https://images.squarespace-cdn.com/content/v1/5070e334e4b00907bc18faef/1483149724512-7DR600Q9FMWD5ENW1PFO/image-asset.jpeg)</div></div></figure></div>This past January, as in previous years, I set a few goals for myself. In the past, I was never good about keeping New Year’s Resolutions, so this year I just thought of them as goals. And I think that’s why I actually achieved them this year. So here’s to continuing that into 2017.
+This past January, as in previous years, I set a few goals for myself. In the past, I was never good about keeping New Year’s Resolutions, so this year I just thought of them as goals. And I think that’s why I actually achieved them this year. So here’s to continuing that into 2017.
 
 ### **3. Start a new podcast**
 

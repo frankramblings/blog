@@ -14,6 +14,7 @@ categories:
 Once in a while, I like to watch some of Steve Jobs’s best keynotes. This one certainly qualifies, and today seems like a good excuse.
 
 >  "An iPod, a phone, and an Internet communicator. An iPod, a phone … Are you getting it?""
+>  — Steve Jobs
 
-<figcaption class="source">— Steve Jobs</figcaption></figure> <iframe allowfullscreen="" frameborder="0" height="480" scrolling="no" src="//www.youtube.com/embed/9hUIxyE2Ns8?wmode=opaque&enablejsapi=1" width="854">  
+<iframe allowfullscreen="" frameborder="0" height="480" scrolling="no" src="//www.youtube.com/embed/9hUIxyE2Ns8?wmode=opaque&enablejsapi=1" width="854">  
 </iframe>
