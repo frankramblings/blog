@@ -5,7 +5,7 @@ date: '2017-01-10T15:02:31+00:00'
 author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=429'
-permalink: /blog/2017/01/10/2017-1-10-bohemian-rhapsody-played-by-100-year-old-pipe-organ/
+permalink: /2017/1/10/bohemian-rhapsody-played-by-100-year-old-pipe-organ/
 categories:
     - Links
 ---
