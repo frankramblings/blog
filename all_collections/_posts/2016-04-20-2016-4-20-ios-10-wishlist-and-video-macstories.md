@@ -5,7 +5,7 @@ date: '2016-04-20T20:12:02+00:00'
 author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=259'
-permalink: /blog/2016/04/20/2016-4-20-ios-10-wishlist-and-video-macstories/
+permalink: /2016/4/20/ios-10-wishlist-and-video-macstories/
 passthrough_url:
     - 'https://www.macstories.net/stories/ios-10-wishes/'
 categories:

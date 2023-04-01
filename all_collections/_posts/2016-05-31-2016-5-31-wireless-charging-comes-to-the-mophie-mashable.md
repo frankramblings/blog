@@ -5,9 +5,10 @@ date: '2016-05-31T16:40:41+00:00'
 author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=275'
-permalink: /blog/2016/05/31/2016-5-31-wireless-charging-comes-to-the-mophie-mashable/
+permalink: /2016/5/31/wireless-charging-comes-to-the-mophie-mashable/
 passthrough_url:
     - 'http://mashable.com/2016/05/31/mophie-juice-pack-wireless/'
+thumbnail: "/assets/images/2016/05/image-asset.jpg"
 categories:
     - Links
     - Technology
@@ -19,25 +20,7 @@ This strikes me as a very smart move on Mophie’s part for a couple of reasons.
 
 All in all, I say bravo, Mophie. It’s not clear whether this case is compatible with the existing Qi standard, but that would make me seriously consider picking up one of these bad boys.
 
-<div class="
-          image-block-outer-wrapper
-          layout-caption-hidden
-          design-layout-inline
-          
-          
-          
-        " data-test="image-block-inline-outer-wrapper"><figure class="
-              sqs-block-image-figure
-              intrinsic
-            " style="max-width:950px;"><div class="image-block-wrapper" data-animation-override="" data-animation-role="image"><div class="sqs-image-shape-container-element
-              
-          
-        
-              has-aspect-ratio
-            " style="
-                position: relative;
-                
-                  padding-bottom:56.21052551269531%;
-                
-                overflow: hidden;
-              "><noscript>![](https://images.squarespace-cdn.com/content/v1/5070e334e4b00907bc18faef/1464712379347-Z8MNVCSVH1JB3GR2HXD6/image-asset.jpeg)</noscript>![](https://images.squarespace-cdn.com/content/v1/5070e334e4b00907bc18faef/1464712379347-Z8MNVCSVH1JB3GR2HXD6/image-asset.jpeg)</div></div></figure></div>Mophie’s new iPhone cases let you charge wirelessly | [Mophie](http://mashable.com/2016/05/31/mophie-juice-pack-wireless/)
+<div markdown="1" style="text-align: center;">
+![Mophie’s new iPhone cases let you charge wirelessly]({{site.url}}{{site.baseurl}}/assets/images/2016/05/image-asset.jpg)
+</div>
+Mophie’s new iPhone cases let you charge wirelessly | [Mophie](http://mashable.com/2016/05/31/mophie-juice-pack-wireless/)

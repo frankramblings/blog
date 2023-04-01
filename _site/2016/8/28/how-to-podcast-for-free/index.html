@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>frank ramblings | How To Podcast For Free</title>
+  
+  <link rel="stylesheet" href="/blog/assets/css/main.css" />
+  <link rel="stylesheet" href="/blog/assets/css/post.css" />
+  <link rel="stylesheet" href="/blog/assets/css/syntax.css" />
+  
+  <link rel="stylesheet" href="/blog/assets/css/common.css" />
+  <script src="/blog/assets/js/categories.js"></script>
+  
+  <script defer src="/blog/assets/js/lbox.js"></script>
+  
+</head>
+
+  <body>
+    <main class="blogfeed">
+      
+<header>
+  <a class="site-title article-page" href="/blog/">frank ramblings</a>
+</header>
+
+
+      <section id="article">
+        
+        <!--  -->
+        
+        <!--  -->
+        
+        <div
+          class="article-thumbnail"
+          style="
+            background-image: url('/blog//assets/images/2016/08/podcast3.jpg');
+          "
+        >
+          <h1 class="article-title">How To Podcast For Free</h1>
+          <div class="article-bottom">
+            <small class="article-date">28 Aug 2016</small>
+            <div class="article-categories">
+              
+              <a href="#!" class="article-category">Internet</a>
+              
+              <a href="#!" class="article-category">Media</a>
+              
+              <a href="#!" class="article-category">New Media</a>
+              
+              <a href="#!" class="article-category">Podcasts</a>
+              
+              <a href="#!" class="article-category">Technology</a>
+              
+            </div>
+          </div>
+        </div>
+        <div class="article-content"><p><img src="http://localhost:4000/blog/assets/images/2016/08/image-asset.jpg" alt="Learn how to podcast for free with online tools available to anyone." /><span style="font-size:12px">Learn how to podcast for free with online tools available to anyone.</span></p>
+
+<p>Back when my friend Tim and I were starting the first podcast on our <em><a href="http://thoughtbubbleaudio.com">Thought Bubble Audio</a></em> network, we didn’t have much of a budget, so we had to get creative and figure out how to podcast for free. Sure, there are pretty reasonably-priced hosting options like <em><a href="https://www.libsyn.com/">Libsyn</a></em> and <em><a href="https://soundcloud.com/for/podcasting">Soundcloud</a></em>, but they have limits. We were really starting from scratch, and I was willing to put in a little bit of setup work for a free solution that I could be happy with.</p>
+
+<p>I had heard full-time podcaster <em><a href="https://twitter.com/acedtect">Tom Merritt</a></em> mention that two of his shows, <em><a href="http://www.cordkillers.com/">Cordkillers</a></em> and <em><a href="http://www.dailytechnewsshow.com/">The Daily Tech News Show</a></em>, are hosted for free on <em><a href="http://Archive.org">Archive.org</a></em>, and I was intrigued. If a professional podcaster was using free tools, why couldn’t I? I did some Googling, but couldn’t find a solid, satisfying guide on how to podcast for free, so I decided to go ahead and piece together a solution based on the bits and pieces I was finding scattered all over the internet. Over the last two years, I’ve made some changes to the process, but the basics are still the same. We now host all of our shows — <em><a href="http://www.beerwithgeeks.com/">Beer With Geeks</a></em>, <em><a href="http://www.supergirltvtalk.com/">Supergirl TV Talk</a></em>, and <em><a href="http://www.marketersnextdoor.com/">The Marketers Next Door</a></em> — using this method, totally for free.</p>
+
+<p>To help you get started, I’m going to share that method with you today. This is everything I’ve figured out over the last two years. If you follow these steps, you’ll learn how to podcast for free. I’ll start off with the basics and then cover a few extra things you should know.</p>
+
+<h3 id="create-a-blog">Create a Blog</h3>
+
+<p>Even if you don’t want to maintain a public-facing website, this is how you’ll create an RSS feed that your listeners can subscribe to. Whether you choose to use this website and promote it publicly is up to you (though I do recommend it), but you’ll need to have this piece in place either way. Many people love <em><a href="https://wordpress.com/">WordPress</a></em>, and I know from experience that <em><a href="https://www.squarespace.com/">Squarespace</a></em> is great if you’re willing to pay. I like <em><a href="http://blogger.com">Blogger</a></em> because it’s simple to use, it supports third-party site templates, and (of course) it’s free. Plus, it’s a <em>Google</em> product, so it has a pretty solid chance of sticking around for the long haul. Since that’s how I podcast for free, that’s what I’ll cover here.</p>
+
+<p>Create a new blog and give it the title and description you want to use for your show. I always buy a .com domain for my shows, but that’s not a requirement (though again, I do recommend it). Once you’re set up, head to the <em>Settings</em> &gt; <em>Other</em> page. Set “<em>Allow Blog Feed</em>” to “<em>Full</em>” and set “<em>Enable Title Links and Enclosure Links</em>” to “<em>Yes</em>.” This lays the groundwork so that when you start uploading episodes later on, you’ll have a place to add them to your feed.</p>
+
+<div style="text-align: center;">
+  <p><img src="http://localhost:4000/blog/assets/images/2016/08/how+to+podcast+for+free.png" alt="How to Podcast for Free" /></p>
+</div>
+
+<p>Now, visit your shiny new blog and scroll all the way to the bottom. You’ll see a link that says “<em>Subscribe to: Posts (Atom)</em>.” Click on that and grab the URL. For example, for <em>The Marketers Next Door</em>, it looks like this:</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;http://www.marketersnextdoor.com/feeds/posts/default&gt;
+</code></pre></div></div>
+<p>This is your blog’s feed. It’s a subscriber-friendly way to deliver the content of your blog so that other websites and devices can understand it, including podcast apps. Now, I learned the hard way that unless you give the feed URL some special love, it will only show your most recent episodes. I don’t know about you, but I want to make sure my listeners can go back into the archives and listen to any episode they want. So I figured out that by adding a little something to the end of my feed URL, I was able to get a full feed that goes all the way back to the beginning of my show.</p>
+
+<p>Here’s what you’ll want to add to the end of your feed URL:</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>*?max-results=2000*
+</code></pre></div></div>
+<p>That guarantees that your last 2,000 episodes will show up in your feed. Unless you’re planning to do more than 2,000 episodes, you’re all set. So now, my feed URL for <em>The Marketers Next Door</em> looks like this:</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>http://www.marketersnextdoor.com/feeds/posts/default?max-results=2000
+</code></pre></div></div>
+
+<p>So now you’ve got your feed. That’s the first step in learning how to podcast for free. Time to make it <em>iTunes</em>-friendly.</p>
+
+<h3 id="make-your-feed-compatible">Make your Feed Compatible</h3>
+
+<p>When <em>Blogger</em> generates your podcast’s feed, it needs to undergo some treatment so that iTunes and other podcast apps are able to understand it. The best way to do that is with <a href="http://feedburner.com">Feedburner</a>. Signing up for <em>Feedburner</em> also gives you listener stats, and it makes it simple to keep your subscribers if you ever decide to move away from <em>Blogger</em>. Since it’s another <em>Google</em> product, I recommend signing in with the same account you used to create your blog.</p>
+
+<div style="text-align: center;">
+  <p><img src="http://localhost:4000/blog/assets/images/2016/08/image-asset-copy.png" alt="How to Podcast for Free" /></p>
+</div>
+
+<p>Paste in your full feed URL and make sure to check the all-important “I am a podcaster!” box before clicking Next. Choose the <em>Feedburner</em> URL you want. For <em>The Marketers Next Door</em>, I chose:</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;http://feeds.feedburner.com/marketersnextdoor&gt;
+</code></pre></div></div>
+<p>Add the title and description you want for your show, opt into all measurement and tracking features so you can track your podcast’s success, and continue to click through until you finish the set up process.</p>
+
+<p>Click the <em>Optimize</em> tab. <em>Feedburner</em> offers a lot of features, and it can feel intimidating, but there are only a few necessary features.</p>
+
+<ul>
+  <li><em>BrowserFriendly</em> makes your feed look great when someone visits it in a web browser.</li>
+  <li><em>SmartCast</em> lets you customize your cover art, subtitle, description, keywords for SEO, and <em>iTunes</em> categories. Be sure to select “Create podcast enclosures from links to audio files only” so that your text-only blog posts and other media don’t show up in your listeners’ podcast apps.</li>
+  <li><em>SmartFeed</em> will make your podcast feed compatible with any app that tries to download it.</li>
+  <li><em>Feed Image Burner</em> will set your podcast cover art as the default for the feed.</li>
+  <li><em>Title/Description Burner</em> will let you set a more full title and description for your podcast.</li>
+</ul>
+
+<p>Set up all these features, and you’re ready to upload your first episode!</p>
+
+<h3 id="upload-your-first-episode">Upload Your First Episode</h3>
+
+<p>Finally, you’ve recorded and edited your first podcast episode, you’ve saved the mp3, and you’re ready for the world to hear it. Time to upload it. <em>The Internet Archive</em> — a.k.a. <em>Archive.org</em> — is essentially the library for the World Wide Web. As their name suggests, they have a mission to archive everything on the internet. One way they do that is by accepting uploads of any size from anyone who makes a free account. That’s really convenient for someone learning how to podcast for free. Register your account, and click the “<em>Upload</em>” button near the upper right corner of the page. Then click the big green “<em>Upload Files</em>” button, and choose the mp3 of your episode. You’ll be presented with a page where you can enter all the metadata about your episode. I recommend filling out the episode title, description, some tags for search at a minimum. I usually also enter the creator as <em>Thought Bubble Audio</em>, and the <a href="https://creativecommons.org/"><em>Creative Commons</em></a> license I use to publish our shows, but those are totally optional. Click “<em>Upload and Create Your Item</em>” and wait as your podcast gets uploaded.</p>
+
+<div style="text-align: center;">
+  <p><img src="http://localhost:4000/blog/assets/images/2016/08/image-asset-copy-2.png" alt="How to Podcast for Free" /></p>
+</div>
+
+<p>Once your file is uploaded, you’ll be redirected to a new page created especially for your episode. Under “<em>Download Options</em>” find the <em>VBR MP3</em> link. Right-click and copy the URL (this varies based on your browser, but it will usually say something like “Copy Link Address”). In the case of my episode of <em>The Marketers Next Door</em>, the URL is</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>https://archive.org/download/MND002_201608/MND002.mp3
+</code></pre></div></div>
+<p>Not very pretty, but it will work. Now we’re ready to tie it all together by creating a blog post.</p>
+
+<h3 id="publish-your-episode">Publish Your Episode</h3>
+
+<p>Head back to <em>Blogger</em> and create a new blog post. The post title should be the episode title you want, and the body of your post should be the episode description. Now, remember when we turned on <em>Enclosure Links</em> in your settings? Here’s where that comes in handy.</p>
+
+<p>In the “<em>Post settings</em>” section on the right side of the screen, click “<em>Links</em>” and paste the <em>Archive.org</em> URL into the “<em>Enclosure Links</em>” box. The box below should then automatically populate, though you may need to click in and out of it to make that happen.</p>
+
+<div style="text-align: center;">
+  <p><img src="http://localhost:4000/blog/assets/images/2016/08/image-asset-copy-3.png" alt="How to Podcast for Free" /></p>
+</div>
+
+<p>Click “<em>Done</em>,” then review your post. When you’re ready, publish your blog post. You’re done! If you followed all the steps correctly, you’ve just successfully learned how to podcast for free. Congrats!</p>
+
+<h3 id="submit-your-podcast">Submit Your Podcast</h3>
+
+<p>Once you have a feed with at least one episode, you need to submit it to the major podcast directories like <em><a href="https://itunespartner.apple.com/en/podcasts/overview#submitting">iTunes</a></em>, <em><a href="https://play.google.com/music/podcasts/publish?u=0#">Google Play Music</a></em>, <em><a href="http://www.stitcher.com/content-providers">Stitcher</a></em>, and any others you like. This helps you get distribution. Each of those sites has in-depth guides on how to submit, so I recommend checking them out for the most updated instructions.</p>
+
+<h3 id="things-to-note">Things To Note</h3>
+
+<p>Try not to edit your blog posts after you publish them unless it’s really necessary. Podcast apps will sort the episodes by the “last edited” date. That means if you edit older posts, they will appear out of chronological order. I recommend thoroughly proofreading everything before you publish. It’s a small price to pay now that you know how to podcast for free.</p>
+
+<p>While <em>Feedburner</em> provides podcast feed stats, they’re not always the most accurate. I prefer the <em>Podtrac</em> tracking service for stats. Creating an account is easy and free. Once you have a <em>Podtrac Publisher</em> account, add your <em>Feedburner</em> URL. Then, add this prefix to the beginning of all your MP3 enclosure links so <em>Podtrac</em> can track them:</p>
+
+<p><em>http://dts.podtrac.com/redirect.mp3/</em></p>
+
+<p>So to continue following the example of <em>The Marketers Next Door</em>, the full episode URL would be:</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>http://dts.podtrac.com/redirect.mp3/archive.org/download/MND002_201608/MND002.mp3
+</code></pre></div></div>
+<p>Once that prefix is in place, your <em>Podtrac Publisher Dashboard</em> will update every 24 hours with accurate download and audience metrics that are much more reliable than what <em>Feedburner</em> provides.</p>
+
+<h3 id="go-forth-and-podcast">Go Forth And Podcast!</h3>
+
+<p>The tools available at <em>Blogger</em>, <em>Feedburner</em>, and <em>Archive.org</em> are really powerful when you’re learning how to podcast for free. Put them all together and you’ll have your own podcast without worrying about server or bandwidth costs. That makes it easier for you to focus more on putting out a great podcast without paying unnecessary fees.</p>
+
+<p><em>Have you figured out how to podcast for free? What does your process look like? Did you have success with these tools?</em></p>
+</div>
+      </section>
+      <footer>
+  <p>&copy; 2008 - 2023 | frank ramblings</p>
+</footer>
+
+    </main>
+    <section id="category-modal-bg"></section>
+<section id="category-modal">
+  <h1 id="category-modal-title"></h1>
+  <section id="category-modal-content"></section>
+</section>
+
+  </body>
+</html>
