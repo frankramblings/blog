@@ -6,7 +6,7 @@ author: Frank
 excerpt: '<div src="v5"><em><img style="display: block; margin-left: auto; margin-right: auto; border: 0px initial initial;" title=" " src="http://s3.media.squarespace.com/production/1465610/17353535/2009/09/star-wars-in-concert-1.jpg" alt="" width="376" height="233" /> ep&bull;ic (adj.): heroic; majestic; impressively great</em><br /><br />Epic. That''s the best word I can use to describe Star Wars in Concert. As I write this, the show ended about and hour and a half ago. What an amazing show! For those who aren''t aware, Star Wars in Concert is a travelling show consisting of a 86-piece orchestra, a huge choir, lasers, lights, the live narration of Anthony Daniels (a.k.a. C-3PO), and a 100-foot high-definition screen displaying clips from all six films synchronized to the music. To call it a fun and unique experience would be an understatement.<br /><br />Read my full review after the jump.</div>'
 layout: post
 guid: 'https://34.95.34.211/?p=20'
-permalink: /blog/2009/11/22/2009-11-22-star-wars-in-concert-a-review-html/
+permalink: /2009/11/22/star-wars-in-concert-a-review-html/
 categories:
     - Entertainment
     - 'Geek Culture'

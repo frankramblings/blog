@@ -5,7 +5,7 @@ date: '2008-11-05T17:27:00+00:00'
 author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=56'
-permalink: /blog/2008/11/05/2008-11-5-bush-is-not-the-spawn-of-satan-html/
+permalink: /2008/11/05/bush-is-not-the-spawn-of-satan-html/
 categories:
     - 'Current Events'
     - Life

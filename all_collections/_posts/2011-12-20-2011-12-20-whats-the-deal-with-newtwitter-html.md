@@ -6,7 +6,7 @@ author: Frank
 excerpt: '<p><em><strong>Originally posted at the&nbsp;<a href="http://www.likeable.com/blog/2011/12/whats-the-deal-with-newtwitter/">Likeable Media Blog</a>.</strong></em></p><p>Have you seen it? Do you have it yet? Isn’t it cool? The Twitterverse is ablaze this week with the arrival of the&nbsp;<a href="http://blog.twitter.com/2011/12/lets-fly.html">New Twitter</a>. Many social media addicts the world over are diving into the new layout and finding all sorts of things to love, while others more resistant to change are reluctant to jump right in. Still others are reporting that the new features haven’t been rolled out to their accounts yet. What’s the deal with all these changes, anyway? And what do they really mean for those of us who use Twitter for marketing? Let’s take a look at the top 3 changes!</p>'
 layout: post
 guid: 'https://34.95.34.211/?p=147'
-permalink: /blog/2011/12/20/2011-12-20-whats-the-deal-with-newtwitter-html/
+permalink: /2011/12/20/whats-the-deal-with-newtwitter-html/
 categories:
     - Uncategorized
 ---

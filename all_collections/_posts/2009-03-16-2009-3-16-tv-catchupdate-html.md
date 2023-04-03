@@ -5,7 +5,7 @@ date: '2009-03-16T19:12:00+00:00'
 author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=100'
-permalink: /blog/2009/03/16/2009-3-16-tv-catchupdate-html/
+permalink: /2009/03/16/tv-catchupdate-html/
 categories:
     - Entertainment
     - 'Geek Culture'

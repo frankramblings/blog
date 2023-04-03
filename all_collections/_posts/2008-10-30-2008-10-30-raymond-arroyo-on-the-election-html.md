@@ -5,7 +5,7 @@ date: '2008-10-30T03:05:00+00:00'
 author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=48'
-permalink: /blog/2008/10/30/2008-10-30-raymond-arroyo-on-the-election-html/
+permalink: /2008/10/30/raymond-arroyo-on-the-election-html/
 categories:
     - 'Current Events'
     - Life

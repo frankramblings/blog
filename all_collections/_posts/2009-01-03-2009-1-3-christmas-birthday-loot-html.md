@@ -5,7 +5,7 @@ date: '2009-01-03T18:07:00+00:00'
 author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=81'
-permalink: /blog/2009/01/03/2009-1-3-christmas-birthday-loot-html/
+permalink: /2009/01/03/christmas-birthday-loot-html/
 categories:
     - 'Geek Culture'
     - Life

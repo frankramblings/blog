@@ -5,7 +5,7 @@ date: '2008-12-25T00:57:00+00:00'
 author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=77'
-permalink: /blog/2008/12/25/2008-12-25-christmas-wishes-html/
+permalink: /2008/12/25/christmas-wishes-html/
 categories:
     - Christmas
     - Life

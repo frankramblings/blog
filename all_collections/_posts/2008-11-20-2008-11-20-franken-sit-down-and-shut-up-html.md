@@ -5,7 +5,7 @@ date: '2008-11-20T18:49:00+00:00'
 author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=67'
-permalink: /blog/2008/11/20/2008-11-20-franken-sit-down-and-shut-up-html/
+permalink: /2008/11/20/franken-sit-down-and-shut-up-html/
 categories:
     - 'Current Events'
     - News

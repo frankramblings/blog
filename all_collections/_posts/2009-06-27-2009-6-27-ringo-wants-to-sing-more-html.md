@@ -5,7 +5,7 @@ date: '2009-06-27T16:47:00+00:00'
 author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=115'
-permalink: /blog/2009/06/27/2009-6-27-ringo-wants-to-sing-more-html/
+permalink: /2009/06/27/ringo-wants-to-sing-more-html/
 categories:
     - Beatles
     - Entertainment

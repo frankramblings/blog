@@ -6,7 +6,7 @@ author: Frank
 excerpt: '<p><em><strong>Originally posted at the&nbsp;<a href="http://www.likeable.com/blog/2011/11/3-things-google-pages-are-doing-wrong/">Likeable Media Blog</a>.</strong></em></p><p>The social web is abuzz with the news of Google+ Pages finally being launched yesterday. After initially deleting personal profiles set up by brands, Google is finally allowing them to set up pages similar to those already available on Facebook. But are these pages really ready for primetime? What could they be doing better?</p>'
 layout: post
 guid: 'https://34.95.34.211/?p=148'
-permalink: /blog/2011/11/15/2011-11-15-3-things-google-pages-can-do-better-html/
+permalink: /2011/11/15/3-things-google-pages-can-do-better-html/
 categories:
     - Uncategorized
 ---

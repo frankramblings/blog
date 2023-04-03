@@ -5,7 +5,7 @@ date: '2015-12-08T13:10:57+00:00'
 author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=167'
-permalink: /blog/2015/12/08/2015-12-8-insanely-ugly-iphone-battery-case-shows-up-on-apple-website-mashable/
+permalink: /2015/12/08/insanely-ugly-iphone-battery-case-shows-up-on-apple-website-mashable/
 passthrough_url:
     - 'http://mashable.com/2015/12/08/smart-battery-case-iphone/?utm_cid=mash-com-Tw-main-link#f0zs6QAR4EqD'
 categories:
@@ -18,25 +18,4 @@ It’s an eyesore. A departure for Apple, in a couple of ways. First, I can’t 
 
 I really don’t like this thing. I’ll stick with my Jackery, thank you very much.
 
-<div class="
-          image-block-outer-wrapper
-          layout-caption-below
-          design-layout-inline
-          
-          
-          
-        " data-test="image-block-inline-outer-wrapper"><figure class="
-              sqs-block-image-figure
-              intrinsic
-            " style="max-width:950px;"><div class="image-block-wrapper" data-animation-override="" data-animation-role="image"><div class="sqs-image-shape-container-element
-              
-          
-        
-              has-aspect-ratio
-            " style="
-                position: relative;
-                
-                  padding-bottom:56.16666793823242%;
-                
-                overflow: hidden;
-              "><noscript>![image.jpg](https://images.squarespace-cdn.com/content/v1/5070e334e4b00907bc18faef/1449578373505-BRY6IDBSY1VL0EJ3VFL6/image.jpg)</noscript>![image.jpg](https://images.squarespace-cdn.com/content/v1/5070e334e4b00907bc18faef/1449578373505-BRY6IDBSY1VL0EJ3VFL6/image.jpg)</div></div></figure></div>Smart Battery Case for the iPhone shows up on Apple website | [Mashable](http://mashable.com/2015/12/08/smart-battery-case-iphone/?utm_cid=mash-com-Tw-main-link#f0zs6QAR4EqD)
+Smart Battery Case for the iPhone shows up on Apple website | [Mashable](http://mashable.com/2015/12/08/smart-battery-case-iphone/?utm_cid=mash-com-Tw-main-link#f0zs6QAR4EqD)

@@ -6,7 +6,7 @@ author: Frank
 excerpt: '<p><span style="font-size:16px">In the marketing field, there are some basic Dos and Don’ts.&nbsp;We’ve&nbsp;all heard the basics at conferences and in business books, but it can be hard to remember these key learnings when the time comes to put them into practice. For the sake of self-improvement, it’s important to stop and take a moment every so often to review these best practices and re-evaluate how you’re living up to them. Call it&nbsp;</span><a target="_blank" href="http://hub.am/ZWm7Uh" rel="noopener">spring cleaning for marketers</a><span style="font-size:16px">. Let’s take a quick look at the building blocks of our industry and see how we’re performing, shall we?</span></p>'
 layout: post
 guid: 'https://34.95.34.211/?p=132'
-permalink: /blog/2013/04/15/2014-1-26-3-habits-of-highly-effective-marketers/
+permalink: /2013/04/15/3-habits-of-highly-effective-marketers/
 categories:
     - Uncategorized
 ---

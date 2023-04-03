@@ -6,7 +6,7 @@ author: Frank
 excerpt: '<p><span style="font-size:12px"></span><em><strong>Originally posted at the&nbsp;<a href="http://www.likeable.com/blog/2012/01/5-social-media-lessons-from-steve-jobs/">Likeable Media Blog</a>.</strong></em></p><p>With the recent passing of Steve Jobs, there have been countless articles and interviews calling him everything from genius to tyrant. Having just read appropriately-titled&nbsp;<em>Steve Jobs&nbsp;</em>biography by Walter Isaacson, I was struck by what a polarizing figure he really was. Two things most people can agree on are that he revolutionized technology over the last 35 years in ways that few have ever done, and that he knew how to run a successful business. But can his business philosophy be applied to the way brands manage their social media presences? I think for many businesses, the answer is yes! Let’s take a walk through some of Steve Jobs’s core principles and see how they apply to the social realm.</p>'
 layout: post
 guid: 'https://34.95.34.211/?p=146'
-permalink: /blog/2012/01/17/2012-1-17-5-social-media-lessons-from-steve-jobs/
+permalink: /2012/01/17/5-social-media-lessons-from-steve-jobs/
 categories:
     - 'Big Brands'
     - Business

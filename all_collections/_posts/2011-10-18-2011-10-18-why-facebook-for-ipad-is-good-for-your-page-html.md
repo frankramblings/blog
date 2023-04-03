@@ -6,7 +6,7 @@ author: Frank
 excerpt: '<p><em><strong>Originally posted at the&nbsp;<a href="http://www.likeable.com/blog/2011/10/why-facebook-for-ipad-is-good-for-your-page/">Likeable Media Blog.</a></strong></em></p><p>It’s finally here! After more than a year, Facebook’s iPad app is here! Sporting a sleek, simple look, the app finally offers iPad owners a chance to experience Facebook in a way that takes full advantage of the devices capabilities. Sure, Facebook.com works just fine on an iPad, but the app now makes use of the touchscreen and screen real estate in a way that the desktop website never could. What are the best features this long-awaited app has to offer? What does this app mean for your brand’s fan page? Let’s take a look together!</p>'
 layout: post
 guid: 'https://34.95.34.211/?p=149'
-permalink: /blog/2011/10/18/2011-10-18-why-facebook-for-ipad-is-good-for-your-page-html/
+permalink: /2011/10/18/why-facebook-for-ipad-is-good-for-your-page-html/
 categories:
     - Uncategorized
 ---

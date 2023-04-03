@@ -6,7 +6,7 @@ author: Frank
 excerpt: '<p><em><strong>riginally posted at&nbsp;<a href="http://allthings.womma.org/">All Things WOM</a></strong></em><em><strong>.</strong></em></p><p>What makes Instagram so special? Lately, it seems that every social network wants to be them. Ever since Facebook purchased the photo-based network in April 2012, interest in mobile social photo sharing has never been higher. Last month, both Twitter and Flickr announced new mobile apps, coincidentally both offering filter functionality very similar to that of Instagram.</p><p></p>'
 layout: post
 guid: 'https://34.95.34.211/?p=130'
-permalink: /blog/2013/01/02/2013-1-2-how-to-be-instagram/
+permalink: /2013/01/02/how-to-be-instagram/
 categories:
     - Content
     - Instagram

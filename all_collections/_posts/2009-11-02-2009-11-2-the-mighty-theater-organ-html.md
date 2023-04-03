@@ -5,7 +5,7 @@ date: '2009-11-02T01:13:12+00:00'
 author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=15'
-permalink: /blog/2009/11/02/2009-11-2-the-mighty-theater-organ-html/
+permalink: /2009/11/02/the-mighty-theater-organ-html/
 categories:
     - Uncategorized
 ---

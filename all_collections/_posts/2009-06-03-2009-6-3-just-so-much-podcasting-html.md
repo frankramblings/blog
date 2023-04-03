@@ -5,7 +5,7 @@ date: '2009-06-03T20:59:00+00:00'
 author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=111'
-permalink: /blog/2009/06/03/2009-6-3-just-so-much-podcasting-html/
+permalink: /2009/06/03/just-so-much-podcasting-html/
 categories:
     - 'Echo Alert Podcast'
     - Entertainment

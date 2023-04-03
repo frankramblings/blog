@@ -6,7 +6,7 @@ author: Frank
 excerpt: '<div src="v5">In <em>Life After the 30-Second Spot,</em> author Joseph Jaffe states clearly and repeatedly that the 30-second television ad is a dying element of years gone by. He seeks to offer methods that businesses can use to invigorate their brand names by using new media alternatives to traditional advertising. Jaffe lists 10 Tenets for Marketing to a New Consumer and he offers 10 approaches that he says are changing the face of advertising and marketing. His overall premise is that the 30-second TV spot is dead, and that advertisers need to face reality and make effective use of new media alternatives if they are to succeed in the high-tech future that is already beginning to assert itself. He makes some valid points, as well as a few that have already been disproven in the short time since the book was written. Nevertheless, his ideas are thought provoking and I found myself agreeing with much of what he had to say.</div>'
 layout: post
 guid: 'https://34.95.34.211/?p=21'
-permalink: /blog/2009/12/17/2009-12-17-is-the-30-second-spot-really-dead-html/
+permalink: /2009/12/17/is-the-30-second-spot-really-dead-html/
 categories:
     - Advertising
     - Blogging

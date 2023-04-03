@@ -19,6 +19,10 @@ categories:
 
 Big thanks to [Sophia Bernazzani](https://twitter.com/soph_bern) at Hubspot for quoting me today in her blog post on Facebook ads. It’s an honor to be referenced alongside so many smart people!
 
->	"We decided to consult with a variety of successful social media marketers to learn more about their strategies for Facebook Ad targeting. Whether you’ve been advertising on Facebook for years or are just starting out, check out these lessons from the pros to maximize your social media advertising ROI."
+>	"We decided to consult with a variety of successful social media marketers 
+>	to learn more about their strategies for Facebook Ad targeting. Whether 
+>	you’ve been advertising on Facebook for years or are just starting out, 
+>	check out these lessons from the pros to maximize your 
+>	social media advertising ROI."
 
 — Sophia Bernazzani, Hubspot Marketing Blog

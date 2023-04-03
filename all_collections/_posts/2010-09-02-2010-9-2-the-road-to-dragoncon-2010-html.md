@@ -5,7 +5,7 @@ date: '2010-09-02T06:07:54+00:00'
 author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=28'
-permalink: /blog/2010/09/02/2010-9-2-the-road-to-dragoncon-2010-html/
+permalink: /2010/09/02/the-road-to-dragoncon-2010-html/
 categories:
     - 'Comic Books'
     - 'Geek Culture'

@@ -5,7 +5,7 @@ date: '2008-10-10T16:47:00+00:00'
 author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=18'
-permalink: /blog/2008/10/10/2008-10-10-my-life-my-shows-my-books-html/
+permalink: /2008/10/10/my-life-my-shows-my-books-html/
 categories:
     - Entertainment
     - 'Geek Culture'

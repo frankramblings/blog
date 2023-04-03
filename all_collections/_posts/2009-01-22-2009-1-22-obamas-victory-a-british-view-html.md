@@ -5,7 +5,7 @@ date: '2009-01-22T04:10:00+00:00'
 author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=88'
-permalink: /blog/2009/01/22/2009-1-22-obamas-victory-a-british-view-html/
+permalink: /2009/01/22/obamas-victory-a-british-view-html/
 categories:
     - 'Current Events'
     - Essay

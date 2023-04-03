@@ -5,7 +5,7 @@ date: '2010-04-12T17:07:36+00:00'
 author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=26'
-permalink: /blog/2010/04/12/2010-4-12-sure-i-can-do-that-html/
+permalink: /2010/04/12/sure-i-can-do-that-html/
 categories:
     - Entertainment
     - 'Geek Culture'

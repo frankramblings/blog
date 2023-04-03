@@ -6,7 +6,7 @@ author: Frank
 excerpt: "<p><em><strong>Originally posted at the&nbsp;<a href=\"http://www.likeable.com/blog/2011/07/whats-wrong-with-this-picture/\">Likeable Media Blog</a>.</strong></em></p><p></p><p>Take a look at this picture. Does something look wrong to you? Look closer. Even closer. Do you see it? It’s those two little icons at the bottom. Those two little symbols represent a big misunderstanding of how best to promote social media offline. A recent conversation with my co-worker&nbsp;<a href=\"http://twitter.com/btmurr\">Brian</a>&nbsp;got me thinking about the ways brands attempt to market their social presences in offline media. We agreed that far too often, brands think that they’ve covered their bases as long as their print and TV ads remind you to “Follow us on Twitter,” or “Find us on Facebook.” Simply reminding your audience that your Facebook Page exists isn’t enough to drive them there. “Find us on Facebook” isn’t a call to action, it’s a homework assignment!</p><p>\_</p><p></p>"
 layout: post
 guid: 'https://34.95.34.211/?p=152'
-permalink: /blog/2011/07/16/2011-7-16-whats-wrong-with-this-picture-html/
+permalink: /2011/07/16/whats-wrong-with-this-picture-html/
 image: 'http://34.95.34.211/wp-content/uploads/2011/07/IMG_20110718_234628-300x1773-1.jpg'
 categories:
     - Uncategorized

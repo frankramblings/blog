@@ -5,7 +5,7 @@ date: '2008-10-04T19:24:00+00:00'
 author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=46'
-permalink: /blog/2008/10/04/2008-10-4-a-couple-of-things-html/
+permalink: /2008/10/04/a-couple-of-things-html/
 categories:
     - Life
     - Opinion

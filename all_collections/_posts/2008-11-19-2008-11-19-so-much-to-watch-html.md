@@ -5,7 +5,7 @@ date: '2008-11-19T01:08:00+00:00'
 author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=63'
-permalink: /blog/2008/11/19/2008-11-19-so-much-to-watch-html/
+permalink: /2008/11/19/so-much-to-watch-html/
 categories:
     - Entertainment
     - 'Geek Culture'

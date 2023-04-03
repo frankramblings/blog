@@ -5,7 +5,7 @@ date: '2010-02-01T06:10:11+00:00'
 author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=24'
-permalink: /blog/2010/02/01/2010-2-1-why-i-want-an-ipad-html/
+permalink: /2010/02/01/why-i-want-an-ipad-html/
 categories:
     - Uncategorized
 ---

@@ -5,7 +5,7 @@ date: '2016-01-19T15:09:06+00:00'
 author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=208'
-permalink: /blog/2016/01/19/2016-1-19-networks-want-netflix-to-share-ratings-nytwsj/
+permalink: /2016/01/19/networks-want-netflix-to-share-ratings-nytwsj/
 categories:
     - Links
     - 'New Media'
@@ -17,26 +17,5 @@ Netflix doesn’t need to report ratings on their original series because they h
 
 Netflix can delight in vague statements like “this was our most-streamed show ever” without ever divulging any numbers. Meanwhile old-school networks like FX and NBC are trying to convince their advertisers that they are doing just fine and there’s nothing to worry about. In typical old media fashion, the suits in charge would rather maintain the status quo for now and let their successors deals with the task of competing in a modern landscape.
 
-<div class="
-          image-block-outer-wrapper
-          layout-caption-below
-          design-layout-inline
-          
-          
-          
-        " data-test="image-block-inline-outer-wrapper"><figure class="
-              sqs-block-image-figure
-              intrinsic
-            " style="max-width:700px;"><div class="image-block-wrapper" data-animation-override="" data-animation-role="image"><div class="sqs-image-shape-container-element
-              
-          
-        
-              has-aspect-ratio
-            " style="
-                position: relative;
-                
-                  padding-bottom:72.28571319580078%;
-                
-                overflow: hidden;
-              "><noscript>![](https://images.squarespace-cdn.com/content/v1/5070e334e4b00907bc18faef/1453216091296-87HH0NMUMBN1TCM8LNDV/image-asset.gif)</noscript>![](https://images.squarespace-cdn.com/content/v1/5070e334e4b00907bc18faef/1453216091296-87HH0NMUMBN1TCM8LNDV/image-asset.gif)</div></div></figure></div>[Netflix’s Opaque Disruption Annoys Rivals on TV – NY Times](http://mobile.nytimes.com/2016/01/18/business/media/disruption-by-netflix-irks-tv-foes.html?referer=)  
+[Netflix’s Opaque Disruption Annoys Rivals on TV – NY Times](http://mobile.nytimes.com/2016/01/18/business/media/disruption-by-netflix-irks-tv-foes.html?referer=)  
 [FX Networks Chief Worried About Deep-Pocketed Competitors – Wall Street Journal](http://www.wsj.com/articles/fx-networks-chief-worried-about-deep-pocketed-competitors-1452975708)

@@ -5,7 +5,7 @@ date: '2009-11-03T17:08:23+00:00'
 author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=17'
-permalink: /blog/2009/11/03/2009-11-3-yublogorg-windows-7-did-microsoft-get-it-right-html/
+permalink: /2009/11/03/yublogorg-windows-7-did-microsoft-get-it-right-html/
 categories:
     - Blogging
     - Technology

@@ -5,7 +5,7 @@ date: '2015-11-22T05:47:03+00:00'
 author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=179'
-permalink: /blog/2015/11/22/2015-11-22-gorgeous-tilt-shift-photos-make-the-universe-look-adorable-and-tiny/
+permalink: /2015/11/22/gorgeous-tilt-shift-photos-make-the-universe-look-adorable-and-tiny/
 passthrough_url:
     - 'http://sploid.gizmodo.com/beautiful-tilt-shift-photos-turn-the-universe-into-prec-1684026109'
 image: 'http://34.95.34.211/wp-content/uploads/2015/11/image.jpg'

@@ -5,7 +5,7 @@ date: '2009-02-02T01:29:00+00:00'
 author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=93'
-permalink: /blog/2009/02/02/2009-2-2-best-promo-ever-html/
+permalink: /2009/02/02/best-promo-ever-html/
 categories:
     - 'Geek Culture'
     - Humor

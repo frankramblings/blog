@@ -5,7 +5,7 @@ date: '2009-04-23T14:26:00+00:00'
 author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=108'
-permalink: /blog/2009/04/23/2009-4-23-enemies-allies-html/
+permalink: /2009/04/23/enemies-allies-html/
 categories:
     - 'Comic Books'
     - 'Geek Culture'

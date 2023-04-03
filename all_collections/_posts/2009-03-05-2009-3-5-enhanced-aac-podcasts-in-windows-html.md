@@ -5,7 +5,7 @@ date: '2009-03-05T20:12:00+00:00'
 author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=98'
-permalink: /blog/2009/03/05/2009-3-5-enhanced-aac-podcasts-in-windows-html/
+permalink: /2009/03/05/enhanced-aac-podcasts-in-windows-html/
 categories:
     - 'Geek Culture'
     - Internet

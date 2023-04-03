@@ -5,7 +5,7 @@ date: '2008-10-31T17:48:00+00:00'
 author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=50'
-permalink: /blog/2008/10/31/2008-10-31-the-awesome-and-the-not-so-awesome-html/
+permalink: /2008/10/31/the-awesome-and-the-not-so-awesome-html/
 categories:
     - 'Comic Books'
     - Entertainment

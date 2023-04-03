@@ -5,7 +5,7 @@ date: '2009-08-18T20:31:00+00:00'
 author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=120'
-permalink: /blog/2009/08/18/2009-8-18-an-oldie-but-a-goodie-html/
+permalink: /2009/08/18/an-oldie-but-a-goodie-html/
 categories:
     - Technology
 ---

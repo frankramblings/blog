@@ -6,7 +6,7 @@ author: Frank
 excerpt: '<p><em><strong>Originally posted at&nbsp;<a href="http://www.likeable.com/blog/2013/03/do-this-one-thing-to-be-a-better-marketer/">The Likeable Daily</a>.</strong></em></p><p>I recently found myself without internet access for several days while moving into a new apartment. At first I was upset. What would I do without a constant connection to the outside world? But I soon realized that it brought me exactly the peace and quiet that I needed to do some introspection and find clarity. Since coming back online, my mind is well rested, more focused, and able to think much more strategically. But if you’re anything like me, I’m sure you can think of a million reasons why unplugging just won’t work for you…</p>'
 layout: post
 guid: 'https://34.95.34.211/?p=137'
-permalink: /blog/2013/03/20/2013-3-20-do-this-one-thing-to-be-a-better-marketer/
+permalink: /2013/03/20/do-this-one-thing-to-be-a-better-marketer/
 categories:
     - Marketing
     - Productivity

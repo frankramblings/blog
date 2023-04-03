@@ -6,7 +6,7 @@ author: Frank
 excerpt: '<p><em><strong>Originally posted at the&nbsp;<a href="http://www.likeable.com/blog/2012/05/whats-missing-from-your-content-strategy/">Likeable Media Blog</a>.</strong></em></p><p>Content. Anybody who’s anybody in social media and marketing is talking about the importance of quality content these days. “Content is king,” they say. I was lucky enough to attend the&nbsp;<a href="http://womma.org/womm-u/">WOMM-U</a>&nbsp;conference earlier this month, where content strategy was an event at the center of a keynote by Brain Traffic CEO<a href="http://twitter.com/halvorson">Kristina Halvorson</a>. &nbsp;And yet, with so many marketing professionals paying lip service to King Content, so many brands are completely missing the boat when it comes to a fully integrated and functional content strategy. There are four basic elements, and if any one of them is missing, your content strategy won’t be all that it can be. Does your organization have all the pieces in place?</p><p></p>'
 layout: post
 guid: 'https://34.95.34.211/?p=144'
-permalink: /blog/2012/05/21/2012-5-21-whats-missing-from-your-content-strategy/
+permalink: /2012/05/21/whats-missing-from-your-content-strategy/
 categories:
     - 'Brand Management'
 tags:

@@ -5,7 +5,7 @@ date: '2008-11-15T21:56:00+00:00'
 author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=62'
-permalink: /blog/2008/11/15/2008-11-15-new-yahoo-exclusive-watchmen-trailer-html/
+permalink: /2008/11/15/new-yahoo-exclusive-watchmen-trailer-html/
 categories:
     - 'Comic Books'
     - Entertainment

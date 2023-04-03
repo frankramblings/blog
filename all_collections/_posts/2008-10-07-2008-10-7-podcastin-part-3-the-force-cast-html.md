@@ -5,7 +5,7 @@ date: '2008-10-07T22:36:00+00:00'
 author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=90'
-permalink: /blog/2008/10/07/2008-10-7-podcastin-part-3-the-force-cast-html/
+permalink: /2008/10/07/podcastin-part-3-the-force-cast-html/
 categories:
     - 'Comic Books'
     - Entertainment

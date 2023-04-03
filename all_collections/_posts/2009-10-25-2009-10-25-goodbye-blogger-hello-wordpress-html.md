@@ -5,7 +5,7 @@ date: '2009-10-25T01:49:00+00:00'
 author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=14'
-permalink: /blog/2009/10/25/2009-10-25-goodbye-blogger-hello-wordpress-html/
+permalink: /2009/10/25/goodbye-blogger-hello-wordpress-html/
 categories:
     - Blogging
     - Internet

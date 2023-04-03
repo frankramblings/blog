@@ -5,7 +5,7 @@ date: '2008-11-19T16:10:00+00:00'
 author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=64'
-permalink: /blog/2008/11/19/2008-11-19-superman-leaving-action-comics-html/
+permalink: /2008/11/19/superman-leaving-action-comics-html/
 categories:
     - 'Comic Books'
     - Entertainment

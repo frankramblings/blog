@@ -5,7 +5,7 @@ date: '2009-09-22T20:03:00+00:00'
 author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=13'
-permalink: /blog/2009/09/22/2009-9-22-official-beatle-widget-html/
+permalink: /2009/09/22/official-beatle-widget-html/
 categories:
     - Uncategorized
 ---

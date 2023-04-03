@@ -5,7 +5,7 @@ date: '2009-11-19T01:56:21+00:00'
 author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=19'
-permalink: /blog/2009/11/19/2009-11-19-fmf-episode-36-tornadocast-2009-html/
+permalink: /2009/11/19/fmf-episode-36-tornadocast-2009-html/
 categories:
     - Uncategorized
 ---

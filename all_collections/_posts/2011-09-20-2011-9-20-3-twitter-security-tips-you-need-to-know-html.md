@@ -6,7 +6,7 @@ author: Frank
 excerpt: '<p><em><strong>Originally posted at the&nbsp;<a href="http://www.likeable.com/blog/2011/09/3-twitter-security-tips-you-need-to-know/">Likeable Media Blog</a>.</strong></em></p><p>Hacks happen. They can happen to anyone or any brand, no matter how big or small. Most recently, the @NBCNews Twitter account was hacked just last Friday. The hackers tweeted false “Breaking News” reports of the World Trade Center memorial site having been attacked by hijacked planes, complete with flight numbers, an exact time, and the hashtag #groundzeroattacked. The situation was eventually corrected and NBC regained control of the account, but this does raise some extremely important concerns about security in social media. How can you be sure your brand won’t be the next @NBCNews? What steps should you take to prevent an incident like this?</p>'
 layout: post
 guid: 'https://34.95.34.211/?p=150'
-permalink: /blog/2011/09/20/2011-9-20-3-twitter-security-tips-you-need-to-know-html/
+permalink: /2011/09/20/3-twitter-security-tips-you-need-to-know-html/
 categories:
     - Uncategorized
 ---

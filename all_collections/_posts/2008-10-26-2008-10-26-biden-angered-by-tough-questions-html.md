@@ -5,7 +5,7 @@ date: '2008-10-26T00:24:00+00:00'
 author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=42'
-permalink: /blog/2008/10/26/2008-10-26-biden-angered-by-tough-questions-html/
+permalink: /2008/10/26/biden-angered-by-tough-questions-html/
 categories:
     - 'Current Events'
     - News

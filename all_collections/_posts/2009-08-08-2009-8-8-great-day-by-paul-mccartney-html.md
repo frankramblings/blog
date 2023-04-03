@@ -5,7 +5,7 @@ date: '2009-08-08T02:10:00+00:00'
 author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=118'
-permalink: /blog/2009/08/08/2009-8-8-great-day-by-paul-mccartney-html/
+permalink: /2009/08/08/great-day-by-paul-mccartney-html/
 categories:
     - Movies
     - Music

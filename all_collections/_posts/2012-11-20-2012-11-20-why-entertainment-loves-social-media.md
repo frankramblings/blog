@@ -6,7 +6,7 @@ author: Frank
 excerpt: '<p><em><strong>Originally posted at the&nbsp;<a href="http://www.likeable.com/blog/2012/11/why-entertainment-loves-social-media/">Likeable Media Blog</a>.</strong></em></p><p>Many in the entertainment industry fear the Internet because they don’t understand it. In 2011, those who backed&nbsp;<a href="http://www.likeable.com/2012/01/3-ways-the-entertainment-industry-can-make-money-without-destroying-the-internet/">SOPA</a>&nbsp;made it clear that they would rather alienate an entire segment of their target audience and accuse them of criminal activity instead of harnessing their passion and turning them into brand ambassadors. But almost from the start, entertainers, studios, and networks that are active on social media and engage with their audiences have seen great success as a result. The numbers don’t lie. Social is becoming more and more a part of the entertainment experience, and those who jump aboard the social media train now will reap the rewards!</p><p></p>'
 layout: post
 guid: 'https://34.95.34.211/?p=139'
-permalink: /blog/2012/11/20/2012-11-20-why-entertainment-loves-social-media/
+permalink: /2012/11/20/why-entertainment-loves-social-media/
 categories:
     - Entertainment
 tags:

@@ -5,7 +5,7 @@ date: '2008-12-20T00:22:00+00:00'
 author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=76'
-permalink: /blog/2008/12/20/2008-12-20-my-guest-appearance-on-chic-geek-html/
+permalink: /2008/12/20/my-guest-appearance-on-chic-geek-html/
 categories:
     - Entertainment
     - 'Frank''s Music Free-For-All Podcast'

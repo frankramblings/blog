@@ -6,7 +6,7 @@ author: Frank
 excerpt: '<p><span style="font-size:12px"></span><em><strong>Originally posted at the&nbsp;<a href="http://www.likeable.com/blog/2012/06/3-myths-about-facebook-promoted-posts/">Likeable Media Blog</a>.</strong></em></p><p>Ever since Facebook introduced their Promoted Posts feature, all sorts of fear, uncertainty, and doubt have spread among small business owners, independent artists, and others who rely on their Facebook pages for effective marketing on a budget. Well, I’m here to tell you that much of what you’ve heard simply isn’t true! Let’s take a look at these misconceptions and separate fact from fiction.</p>'
 layout: post
 guid: 'https://34.95.34.211/?p=143'
-permalink: /blog/2012/06/26/2012-6-26-3-myths-about-facebook-promoted-posts/
+permalink: /2012/06/26/3-myths-about-facebook-promoted-posts/
 categories:
     - Advertising
     - Facebook

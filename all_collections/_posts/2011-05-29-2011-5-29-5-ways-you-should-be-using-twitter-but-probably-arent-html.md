@@ -6,7 +6,7 @@ author: Frank
 excerpt: '<p><strong>Originally posted at the&nbsp;<a href="http://www.likeable.com/blog/2011/05/5-ways-you-should-be-using-twitter-but-probably-arent/">Likeable Media Blog</a>.</strong></p><p>I’ve been on&nbsp;<a href="http://twitter.com/frankramblings">Twitter</a>&nbsp;for almost three years now. When I joined, I tweeted for a few weeks, but didn’t really see the point at first. I all but abandoned it for several months. But when I returned, I became a complete addict! I found a core group of interesting, engaging people to follow who shared a number of common interests with me. Once I began to attach personalities to those user names and avatars, I started to see the value that Twitter could have for me personally. And yet, people still ask me, “How do you tweet so much? Don’t you ever run out of things to talk about?!” It actually is a valid question: what exactly do we use Twitter for when we’re not just sharing the mundane details of our everyday lives? Let''s take a look at some really fun and interesting uses for Twitter that you may not have thought of!</p>'
 layout: post
 guid: 'https://34.95.34.211/?p=155'
-permalink: /blog/2011/05/29/2011-5-29-5-ways-you-should-be-using-twitter-but-probably-arent-html/
+permalink: /2011/05/29/5-ways-you-should-be-using-twitter-but-probably-arent-html/
 categories:
     - Entertainment
     - Food

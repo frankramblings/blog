@@ -5,7 +5,7 @@ date: '2008-10-07T16:46:00+00:00'
 author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=79'
-permalink: /blog/2008/10/07/2008-10-7-podcastin-part-2-geek-out-loud-html/
+permalink: /2008/10/07/podcastin-part-2-geek-out-loud-html/
 categories:
     - 'Comic Books'
     - Entertainment

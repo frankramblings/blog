@@ -6,7 +6,7 @@ author: Frank
 excerpt: '<p><span style="font-size:14px">On a sunny day in the spring of 2006, a friend introduced me to the concept of podcasts: pre-recorded internet radio shows that audiences listen to on-demand as new episodes are released. I was inspired.</span></p>'
 layout: post
 guid: 'https://34.95.34.211/?p=156'
-permalink: /blog/2014/11/27/2014-11-26-podcasting-lives-again/
+permalink: /2014/11/27/podcasting-lives-again/
 structured_content:
     - '{"oembed":{},"overlay":true}'
 image: 'http://34.95.34.211/wp-content/uploads/2014/11/image.jpg'

@@ -5,7 +5,7 @@ date: '2015-12-23T15:07:28+00:00'
 author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=199'
-permalink: /blog/2015/12/23/2015-12-23-you-can-stream-the-beatles-music-starting-christmas-eve-mashable/
+permalink: /2015/12/23/you-can-stream-the-beatles-music-starting-christmas-eve-mashable/
 passthrough_url:
     - 'http://mashable.com/2015/12/23/the-beatles-streaming/?utm_cid=mash-com-Tw-main-link#y6vqnWRENEqJ'
 categories:

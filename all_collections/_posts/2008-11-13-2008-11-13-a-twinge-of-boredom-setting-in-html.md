@@ -5,7 +5,7 @@ date: '2008-11-13T16:27:00+00:00'
 author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=61'
-permalink: /blog/2008/11/13/2008-11-13-a-twinge-of-boredom-setting-in-html/
+permalink: /2008/11/13/a-twinge-of-boredom-setting-in-html/
 categories:
     - Life
     - Opinion

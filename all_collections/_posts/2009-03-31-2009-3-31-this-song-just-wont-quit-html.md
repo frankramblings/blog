@@ -5,7 +5,7 @@ date: '2009-03-31T22:03:00+00:00'
 author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=104'
-permalink: /blog/2009/03/31/2009-3-31-this-song-just-wont-quit-html/
+permalink: /2009/03/31/this-song-just-wont-quit-html/
 categories:
     - Entertainment
     - Music

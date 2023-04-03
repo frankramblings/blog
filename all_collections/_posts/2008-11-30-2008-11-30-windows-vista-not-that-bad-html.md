@@ -5,7 +5,7 @@ date: '2008-11-30T18:46:00+00:00'
 author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=72'
-permalink: /blog/2008/11/30/2008-11-30-windows-vista-not-that-bad-html/
+permalink: /2008/11/30/windows-vista-not-that-bad-html/
 categories:
     - 'Geek Culture'
     - Internet

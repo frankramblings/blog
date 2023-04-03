@@ -5,7 +5,7 @@ date: '2015-11-18T13:21:16+00:00'
 author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=184'
-permalink: /blog/2015/11/18/2015-11-18-instagram-kills-third-party-feed-apps-techcrunch/
+permalink: /2015/11/18/instagram-kills-third-party-feed-apps-techcrunch/
 passthrough_url:
     - 'http://techcrunch.com/2015/11/17/just-instagram/'
 categories:

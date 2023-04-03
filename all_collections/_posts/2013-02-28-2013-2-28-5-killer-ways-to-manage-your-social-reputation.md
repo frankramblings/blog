@@ -6,7 +6,7 @@ author: Frank
 excerpt: "<p><em><strong>Originally posted at&nbsp;<a href=\"http://www.likeable.com/blog/2013/02/5-killer-ways-to-manage-your-social-reputation/\">The Likeable Daily</a>.</strong></em></p><p>A reputation takes years to build, but just seconds to damage irreparably. In today’s evolving social landscape, brands need to be prepared when a crisis arises. Managing your brand’s reputation on social media is more than just developing a friendly voice. It’s a way of shaping the conversation surrounding your brand. What would you do if you found yourself in the middle of a social media fire drill tomorrow?</p><p>\_</p>"
 layout: post
 guid: 'https://34.95.34.211/?p=138'
-permalink: /blog/2013/02/28/2013-2-28-5-killer-ways-to-manage-your-social-reputation/
+permalink: /2013/02/28/5-killer-ways-to-manage-your-social-reputation/
 categories:
     - 'Brand Management'
     - Influence

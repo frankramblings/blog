@@ -5,7 +5,7 @@ date: '2008-10-17T17:16:00+00:00'
 author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=38'
-permalink: /blog/2008/10/17/2008-10-17-this-made-my-day-html/
+permalink: /2008/10/17/this-made-my-day-html/
 categories:
     - 'Comic Books'
     - 'Current Events'

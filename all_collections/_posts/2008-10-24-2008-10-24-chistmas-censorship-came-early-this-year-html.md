@@ -5,7 +5,7 @@ date: '2008-10-24T19:11:00+00:00'
 author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=41'
-permalink: /blog/2008/10/24/2008-10-24-chistmas-censorship-came-early-this-year-html/
+permalink: /2008/10/24/chistmas-censorship-came-early-this-year-html/
 categories:
     - 'Current Events'
     - Life

@@ -5,7 +5,7 @@ date: '2015-11-16T21:21:08+00:00'
 author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=172'
-permalink: /blog/2015/11/16/2015-11-16-dont-just-like-tweets-them-the-verge/
+permalink: /2015/11/16/dont-just-like-tweets-them-the-verge/
 passthrough_url:
     - 'http://www.theverge.com/2015/11/16/9745744/twitter-emoji-reactions'
 categories:

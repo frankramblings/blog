@@ -5,7 +5,7 @@ date: '2009-02-10T20:24:00+00:00'
 author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=95'
-permalink: /blog/2009/02/10/2009-2-10-new-york-comic-con-day-1-html/
+permalink: /2009/02/10/new-york-comic-con-day-1-html/
 categories:
     - 'Comic Books'
     - Entertainment

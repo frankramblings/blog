@@ -5,7 +5,7 @@ date: '2008-10-22T18:47:00+00:00'
 author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=40'
-permalink: /blog/2008/10/22/2008-10-22-podcastin-part-6-speeding-bulletin-and-radio-kal-html/
+permalink: /2008/10/22/podcastin-part-6-speeding-bulletin-and-radio-kal-html/
 categories:
     - 'Comic Books'
     - 'Geek Culture'

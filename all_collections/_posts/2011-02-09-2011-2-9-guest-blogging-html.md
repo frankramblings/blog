@@ -5,7 +5,7 @@ date: '2011-02-09T02:05:02+00:00'
 author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=35'
-permalink: /blog/2011/02/09/2011-2-9-guest-blogging-html/
+permalink: /2011/02/09/guest-blogging-html/
 categories:
     - Beatles
     - Blogging

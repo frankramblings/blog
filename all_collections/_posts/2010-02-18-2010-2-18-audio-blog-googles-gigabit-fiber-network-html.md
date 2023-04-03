@@ -5,7 +5,7 @@ date: '2010-02-18T02:21:55+00:00'
 author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=25'
-permalink: /blog/2010/02/18/2010-2-18-audio-blog-googles-gigabit-fiber-network-html/
+permalink: /2010/02/18/audio-blog-googles-gigabit-fiber-network-html/
 categories:
     - Uncategorized
 ---

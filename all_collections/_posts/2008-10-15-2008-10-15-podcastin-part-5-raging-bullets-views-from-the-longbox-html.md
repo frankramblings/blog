@@ -5,7 +5,7 @@ date: '2008-10-15T16:17:00+00:00'
 author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=37'
-permalink: /blog/2008/10/15/2008-10-15-podcastin-part-5-raging-bullets-views-from-the-longbox-html/
+permalink: /2008/10/15/podcastin-part-5-raging-bullets-views-from-the-longbox-html/
 categories:
     - 'Comic Books'
     - Entertainment

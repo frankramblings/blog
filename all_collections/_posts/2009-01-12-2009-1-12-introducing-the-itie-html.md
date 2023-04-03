@@ -5,7 +5,7 @@ date: '2009-01-12T21:11:00+00:00'
 author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=83'
-permalink: /blog/2009/01/12/2009-1-12-introducing-the-itie-html/
+permalink: /2009/01/12/introducing-the-itie-html/
 categories:
     - 'Geek Culture'
     - Humor

@@ -5,7 +5,7 @@ date: '2008-10-20T17:34:00+00:00'
 author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=39'
-permalink: /blog/2008/10/20/2008-10-20-biden-opens-mouth-inserts-foot-html/
+permalink: /2008/10/20/biden-opens-mouth-inserts-foot-html/
 categories:
     - Uncategorized
 ---

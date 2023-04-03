@@ -5,7 +5,7 @@ date: '2008-10-27T04:18:00+00:00'
 author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=43'
-permalink: /blog/2008/10/27/2008-10-27-the-dark-knight-meets-superman-html/
+permalink: /2008/10/27/the-dark-knight-meets-superman-html/
 categories:
     - Uncategorized
 ---

@@ -5,7 +5,7 @@ date: '2008-11-09T07:02:00+00:00'
 author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=60'
-permalink: /blog/2008/11/09/2008-11-9-dr-horribles-sing-along-blog-html/
+permalink: /2008/11/09/dr-horribles-sing-along-blog-html/
 categories:
     - Uncategorized
 ---

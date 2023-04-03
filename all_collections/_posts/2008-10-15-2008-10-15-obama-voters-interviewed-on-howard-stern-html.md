@@ -5,7 +5,7 @@ date: '2008-10-15T16:12:00+00:00'
 author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=29'
-permalink: /blog/2008/10/15/2008-10-15-obama-voters-interviewed-on-howard-stern-html/
+permalink: /2008/10/15/obama-voters-interviewed-on-howard-stern-html/
 categories:
     - 'Current Events'
     - News

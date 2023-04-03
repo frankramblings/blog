@@ -5,7 +5,7 @@ date: '2008-11-28T23:58:00+00:00'
 author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=71'
-permalink: /blog/2008/11/28/2008-11-28-new-star-trek-trailer-looks-sweet-html/
+permalink: /2008/11/28/new-star-trek-trailer-looks-sweet-html/
 categories:
     - Entertainment
     - 'Geek Culture'

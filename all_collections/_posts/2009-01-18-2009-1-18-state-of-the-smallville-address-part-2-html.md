@@ -5,7 +5,7 @@ date: '2009-01-18T07:34:00+00:00'
 author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=85'
-permalink: /blog/2009/01/18/2009-1-18-state-of-the-smallville-address-part-2-html/
+permalink: /2009/01/18/state-of-the-smallville-address-part-2-html/
 categories:
     - 'Comic Books'
     - Entertainment

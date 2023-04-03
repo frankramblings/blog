@@ -5,7 +5,7 @@ date: '2009-09-18T21:13:00+00:00'
 author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=12'
-permalink: /blog/2009/09/18/2009-9-18-epic-batman-trailer-html/
+permalink: /2009/09/18/epic-batman-trailer-html/
 categories:
     - Entertainment
     - Humor

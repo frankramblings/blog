@@ -6,7 +6,7 @@ author: Frank
 excerpt: '<p><em><strong>Originally posted at the&nbsp;<a href="http://www.likeable.com/blog/2011/08/why-obama-on-foursquare-is-good-for-brands/">Likeable Media Blog</a>.</strong></em></p><p>It’s official! Our Commander-In-Chief has joined everyone’s favorite location-based network:&nbsp;<a href="http://foursquare.com/">Foursquare</a>! The White House announced via its&nbsp;<a href="http://www.whitehouse.gov/blog/2011/08/15/take-tip-white-house-foursquare">blog</a>&nbsp;on Monday that “There are over 10 million people already ‘checking in’ around the world, and now you’ll be able to discover ‘tips’ from the White House featuring the places President Obama has visited, what he did there, plus historical information and more.” While the President is not the first public figure to be represented on the rapidly-growing social network, he is arguably the most respected and beloved to date. My colleague Cara recently gave us an outstanding general look at&nbsp;<a href="http://likeable.com/2011/08/can-foursquare-promotions-really-benefit-your-business-2/">what Foursquare can mean for businesses</a>, but what’s changed now that&nbsp;<a href="http://twitter.com/barackobama">President Obama</a>&nbsp;has checked into the location-based revolution? What does Obama on Foursquare mean for your brand?</p>'
 layout: post
 guid: 'https://34.95.34.211/?p=151'
-permalink: /blog/2011/08/23/2011-8-23-why-obama-on-foursquare-is-good-for-brands-html/
+permalink: /2011/08/23/why-obama-on-foursquare-is-good-for-brands-html/
 categories:
     - Uncategorized
 ---

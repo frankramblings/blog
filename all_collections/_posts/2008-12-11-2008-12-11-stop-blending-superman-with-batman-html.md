@@ -5,7 +5,7 @@ date: '2008-12-11T20:05:00+00:00'
 author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=75'
-permalink: /blog/2008/12/11/2008-12-11-stop-blending-superman-with-batman-html/
+permalink: /2008/12/11/stop-blending-superman-with-batman-html/
 categories:
     - 'Comic Books'
     - Entertainment

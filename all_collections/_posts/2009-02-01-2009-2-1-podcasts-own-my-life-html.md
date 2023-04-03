@@ -5,7 +5,7 @@ date: '2009-02-01T01:25:00+00:00'
 author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=91'
-permalink: /blog/2009/02/01/2009-2-1-podcasts-own-my-life-html/
+permalink: /2009/02/01/podcasts-own-my-life-html/
 categories:
     - 'Comic Books'
     - 'Echo Alert Podcast'

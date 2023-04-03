@@ -5,7 +5,7 @@ date: '2009-05-04T21:36:00+00:00'
 author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=109'
-permalink: /blog/2009/05/04/2009-5-4-what-would-i-look-like-as-a-vulcan-html/
+permalink: /2009/05/04/what-would-i-look-like-as-a-vulcan-html/
 categories:
     - 'Geek Culture'
     - Humor

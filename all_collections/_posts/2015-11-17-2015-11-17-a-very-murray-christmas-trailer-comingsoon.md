@@ -5,7 +5,7 @@ date: '2015-11-17T17:42:18+00:00'
 author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=177'
-permalink: /blog/2015/11/17/2015-11-17-a-very-murray-christmas-trailer-comingsoon/
+permalink: /2015/11/17/a-very-murray-christmas-trailer-comingsoon/
 passthrough_url:
     - 'http://www.comingsoon.net/tv/trailers/633759-a-very-murray-christmas-trailer-bill-murray-is-putting-on-a-show?utm_source=feedly&utm_medium=rss&utm_campaign=a-very-murray-christmas-trailer-bill-murray-is-putting-on-a-show#/slide/1'
 image: 'http://34.95.34.211/wp-content/uploads/2015/11/img-2.jpg'

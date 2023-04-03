@@ -5,7 +5,7 @@ date: '2015-12-08T13:40:46+00:00'
 author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=196'
-permalink: /blog/2015/12/08/2015-12-8-the-miracle-that-led-obi-wan-kenobi-to-convert-to-catholicism/
+permalink: /2015/12/08/the-miracle-that-led-obi-wan-kenobi-to-convert-to-catholicism/
 passthrough_url:
     - 'http://www.churchpop.com/2015/11/24/how-a-child-led-obi-wan-kenobi-to-convert-to-catholicism/'
 categories:

@@ -5,7 +5,7 @@ date: '2009-02-01T01:58:00+00:00'
 author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=92'
-permalink: /blog/2009/02/01/2009-2-1-announcing-echo-alert-a-dollhouse-podcast-html/
+permalink: /2009/02/01/announcing-echo-alert-a-dollhouse-podcast-html/
 categories:
     - 'Echo Alert Podcast'
     - 'Geek Culture'

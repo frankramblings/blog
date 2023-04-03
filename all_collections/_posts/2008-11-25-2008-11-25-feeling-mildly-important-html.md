@@ -5,7 +5,7 @@ date: '2008-11-25T19:07:00+00:00'
 author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=70'
-permalink: /blog/2008/11/25/2008-11-25-feeling-mildly-important-html/
+permalink: /2008/11/25/feeling-mildly-important-html/
 categories:
     - Entertainment
     - 'Geek Culture'

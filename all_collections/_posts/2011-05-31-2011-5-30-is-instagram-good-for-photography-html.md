@@ -6,7 +6,7 @@ author: Frank
 excerpt: '<p>I''ve always been fascinated by photography. When I was younger, my dad would show me the photos he took when he traveled across Europe as a bachelor. I always admired his natural talent for framing and capturing the best shots. Growing up, I always respected good photography and tried to emulate it, albeit without much success. I always owned some kind of camera and would go through phases when all I wanted to do was take pictures. In the last few years, as digital photography has really come into its own, I''ve gotten to know some pretty amazing photographers, both professional and amateur. And now that everyone carries a camera in the form of a cell phone, we''re all photographers. But is this democratization of the artform necessarily a good thing?</p>'
 layout: post
 guid: 'https://34.95.34.211/?p=127'
-permalink: /blog/2011/05/31/2011-5-30-is-instagram-good-for-photography-html/
+permalink: /2011/05/31/is-instagram-good-for-photography-html/
 image: 'http://34.95.34.211/wp-content/uploads/2011/05/image_14-300x300-1.jpg'
 categories:
     - Flickr

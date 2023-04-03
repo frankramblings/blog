@@ -5,7 +5,7 @@ date: '2010-05-06T02:48:46+00:00'
 author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=27'
-permalink: /blog/2010/05/06/2010-5-6-across-the-blogosphere-html/
+permalink: /2010/05/06/across-the-blogosphere-html/
 categories:
     - Beatles
     - Blogging

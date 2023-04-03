@@ -5,7 +5,7 @@ date: '2015-11-30T17:43:01+00:00'
 author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=193'
-permalink: /blog/2015/11/30/2015-11-30-can-the-macbook-pro-replace-your-ipad-fraserspeirs/
+permalink: /2015/11/30/can-the-macbook-pro-replace-your-ipad-fraserspeirs/
 passthrough_url:
     - 'http://www.speirs.org/blog/2015/11/30/can-the-macbook-pro-replace-your-ipad'
 structured_content:

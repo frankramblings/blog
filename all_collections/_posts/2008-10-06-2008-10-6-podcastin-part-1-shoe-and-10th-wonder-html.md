@@ -5,7 +5,7 @@ date: '2008-10-06T14:53:00+00:00'
 author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=68'
-permalink: /blog/2008/10/06/2008-10-6-podcastin-part-1-shoe-and-10th-wonder-html/
+permalink: /2008/10/06/podcastin-part-1-shoe-and-10th-wonder-html/
 categories:
     - 'Comic Books'
     - Entertainment

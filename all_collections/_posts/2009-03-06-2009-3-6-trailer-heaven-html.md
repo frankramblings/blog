@@ -5,7 +5,7 @@ date: '2009-03-06T05:55:00+00:00'
 author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=99'
-permalink: /blog/2009/03/06/2009-3-6-trailer-heaven-html/
+permalink: /2009/03/06/trailer-heaven-html/
 categories:
     - Entertainment
     - 'Geek Culture'

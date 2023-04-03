@@ -6,7 +6,7 @@ author: Frank
 excerpt: '<p><em><strong>Originally posted at the&nbsp;<a href="http://www.likeable.com/blog/2012/10/social-roi-for-dummies/">Likeable Media Blog</a>.</strong></em></p><p>One of the questions echoing in the offices of every social media marketer is the value of social. Here at Likeable, we even recently published a&nbsp;<a href="http://likeableroi.com/">whitepaper</a>&nbsp;on the subject of ROI. Marketers always ask themselves: how much return can we expect to see on our investment? How will this benefit us? Is it worth our time, money, and resources? While the question of social ROI is a tough nut to crack, there are some surprisingly simple checks you can use to take the pulse of your social marketing efforts and make sure you’re on the right track. Let’s have a look and see how you’re doing!</p>'
 layout: post
 guid: 'https://34.95.34.211/?p=140'
-permalink: /blog/2012/10/16/2012-10-16-social-roi-for-dummies/
+permalink: /2012/10/16/social-roi-for-dummies/
 categories:
     - ROI
 tags:

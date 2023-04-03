@@ -6,7 +6,7 @@ author: Frank
 excerpt: '<p><em><strong>Originally posted at the&nbsp;<a href="http://www.likeable.com/blog/2012/09/facebook-offers-in-7-steps-or-less/">Likeable Media Blog</a>.</strong></em></p><p>Months after its initial announcement,&nbsp;<a href="http://fb.com/LikeableMedia">Facebook</a>&nbsp;has finally made Offers available to most brand Pages! Social media marketers all over have been chomping at the bit to get their hands on this exciting new feature. How exactly does it work? It can seem a bit complicated at first glance. What goes into setting it up? What does it cost? Let’s take a step-by-step look and see for ourselves!</p><p></p>'
 layout: post
 guid: 'https://34.95.34.211/?p=141'
-permalink: /blog/2012/09/25/2012-9-25-facebook-offers-in-7-steps-or-less/
+permalink: /2012/09/25/facebook-offers-in-7-steps-or-less/
 categories:
     - 'Big Brands'
 tags:

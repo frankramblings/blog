@@ -5,7 +5,7 @@ date: '2008-10-03T17:26:00+00:00'
 author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=36'
-permalink: /blog/2008/10/03/2008-10-3-and-now-for-something-completely-irrelevant-html/
+permalink: /2008/10/03/and-now-for-something-completely-irrelevant-html/
 categories:
     - Entertainment
     - 'Geek Culture'

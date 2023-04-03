@@ -6,7 +6,7 @@ author: Frank
 excerpt: '<p><em><strong>Originally posted at&nbsp;<a href="http://www.likeable.com/blog/2013/01/5-ways-you-should-be-using-influencers-but-probably-arent/">The Likeable Daily</a>.</strong></em></p><p>In recent years, the emphasis in social and digital marketing has been on paid media. By and large, brands are concerned with determining the budgets necessary to meet their goals and hit their KPIs. In 2013, I predict that we’ll see a shift toward earned media as the more likeable brands continue to look for meaningful and genuine ways to connect with consumers. We saw the beginnings of it in 2011 and 2012 with the rise of&nbsp;<a href="http://klout.com/#/likeablemedia">Klout</a>, and trends indicate that influencers will be more important than ever in 2013. But are you doing everything you can to leverage the opportunities presented to you by influencers? Let’s take a look and see, shall we?</p>'
 layout: post
 guid: 'https://34.95.34.211/?p=133'
-permalink: /blog/2013/01/15/2013-1-15-3-ways-you-should-be-using-influencers-but-probably-arent/
+permalink: /2013/01/15/3-ways-you-should-be-using-influencers-but-probably-arent/
 categories:
     - Uncategorized
 tags:

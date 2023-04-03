@@ -6,7 +6,7 @@ author: Frank
 excerpt: '<p><em><strong>Originally posted at the&nbsp;<a href="http://www.likeable.com/blog/2012/08/social-relevance-the-marscuriosity-story/">Likeable Media Blog</a>.</strong></em></p><p>When Neil Armstong stepped foot on the Moon for the first time, millions watched with bated breath all over the globe. Ever since that historic July evening in 1969, public interest in the US space program has steadily declined. When NASA sent their Mars Science Laboratory rover (affectionately dubbed&nbsp;<em>Curiosity</em>)&nbsp;on its mission to the Red Planet in November 2011, they knew they needed to drum up support and breathe some life back into the program. So like any future-minded organization, they turned to social media to find their audience and their voice. The&nbsp;<a href="http://twitter.com/marscuriosity">@MarsCuriosity</a>&nbsp;Twitter account&nbsp;not only delights hundreds of thousands of followers here on Earth with funny and informative tweets, it also serves as a stellar example of how old-school businesses can make themselves relevant again by finding their audience where they already exist. Let’s have a look at what they’re doing right!</p><p></p>'
 layout: post
 guid: 'https://34.95.34.211/?p=142'
-permalink: /blog/2012/08/07/2012-8-7-social-relevance-the-marscuriosity-story/
+permalink: /2012/08/07/social-relevance-the-marscuriosity-story/
 categories:
     - 'Brand Management'
     - Content

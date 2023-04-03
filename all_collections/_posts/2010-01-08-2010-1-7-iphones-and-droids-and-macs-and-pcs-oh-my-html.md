@@ -6,7 +6,7 @@ author: Frank
 excerpt: '<div src="v5">Almost three years ago, Apple really gave the smartphone market a jumpstart with the iPhone. Since then, the iPhone has completely changed the public''s idea of a smartphone. Long gone are the days of the Treo. In the last year, Google has thrown their hat into the ring with their Android operating system. First there was the Android G1, and then more recently the Droid, with some less noteworthy phones in between. Earlier this week, the first Google-branded phone was unveiled: the Nexus One. This phone is available "unlocked," which means that you can buy it directly from Google and use it with your existing cell plan (though it''s not available on all carriers), or you can buy the phone at a lower price with a contract from your cell provider. The big question on everyone''s mind is whether Android can be an "iPhone killer." Many thought the Palm Pre would be the phone to slow Apple''s iPhone momentum, but six months after its release, it seems the Pre was nothing but a blip on the tech radar. In the last few months, especially since the release of the Droid and Android version 2.0, Google has begun gaining a lot of ground in the battle.</div>'
 layout: post
 guid: 'https://34.95.34.211/?p=23'
-permalink: /blog/2010/01/08/2010-1-7-iphones-and-droids-and-macs-and-pcs-oh-my-html/
+permalink: /2010/01/08/iphones-and-droids-and-macs-and-pcs-oh-my-html/
 categories:
     - 'Current Events'
     - 'Geek Culture'

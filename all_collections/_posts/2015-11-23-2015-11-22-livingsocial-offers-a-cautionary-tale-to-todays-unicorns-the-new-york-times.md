@@ -5,7 +5,7 @@ date: '2015-11-23T02:18:45+00:00'
 author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=160'
-permalink: /blog/2015/11/23/2015-11-22-livingsocial-offers-a-cautionary-tale-to-todays-unicorns-the-new-york-times/
+permalink: /2015/11/23/livingsocial-offers-a-cautionary-tale-to-todays-unicorns-the-new-york-times/
 categories:
     - Links
 ---

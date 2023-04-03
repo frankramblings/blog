@@ -5,7 +5,7 @@ date: '2009-01-20T20:58:00+00:00'
 author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=86'
-permalink: /blog/2009/01/20/2009-1-20-obama-gave-biden-choice-vp-or-secretary-of-state-html/
+permalink: /2009/01/20/obama-gave-biden-choice-vp-or-secretary-of-state-html/
 categories:
     - 'Current Events'
     - Internet

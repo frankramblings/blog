@@ -6,7 +6,7 @@ author: Frank
 excerpt: '<p><span style="font-size:16px">Since the launch of Facebook’s mobile advertising offering nearly a year ago, the platform has seen new features and iterations just about every single week. What’s more, mobile ads are enjoying tremendous success; Facebook’s recent Q1 earnings call revealed that ad revenues doubled quarter over quarter.&nbsp;And yet, with such an incredibly powerful tool at their disposal, it seems that many marketers aren’t using it to their advantage. &nbsp;With over 600 million Facebook members using the mobile app each month, there would appear to be a huge missed opportunity in not advertising on mobile. In reality, optimizing your Facebook ads for mobile is actually pretty simple once you set aside the resources to make it happen. Below are some simple ways to implement mobile ads.</span></p>'
 layout: post
 guid: 'https://34.95.34.211/?p=134'
-permalink: /blog/2013/05/14/2014-1-26-facebook-mobile-ads-for-dummies/
+permalink: /2013/05/14/facebook-mobile-ads-for-dummies/
 categories:
     - Uncategorized
 ---

@@ -5,7 +5,7 @@ date: '2009-09-15T15:59:00+00:00'
 author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=11'
-permalink: /blog/2009/09/15/2009-9-15-norwegian-wood-this-bird-has-flown-html/
+permalink: /2009/09/15/norwegian-wood-this-bird-has-flown-html/
 categories:
     - Uncategorized
 ---

@@ -5,7 +5,7 @@ date: '2009-07-23T16:28:00+00:00'
 author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=117'
-permalink: /blog/2009/07/23/2009-7-23-team-fake-comic-con-ftw-html/
+permalink: /2009/07/23/team-fake-comic-con-ftw-html/
 categories:
     - 'Comic Books'
     - 'Current Events'

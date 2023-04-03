@@ -5,7 +5,7 @@ date: '2009-08-11T00:13:00+00:00'
 author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=119'
-permalink: /blog/2009/08/11/2009-8-11-confessions-of-an-uninspired-blogger-html/
+permalink: /2009/08/11/confessions-of-an-uninspired-blogger-html/
 categories:
     - Uncategorized
 ---

@@ -5,7 +5,7 @@ date: '2008-10-28T13:31:00+00:00'
 author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=44'
-permalink: /blog/2008/10/28/2008-10-28-2001-obama-tragedy-that-redistribution-of-wealth-not-pursued-html/
+permalink: /2008/10/28/2001-obama-tragedy-that-redistribution-of-wealth-not-pursued-html/
 categories:
     - 'Current Events'
     - Life

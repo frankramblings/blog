@@ -5,7 +5,7 @@ date: '2008-11-06T01:11:00+00:00'
 author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=59'
-permalink: /blog/2008/11/06/2008-11-6-a-time-for-choosing-html/
+permalink: /2008/11/06/a-time-for-choosing-html/
 categories:
     - 'Current Events'
     - Life

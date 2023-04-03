@@ -5,7 +5,7 @@ date: '2008-12-01T05:03:00+00:00'
 author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=73'
-permalink: /blog/2008/12/01/2008-12-1-friends-meets-superfriends-html/
+permalink: /2008/12/01/friends-meets-superfriends-html/
 categories:
     - 'Comic Books'
     - Entertainment

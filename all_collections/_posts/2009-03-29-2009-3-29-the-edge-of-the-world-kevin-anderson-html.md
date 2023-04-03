@@ -5,7 +5,7 @@ date: '2009-03-29T00:04:00+00:00'
 author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=103'
-permalink: /blog/2009/03/29/2009-3-29-the-edge-of-the-world-kevin-anderson-html/
+permalink: /2009/03/29/the-edge-of-the-world-kevin-anderson-html/
 categories:
     - 'Geek Culture'
 ---

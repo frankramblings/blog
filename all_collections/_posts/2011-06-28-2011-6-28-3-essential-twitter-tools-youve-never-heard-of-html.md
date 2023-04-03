@@ -6,7 +6,7 @@ author: Frank
 excerpt: "<p><em><strong>Originally posted at the&nbsp;<a href=\"http://www.likeable.com/blog/2011/06/3-essential-twitter-tools-youve-never-heard-of/\">Likeable Media Blog</a>.</strong></em></p><p>So you’ve jumped head-first into&nbsp;<a href=\"http://twitter.com/frankramblings\">Twitter</a>? Good for you! I’m totally addicted to tweeting, so I completely understand. I can’t get enough of it. But once you become as serious about it as I am, you start to realize that simply sharing what you ate for lunch isn’t enough anymore (that&nbsp;<a href=\"http://likeable.com/2011/05/wow-factor/\">pizza</a>&nbsp;was awesome, by the way). After a certain point, you begin caring more and more about engaging with the community you’ve built up around yourself. It can be difficult to do that when your only followers are 20 of your real-life acquaintances who don’t have time to be active on Twitter, even if you do have lots in common. On the other hand, if you have 2,000 spam followers, you won’t be engaging much with them, either. How do you block out the noise, but still reach out and interact with a large audience?</p><p>\_</p>"
 layout: post
 guid: 'https://34.95.34.211/?p=154'
-permalink: /blog/2011/06/28/2011-6-28-3-essential-twitter-tools-youve-never-heard-of-html/
+permalink: /2011/06/28/3-essential-twitter-tools-youve-never-heard-of-html/
 categories:
     - Uncategorized
 ---

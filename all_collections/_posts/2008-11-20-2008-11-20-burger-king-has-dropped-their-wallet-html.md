@@ -5,7 +5,7 @@ date: '2008-11-20T02:22:00+00:00'
 author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=65'
-permalink: /blog/2008/11/20/2008-11-20-burger-king-has-dropped-their-wallet-html/
+permalink: /2008/11/20/burger-king-has-dropped-their-wallet-html/
 categories:
     - Food
     - Life

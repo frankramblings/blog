@@ -5,7 +5,7 @@ date: '2009-09-15T15:37:00+00:00'
 author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=10'
-permalink: /blog/2009/09/15/2009-9-15-my-cover-of-across-the-universe-html/
+permalink: /2009/09/15/my-cover-of-across-the-universe-html/
 categories:
     - Uncategorized
 ---

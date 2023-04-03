@@ -6,7 +6,7 @@ author: Frank
 excerpt: '<p style="margin-left:0px; margin-right:0px"><em><strong>Originally posted at&nbsp;<a href="http://www.likeable.com/blog/2013/06/facebook-comments-go-wild/">The Likeable Daily</a>.</strong></em></p><p style="margin-left:0px; margin-right:0px">Facebook is just rocking the boat in all sorts of ways these past few weeks, isn’t it? Several weeks ago, the social network introduced replies to comments. Finally! Didn’t we all want that about three years ago? Fast-forward to last week. Facebook’s Twitter envy reared its head once again as it introduced hashtags! Sure, you could argue it’s just integrating an existing feature from the not-so-newly acquired Instagram, but we all know that at heart, Facebook is still trying to cash in on some of the things that make Twitter so popular. That brings us to this week, when two new features began to roll out, and community managers everywhere rejoiced! Let’s take a look and see what they are:</p>'
 layout: post
 guid: 'https://34.95.34.211/?p=135'
-permalink: /blog/2013/06/20/2014-1-26-facebook-comments-go-wild/
+permalink: /2013/06/20/facebook-comments-go-wild/
 categories:
     - Uncategorized
 ---

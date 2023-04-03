@@ -5,7 +5,7 @@ date: '2009-01-20T21:20:00+00:00'
 author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=87'
-permalink: /blog/2009/01/20/2009-1-20-star-wars-retold-by-someone-who-hasnt-seen-it-html/
+permalink: /2009/01/20/star-wars-retold-by-someone-who-hasnt-seen-it-html/
 categories:
     - Entertainment
     - 'Geek Culture'

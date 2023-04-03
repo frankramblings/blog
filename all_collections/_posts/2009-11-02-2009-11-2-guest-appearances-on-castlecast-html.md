@@ -5,7 +5,7 @@ date: '2009-11-02T17:42:15+00:00'
 author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=16'
-permalink: /blog/2009/11/02/2009-11-2-guest-appearances-on-castlecast-html/
+permalink: /2009/11/02/guest-appearances-on-castlecast-html/
 categories:
     - Uncategorized
 ---

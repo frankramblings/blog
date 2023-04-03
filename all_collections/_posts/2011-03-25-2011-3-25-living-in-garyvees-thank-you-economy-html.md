@@ -6,7 +6,7 @@ author: Frank
 excerpt: '<p>If you’ve ever tried to contact a brand or celebrity through social media, you know how frustrating it can be when the only response you seem to receive is deafening silence. You might even watch as your question or complaint goes ignored while someone else’s praise gets Liked or Retweeted. What’s the use of writing on Old Spice’s wall if they don’t seem interested in what you have to say? Will you still be a big Ashton Kutcher fan if he never responds to your tweets?&nbsp;</p>'
 layout: post
 guid: 'https://34.95.34.211/?p=123'
-permalink: /blog/2011/03/25/2011-3-25-living-in-garyvees-thank-you-economy-html/
+permalink: /2011/03/25/living-in-garyvees-thank-you-economy-html/
 image: 'http://34.95.34.211/wp-content/uploads/2011/03/thank-you-economy-20101018-233635-210x300-1.jpg'
 categories:
     - Advertising

@@ -5,7 +5,7 @@ date: '2008-10-09T01:43:00+00:00'
 author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=112'
-permalink: /blog/2008/10/09/2008-10-9-new-obama-campaign-ad-html/
+permalink: /2008/10/09/new-obama-campaign-ad-html/
 categories:
     - 'Current Events'
     - News

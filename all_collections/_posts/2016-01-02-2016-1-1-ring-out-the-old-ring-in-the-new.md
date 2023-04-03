@@ -5,7 +5,7 @@ date: '2016-01-02T02:47:01+00:00'
 author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=202'
-permalink: /blog/2016/01/02/2016-1-1-ring-out-the-old-ring-in-the-new/
+permalink: /2016/01/02/ring-out-the-old-ring-in-the-new/
 categories:
     - Music
 ---

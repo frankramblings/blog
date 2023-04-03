@@ -5,7 +5,7 @@ date: '2015-11-20T15:00:00+00:00'
 author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=176'
-permalink: /blog/2015/11/20/2015-11-20-how-to-silence-siri-with-the-mute-switch-on-iphone-ipad-os-x-daily/
+permalink: /2015/11/20/how-to-silence-siri-with-the-mute-switch-on-iphone-ipad-os-x-daily/
 passthrough_url:
     - 'http://osxdaily.com/2015/11/19/silence-siri-mute-switch-ios/'
 categories:

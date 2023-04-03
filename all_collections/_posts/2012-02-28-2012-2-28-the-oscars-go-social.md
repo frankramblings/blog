@@ -6,7 +6,7 @@ author: Frank
 excerpt: '<p><em><strong>Originally posted at the&nbsp;<a href="http://www.likeable.com/blog/2012/02/the-oscars-go-social/">Likeable Media Blog</a>.</strong></em></p><p>One of the most time-honored traditions of social media is the live-tweeting of live events by viewers. Who doesn''t love a little snark to go with their entertainment? This year''s Academy Awards drew some masterful tweets from names both big and small. Let''s take a look at some of the most brilliant uses of Twitter to supplement this year''s Oscars!</p>'
 layout: post
 guid: 'https://34.95.34.211/?p=131'
-permalink: /blog/2012/02/28/2012-2-28-the-oscars-go-social/
+permalink: /2012/02/28/the-oscars-go-social/
 categories:
     - Entertainment
 tags:

@@ -5,7 +5,7 @@ date: '2015-12-24T20:27:44+00:00'
 author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=201'
-permalink: /blog/2015/12/24/2015-12-24-video-christmas-island-andrews-sisters-cover/
+permalink: /2015/12/24/video-christmas-island-andrews-sisters-cover/
 passthrough_url:
     - 'https://www.youtube.com/watch?v=0jPzNff3AEE'
 categories:

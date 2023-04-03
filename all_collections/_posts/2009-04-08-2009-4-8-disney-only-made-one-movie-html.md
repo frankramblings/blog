@@ -5,7 +5,7 @@ date: '2009-04-08T18:05:00+00:00'
 author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=106'
-permalink: /blog/2009/04/08/2009-4-8-disney-only-made-one-movie-html/
+permalink: /2009/04/08/disney-only-made-one-movie-html/
 categories:
     - Movies
     - 'Odd Stuff'

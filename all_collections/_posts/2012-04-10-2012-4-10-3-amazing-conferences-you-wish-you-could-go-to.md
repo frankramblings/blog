@@ -6,7 +6,7 @@ author: Frank
 excerpt: '<p><em><strong>Originally posted at the&nbsp;<a href="http://www.likeable.com/blog/2012/04/3-amazing-conferences-youve-never-heard-of/">Likeable Media Blog</a>.</strong></em></p><p>When you work in marketing, it’s essential to stay on top of current trends and always keep an eye to the future. One of the most fulfilling and enriching ways to stay ahead of the pack is by attending conferences. They give you an opportunity to meet with like-minded thinkers, hear new perspectives on familiar issues, and engage in conversation with industry thought leaders. While world-famous conferences like SxSW and TED get bigger each year, small conferences are also thriving. Let’s take a look at three conferences that can really deliver value, even if you haven’t heard of them!</p><p></p>'
 layout: post
 guid: 'https://34.95.34.211/?p=145'
-permalink: /blog/2012/04/10/2012-4-10-3-amazing-conferences-you-wish-you-could-go-to/
+permalink: /2012/04/10/3-amazing-conferences-you-wish-you-could-go-to/
 categories:
     - Marketing
     - 'Small Business'

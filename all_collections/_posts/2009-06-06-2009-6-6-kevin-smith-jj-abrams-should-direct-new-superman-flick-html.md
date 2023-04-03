@@ -5,7 +5,7 @@ date: '2009-06-06T17:55:00+00:00'
 author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=113'
-permalink: /blog/2009/06/06/2009-6-6-kevin-smith-jj-abrams-should-direct-new-superman-flick-html/
+permalink: /2009/06/06/kevin-smith-jj-abrams-should-direct-new-superman-flick-html/
 categories:
     - 'Geek Culture'
     - Movies

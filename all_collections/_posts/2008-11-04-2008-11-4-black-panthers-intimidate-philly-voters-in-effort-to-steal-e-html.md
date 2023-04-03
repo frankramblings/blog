@@ -5,7 +5,7 @@ date: '2008-11-04T21:46:00+00:00'
 author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=53'
-permalink: /blog/2008/11/04/2008-11-4-black-panthers-intimidate-philly-voters-in-effort-to-steal-e-html/
+permalink: /2008/11/04/black-panthers-intimidate-philly-voters-in-effort-to-steal-e-html/
 categories:
     - 'Current Events'
     - Life

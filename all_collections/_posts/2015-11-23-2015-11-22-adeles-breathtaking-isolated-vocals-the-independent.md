@@ -5,7 +5,7 @@ date: '2015-11-23T02:37:33+00:00'
 author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=162'
-permalink: /blog/2015/11/23/2015-11-22-adeles-breathtaking-isolated-vocals-the-independent/
+permalink: /2015/11/23/adeles-breathtaking-isolated-vocals-the-independent/
 passthrough_url:
     - 'http://www.independent.co.uk/arts-entertainment/music/news/adeles-raw-mic-feed-from-her-performance-of-hello-on-snl-is-breathtaking-a6744201.html'
 image: 'http://34.95.34.211/wp-content/uploads/2015/11/img.jpg'

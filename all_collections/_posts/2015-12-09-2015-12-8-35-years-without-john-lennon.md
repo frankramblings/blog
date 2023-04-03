@@ -5,7 +5,7 @@ date: '2015-12-09T03:29:42+00:00'
 author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=192'
-permalink: /blog/2015/12/09/2015-12-8-35-years-without-john-lennon/
+permalink: /2015/12/09/35-years-without-john-lennon/
 categories:
     - Uncategorized
 ---

@@ -5,7 +5,7 @@ date: '2008-11-25T04:24:00+00:00'
 author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=69'
-permalink: /blog/2008/11/25/2008-11-25-religious-themes-in-the-superman-films-an-essay-html/
+permalink: /2008/11/25/religious-themes-in-the-superman-films-an-essay-html/
 categories:
     - 'Comic Books'
     - Entertainment

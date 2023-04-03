@@ -5,7 +5,7 @@ date: '2016-02-04T15:54:05+00:00'
 author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=218'
-permalink: /blog/2016/02/04/2016-2-4-podcast-is-it-lit-episode-31-kanyes-etsy-shop/
+permalink: /2016/02/04/podcast-is-it-lit-episode-31-kanyes-etsy-shop/
 passthrough_url:
     - 'https://soundcloud.com/is-it-lit/episode-31-kanyes-etsy-shop'
 categories:

@@ -5,7 +5,7 @@ date: '2009-08-27T01:13:00+00:00'
 author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=122'
-permalink: /blog/2009/08/27/2009-8-27-disillusioned-disappointed-but-not-really-html/
+permalink: /2009/08/27/disillusioned-disappointed-but-not-really-html/
 categories:
     - Uncategorized
 ---

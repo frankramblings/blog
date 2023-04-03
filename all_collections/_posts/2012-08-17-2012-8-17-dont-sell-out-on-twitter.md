@@ -6,7 +6,7 @@ author: Frank
 excerpt: '<p><em><strong>​Originally posted at&nbsp;<a href="http://allthings.womma.org/">All Things WOM</a>.</strong></em></p><p></p><p>People are competitive by nature. Everyone wants to be the best at something. People compete for the highest Klout score, the most badges on Foursquare, and the most followers on Twitter. But what does it all mean? What’s the value in being the best or having the most?</p><span class="author" style="margin: 0px; padding: 0px; border: 0px; font-family: myriad-pro, Arial, sans-serif; font-size: 14px; font-style: italic; line-height: 16px; vertical-align: baseline; color: rgb(128, 130, 133); letter-spacing: normal;"></span>'
 layout: post
 guid: 'https://34.95.34.211/?p=129'
-permalink: /blog/2012/08/17/2012-8-17-dont-sell-out-on-twitter/
+permalink: /2012/08/17/dont-sell-out-on-twitter/
 categories:
     - Uncategorized
 ---

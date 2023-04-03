@@ -5,7 +5,7 @@ date: '2009-03-01T15:19:00+00:00'
 author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=97'
-permalink: /blog/2009/03/01/2009-3-1-world-of-new-krypton-trailer-html/
+permalink: /2009/03/01/world-of-new-krypton-trailer-html/
 categories:
     - 'Comic Books'
     - Entertainment

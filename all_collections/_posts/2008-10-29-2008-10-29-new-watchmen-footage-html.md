@@ -5,7 +5,7 @@ date: '2008-10-29T14:55:00+00:00'
 author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=47'
-permalink: /blog/2008/10/29/2008-10-29-new-watchmen-footage-html/
+permalink: /2008/10/29/new-watchmen-footage-html/
 categories:
     - 'Comic Books'
     - Entertainment

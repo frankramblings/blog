@@ -5,7 +5,7 @@ date: '2009-07-14T21:25:00+00:00'
 author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=116'
-permalink: /blog/2009/07/14/2009-7-14-branching-out-html/
+permalink: /2009/07/14/branching-out-html/
 categories:
     - Opinion
     - Technology

@@ -5,7 +5,7 @@ date: '2008-10-29T14:26:00+00:00'
 author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=45'
-permalink: /blog/2008/10/29/2008-10-29-oh-digg-how-i-love-thee-html/
+permalink: /2008/10/29/oh-digg-how-i-love-thee-html/
 categories:
     - 'Comic Books'
     - 'Current Events'

@@ -5,7 +5,7 @@ date: '2009-04-06T16:55:00+00:00'
 author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=105'
-permalink: /blog/2009/04/06/2009-4-6-donald-wheres-your-trousers-html/
+permalink: /2009/04/06/donald-wheres-your-trousers-html/
 categories:
     - 'Geek Culture'
     - Music

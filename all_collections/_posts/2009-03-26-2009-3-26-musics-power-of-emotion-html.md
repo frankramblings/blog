@@ -5,7 +5,7 @@ date: '2009-03-26T14:50:00+00:00'
 author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=102'
-permalink: /blog/2009/03/26/2009-3-26-musics-power-of-emotion-html/
+permalink: /2009/03/26/musics-power-of-emotion-html/
 categories:
     - Music
 ---

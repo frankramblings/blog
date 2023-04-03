@@ -5,7 +5,7 @@ date: '2008-11-04T23:10:00+00:00'
 author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=54'
-permalink: /blog/2008/11/04/2008-11-4-my-fellow-catholics-take-heed-html/
+permalink: /2008/11/04/my-fellow-catholics-take-heed-html/
 categories:
     - 'Current Events'
     - Life
