@@ -10,7 +10,6 @@ categories:
     - Uncategorized
 ---
 
-<param name="movie" value="http://www.youtube.com/v/jx7p_tweFys&hl=en&fs=1"></param><param name="wmode" value="window"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param>
 
 <embed allowfullscreen="true" allowscriptaccess="always" height="417" src="http://www.youtube.com/v/jx7p_tweFys&hl=en&fs=1" type="application/x-shockwave-flash" width="500" wmode="window">
 
