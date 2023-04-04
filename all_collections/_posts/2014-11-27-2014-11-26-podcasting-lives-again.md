@@ -9,7 +9,7 @@ guid: 'https://34.95.34.211/?p=156'
 permalink: /2014/11/27/podcasting-lives-again/
 structured_content:
     - '{"oembed":{},"overlay":true}'
-image: 'http://34.95.34.211/wp-content/uploads/2014/11/image.jpg'
+thumbnail: "/assets/images/2014/11/image.jpg"
 categories:
     - Podcasts
 tags:

@@ -8,7 +8,7 @@ guid: 'https://34.95.34.211/?p=177'
 permalink: /2015/11/17/a-very-murray-christmas-trailer-comingsoon/
 passthrough_url:
     - 'http://www.comingsoon.net/tv/trailers/633759-a-very-murray-christmas-trailer-bill-murray-is-putting-on-a-show?utm_source=feedly&utm_medium=rss&utm_campaign=a-very-murray-christmas-trailer-bill-murray-is-putting-on-a-show#/slide/1'
-image: 'http://34.95.34.211/wp-content/uploads/2015/11/img-2.jpg'
+thumbnail: "/assets/images/2015/11/img-2.jpg"
 categories:
     - Links
 ---

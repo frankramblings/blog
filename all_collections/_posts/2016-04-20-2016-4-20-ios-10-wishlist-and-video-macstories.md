@@ -18,4 +18,4 @@ Federico Viticciâ€™s annual iOS wishlist landed today with a splash. This yearâ€
  <iframe allowfullscreen="" frameborder="0" height="480" scrolling="no" src="//www.youtube.com/embed/J2VcbT4Pgdk?wmode=opaque&enablejsapi=1" width="854">  
 </iframe>
 
-iOS 10 Wishes and Concept Video | [MacStories](https://www.macstories.net/stories/ios-10-wishes/)
+iOS 10 Wishes and Concept Video -- [MacStories](https://www.macstories.net/stories/ios-10-wishes/)

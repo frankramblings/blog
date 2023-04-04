@@ -31,11 +31,11 @@ Implementing offers on your brand’s page is actually relatively simple, but it
 - Now, you’re asked whether your offer is In Store, Online, or both. 
     - If you choose Online Only or In Store &amp; Online, you’re asked to provide the web address where the offer can be redeemed, as well as the redemption code.
     - If you choose In Store Only, don’t worry about this step
-    - Next, we’ll take care of the Basics. Create a strong headline and a compelling thumbnail. Then add the maximum number of times the offer can be claimed and expiration date (if applicable), insert your Terms &amp; Conditions (got to have some good legal jargon on your side!) and optionally, throw in a bar code.
-    - Preview it and make sure everything looks ship shape before you proceed!
-    - If you need to make edits, the handy “Back” button will be your ally.
-    - Click “Publish” and send your offer out into the wild!
+- Next, we’ll take care of the Basics. Create a strong headline and a compelling thumbnail. Then add the maximum number of times the offer can be claimed and expiration date (if applicable), insert your Terms &amp; Conditions (got to have some good legal jargon on your side!) and optionally, throw in a bar code.
+- Preview it and make sure everything looks ship shape before you proceed!
+- If you need to make edits, the handy “Back” button will be your ally.
+- Click “Publish” and send your offer out into the wild!
 
 I mentioned earlier that there are costs involved with Offers. For your first Offer, Facebook will give you a freebie. Check it out, take it out for a spin, and kick the tires! If you want to keep at it, subsequent Offers will cost you a minimum of $5-$10 to start. Experts seem to agree that Facebook is planning to combine Offers and Promoted Posts. By posting an Offer and then Promoting that post for several days, your page receives a one-two punch that will ensure that your discount gets exposed to more of your fans for a greater length of time. The number one tip here (as with any other paid tactic) is to be economical, monitor your results closely, and adjust your budget and strategy based on the data you gather.
 
-***What about you? Has your brand already successfully used Facebook Offers? Are you excited to try them?***
+*What about you? Has your brand already successfully used Facebook Offers? Are you excited to try them?*

@@ -22,4 +22,4 @@ This is pretty timely for me, as I deleted th Facebook app from my phone earlier
 >	a given week, while the remaining 39 percent share an 
 >	average of five posts.
 
-The Worst Thing That Could Happen to Facebook Is Already Happening | [Inc](http://www.inc.com/jeff-bercovici/facebook-sharing-crisis.html)
+The Worst Thing That Could Happen to Facebook Is Already Happening -- [Inc](http://www.inc.com/jeff-bercovici/facebook-sharing-crisis.html)

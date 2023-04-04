@@ -23,4 +23,4 @@ The New Horizons probe continues send home images as part of NASA’s year-long 
 >	bouncing off Pluto’s most reflective and smooth areas, 
 >	according to NASA.
 
-Pluto’s Blue Atmosphere Up Close | [ABC News](http://abcnews.go.com/Technology/plutos-blue-atmosphere-close/story?id=36594663&nwltr=abcn_tco)
+Pluto’s Blue Atmosphere Up Close -- [ABC News](http://abcnews.go.com/Technology/plutos-blue-atmosphere-close/story?id=36594663&nwltr=abcn_tco)

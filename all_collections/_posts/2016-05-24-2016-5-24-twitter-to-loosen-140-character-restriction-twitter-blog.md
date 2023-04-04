@@ -24,4 +24,4 @@ Finally, the day is coming. Twitter officially announced today that they soon wi
 
 — Todd Sherman, Sr. Product Manager
 
-Coming soon: express even more in 140 characters | [Twitter Blog](https://blog.twitter.com/express-even-more-in-140-characters)
+Coming soon: express even more in 140 characters -- [Twitter Blog](https://blog.twitter.com/express-even-more-in-140-characters)

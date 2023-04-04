@@ -11,7 +11,7 @@ categories:
     - Uncategorized
 ---
 
-***Originally posted at [All Things WOM](http://allthings.womma.org).***
+*Originally posted at [All Things WOM](http://allthings.womma.org).*
 
 People are competitive by nature. Everyone wants to be the best at something. People compete for the highest Klout score, the most badges on Foursquare, and the most followers on Twitter. But what does it all mean? What’s the value in being the best or having the most?
 
@@ -22,5 +22,3 @@ My theory? I think someone was inspired by the recent trend of purchasing Twitte
 **It all comes down to this:** While a big follower count or a high Klout score may feel like a point of pride or an ego boost, the fact is if you’re not engaging with that community, they don’t benefit your brand at all. They’re just a nebulous number. I don’t know who bought me followers, and I don’t know if they thought they’d be helping me. All I do know is that I came out of the experience 17,000 followers richer, but I had lost any sense of who my real community was at a glance.
 
 While it’s easy to pay your way to higher numbers, think about the impact that true word of mouth marketing can have when executed well. Don’t worry about a number. Choose quality over quantity.
-
-<span class="author"></span>

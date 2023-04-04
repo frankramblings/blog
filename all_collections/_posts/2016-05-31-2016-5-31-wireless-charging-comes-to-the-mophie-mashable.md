@@ -23,4 +23,4 @@ All in all, I say bravo, Mophie. It’s not clear whether this case is compatibl
 <div markdown="1" style="text-align: center;">
 ![Mophie’s new iPhone cases let you charge wirelessly]({{site.url}}{{site.baseurl}}/assets/images/2016/05/image-asset.jpg)
 </div>
-Mophie’s new iPhone cases let you charge wirelessly | [Mophie](http://mashable.com/2016/05/31/mophie-juice-pack-wireless/)
+Mophie’s new iPhone cases let you charge wirelessly -- [Mophie](http://mashable.com/2016/05/31/mophie-juice-pack-wireless/)

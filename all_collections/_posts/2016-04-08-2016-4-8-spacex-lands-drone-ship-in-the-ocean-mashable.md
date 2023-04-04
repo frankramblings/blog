@@ -22,4 +22,4 @@ Science rules. That is all.
 
  <script async="" charset="utf-8" src="//platform.twitter.com/widgets.js"></script>
 
-Fifth time’s the charm: SpaceX finally lands on its drone ship in the ocean | [Mashable](http://mashable.com/2016/04/08/spacex-success-ship-landing/)
+Fifth time’s the charm: SpaceX finally lands on its drone ship in the ocean -- [Mashable](http://mashable.com/2016/04/08/spacex-success-ship-landing/)

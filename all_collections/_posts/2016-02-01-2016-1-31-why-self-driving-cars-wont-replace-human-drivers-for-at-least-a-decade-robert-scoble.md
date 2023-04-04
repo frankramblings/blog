@@ -15,4 +15,4 @@ categories:
 
 Some interesting observations from Robert Scoble. His 10 reasons are too much to go into detail here, so I encourage you to go ahead and read the full post. It’s a quick but thought-provoking read.
 
-Don’t worry Uber/Lyft drivers: self-driving cars won’t take your job for at least a decade | [Medium](https://medium.com/@scobleizer/don-t-worry-uber-lyft-drivers-self-driving-cars-won-t-take-your-job-for-at-least-a-decade-3b8c58a7f102#.2ruffz24i)
+Don’t worry Uber/Lyft drivers: self-driving cars won’t take your job for at least a decade -- [Medium](https://medium.com/@scobleizer/don-t-worry-uber-lyft-drivers-self-driving-cars-won-t-take-your-job-for-at-least-a-decade-3b8c58a7f102#.2ruffz24i)

@@ -10,11 +10,11 @@ passthrough_url:
     - 'http://www.churchpop.com/2014/12/25/pope-christmas-truce/'
 structured_content:
     - '{"oembed":{},"overlay":true}'
-image: 'http://34.95.34.211/wp-content/uploads/2015/11/image-1.jpg'
+thumbnail: "/assets/images/2015/11/image-1.jpg"
 categories:
     - Uncategorized
 ---
 
 During WWI, both sides famously threw their weapons aside on Christmas Day 1914 for some much-needed celebration. Soldiers on both sides ate, drank, and even sang together that night, according to many reports. But not many know that Pope Benedict XV actually called for the truce earlier that December. He asked “that the guns may fall silent at least upon the night the angels sang.”
 
-The Untold Story of the Pope Behind the Famous Christmas Truce of 1914 | [ChurchPOP](http://www.churchpop.com/2014/12/25/pope-christmas-truce/)
+The Untold Story of the Pope Behind the Famous Christmas Truce of 1914 -- [ChurchPOP](http://www.churchpop.com/2014/12/25/pope-christmas-truce/)

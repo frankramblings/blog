@@ -16,4 +16,4 @@ I was honored to be invited on the *Is It Lit? Podcast* this week to talk about 
 
  <iframe frameborder="no" height="450" scrolling="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/244824325&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&visual=true" width="100%"></iframe>
 
-Episode 31: Kanye’s Etsy Shop | [Is it Lit? Podcast](https://soundcloud.com/is-it-lit/episode-31-kanyes-etsy-shop)
+Episode 31: Kanye’s Etsy Shop -- [Is it Lit? Podcast](https://soundcloud.com/is-it-lit/episode-31-kanyes-etsy-shop)

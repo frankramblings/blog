@@ -25,4 +25,4 @@ As the legends of the DC universe have united to fight the forces of evil, so mu
  <iframe allowfullscreen="" frameborder="0" height="480" scrolling="no" src="//www.youtube.com/embed/Zd3PJ--jvQA?wmode=opaque&enablejsapi=1" width="854">  
 </iframe>
 
-Legends TV Talk: Episode 1 | [YouTube](https://youtu.be/Zd3PJ--jvQA)
+Legends TV Talk: Episode 1 -- [YouTube](https://youtu.be/Zd3PJ--jvQA)

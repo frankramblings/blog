@@ -10,7 +10,7 @@ passthrough_url:
     - 'https://www.youtube.com/watch?v=h7Q5gcScKa8'
 structured_content:
     - '{"oembed":{},"overlay":true}'
-image: 'http://34.95.34.211/wp-content/uploads/2015/11/img.gif'
+thumbnail: "/assets/images/2015/11/img.gif"
 categories:
     - Links
 ---
@@ -20,4 +20,4 @@ The Muppets always bring their A-game when it comes to parody videos, so it’s 
  <iframe allowfullscreen="" frameborder="0" height="480" scrolling="no" src="//www.youtube.com/embed/h7Q5gcScKa8?wmode=opaque&enablejsapi=1" width="854">  
 </iframe>
 
-The Muppets Promo – Miss Piggy Covers Adele’s “Hello” | [YouTube](https://www.youtube.com/watch?v=h7Q5gcScKa8)
+The Muppets Promo – Miss Piggy Covers Adele’s “Hello” -- [YouTube](https://www.youtube.com/watch?v=h7Q5gcScKa8)

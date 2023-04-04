@@ -16,7 +16,8 @@ categories:
 
 Fraser Speirs did a brilliant job of satirizing the way tech journalists compare iPads to MacBooks in this blog post. I’ve got to admit he makes a pretty solid case for the iPad Pro as a laptop replacement.
 
-<figure>> data-animation-override&gt;  
-> <span>“</span>If you have certain very specifically-defined workflows, and a work environment where you can guarantee yourself a chair and desk, you can probably get your work done on a MacBook Pro. For the rest of the world, there’s iPad.<span>”</span>
+“If you have certain very specifically-defined workflows, and a work environment where you can guarantee yourself a chair and desk, you can probably get your work done on a MacBook Pro. For the rest of the world, there’s iPad.”
 
-<figcaption class="source">— Fraser Speirs</figcaption></figure>Can the MacBook Pro replace your iPad? | [Speirs.org](http://www.speirs.org/blog/2015/11/30/can-the-macbook-pro-replace-your-ipad)
+— Fraser Speirs
+
+Can the MacBook Pro replace your iPad? -- [Speirs.org](http://www.speirs.org/blog/2015/11/30/can-the-macbook-pro-replace-your-ipad)

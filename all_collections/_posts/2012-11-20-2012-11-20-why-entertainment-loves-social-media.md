@@ -23,7 +23,7 @@ tags:
     - TV
 ---
 
-***Originally posted at the [Likeable Media Blog](http://www.likeable.com/2011/12/whats-the-deal-with-newtwitter/).***
+*Originally posted at the [Likeable Media Blog](http://www.likeable.com/2011/12/whats-the-deal-with-newtwitter/).*
 
 Many in the entertainment industry fear the Internet because they don’t understand it. In 2011, those who backed [SOPA](http://www.likeable.com/2012/01/3-ways-the-entertainment-industry-can-make-money-without-destroying-the-internet/) made it clear that they would rather alienate an entire segment of their target audience and accuse them of criminal activity instead of harnessing their passion and turning them into brand ambassadors. But almost from the start, entertainers, studios, and networks that are active on social media and engage with their audiences have seen great success as a result. The numbers don’t lie. Social is becoming more and more a part of the entertainment experience, and those who jump aboard the social media train now will reap the rewards!
 
@@ -35,4 +35,4 @@ Okay, so it sounds like social media can be useful for the TV and film industrie
 
 The moral of the story is this: social media can be a tremendous force for good in the entertainment industry, if you let it help you. Don’t fear what you don’t understand; embrace it and make it work for you! SNL, Disney, and Jonathan Coulton are just three examples of entities that are integrating social media into the entertainment experience and enjoying its benefits. Why don’t you join the party?
 
-***Have you seen top-notch examples of entertainers activating their online communities? Share with us!***
+*Have you seen top-notch examples of entertainers activating their online communities? Share with us!*

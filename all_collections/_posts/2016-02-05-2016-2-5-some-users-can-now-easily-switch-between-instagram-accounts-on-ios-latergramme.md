@@ -22,4 +22,4 @@ We learned in November that [Instagram was testing multiple account switching on
 >	
 ![Instagram Account Switching]({{site.url}}{{site.baseurl}}/assets/images/2016/02/image-asset1.jpeg)
 
-Instagram Rolls Out Multiple Account Switching for Some iOS Users | [Latergramme](http://blog.latergram.me/multiple-instagram-accounts-on-ios/)
+Instagram Rolls Out Multiple Account Switching for Some iOS Users -- [Latergramme](http://blog.latergram.me/multiple-instagram-accounts-on-ios/)

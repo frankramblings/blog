@@ -7,14 +7,14 @@ excerpt: "<p><em><strong>Originally posted at the&nbsp;<a href=\"http://www.like
 layout: post
 guid: 'https://34.95.34.211/?p=152'
 permalink: /2011/07/16/whats-wrong-with-this-picture-html/
-image: 'http://34.95.34.211/wp-content/uploads/2011/07/IMG_20110718_234628-300x1773-1.jpg'
+thumbnail: "/assets/images/2011/07/IMG_20110718_234628-300x1773-1.jpg"
 categories:
     - Uncategorized
 ---
 
-***Originally posted at the [Likeable Media Blog](http://www.likeable.com/2011/07/whats-wrong-with-this-picture/).***
+*Originally posted at the [Likeable Media Blog](http://www.likeable.com/2011/07/whats-wrong-with-this-picture/).*
 
-![](http://s3.media.squarespace.com/production/1465610/17353535/wp-content/uploads/2011/12/IMG_20110718_234628-300x1773.jpg "Baked By Melissa")
+![ ]({{site.url}}{{site.baseurl}}/assets/images/2011/07/IMG_20110718_234628-300x1773.jpg "Baked By Melissa")
 
 Take a look at this picture. Does something look wrong to you? Look closer. Even closer. Do you see it? It’s those two little icons at the bottom. Those two little symbols represent a big misunderstanding of how best to promote social media offline. A recent conversation with my co-worker [Brian](http://twitter.com/btmurr) got me thinking about the ways brands attempt to market their social presences in offline media. We agreed that far too often, brands think that they’ve covered their bases as long as their print and TV ads remind you to “Follow us on Twitter,” or “Find us on Facebook.” Simply reminding your audience that your Facebook Page exists isn’t enough to drive them there. “Find us on Facebook” isn’t a call to action, it’s a homework assignment!
 

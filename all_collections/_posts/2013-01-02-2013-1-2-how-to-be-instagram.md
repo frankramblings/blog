@@ -20,7 +20,7 @@ tags:
     - 'social media'
 ---
 
-***Originally posted at [All Things WOM](http://allthings.womma.org/)****.***
+*Originally posted at [All Things WOM](http://allthings.womma.org/)*
 
 What makes Instagram so special? Lately, it seems that every social network wants to be them. Ever since Facebook purchased the photo-based network in April 2012, interest in mobile social photo sharing has never been higher. Last month, both Twitter and Flickr announced new mobile apps, coincidentally both offering filter functionality very similar to that of Instagram.
 
@@ -30,6 +30,6 @@ I would argue that what gives Instagram its charm is the close-knit engaged comm
 
 The basic message here is this: Twitter and Flickr trying to branch out and add filters is a classic case of showing your hand. They see that users want a photo sharing app that will let them filter and edit photos on the go. To be bad Instagram beat them to it.
 
-***Do you think Twitter and Flickr will be able to catch up to Instagram on their visual side? Leave a comment below or tweet @FrankRamblings.***
+*Do you think Twitter and Flickr will be able to catch up to Instagram on their visual side? Leave a comment below or tweet @FrankRamblings.*
 
 <span class="author" style="margin-top: 0px; margin-right: 0px; margin-left: 0px; padding: 0px; border: 0px; font-family: myriad-pro, Arial, sans-serif; font-style: italic; line-height: 16px; vertical-align: baseline; color: rgb(128, 130, 133); letter-spacing: normal;"></span>

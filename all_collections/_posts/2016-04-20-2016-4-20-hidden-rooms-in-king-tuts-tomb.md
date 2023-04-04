@@ -23,4 +23,4 @@ This is insanely cool. New radar scans point to the strong possibility of anothe
 
 ![King Tut's Tomb]({{site.url}}{{site.baseurl}}/assets/images/2016/04/tut.jpg)
 
-Scans of King Tut’s Tomb Reveal New Evidence of Hidden Rooms | [National Geographic](http://news.nationalgeographic.com/2016/03/160317-king-tut-tomb-hidden-chambers-radar-egypt-archaeology/)
+Scans of King Tut’s Tomb Reveal New Evidence of Hidden Rooms -- [National Geographic](http://news.nationalgeographic.com/2016/03/160317-king-tut-tomb-hidden-chambers-radar-egypt-archaeology/)

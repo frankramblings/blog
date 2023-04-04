@@ -18,4 +18,4 @@ It’s an eyesore. A departure for Apple, in a couple of ways. First, I can’t 
 
 I really don’t like this thing. I’ll stick with my Jackery, thank you very much.
 
-Smart Battery Case for the iPhone shows up on Apple website | [Mashable](http://mashable.com/2015/12/08/smart-battery-case-iphone/?utm_cid=mash-com-Tw-main-link#f0zs6QAR4EqD)
+Smart Battery Case for the iPhone shows up on Apple website -- [Mashable](http://mashable.com/2015/12/08/smart-battery-case-iphone/?utm_cid=mash-com-Tw-main-link#f0zs6QAR4EqD)

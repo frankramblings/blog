@@ -23,4 +23,4 @@ The Smithsonian is in the process of restoring the 1967 model of the *Enterprise
 
 ![11866p.jpg]({{site.url}}{{site.baseurl}}/assets/images/2016/02/11866p.jpg)
 
-How the Smithsonian is restoring the original USS Enterprise to full 1967 glory | [Ars Technica](http://arstechnica.com/the-multiverse/2016/01/how-the-smithsonian-is-restoring-the-original-uss-enterprise-to-full-1967-glory/)
+How the Smithsonian is restoring the original USS Enterprise to full 1967 glory -- [Ars Technica](http://arstechnica.com/the-multiverse/2016/01/how-the-smithsonian-is-restoring-the-original-uss-enterprise-to-full-1967-glory/)

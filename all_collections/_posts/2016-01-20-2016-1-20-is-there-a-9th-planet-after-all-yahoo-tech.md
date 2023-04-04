@@ -23,4 +23,4 @@ Jason Snell writes on Yahoo! Tech today that one of the astronomers who helped b
 ![Image: Caltech/R. Hurt (IPAC)]({{site.url}}{{site.baseurl}}/assets/images/2016/01/image.jpg)
 *Image: Caltech/R. Hurt (IPAC)*
 
-Planet Nine? Evidence Grows for Big Addition to Solar System | [Yahoo! Tech](https://www.yahoo.com/tech/planet-nine-evidence-grows-for-1347529463955510.html)
+Planet Nine? Evidence Grows for Big Addition to Solar System -- [Yahoo! Tech](https://www.yahoo.com/tech/planet-nine-evidence-grows-for-1347529463955510.html)

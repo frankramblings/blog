@@ -22,4 +22,4 @@ I mean, if I [grew 2 inches](http://www.theverge.com/2016/3/3/11156320/scott-kel
 <iframe allowfullscreen="" frameborder="0" height="480" scrolling="no" src="//www.youtube.com/embed/ExfwknvzcY8?feature=youtu.be&wmode=opaque&enablejsapi=1" width="854">  
 </iframe>
 
-Astronaut Scott Kelly on what it’s like to return to Earth after a year in space | [BoingBoing](http://boingboing.net/2016/03/02/astronaut-scott-kelly-on-what.html)
+Astronaut Scott Kelly on what it’s like to return to Earth after a year in space -- [BoingBoing](http://boingboing.net/2016/03/02/astronaut-scott-kelly-on-what.html)

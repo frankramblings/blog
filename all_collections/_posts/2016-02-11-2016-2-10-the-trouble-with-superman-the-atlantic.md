@@ -21,4 +21,4 @@ This piece in *The Atlantic* does a good job of summarizing the way I feel about
 >	which found itself stuck with a flagship character it thought needed 
 >	fixing. In trying, it broke him nearly beyond repair.
 
-The Trouble With Superman | [The Atlantic](http://www.theatlantic.com/entertainment/archive/2016/02/the-trouble-with-superman/435408/)
+The Trouble With Superman -- [The Atlantic](http://www.theatlantic.com/entertainment/archive/2016/02/the-trouble-with-superman/435408/)

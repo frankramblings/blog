@@ -8,7 +8,7 @@ guid: 'https://34.95.34.211/?p=484'
 permalink: /2017/9/11/could-we-see-a-round-apple-watch-on-tuesday/
 passthrough_url:
     - 'https://9to5mac.com/2017/02/02/another-apple-watch-patent-features-battery-band-oddly-shows-round-watch-design/'
-thumbnail: "/assets/images//2017/09/10700498_269033999971188_4970410257673245250_o-780x527-780x527%5B3%5D.jpg"
+thumbnail: "/assets/images/2017/09/10700498_269033999971188_4970410257673245250_o-780x527-780x527%5B3%5D.jpg"
 categories:
     - Links
     - Technology

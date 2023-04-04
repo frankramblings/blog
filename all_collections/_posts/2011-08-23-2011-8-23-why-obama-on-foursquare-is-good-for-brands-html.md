@@ -11,13 +11,11 @@ categories:
     - Uncategorized
 ---
 
-***Originally posted at the [Likeable Media Blog](http://www.likeable.com/2011/08/why-obama-on-foursquare-is-good-for-brands/).***
+*Originally posted at the [Likeable Media Blog](http://www.likeable.com/2011/08/why-obama-on-foursquare-is-good-for-brands/).*
 
 It’s official! Our Commander-In-Chief has joined everyone’s favorite location-based network: [Foursquare](http://foursquare.com)! The White House announced via its [blog](http://www.whitehouse.gov/blog/2011/08/15/take-tip-white-house-foursquare) on Monday that “There are over 10 million people already ‘checking in’ around the world, and now you’ll be able to discover ‘tips’ from the White House featuring the places President Obama has visited, what he did there, plus historical information and more.” While the President is not the first public figure to be represented on the rapidly-growing social network, he is arguably the most respected and beloved to date. My colleague Cara recently gave us an outstanding general look at [what Foursquare can mean for businesses](http://likeable.com/2011/08/can-foursquare-promotions-really-benefit-your-business-2/), but what’s changed now that [President Obama](http://twitter.com/barackobama) has checked into the location-based revolution? What does Obama on Foursquare mean for your brand?
 
-> Welcome to @[foursquare](https://twitter.com/foursquare), President Obama! Follow him on foursquare to see where he’s checking in and leaving tips: [4sq.com/WHon4SQ](http://t.co/BRREVsS)
-> 
-> — foursquare (@foursquare) [August 15, 2011](https://twitter.com/foursquare/status/103251340234469376)
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Welcome to <a href="https://twitter.com/Foursquare?ref_src=twsrc%5Etfw">@foursquare</a>, President Obama! Follow him on foursquare to see where he&#39;s checking in and leaving tips: <a href="http://t.co/BRREVsS">http://t.co/BRREVsS</a></p>&mdash; Foursquare City Guide (@FoursquareGuide) <a href="https://twitter.com/FoursquareGuide/status/103251340234469376?ref_src=twsrc%5Etfw">August 15, 2011</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 How many times have you had to explain what Foursquare is and how it works? If your experience is anything like mine, you’ve been through this too many times. If the White House’s Foursquare account receives the same publicity that was enjoyed by their Twitter account, I suspect you’ll be giving your prepared “intro to Foursquare” speech a lot less than you’re used to. Such a high-profile account tends to attract attention and spark the curiosity of users, which naturally leads to an increase in membership. This means more chances for you to reach out to consumers and turn them into brand ambassadors!
 
@@ -29,4 +27,4 @@ And what about local businesses? Well, if more users start checking in because t
 
 The main takeaway from President Obama joining Foursquare is this: the age of location-based social marketing is just beginning. There is still a tremendous market to be tapped here, and highly visible names like the White House provide brands with outstanding opportunities to shine in this space. Be a thought leader and take advantage of those opportunities!
 
-***How else can big names on Foursquare help brands? Will the White House be a game changer? Share your thoughts below!***
+*How else can big names on Foursquare help brands? Will the White House be a game changer? Share your thoughts below!*

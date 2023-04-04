@@ -12,7 +12,6 @@ categories:
 
 Super fascinating read about the “unicorn bubble” and specifically the decline of the daily deals trend. I had heard rumblings about Groupon, but didn’t realize just how bad things were going with their competitors as well. The fact that Amazon has shut down their daily deal service entirely while LivingSocial is both downsizing and pivoting their business model is not at all a good sign.
 
-<figure>> data-animation-override&gt;  
-> <span>“</span>Investors, founders and many employees of LivingSocial are underwater with their shares, and an I.P.O. or sale seem very far off. When asked about this trajectory, Mr. Thakar said valuations were all “notional.” He added, “Valuations are one of those things that are in the eye of the beholder.<span>”</span>
+“Investors, founders and many employees of LivingSocial are underwater with their shares, and an I.P.O. or sale seem very far off. When asked about this trajectory, Mr. Thakar said valuations were all “notional.” He added, “Valuations are one of those things that are in the eye of the beholder.”
 
-</figure>LivingSocial Offers a Cautionary Tale to Today’s Unicorns | [The New York Times](http://www.nytimes.com/2015/11/22/technology/livingsocial-once-a-unicorn-is-losing-its-magic.html?smid=tw-nytimes&smtyp=cur)
+LivingSocial Offers a Cautionary Tale to Today’s Unicorns -- [The New York Times](http://www.nytimes.com/2015/11/22/technology/livingsocial-once-a-unicorn-is-losing-its-magic.html?smid=tw-nytimes&smtyp=cur)
