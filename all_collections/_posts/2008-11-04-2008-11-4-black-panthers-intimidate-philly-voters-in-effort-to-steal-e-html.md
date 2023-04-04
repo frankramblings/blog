@@ -14,11 +14,8 @@ categories:
     - Politics
 ---
 
-<div src="v5">Black Panther holding night stick tells poll watchers “A black man is going to win this election no matter what.” <object height="344" width="425"><param name="movie" value="http://www.youtube.com/v/neGbKHyGuHU&hl=en&fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed allowfullscreen="true" allowscriptaccess="always" height="344" src="http://www.youtube.com/v/neGbKHyGuHU&hl=en&fs=1" type="application/x-shockwave-flash" width="425"></embed></object>
+Black Panther holding night stick tells poll watchers “A black man is going to win this election no matter what.” 
+
+<object height="344" width="425"><param name="movie" value="http://www.youtube.com/v/neGbKHyGuHU&hl=en&fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed allowfullscreen="true" allowscriptaccess="always" height="344" src="http://www.youtube.com/v/neGbKHyGuHU&hl=en&fs=1" type="application/x-shockwave-flash" width="425"></embed></object>
 
 <object height="344" width="425"><param name="movie" value="http://www.youtube.com/v/JwNDMdrqKcc&hl=en&fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed allowfullscreen="true" allowscriptaccess="always" height="344" src="http://www.youtube.com/v/JwNDMdrqKcc&hl=en&fs=1" type="application/x-shockwave-flash" width="425"></embed></object>
-
-<div></div>[  
-![Digg!](http://digg.com/img/badges/100x20-digg-button.gif)  ](http://digg.com/)
-
-</div>

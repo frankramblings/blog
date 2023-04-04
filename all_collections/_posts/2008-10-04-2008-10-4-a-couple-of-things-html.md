@@ -11,7 +11,7 @@ categories:
     - Opinion
 ---
 
-<div src="v5">At this moment I will do anything to avoid studying for this ethics   
+At this moment I will do anything to avoid studying for this ethics   
 midterm. Part one is on Monday. It’s on terms and definitions. The   
 prof refused to specify whether it would be written, multiple choice,   
 or something else. He’s kind of annoying like that. So I think I’ll   
@@ -54,8 +54,3 @@ right direction.
 Peace.  
 —  
 Sent from my iPod Touch
-
-[  
-![Digg!](http://digg.com/img/badges/100x20-digg-button.gif)  ](http://digg.com/)
-
-</div>
