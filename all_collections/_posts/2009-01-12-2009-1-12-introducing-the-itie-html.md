@@ -13,10 +13,8 @@ categories:
     - Technology
 ---
 
-<div src="v5">I saw this posted on Twitter at <http://twitter.com/fforward>. I simply must have this tie! [![](http://bookofjoe.typepad.com/photos/uncategorized/2009/01/09/2sdrtfy.jpg)](http://bookofjoe.typepad.com/photos/uncategorized/2009/01/09/2sdrtfy.jpg)
+I saw this posted on Twitter at <http://twitter.com/fforward>. I simply must have this tie! 
 
-<http://bookofjoe.typepad.com/bookofjoe/2009/01/best-tie-of-the.html>
+![ ](http://bookofjoe.typepad.com/photos/uncategorized/2009/01/09/2sdrtfy.jpg)
 
-[![Digg!](http://digg.com/img/badges/100x20-digg-button.gif)  ](http://digg.com/)
-
-</div>
+[Best tie of the year](http://bookofjoe.typepad.com/bookofjoe/2009/01/best-tie-of-the.html)

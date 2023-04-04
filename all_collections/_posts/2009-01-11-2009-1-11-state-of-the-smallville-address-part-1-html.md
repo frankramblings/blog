@@ -14,7 +14,9 @@ categories:
     - TV
 ---
 
-<div src="v5"><span style="color: rgb(255, 0, 0);">WARNING: SPOILER CROSSING AHEAD! PROCEED AT YOUR OWN PERIL!</span>Madam and Messrs Show Runners, distinguished guests, and fellow fans: it is once again that time of year when we gather to discuss the state of <span style="font-style: italic;">Smallville</span>. Yes, you guessed it: it’s Winter Hiatus time.
+*WARNING: SPOILER CROSSING AHEAD! PROCEED AT YOUR OWN PERIL!*
+
+Madam and Messrs Show Runners, distinguished guests, and fellow fans: it is once again that time of year when we gather to discuss the state of *Smallville*. Yes, you guessed it: it’s Winter Hiatus time.
 
 So what happened this season? Well, we saw Clark return powerless from a Russian work camp to save Chloe from a LuthorCorp facility where she was held prisoner. After a fatal run-in with a drugged Green Arrow, Clark was revived by J’onn J’onzz, who sacrificed his powers to bring Clark back to life. Lex went missing, but his *protégé* Tess Mercer took over as acting CEO of the company and all its subsidiaries. She proved to be almost as bad as her mentor, gathering superpowered individuals including DC Comics villain Plastique in an effort to form a team to do her dirty work. Oliver Queen and his band of merry do-gooders temporarily parted ways to avoid detection after being identified by Lex’s henchmen. Oliver stayed in Metropolis, however, and proved to be an invaluable help to Clark.
 
@@ -28,8 +30,4 @@ Then it finally came time for the wedding of Chloe and Jimmy. They had both the 
 
 An exciting half-season to be sure! So much happened to our characters in just a few short months. This season has been the best since Season 3, in my opinion. While 5, 6, and 7 were great (note the omission of 4), Season 8 has been much more consistent on a level not seen since Season 3.
 
-So that’s what happened in the first half of Season 8. Tune in next time for spoiler-free look to the future
-
-[![Digg!](http://digg.com/img/badges/100x20-digg-button.gif)  ](http://digg.com/)
-
-</div>
+So that’s what happened in the first half of Season 8. Tune in next time for spoiler-free look to the future.

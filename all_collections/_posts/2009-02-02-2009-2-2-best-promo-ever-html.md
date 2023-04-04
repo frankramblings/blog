@@ -13,8 +13,5 @@ categories:
     - TV
 ---
 
-<div src="v5">You have to watch this. You don’t have a choice. Period.  
-<embed allowfullscreen="true" allowscriptaccess="always" height="360" src="http://blip.tv/play/gcN76foxhPpK" type="application/x-shockwave-flash" width="440"></embed>[  
-![Digg!](http://digg.com/img/badges/100x20-digg-button.gif)  ](http://digg.com/)
-
-</div>
+You have to watch this. You don’t have a choice. Period.  
+<embed allowfullscreen="true" allowscriptaccess="always" height="360" src="http://blip.tv/play/gcN76foxhPpK" type="application/x-shockwave-flash" width="440"></embed>

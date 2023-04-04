@@ -13,6 +13,6 @@ categories:
     - Opinion
 ---
 
-<div src="v5">Wow, I certainly wasn’t expecting this. DC Comics has put together a video trailer for their upcoming maxi-series “Superman: World of New Krypton.” At first I was extremely skeptical about this book, almost to the point of refusing to read it, but NY Comic Con turned that around for me. Now I can’t wait to pick it up when it starts coming out! <object height="295" width="480"><param name="movie" value="http://www.youtube.com/v/bau7zWFJRHw&hl=en&fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed allowfullscreen="true" allowscriptaccess="always" height="295" src="http://www.youtube.com/v/bau7zWFJRHw&hl=en&fs=1" type="application/x-shockwave-flash" width="480"></embed></object>
+Wow, I certainly wasn’t expecting this. DC Comics has put together a video trailer for their upcoming maxi-series “Superman: World of New Krypton.” At first I was extremely skeptical about this book, almost to the point of refusing to read it, but NY Comic Con turned that around for me. Now I can’t wait to pick it up when it starts coming out! 
 
-</div>
+<object height="295" width="480"><param name="movie" value="http://www.youtube.com/v/bau7zWFJRHw&hl=en&fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed allowfullscreen="true" allowscriptaccess="always" height="295" src="http://www.youtube.com/v/bau7zWFJRHw&hl=en&fs=1" type="application/x-shockwave-flash" width="480"></embed></object>

@@ -16,6 +16,5 @@ categories:
 ---
 
 <div src="v5"><object height="225" width="400"><param name="allowfullscreen" value="true"></param><param name="allowscriptaccess" value="always"></param><param name="movie" value="http://vimeo.com/moogaloop.swf?clip_id=2809991&server=vimeo.com&show_title=1&show_byline=1&show_portrait=0&color=&fullscreen=1"></param><embed allowfullscreen="true" allowscriptaccess="always" height="225" src="http://vimeo.com/moogaloop.swf?clip_id=2809991&server=vimeo.com&show_title=1&show_byline=1&show_portrait=0&color=&fullscreen=1" type="application/x-shockwave-flash" width="400"></embed></object>  
-[Star Wars: Retold (by someone who hasn’t seen it)](http://vimeo.com/) from [Joe Nicolosi](http://vimeo.com/user759504) on [Vimeo](http://vimeo.com). [![Digg!](http://digg.com/img/badges/100x20-digg-button.gif)  ](http://digg.com/)
 
-</div>
+[Star Wars: Retold (by someone who hasn’t seen it)](http://vimeo.com/) from [Joe Nicolosi](http://vimeo.com/user759504) on [Vimeo](http://vimeo.com). 
