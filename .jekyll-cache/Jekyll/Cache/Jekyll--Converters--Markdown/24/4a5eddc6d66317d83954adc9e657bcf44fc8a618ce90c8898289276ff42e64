@@ -1,59 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-  <meta charset="UTF-8" />
-  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>frank ramblings | iPhones and Droids and Macs and PCs OH MY!</title>
-  
-  <link rel="stylesheet" href="/blog/assets/css/main.css" />
-  <link rel="stylesheet" href="/blog/assets/css/post.css" />
-  <link rel="stylesheet" href="/blog/assets/css/syntax.css" />
-  
-  <link rel="stylesheet" href="/blog/assets/css/common.css" />
-  <script src="/blog/assets/js/categories.js"></script>
-  
-  <script defer src="/blog/assets/js/lbox.js"></script>
-  
-</head>
-
-  <body>
-    <main class="blogfeed">
-      
-<header>
-  <a class="site-title article-page" href="/blog/">frank ramblings</a>
-</header>
-
-
-      <section id="article">
-        
-        <!--  -->
-        
-        <!--  -->
-        
-        <div
-          class="article-thumbnail"
-          style="
-            background-image: url('/blog//assets/images/pattern.png');
-          "
-        >
-          <h1 class="article-title">iPhones and Droids and Macs and PCs OH MY!</h1>
-          <div class="article-bottom">
-            <small class="article-date">07 Jan 2010</small>
-            <div class="article-categories">
-              
-              <a href="#!" class="article-category">Current Events</a>
-              
-              <a href="#!" class="article-category">Geek Culture</a>
-              
-              <a href="#!" class="article-category">Opinion</a>
-              
-              <a href="#!" class="article-category">Technology</a>
-              
-            </div>
-          </div>
-        </div>
-        <div class="article-content"><p>Almost three years ago, Apple really gave the smartphone market a jumpstart with the iPhone. Since then, the iPhone has completely changed the public’s idea of a smartphone. Long gone are the days of the Treo. In the last year, Google has thrown their hat into the ring with their Android operating system. First there was the Android G1, and then more recently the Droid, with some less noteworthy phones in between. Earlier this week, the first Google-branded phone was unveiled: the Nexus One. This phone is available “unlocked,” which means that you can buy it directly from Google and use it with your existing cell plan (though it’s not available on all carriers), or you can buy the phone at a lower price with a contract from your cell provider. The big question on everyone’s mind is whether Android can be an “iPhone killer.” Many thought the Palm Pre would be the phone to slow Apple’s iPhone momentum, but six months after its release, it seems the Pre was nothing but a blip on the tech radar. In the last few months, especially since the release of the Droid and Android version 2.0, Google has begun gaining a lot of ground in the battle.</p>
+I"�<p>Almost three years ago, Apple really gave the smartphone market a jumpstart with the iPhone. Since then, the iPhone has completely changed the public’s idea of a smartphone. Long gone are the days of the Treo. In the last year, Google has thrown their hat into the ring with their Android operating system. First there was the Android G1, and then more recently the Droid, with some less noteworthy phones in between. Earlier this week, the first Google-branded phone was unveiled: the Nexus One. This phone is available “unlocked,” which means that you can buy it directly from Google and use it with your existing cell plan (though it’s not available on all carriers), or you can buy the phone at a lower price with a contract from your cell provider. The big question on everyone’s mind is whether Android can be an “iPhone killer.” Many thought the Palm Pre would be the phone to slow Apple’s iPhone momentum, but six months after its release, it seems the Pre was nothing but a blip on the tech radar. In the last few months, especially since the release of the Droid and Android version 2.0, Google has begun gaining a lot of ground in the battle.</p>
 
 <p>But hold on a minute, haven’t we seen this story somewhere before? Think about it. In one corner, we have Apple developing not just the OS, but the phone hardware to go with it. And in the other corner, there’s Google, who is developing the OS and making it available to any manufacturer willing to license it. (Yes, the Nexus One is Google-branded, but it is actually manufactured by HTC <em>for</em> Google.) To me, this seems awfully similar to the Mac vs. PC debate. Apple makes both Macintosh hardware and the Mac OS, while Microsoft only makes Windows (and other software) and licenses it out to manufacturers. In the case of Mac/PC, there is arguably no real winner. Windows enjoys greater market share at a lower price point, but Apple offers a more aesthetically pleasing environment and better customer support. Apple was out of the game for a good portion of the 1990s, but since Steve Jobs’s return, the company has been on a giant upswing. Many Windows users are making the jump to Mac because to them, the ease of use and quality of Apple products outweighs the (outrageous) price tag.</p>
 
@@ -64,18 +9,4 @@
 <p>Still, there is something to be said for hardware options. When you get an iPhone, you only have a choice between the 3G or the faster 3GS. And you’re stuck with AT&amp;T. When you opt for an Android phone, you have a wide range of options before you. The Droid offers both an on-screen keyboard as well as a physical one, but the Droid Eris only has the on-screen one. Some phones offer multi-touch, others don’t. You can pick the phone that’s right for you, on the network that works best for you, whether it’s AT&amp;T, Verizon, T-Mobile, or Sprint.</p>
 
 <p>I’ve wanted an iPhone since the day it was announced, but I just can’t afford a data plan right now. On the other hand, I wasn’t really excited about Android at first, but the increase in positive feedback since the Droid’s release has me very interested now, especially in the Eris and Nexus One, though again I wouldn’t be able to afford the data plan. While Apple has a bigger App Store, I think Android’s open nature could allow for all sorts of apps that Apple would never approve under the current model. I expect Android will continue to grow as a greater variety of phones running the platform become available. It might even dominate the smartphone market for some time. But I’m sure Apple has something up its sleeve with the next iPhone model, whatever it may be. And eventually, just as many people are abandoning their Windows PCs for Macs, I think we might see Android fall out of favor in a couple of years as the public turns back to Apple. But we shall see. The smartphone is still in its early stages. This week at the Consumer Electronics Show in Las Vegas, many new Android models will undoubtedly be introduced. How successful they will be is still a mystery. The really interesting discussions will come about a year from now when significant hardware and software modifications have been made to both iPhones and Android phones and few ideas have been shared (or stolen). At that time, we’ll have a much clearer picture of the better phone. Right now, I’m just glad to see that Apple finally has some serious competition in the smartphone market and I will eagerly and attentively continue to watch how the battle unfolds.</p>
-</div>
-      </section>
-      <footer>
-  <p>&copy; 2008 - 2023 | frank ramblings</p>
-</footer>
-
-    </main>
-    <section id="category-modal-bg"></section>
-<section id="category-modal">
-  <h1 id="category-modal-title"></h1>
-  <section id="category-modal-content"></section>
-</section>
-
-  </body>
-</html>
+:ET
