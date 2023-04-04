@@ -16,4 +16,4 @@ categories:
 
 In my first video blog, I talk about the iPad and why I want one, despite the recent negativity.
 
-Posted via web](http://posterous.com) from [Dr. Frank Ramblings, Ph.D.’s posterous](http://frankramblings.posterous.com/why-i-want-an-ipad-0)
+[Posted via web](http://posterous.com) from [Dr. Frank Ramblings, Ph.D.’s posterous](http://frankramblings.posterous.com/why-i-want-an-ipad-0)
