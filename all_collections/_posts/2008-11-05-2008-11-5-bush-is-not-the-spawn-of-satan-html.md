@@ -6,6 +6,7 @@ author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=56'
 permalink: /2008/11/05/bush-is-not-the-spawn-of-satan-html/
+hidden: true
 categories:
     - 'Current Events'
     - Life

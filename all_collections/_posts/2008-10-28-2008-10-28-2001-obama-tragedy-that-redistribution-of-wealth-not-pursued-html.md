@@ -6,6 +6,7 @@ author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=44'
 permalink: /2008/10/28/2001-obama-tragedy-that-redistribution-of-wealth-not-pursued-html/
+hidden: true
 categories:
     - 'Current Events'
     - Life

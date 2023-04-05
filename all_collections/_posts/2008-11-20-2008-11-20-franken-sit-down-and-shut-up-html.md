@@ -6,6 +6,7 @@ author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=67'
 permalink: /2008/11/20/franken-sit-down-and-shut-up-html/
+hidden: true
 categories:
     - 'Current Events'
     - News

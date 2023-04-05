@@ -6,6 +6,7 @@ author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=42'
 permalink: /2008/10/26/biden-angered-by-tough-questions-html/
+hidden: true
 categories:
     - 'Current Events'
     - News

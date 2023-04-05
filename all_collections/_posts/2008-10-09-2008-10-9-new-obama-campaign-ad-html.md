@@ -6,6 +6,7 @@ author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=112'
 permalink: /2008/10/09/new-obama-campaign-ad-html/
+hidden: true
 categories:
     - 'Current Events'
     - News

@@ -6,6 +6,7 @@ author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=48'
 permalink: /2008/10/30/raymond-arroyo-on-the-election-html/
+hidden: true
 categories:
     - 'Current Events'
     - Life
@@ -13,7 +14,7 @@ categories:
     - TV
 ---
 
-aymond Arroyo, author of three New York Times Best Sellers and News Director [EWTN](http://www.ewtn.com/) News had this to say on Friday Oct. 24 on his weekly [EWTN](http://www.ewtn.com/) program *The World Over Live*:
+Raymond Arroyo, author of three New York Times Best Sellers and News Director [EWTN](http://www.ewtn.com/) News had this to say on Friday Oct. 24 on his weekly [EWTN](http://www.ewtn.com/) program *The World Over Live*:
 
 <embed allowscriptaccess="always" flashvars="valid_sample_rate=true&external_url=http://frankpodcast.podomatic.com/enclosure/2008-10-29T20_14_52-07_00.mp3" height="52" pluginspage="http://www.macromedia.com/go/getflashplayer" quality="high" src="http://www.odeo.com/flash/audio_player_standard_gray.swf" type="application/x-shockwave-flash" width="300" wmode="transparent"></embed>  
 

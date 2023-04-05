@@ -5,7 +5,7 @@
     <main class="blogfeed">
       {% include header.html %} {% include bio.html %}
       <section id="articles">
-        {% for post in site.posts %}
+        {% for post in paginator.posts %}
         <!--  -->
         {% if post.thumbnail %}
         <article class="article">
@@ -64,8 +64,29 @@
         </article>
         {% endif %}
       </section>
+      
       {% endfor %}
       <!--  -->
+      <!-- Pagination links -->
+{% if paginator.total_pages > 1 %}
+<div class="pagination" style="text-align: center">
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path | relative_url }}">&laquo; Prev</a>
+  {% else %}
+    <span>&laquo; Prev</span>
+  {% endif %}
+  
+    <span class="page_number ">
+    Page: {{ paginator.page }} / {{ paginator.total_pages }}
+  </span>
+  
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path | relative_url }}">Next &raquo;</a>
+  {% else %}
+    <span>Next &raquo;</span>
+  {% endif %}
+</div>
+{% endif %}
       {% include footer.html %}
     </main>
     {% include category-modal.html%}

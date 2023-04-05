@@ -6,6 +6,7 @@ author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=39'
 permalink: /2008/10/20/biden-opens-mouth-inserts-foot-html/
+hidden: true
 categories:
     - Uncategorized
 ---

@@ -6,6 +6,7 @@ author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=58'
 permalink: /2008/11/06/biggest-post-election-stock-plummet-in-history-html/
+hidden: true
 categories:
     - 'Current Events'
     - Life

@@ -6,6 +6,7 @@ author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=53'
 permalink: /2008/11/04/black-panthers-intimidate-philly-voters-in-effort-to-steal-e-html/
+hidden: true
 categories:
     - 'Current Events'
     - Life

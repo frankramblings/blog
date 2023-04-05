@@ -6,6 +6,7 @@ author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=41'
 permalink: /2008/10/24/chistmas-censorship-came-early-this-year-html/
+hidden: true
 categories:
     - 'Current Events'
     - Life

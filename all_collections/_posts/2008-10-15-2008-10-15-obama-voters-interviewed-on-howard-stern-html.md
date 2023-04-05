@@ -6,6 +6,7 @@ author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=29'
 permalink: /2008/10/15/obama-voters-interviewed-on-howard-stern-html/
+hidden: true
 categories:
     - 'Current Events'
     - News
