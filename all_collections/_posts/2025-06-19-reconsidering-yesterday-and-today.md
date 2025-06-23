@@ -38,5 +38,5 @@ In retrospect, it's kind of a lost artifact. A weird little bridge between Beatl
 Was it assembled for artistic reasons? Absolutely not. It’s a corporate cash grab at best. But I have to admit it’s *kind of a vibe*.
 
 ---
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RbDByG3h0LA?si=iK1uxq57ifUHCvGe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RbDByG3h0LA?si=iK1uxq57ifUHCvGe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></center>
