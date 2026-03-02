@@ -7,7 +7,7 @@ excerpt: 'I built SocialFusion to merge Mastodon and Bluesky into one iOS timeli
 layout: post
 guid: 'https://www.frankramblings.com/?p=498'
 permalink: /2026/03/02/the-social-web-split-up-your-timeline-doesnt-have-to/
-thumbnail: "/assets/images/2026/03/socialfusion-timeline.png"
+thumbnail: "/assets/images/2026/03/banner.jpg"
 categories:
 - Tech
 - Social Media
