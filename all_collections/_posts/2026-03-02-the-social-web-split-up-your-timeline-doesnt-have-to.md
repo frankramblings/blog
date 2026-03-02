@@ -20,16 +20,18 @@ tags:
 - 'indie app'
 ---
 
-There was a stretch where Twitter was *the* internet town square. Messy, fun, chaotic — but central.
+There was a stretch where Twitter was *the* internet town square. Messy, fun, chaotic, but central.
 
-Then came the Elon era, API changes, and the great scattering.
+Then came the Great Scattering of 2022.
 People moved. Communities split. Timelines fractured.
 
 Some of us went to Mastodon.
 Some to Bluesky.
 Some to Threads, Nostr, and everything else.
 
-Now we all do this weird daily ritual: open one app, scroll, close, open another app, scroll, repeat.
+Most gave up.
+
+The rest of us do this weird daily ritual: open one app, scroll, close, open another app, scroll, repeat.
 
 ## The real problem isn’t “which platform wins”
 
@@ -39,7 +41,7 @@ Some post in both places, but not always the same stuff.
 
 So every day feels like checking two different versions of the same party.
 
-You don’t just miss posts — you miss context.
+You don’t just miss posts, you miss context.
 One conversation happens over here, another happens over there, and your brain is constantly stitching them back together.
 
 It’s exhausting.
@@ -70,7 +72,7 @@ Bluesky has speed and familiarity.
 Mastodon has federation and stronger community texture.
 
 They’re different. They’re both useful.
-SocialFusion isn’t trying to pick a winner — it just makes living in both worlds less annoying.
+SocialFusion isn’t trying to pick a winner, it just makes living in both worlds less annoying.
 
 Also:
 
