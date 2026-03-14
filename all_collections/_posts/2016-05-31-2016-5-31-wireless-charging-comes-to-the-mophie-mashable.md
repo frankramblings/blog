@@ -8,7 +8,7 @@ guid: 'https://34.95.34.211/?p=275'
 permalink: /2016/5/31/wireless-charging-comes-to-the-mophie-mashable/
 passthrough_url:
     - 'http://mashable.com/2016/05/31/mophie-juice-pack-wireless/'
-thumbnail: "/assets/images/2016/05/image-asset.jpg"
+image: "/assets/images/2016/05/image-asset.jpg"
 categories:
     - Links
     - Technology

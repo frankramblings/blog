@@ -8,7 +8,7 @@ guid: 'https://34.95.34.211/?p=361'
 permalink: /2016/10/26/supergirl-tv-talk-2x03-welcome-to-earth/
 passthrough_url:
     - 'http://www.supergirltvtalk.com/2016/10/2x03-welcome-to-earth.html'
-thumbnail: "/assets/images/stvt-banner.jpg"
+image: "/assets/images/stvt-banner.jpg"
 categories:
     - Podcasts
     - 'Supergirl TV Talk'

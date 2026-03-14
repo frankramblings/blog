@@ -8,7 +8,7 @@ guid: 'https://34.95.34.211/?p=385'
 permalink: /2016/11/10/snapchat-will-sell-its-spectacles-at-pop-up-vending-machines/
 passthrough_url:
     - ''
-thumbnail: "/assets/images/2016/11/IMG_3493.jpg"
+image: "/assets/images/2016/11/IMG_3493.jpg"
 categories:
     - Links
 ---

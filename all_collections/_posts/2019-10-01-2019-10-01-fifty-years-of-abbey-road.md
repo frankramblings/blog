@@ -7,7 +7,7 @@ excerpt: 'The new mix of “Abbey Road” is fresh and fantastic. It’s like he
 layout: post
 guid: 'https://34.95.34.211/?p=496'
 permalink: /2019/10/01/fifty-years-of-abbey-road/
-thumbnail: "/assets/images/2019/10/public.jpeg"
+image: "/assets/images/2019/10/public.jpeg"
 
 categories:
     - Beatles

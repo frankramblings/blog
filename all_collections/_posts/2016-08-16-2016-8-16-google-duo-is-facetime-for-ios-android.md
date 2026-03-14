@@ -8,7 +8,7 @@ guid: 'https://34.95.34.211/?p=318'
 permalink: /2016/8/16/google-duo-is-facetime-for-ios-android/
 passthrough_url:
     - 'https://googleblog.blogspot.com/2016/08/meet-google-duo-simple-1-to-1-video.html'
-thumbnail: "/assets/images/2016/08/image-asset.png"
+image: "/assets/images/2016/08/image-asset.png"
 categories:
     - Links
 ---

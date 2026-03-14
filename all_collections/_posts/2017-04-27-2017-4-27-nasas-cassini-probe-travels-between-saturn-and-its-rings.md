@@ -8,7 +8,7 @@ guid: 'https://34.95.34.211/?p=468'
 permalink: /2017/4/27/nasas-cassini-probe-travels-between-saturn-and-its-rings/
 passthrough_url:
     - 'http://www.theverge.com/2017/4/27/15447412/nasa-cassini-saturn-ring-dive-mission'
-thumbnail: "/assets/images/2017/04/image-asset.jpeg"
+image: "/assets/images/2017/04/image-asset.jpeg"
 categories:
     - Links
     - Science

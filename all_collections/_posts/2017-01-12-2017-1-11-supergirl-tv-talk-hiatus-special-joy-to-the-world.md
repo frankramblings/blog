@@ -8,7 +8,7 @@ guid: 'https://34.95.34.211/?p=430'
 permalink: /2017/1/12/supergirl-tv-talk-hiatus-special-joy-to-the-world/
 passthrough_url:
     - 'http://www.supergirltvtalk.com/2017/01/hiatus-special-joy-to-world.html'
-thumbnail: "/assets/images/stvt-banner.jpg"
+image: "/assets/images/stvt-banner.jpg"
 categories:
     - Podcasts
     - 'Supergirl TV Talk'

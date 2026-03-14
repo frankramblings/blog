@@ -8,7 +8,7 @@ guid: 'https://34.95.34.211/?p=454'
 permalink: /2017/2/8/2x11-the-martian-chronicles/
 passthrough_url:
     - 'http://www.supergirltvtalk.com/2017/02/2x11-martian-chronicles.html'
-thumbnail: "/assets/images/2017/02/lego-coverart-twittercard.jpg"
+image: "/assets/images/2017/02/lego-coverart-twittercard.jpg"
 categories:
     - Podcasts
     - 'Supergirl TV Talk'

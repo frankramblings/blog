@@ -7,7 +7,7 @@ excerpt: 'The 2017 "Sgt. Pepper’s" reissue brings the classic album to life li
 layout: post
 guid: 'https://34.95.34.211/?p=474'
 permalink: /2017/5/29/fifty-years-with-sgt-pepper/
-thumbnail: "/assets/images/2017/05/image-asset.jpeg"
+image: "/assets/images/2017/05/image-asset.jpeg"
 categories:
     - Beatles
     - Music

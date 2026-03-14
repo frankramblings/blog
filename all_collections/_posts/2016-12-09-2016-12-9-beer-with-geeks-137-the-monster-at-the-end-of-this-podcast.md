@@ -8,7 +8,7 @@ guid: 'https://34.95.34.211/?p=409'
 permalink: /2016/12/9/beer-with-geeks-137-the-monster-at-the-end-of-this-podcast/
 passthrough_url:
     - 'http://www.beerwithgeeks.com/2016/12/137-monster-at-end-of-this-podcast.html'
-thumbnail: "/assets/images/beerwithgeeks-banner.jpg"
+image: "/assets/images/beerwithgeeks-banner.jpg"
 categories:
     - 'Beer With Geeks'
     - Podcasts

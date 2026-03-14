@@ -8,7 +8,7 @@ guid: 'https://34.95.34.211/?p=413'
 permalink: /2016/12/16/beer-with-geeks-138-mini-horsepower/
 passthrough_url:
     - 'http://www.beerwithgeeks.com/2016/12/138-mini-horsepower.html'
-thumbnail: "/assets/images/beerwithgeeks-banner.jpg"
+image: "/assets/images/beerwithgeeks-banner.jpg"
 categories:
     - 'Beer With Geeks'
     - Podcasts

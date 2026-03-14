@@ -6,7 +6,7 @@ author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=294'
 permalink: /2016/7/15/beer-with-geeks-115-im-a-lyin-king/
-thumbnail: "/assets/images/beerwithgeeks-banner.jpg"
+image: "/assets/images/beerwithgeeks-banner.jpg"
 categories:
     - 'Beer With Geeks'
     - Podcasts

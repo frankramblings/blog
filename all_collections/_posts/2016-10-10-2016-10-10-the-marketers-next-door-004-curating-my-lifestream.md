@@ -8,7 +8,7 @@ guid: 'https://34.95.34.211/?p=347'
 permalink: /2016/10/10/the-marketers-next-door-004-curating-my-lifestream/
 passthrough_url:
     - 'http://www.marketersnextdoor.com/2016/10/004-curating-my-lifestream.html'
-thumbnail: "/assets/images/mnd-banner.jpg"
+image: "/assets/images/mnd-banner.jpg"
 categories:
     - Podcasts
     - 'The Marketers Next Door'

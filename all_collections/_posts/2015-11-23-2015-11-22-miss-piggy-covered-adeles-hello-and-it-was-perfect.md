@@ -10,7 +10,7 @@ passthrough_url:
     - 'https://www.youtube.com/watch?v=h7Q5gcScKa8'
 structured_content:
     - '{"oembed":{},"overlay":true}'
-thumbnail: "/assets/images/2015/11/img.gif"
+image: "/assets/images/2015/11/img.gif"
 categories:
     - Links
 ---

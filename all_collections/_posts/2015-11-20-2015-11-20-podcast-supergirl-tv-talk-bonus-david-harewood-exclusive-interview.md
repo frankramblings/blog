@@ -8,7 +8,7 @@ guid: 'https://34.95.34.211/?p=164'
 permalink: /2015/11/20/podcast-supergirl-tv-talk-bonus-david-harewood-exclusive-interview/
 passthrough_url:
     - 'http://www.supergirltvtalk.com/2015/11/bonus-david-harewood-exclusive-interview.html'
-thumbnail: "/assets/images/stvt-banner.jpg"
+image: "/assets/images/stvt-banner.jpg"
 categories:
     - Podcasts
     - 'Supergirl TV Talk'

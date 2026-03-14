@@ -8,7 +8,7 @@ guid: 'https://34.95.34.211/?p=345'
 permalink: /2016/10/7/beer-with-geeks-128-zorro-was-here/
 passthrough_url:
     - 'http://www.beerwithgeeks.com/2016/10/128-zorro-was-here.html'
-thumbnail: "/assets/images/beerwithgeeks-banner.jpg"
+image: "/assets/images/beerwithgeeks-banner.jpg"
 categories:
     - 'Beer With Geeks'
     - Podcasts

@@ -8,7 +8,7 @@ guid: 'https://34.95.34.211/?p=186'
 permalink: /2015/11/17/podcast-supergirl-tv-talk-1x04-livewire/
 passthrough_url:
     - 'http://www.supergirltvtalk.com/2015/11/1x04-livewire.html'
-thumbnail: "/assets/images/stvt-banner.jpg"
+image: "/assets/images/stvt-banner.jpg"
 categories:
     - Podcasts
     - 'Supergirl TV Talk'

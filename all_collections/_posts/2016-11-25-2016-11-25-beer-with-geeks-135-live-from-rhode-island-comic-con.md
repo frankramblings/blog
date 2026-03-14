@@ -8,7 +8,7 @@ guid: 'https://34.95.34.211/?p=395'
 permalink: /2016/11/25/beer-with-geeks-135-live-from-rhode-island-comic-con/
 passthrough_url:
     - 'http://www.beerwithgeeks.com/2016/11/135-live-from-rhode-island-comic-con.html'
-thumbnail: "/assets/images/beerwithgeeks-banner.jpg"
+image: "/assets/images/beerwithgeeks-banner.jpg"
 categories:
     - 'Beer With Geeks'
     - Podcasts

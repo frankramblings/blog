@@ -8,7 +8,7 @@ guid: 'https://34.95.34.211/?p=383'
 permalink: /2016/11/18/beer-with-geeks-134-no-fighting-in-the-war-room/
 passthrough_url:
     - 'http://www.beerwithgeeks.com/2016/11/134-no-fighting-in-war-room.html'
-thumbnail: "/assets/images/beerwithgeeks-banner.jpg"
+image: "/assets/images/beerwithgeeks-banner.jpg"
 categories:
     - 'Beer With Geeks'
     - Podcasts

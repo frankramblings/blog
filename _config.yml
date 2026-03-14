@@ -15,7 +15,7 @@ plugins:
   - jekyll-paginate
 
 baseurl: "/blog" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://frankramblings.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 #  pagination
 paginate: 5
@@ -34,6 +34,7 @@ defaults:
     values:
       layout: "post"
       permalink: /posts/:title/
+      image: /assets/images/pattern.png
   - scope:
       path: "/assets/images"
     values:

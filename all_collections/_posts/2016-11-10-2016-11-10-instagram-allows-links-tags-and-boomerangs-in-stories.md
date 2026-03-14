@@ -6,7 +6,7 @@ author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=387'
 permalink: /2016/11/10/instagram-allows-links-tags-and-boomerangs-in-stories/
-thumbnail: "/assets/images/2016/11/image-asset.jpg"
+image: "/assets/images/2016/11/image-asset.jpg"
 categories:
     - Links
 ---

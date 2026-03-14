@@ -8,7 +8,7 @@ guid: 'https://34.95.34.211/?p=349'
 permalink: /blog/2016/10/11/2016-10-11-twitters-debate-streaming-audience-grew-as-tv-slumped/
 passthrough_url:
     - 'http://blogs.wsj.com/washwire/2016/10/11/twitters-debate-streaming-audience-grew-as-tv-slumped/'
-thumbnail: "/assets/images/2016/10/BN-QE987_Trumpd_M_201610111124465B15D.jpg"
+image: "/assets/images/2016/10/BN-QE987_Trumpd_M_201610111124465B15D.jpg"
 categories:
     - Links
     - 'Social Media'

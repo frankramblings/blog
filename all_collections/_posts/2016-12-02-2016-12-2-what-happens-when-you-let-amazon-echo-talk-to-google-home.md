@@ -8,7 +8,7 @@ guid: 'https://34.95.34.211/?p=401'
 permalink: /2016/12/2/what-happens-when-you-let-amazon-echo-talk-to-google-home/
 passthrough_url:
     - 'http://www.loopinsight.com/2016/12/02/what-happens-when-you-let-amazon-echo-talk-to-google-home/'
-thumbnail: "/assets/images/2016/12/Untitled.png"
+image: "/assets/images/2016/12/Untitled.png"
 categories:
     - Links
     - Technology

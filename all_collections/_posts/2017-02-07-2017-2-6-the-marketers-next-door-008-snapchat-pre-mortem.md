@@ -8,7 +8,7 @@ guid: 'https://34.95.34.211/?p=452'
 permalink: /2017/2/7/the-marketers-next-door-008-snapchat-pre-mortem/
 passthrough_url:
     - 'http://www.marketersnextdoor.com/2017/02/008-snapchat-pre-mortem.html'
-thumbnail: "/assets/images/mnd-banner.jpg"
+image: "/assets/images/mnd-banner.jpg"
 categories:
     - Podcasts
     - 'The Marketers Next Door'

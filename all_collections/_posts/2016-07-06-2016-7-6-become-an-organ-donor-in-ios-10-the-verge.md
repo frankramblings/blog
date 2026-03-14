@@ -8,7 +8,7 @@ guid: 'https://34.95.34.211/?p=286'
 permalink: /2016/7/6/become-an-organ-donor-in-ios-10-the-verge/
 passthrough_url:
     - 'http://www.theverge.com/2016/7/5/12095924/ios-10-beta-organ-donor-registration-apple'
-thumbnail: "/assets/images/2016/07/iOS-10-Health-Organ-Donor-teaser-silver-iPhone-screenshot-001.png"
+image: "/assets/images/2016/07/iOS-10-Health-Organ-Donor-teaser-silver-iPhone-screenshot-001.png"
 categories:
     - Links
     - Technology

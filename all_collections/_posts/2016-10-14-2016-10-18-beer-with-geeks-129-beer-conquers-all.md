@@ -8,7 +8,7 @@ guid: 'https://34.95.34.211/?p=355'
 permalink: /2016/10/14/beer-with-geeks-129-beer-conquers-all/
 passthrough_url:
     - 'http://www.beerwithgeeks.com/2016/10/129-beer-conquers-all.html'
-thumbnail: "/assets/images/beerwithgeeks-banner.jpg"
+image: "/assets/images/beerwithgeeks-banner.jpg"
 categories:
     - 'Beer With Geeks'
     - Podcasts

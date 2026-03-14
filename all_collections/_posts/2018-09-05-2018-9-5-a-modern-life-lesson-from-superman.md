@@ -6,7 +6,7 @@ author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=490'
 permalink: /2018/9/5/a-modern-life-lesson-from-superman/
-thumbnail: "/assets/images/2018/09/superman1.jpg"
+image: "/assets/images/2018/09/superman1.jpg"
 categories:
     - 'Comic Books'
     - micro.blog

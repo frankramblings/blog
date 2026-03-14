@@ -6,7 +6,7 @@ author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=444'
 permalink: /2017/1/25/supergirl-tv-talk-2x09-supergirl-lives/
-thumbnail: "/assets/images/stvt-banner.jpg"
+image: "/assets/images/stvt-banner.jpg"
 categories:
     - Podcasts
     - 'Supergirl TV Talk'

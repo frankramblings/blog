@@ -8,7 +8,7 @@ guid: 'https://34.95.34.211/?p=363'
 permalink: /2016/10/27/facebook-advertising-advice-10-tips-from-experts/
 passthrough_url:
     - 'http://blog.hubspot.com/marketing/facebook-advertising-tips'
-thumbnail: "/assets/images/2016/10/facebook-ad-tips[1].jpg"
+image: "/assets/images/2016/10/facebook-ad-tips[1].jpg"
 categories:
     - Advertising
     - Blogging

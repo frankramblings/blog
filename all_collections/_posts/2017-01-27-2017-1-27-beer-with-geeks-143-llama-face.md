@@ -8,7 +8,7 @@ guid: 'https://34.95.34.211/?p=438'
 permalink: /2017/1/27/beer-with-geeks-143-llama-face/
 passthrough_url:
     - 'http://www.beerwithgeeks.com/2017/01/143-llama-face.html'
-thumbnail: "/assets/images/beerwithgeeks-banner.jpg"
+image: "/assets/images/beerwithgeeks-banner.jpg"
 categories:
     - 'Beer With Geeks'
     - Podcasts

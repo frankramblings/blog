@@ -8,7 +8,7 @@ guid: 'https://34.95.34.211/?p=191'
 permalink: /2015/12/4/podcast-beer-with-geeks-084-tim-the-whale/
 passthrough_url:
     - 'http://www.beerwithgeeks.com/2015/12/084-tim-whale.html'
-thumbnail: "/assets/images/beerwithgeeks-banner.jpg"
+image: "/assets/images/beerwithgeeks-banner.jpg"
 categories:
     - 'Beer With Geeks'
     - Podcasts

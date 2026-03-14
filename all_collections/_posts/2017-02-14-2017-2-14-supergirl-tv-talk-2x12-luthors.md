@@ -8,7 +8,7 @@ guid: 'https://34.95.34.211/?p=456'
 permalink: /2017/2/14/supergirl-tv-talk-2x12-luthors/
 passthrough_url:
     - 'http://www.supergirltvtalk.com/2017/02/2x12-luthors.html'
-thumbnail: "/assets/images/stvt-banner.jpg"
+image: "/assets/images/stvt-banner.jpg"
 categories:
     - Podcasts
     - 'Supergirl TV Talk'

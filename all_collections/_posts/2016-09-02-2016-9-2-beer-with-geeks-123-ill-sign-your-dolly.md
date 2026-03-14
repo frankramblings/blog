@@ -9,7 +9,7 @@ guid: 'https://34.95.34.211/?p=320'
 permalink: /2016/9/2/beer-with-geeks-123-ill-sign-your-dolly/
 passthrough_url:
     - 'http://www.beerwithgeeks.com/2016/09/123-ill-sign-your-dolly.html'
-thumbnail: "/assets/images/beerwithgeeks-banner.jpg"
+image: "/assets/images/beerwithgeeks-banner.jpg"
 categories:
     - 'Beer With Geeks'
     - Podcasts

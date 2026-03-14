@@ -8,7 +8,7 @@ guid: 'https://34.95.34.211/?p=195'
 permalink: /2015/12/8/podcast-supergirl-tv-talk-1x07-human-for-a-day/
 passthrough_url:
     - 'http://www.supergirltvtalk.com/2015/12/1x07-human-for-day.html'
-thumbnail: "/assets/images/stvt-banner.jpg"
+image: "/assets/images/stvt-banner.jpg"
 categories:
     - Podcasts
     - 'Supergirl TV Talk'

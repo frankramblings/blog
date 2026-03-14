@@ -7,7 +7,7 @@ excerpt: '<p>If you’ve ever tried to contact a brand or celebrity through soci
 layout: post
 guid: 'https://34.95.34.211/?p=123'
 permalink: /2011/03/25/living-in-garyvees-thank-you-economy-html/
-thumbnail: "/assets/images/2011/03/thank-you-economy-20101018-233635-210x300-1.jpg"
+image: "/assets/images/2011/03/thank-you-economy-20101018-233635-210x300-1.jpg"
 categories:
     - Advertising
     - Facebook

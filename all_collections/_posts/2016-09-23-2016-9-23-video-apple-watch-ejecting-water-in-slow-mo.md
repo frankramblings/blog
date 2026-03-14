@@ -8,7 +8,7 @@ guid: 'https://34.95.34.211/?p=339'
 permalink: /2016/09/23/video-apple-watch-ejecting-water-in-slow-mo/
 passthrough_url:
     - 'https://9to5mac.com/2016/09/23/apple-watch-series-2-water-ejected-from-speakers/'
-thumbnail: "/assets/images/2016/09/water-eject.webp"
+image: "/assets/images/2016/09/water-eject.webp"
 categories:
     - Links
     - Technology

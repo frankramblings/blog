@@ -8,7 +8,7 @@ guid: 'https://34.95.34.211/?p=194'
 permalink: /2015/11/27/podcast-beer-with-geeks-083-jon-peterss-hair/
 passthrough_url:
     - 'http://www.beerwithgeeks.com/2015/11/083-jon-peterss-hair.html'
-thumbnail: "/assets/images/beerwithgeeks-banner.jpg"
+image: "/assets/images/beerwithgeeks-banner.jpg"
 categories:
     - 'Beer With Geeks'
     - Podcasts

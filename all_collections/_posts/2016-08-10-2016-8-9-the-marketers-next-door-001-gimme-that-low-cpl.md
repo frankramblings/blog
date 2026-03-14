@@ -8,7 +8,7 @@ guid: 'https://34.95.34.211/?p=324'
 permalink: /2016/8/10/the-marketers-next-door-001-gimme-that-low-cpl/
 passthrough_url:
     - 'http://www.marketersnextdoor.com/2016/08/001-gimme-that-low-cpl.html'
-thumbnail: "/assets/images/mnd-banner.jpg"
+image: "/assets/images/mnd-banner.jpg"
 categories:
     - Podcasts
     - 'The Marketers Next Door'

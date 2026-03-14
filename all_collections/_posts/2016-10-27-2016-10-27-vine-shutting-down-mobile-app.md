@@ -6,7 +6,7 @@ author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=365'
 permalink: /2016/10/27/vine-shutting-down-mobile-app/
-thumbnail: "/assets/images/2016/10/vine_android_3-786x3055B15D.jpg"
+image: "/assets/images/2016/10/vine_android_3-786x3055B15D.jpg"
 categories:
     - Links
     - 'Social Media'

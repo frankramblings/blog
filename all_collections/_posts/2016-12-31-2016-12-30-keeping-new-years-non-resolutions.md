@@ -6,7 +6,7 @@ author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=415'
 permalink: /2016/12/31/2016-12-30-keeping-new-years-non-resolutions/
-thumbnail: "/assets/images/2016/12/image-asset.jpeg"
+image: "/assets/images/2016/12/image-asset.jpeg"
 categories:
     - Blogging
     - Life

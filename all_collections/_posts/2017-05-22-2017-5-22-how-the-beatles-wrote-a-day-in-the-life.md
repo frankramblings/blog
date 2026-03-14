@@ -8,7 +8,7 @@ guid: 'https://34.95.34.211/?p=472'
 permalink: /2017/5/22/how-the-beatles-wrote-a-day-in-the-life/
 passthrough_url:
     - 'https://www.theatlantic.com/entertainment/archive/2017/05/how-the-beatles-wrote-a-day-in-the-life/527001/'
-thumbnail: "/assets/images/2017/05/untitled.jpg"
+image: "/assets/images/2017/05/untitled.jpg"
 categories:
     - Beatles
     - Links

@@ -8,7 +8,7 @@ guid: 'https://34.95.34.211/?p=331'
 permalink: /2016/9/1/hd-homerun-plex-dvr-is-coming/
 passthrough_url:
     - 'http://www.theverge.com/2016/9/1/12747590/plex-dvr-HDHomeRun-OTA-recording'
-thumbnail: "/assets/images/2016/09/discover_screen.0.png"
+image: "/assets/images/2016/09/discover_screen.0.png"
 categories:
     - Links
 ---

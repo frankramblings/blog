@@ -8,7 +8,7 @@ guid: 'https://34.95.34.211/?p=464'
 permalink: /2017/3/29/this-guy-gave-his-productred-iphone-a-black-front/
 passthrough_url:
     - ''
-thumbnail: "/assets/images/2017/03/maxresdefault.jpg"
+image: "/assets/images/2017/03/maxresdefault.jpg"
 categories:
     - Links
     - Technology

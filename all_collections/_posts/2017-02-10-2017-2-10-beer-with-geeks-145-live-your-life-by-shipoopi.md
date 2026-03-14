@@ -8,7 +8,7 @@ guid: 'https://34.95.34.211/?p=450'
 permalink: /2017/2/10/beer-with-geeks-145-live-your-life-by-shipoopi/
 passthrough_url:
     - 'http://www.beerwithgeeks.com/2017/02/145-live-your-life-by-shipoopi.html'
-thumbnail: "/assets/images/beerwithgeeks-banner.jpg"
+image: "/assets/images/beerwithgeeks-banner.jpg"
 categories:
     - 'Beer With Geeks'
     - Podcasts

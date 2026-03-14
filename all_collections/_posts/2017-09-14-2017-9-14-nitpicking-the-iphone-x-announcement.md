@@ -6,7 +6,7 @@ author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=486'
 permalink: /2017/9/14/nitpicking-the-iphone-x-announcement/
-thumbnail: "/assets/images/2017/09/apple-stocks-fall-iphone-8-iphone-x-announcement-debut-01.jpg"
+image: "/assets/images/2017/09/apple-stocks-fall-iphone-8-iphone-x-announcement-debut-01.jpg"
 categories:
     - Opinion
     - Technology

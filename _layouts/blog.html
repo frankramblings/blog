@@ -7,13 +7,13 @@
       <section id="articles">
         {% for post in paginator.posts %}
         <!--  -->
-        {% if post.thumbnail %}
+        {% if post.image %}
         <article class="article">
           <div class="article-top">
             <div
               class="article-thumbnail"
               style="
-                background-image: url('{{site.baseurl}}{{post.thumbnail}}');
+                background-image: url('{{site.baseurl}}{{post.image}}');
               "
             >
               <div class="article-title">

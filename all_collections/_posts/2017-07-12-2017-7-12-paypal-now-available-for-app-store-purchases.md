@@ -8,7 +8,7 @@ guid: 'https://34.95.34.211/?p=478'
 permalink: /2017/7/12/paypal-now-available-for-app-store-purchases/
 passthrough_url:
     - 'https://www.macstories.net/linked/paypal-is-rolling-out-to-the-app-store-apple-music-itunes-and-ibooks/'
-thumbnail: "/assets/images/2017/07/IMG_1645.jpg"
+image: "/assets/images/2017/07/IMG_1645.jpg"
 categories:
     - Links
     - Technology

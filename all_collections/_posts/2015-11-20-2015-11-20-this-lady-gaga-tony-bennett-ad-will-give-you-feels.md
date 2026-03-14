@@ -8,7 +8,7 @@ guid: 'https://34.95.34.211/?p=169'
 permalink: /2015/11/20/this-lady-gaga-tony-bennett-ad-will-give-you-feels/
 passthrough_url:
     - 'http://www.adweek.com/news/advertising-branding/ad-day-lady-gaga-tony-bennett-star-barnes-nobles-charming-holiday-ad-168230'
-thumbnail: "/assets/images/2015/11/img-1.jpg"
+image: "/assets/images/2015/11/img-1.jpg"
 categories:
     - Links
 ---

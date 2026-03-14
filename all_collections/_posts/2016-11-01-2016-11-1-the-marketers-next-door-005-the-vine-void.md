@@ -8,7 +8,7 @@ guid: 'https://34.95.34.211/?p=369'
 permalink: /2016/11/1/the-marketers-next-door-005-the-vine-void/
 passthrough_url:
     - 'http://www.marketersnextdoor.com/2016/10/005-vine-void.html'
-thumbnail: "/assets/images/mnd-banner.jpg"
+image: "/assets/images/mnd-banner.jpg"
 categories:
     - Podcasts
     - 'The Marketers Next Door'

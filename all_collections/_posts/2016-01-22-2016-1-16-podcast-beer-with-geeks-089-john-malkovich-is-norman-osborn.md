@@ -8,7 +8,7 @@ guid: 'https://34.95.34.211/?p=206'
 permalink: /2016/01/22/podcast-beer-with-geeks-089-john-malkovich-is-norman-osborn/
 passthrough_url:
     - 'http://www.beerwithgeeks.com/2016/01/089-john-malkovich-is-norman-osborn.html'
-thumbnail: "/assets/images/beerwithgeeks-banner.jpg"
+image: "/assets/images/beerwithgeeks-banner.jpg"
 categories:
     - 'Beer With Geeks'
     - Podcasts

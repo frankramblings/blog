@@ -7,7 +7,7 @@ excerpt: '<p>Over the last two years I''ve learned how to podcast for free. To h
 layout: post
 guid: 'https://34.95.34.211/?p=329'
 permalink: /2016/8/28/how-to-podcast-for-free/
-thumbnail: "/assets/images/2016/08/podcast3.jpg"
+image: "/assets/images/2016/08/podcast3.jpg"
 categories:
     - Internet
     - Media

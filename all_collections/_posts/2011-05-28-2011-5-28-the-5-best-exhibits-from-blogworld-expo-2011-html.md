@@ -7,7 +7,7 @@ excerpt: '<p>A little over a week ago, I was checking&nbsp;<a href="http://twitt
 layout: post
 guid: 'https://34.95.34.211/?p=125'
 permalink: /2011/05/28/the-5-best-exhibits-from-blogworld-expo-2011-html/
-thumbnail: "/assets/images/2011/05/blogworld-logo-2011-rgb-250px111.png"
+image: "/assets/images/2011/05/blogworld-logo-2011-rgb-250px111.png"
 categories:
     - 'Blog World Expo'
     - Blogging

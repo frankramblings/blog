@@ -8,7 +8,7 @@ guid: 'https://34.95.34.211/?p=403'
 permalink: /2016/12/3/supergirl-tv-talk-bonus-crossover-tv-talk/
 passthrough_url:
     - 'http://www.supergirltvtalk.com/2016/12/bonus-crossover-tv-talk.html'
-thumbnail: "/assets/images/stvt-banner.jpg"
+image: "/assets/images/stvt-banner.jpg"
 categories:
     - 'Beer With Geeks'
     - 'Legends TV Talk'

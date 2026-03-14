@@ -8,7 +8,7 @@ guid: 'https://34.95.34.211/?p=434'
 permalink: /2017/1/14/supermans-costume-gets-a-design-update/
 passthrough_url:
     - ''
-thumbnail: "/assets/images/2017/01/IMG_0345.JPG"
+image: "/assets/images/2017/01/IMG_0345.JPG"
 categories:
     - Geek
     - Links

@@ -8,7 +8,7 @@ guid: 'https://34.95.34.211/?p=327'
 permalink: /2016/8/24/supergirl-tv-talk-15x05-all-right-side-piece/
 passthrough_url:
     - 'http://www.supergirltvtalk.com/2016/08/15x05-all-right-side-piece.html'
-thumbnail: "/assets/images/stvt-banner.jpg"
+image: "/assets/images/stvt-banner.jpg"
 categories:
     - Podcasts
     - 'Supergirl TV Talk'

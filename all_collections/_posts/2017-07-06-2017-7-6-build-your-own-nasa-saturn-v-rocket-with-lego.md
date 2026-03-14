@@ -8,7 +8,7 @@ guid: 'https://34.95.34.211/?p=476'
 permalink: /2017/7/6/build-your-own-nasa-saturn-v-rocket-with-lego/
 passthrough_url:
     - 'https://512pixels.net/lego-saturn-v/'
-thumbnail: "/assets/images/2017/07/apollo.jpg"
+image: "/assets/images/2017/07/apollo.jpg"
 categories:
     - Links
 ---

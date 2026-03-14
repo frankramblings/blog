@@ -8,7 +8,7 @@ guid: 'https://34.95.34.211/?p=482'
 permalink: /2017/9/11/iphone-event-the-set-list-isnt-the-performance/
 passthrough_url:
     - 'https://sixcolors.com/post/2017/09/what-we-dont-know-about-the-sept-12-apple-event/'
-thumbnail: "/assets/images/2017/09/tim-townhall-6c.webp"
+image: "/assets/images/2017/09/tim-townhall-6c.webp"
 categories:
     - Links
     - Technology

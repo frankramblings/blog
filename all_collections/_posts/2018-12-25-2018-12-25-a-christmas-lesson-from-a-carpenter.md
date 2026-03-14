@@ -7,7 +7,7 @@ excerpt: 'This Christmas, I’m struck by the humility that this day represents.
 layout: post
 guid: 'https://34.95.34.211/?p=494'
 permalink: /2018/12/25/christmas-lesson-from-a-carpenter/
-thumbnail: "/assets/images/2018/12/IMG_3005.jpeg"
+image: "/assets/images/2018/12/IMG_3005.jpeg"
 categories:
     - Christmas
     - Religion

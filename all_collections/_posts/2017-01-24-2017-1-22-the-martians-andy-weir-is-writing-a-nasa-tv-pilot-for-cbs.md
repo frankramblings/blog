@@ -8,7 +8,7 @@ guid: 'https://34.95.34.211/?p=436'
 permalink: /2017/1/24/the-martians-andy-weir-is-writing-a-nasa-tv-pilot-for-cbs/
 passthrough_url:
     - 'http://www.theverge.com/2017/1/18/14309282/andrew-weir-nasa-mission-control-tv-show'
-thumbnail: "/assets/images/2017/01/image-asset1.jpeg"
+image: "/assets/images/2017/01/image-asset1.jpeg"
 categories:
     - Links
 ---

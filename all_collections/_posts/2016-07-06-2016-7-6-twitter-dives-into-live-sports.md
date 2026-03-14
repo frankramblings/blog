@@ -8,7 +8,7 @@ guid: 'https://34.95.34.211/?p=288'
 permalink: /2016/7/6/twitter-dives-into-live-sports/
 passthrough_url:
     - 'http://www.recode.net/2016/7/6/12104722/twitter-live-stream-wimbledon-nfl'
-thumbnail: "/assets/images/2016/07/image-asset.jpeg"
+image: "/assets/images/2016/07/image-asset.jpeg"
 categories:
     - Links
     - 'Social Media'

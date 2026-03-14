@@ -8,7 +8,7 @@ guid: 'https://34.95.34.211/?p=423'
 permalink: /2017/1/8/the-marketers-next-door-007-stop-trying-to-make-live-happen/
 passthrough_url:
     - 'http://www.marketersnextdoor.com/2017/01/007-stop-trying-to-make-live-happen.html'
-thumbnail: "/assets/images/mnd-banner.jpg"
+image: "/assets/images/mnd-banner.jpg"
 categories:
     - Podcasts
     - 'The Marketers Next Door'

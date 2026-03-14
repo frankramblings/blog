@@ -8,7 +8,7 @@ guid: 'https://34.95.34.211/?p=446'
 permalink: /2017/2/1/supergirl-tv-talk-2x10-we-can-be-heroes/
 passthrough_url:
     - 'http://www.supergirltvtalk.com/2017/01/2x10-we-can-be-heroes.html'
-thumbnail: "/assets/images/stvt-banner.jpg"
+image: "/assets/images/stvt-banner.jpg"
 categories:
     - Podcasts
     - 'Supergirl TV Talk'

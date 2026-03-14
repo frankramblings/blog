@@ -8,7 +8,7 @@ guid: 'https://34.95.34.211/?p=159'
 permalink: /2015/11/23/the-photo-that-perfectly-captures-bostons-italian-north-end/
 passthrough_url:
     - 'http://joann-vitali.artistwebsites.com/featured/north-square-north-end-boston-joann-vitali.html'
-thumbnail: "/assets/images/2015/11/image-asset.jpg"
+image: "/assets/images/2015/11/image-asset.jpg"
 categories:
     - Links
     - Photography

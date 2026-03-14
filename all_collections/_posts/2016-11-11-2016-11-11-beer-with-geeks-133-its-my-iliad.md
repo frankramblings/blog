@@ -8,7 +8,7 @@ guid: 'https://34.95.34.211/?p=377'
 permalink: /2016/11/11/beer-with-geeks-133-its-my-iliad/
 passthrough_url:
     - 'http://www.beerwithgeeks.com/2016/11/133-its-my-iliad.html'
-thumbnail: "/assets/images/beerwithgeeks-banner.jpg"
+image: "/assets/images/beerwithgeeks-banner.jpg"
 categories:
     - 'Beer With Geeks'
     - Podcasts

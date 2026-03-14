@@ -8,7 +8,7 @@ guid: 'https://34.95.34.211/?p=432'
 permalink: /2017/1/12/streaming-tv-is-beginning-to-look-a-lot-like-cable/
 passthrough_url:
     - ''
-thumbnail: "/assets/images/2017/01/IMG_0325.jpg"
+image: "/assets/images/2017/01/IMG_0325.jpg"
 categories:
     - Links
 ---

@@ -8,7 +8,7 @@ guid: 'https://34.95.34.211/?p=341'
 permalink: /2016/9/26/the-marketers-next-door-003-fuzzy-metrics/
 passthrough_url:
     - 'http://www.marketersnextdoor.com/2016/09/003-fuzzy-metrics.html'
-thumbnail: "/assets/images/mnd-banner.jpg"
+image: "/assets/images/mnd-banner.jpg"
 categories:
     - Podcasts
     - 'The Marketers Next Door'

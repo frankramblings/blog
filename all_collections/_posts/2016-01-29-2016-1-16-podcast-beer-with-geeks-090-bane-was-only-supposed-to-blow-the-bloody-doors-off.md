@@ -8,7 +8,7 @@ guid: 'https://34.95.34.211/?p=207'
 permalink: /2016/1/29/podcast-beer-with-geeks-090-bane-was-only-supposed-to-blow-the-bloody-doors-off/
 passthrough_url:
     - 'http://www.beerwithgeeks.com/2016/01/090-bane-was-only-supposed-to-blow.html'
-thumbnail: "/assets/images/beerwithgeeks-banner.jpg"
+image: "/assets/images/beerwithgeeks-banner.jpg"
 categories:
     - 'Beer With Geeks'
     - Podcasts

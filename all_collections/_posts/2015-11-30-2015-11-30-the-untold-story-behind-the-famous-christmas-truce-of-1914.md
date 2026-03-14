@@ -10,7 +10,7 @@ passthrough_url:
     - 'http://www.churchpop.com/2014/12/25/pope-christmas-truce/'
 structured_content:
     - '{"oembed":{},"overlay":true}'
-thumbnail: "/assets/images/2015/11/image-1.jpg"
+image: "/assets/images/2015/11/image-1.jpg"
 categories:
     - Uncategorized
 ---

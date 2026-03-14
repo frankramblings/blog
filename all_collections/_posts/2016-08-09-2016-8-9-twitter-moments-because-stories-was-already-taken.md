@@ -8,7 +8,7 @@ guid: 'https://34.95.34.211/?p=312'
 permalink: /2016/8/9/twitter-moments-because-stories-was-already-taken/
 passthrough_url:
     - 'http://thenextweb.com/apps/2016/08/09/twitter-moments-stories/'
-thumbnail: "/assets/images/2016/08/image.jpg"
+image: "/assets/images/2016/08/image.jpg"
 categories:
     - Links
     - 'Social Media'

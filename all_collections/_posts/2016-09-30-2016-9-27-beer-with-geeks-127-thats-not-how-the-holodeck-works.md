@@ -8,7 +8,7 @@ guid: 'https://34.95.34.211/?p=343'
 permalink: /2016/9/30/beer-with-geeks-127-thats-not-how-the-holodeck-works/
 passthrough_url:
     - 'http://www.beerwithgeeks.com/2016/09/127-thats-not-how-holodeck-works.html'
-thumbnail: "/assets/images/beerwithgeeks-banner.jpg"
+image: "/assets/images/beerwithgeeks-banner.jpg"
 categories:
     - 'Beer With Geeks'
     - Podcasts

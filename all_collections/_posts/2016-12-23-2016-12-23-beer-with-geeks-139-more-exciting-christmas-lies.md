@@ -8,7 +8,7 @@ guid: 'https://34.95.34.211/?p=411'
 permalink: /2016/12/23/beer-with-geeks-139-more-exciting-christmas-lies/
 passthrough_url:
     - 'http://www.beerwithgeeks.com/2016/12/139-more-exciting-christmas-lies.html'
-thumbnail: "/assets/images/beerwithgeeks-banner.jpg"
+image: "/assets/images/beerwithgeeks-banner.jpg"
 categories:
     - 'Beer With Geeks'
     - Podcasts

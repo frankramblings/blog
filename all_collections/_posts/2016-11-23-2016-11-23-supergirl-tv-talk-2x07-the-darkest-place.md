@@ -8,7 +8,7 @@ guid: 'https://34.95.34.211/?p=397'
 permalink: /2016/11/23/supergirl-tv-talk-2x07-the-darkest-place/
 passthrough_url:
     - 'http://www.supergirltvtalk.com/2016/11/2x07-darkest-place.html'
-thumbnail: "/assets/images/stvt-banner.jpg"
+image: "/assets/images/stvt-banner.jpg"
 categories:
     - Podcasts
     - 'Supergirl TV Talk'

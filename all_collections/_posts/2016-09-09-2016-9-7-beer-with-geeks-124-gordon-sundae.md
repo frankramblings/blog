@@ -8,7 +8,7 @@ guid: 'https://34.95.34.211/?p=333'
 permalink: /2016/9/9/beer-with-geeks-124-gordon-sundae/
 passthrough_url:
     - 'http://www.beerwithgeeks.com/2016/09/124-gordon-sundae.html'
-thumbnail: "/assets/images/beerwithgeeks-banner.jpg"
+image: "/assets/images/beerwithgeeks-banner.jpg"
 categories:
     - 'Beer With Geeks'
     - Podcasts

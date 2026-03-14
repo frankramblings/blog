@@ -8,7 +8,7 @@ guid: 'https://34.95.34.211/?p=466'
 permalink: /2017/4/8/star-wars-ep-ix-will-include-the-late-carrie-fisher/
 passthrough_url:
     - 'https://www.bleedingcool.com/2017/04/07/final-star-wars-movie-will-include-late-carrie-fisher/'
-thumbnail: "/assets/images/2017/04/IMG_0826.jpg"
+image: "/assets/images/2017/04/IMG_0826.jpg"
 categories:
     - 'Geek Culture'
     - Links

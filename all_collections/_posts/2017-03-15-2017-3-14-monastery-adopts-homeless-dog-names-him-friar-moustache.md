@@ -8,7 +8,7 @@ guid: 'https://34.95.34.211/?p=462'
 permalink: /2017/3/15/monastery-adopts-homeless-dog-names-him-friar-moustache/
 passthrough_url:
     - 'http://thechive.com/2017/03/08/monastery-adopts-a-homeless-dog-turns-him-into-a-monk-7-photos/'
-thumbnail: "/assets/images/2017/03/friarmustache.jpeg"
+image: "/assets/images/2017/03/friarmustache.jpeg"
 categories:
     - Links
 ---

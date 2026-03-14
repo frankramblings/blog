@@ -8,7 +8,7 @@ guid: 'https://34.95.34.211/?p=161'
 permalink: /2015/11/20/podcast-beer-with-geeks-082-driving-optimus-prime/
 passthrough_url:
     - 'http://www.beerwithgeeks.com/2015/11/082-driving-optimus-prime.html'
-thumbnail: "/assets/images/beerwithgeeks-banner.jpg"
+image: "/assets/images/beerwithgeeks-banner.jpg"
 categories:
     - 'Beer With Geeks'
     - Podcasts

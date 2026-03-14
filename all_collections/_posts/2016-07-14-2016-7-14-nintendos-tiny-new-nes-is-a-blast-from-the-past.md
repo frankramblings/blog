@@ -8,7 +8,7 @@ guid: 'https://34.95.34.211/?p=292'
 permalink: /2016/7/14/nintendos-tiny-new-nes-is-a-blast-from-the-past/
 passthrough_url:
     - 'https://www.engadget.com/2016/07/14/nintendos-classic-mini-is-a-tiny-nes-with-30-games/'
-thumbnail: "/assets/images/2016/07/sega.jpg"
+image: "/assets/images/2016/07/sega.jpg"
 categories:
     - Links
 ---

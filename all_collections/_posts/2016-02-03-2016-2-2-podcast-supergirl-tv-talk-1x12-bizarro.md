@@ -8,7 +8,7 @@ guid: 'https://34.95.34.211/?p=217'
 permalink: /2016/2/3/podcast-supergirl-tv-talk-1x12-bizarro/
 passthrough_url:
     - 'http://www.supergirltvtalk.com/2016/02/1x12-bizarro.html'
-thumbnail: "/assets/images/stvt-banner.jpg"
+image: "/assets/images/stvt-banner.jpg"
 categories:
     - Podcasts
     - 'Supergirl TV Talk'

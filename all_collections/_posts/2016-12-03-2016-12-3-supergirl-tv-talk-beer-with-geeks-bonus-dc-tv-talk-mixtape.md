@@ -8,7 +8,7 @@ guid: 'https://34.95.34.211/?p=405'
 permalink: /2016/12/3/supergirl-tv-talk-beer-with-geeks-bonus-dc-tv-talk-mixtape/
 passthrough_url:
     - 'http://www.supergirltvtalk.com/2016/12/bonus-dc-tv-talk-mixtape.html'
-thumbnail: "/assets/images/stvt-banner.jpg"
+image: "/assets/images/stvt-banner.jpg"
 categories:
     - 'Beer With Geeks'
     - 'Legends TV Talk'

@@ -8,7 +8,7 @@ guid: 'https://34.95.34.211/?p=375'
 permalink: /2016/11/4/beer-with-geeks-132-whyd-it-have-to-be-snakes/
 passthrough_url:
     - 'http://www.beerwithgeeks.com/2016/11/132-whyd-it-have-to-be-snakes.html'
-thumbnail: "/assets/images/beerwithgeeks-banner.jpg"
+image: "/assets/images/beerwithgeeks-banner.jpg"
 categories:
     - 'Beer With Geeks'
     - Podcasts

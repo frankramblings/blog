@@ -8,7 +8,7 @@ guid: 'https://34.95.34.211/?p=373'
 permalink: /2016/11/2/this-new-apple-watch-band-adds-cameras-for-249/
 passthrough_url:
     - 'http://www.recode.net/2016/11/2/13489812/glide-camera-apple-watch-strap'
-thumbnail: "/assets/images/2016/11/CMRA-840x5365B15D.png"
+image: "/assets/images/2016/11/CMRA-840x5365B15D.png"
 categories:
     - Links
     - Technology

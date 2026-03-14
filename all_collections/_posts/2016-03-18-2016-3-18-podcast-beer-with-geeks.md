@@ -8,7 +8,7 @@ guid: 'https://34.95.34.211/?p=240'
 permalink: /2016/3/18/podcast-beer-with-geeks/
 passthrough_url:
     - 'http://www.beerwithgeeks.com/2016/03/098-many-heads-of-chest.html'
-thumbnail: "/assets/images/beerwithgeeks-banner.jpg"
+image: "/assets/images/beerwithgeeks-banner.jpg"
 categories:
     - 'Beer With Geeks'
     - Podcasts

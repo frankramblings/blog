@@ -7,7 +7,7 @@ excerpt: "<p><em><strong>Originally posted at the&nbsp;<a href=\"http://www.like
 layout: post
 guid: 'https://34.95.34.211/?p=152'
 permalink: /2011/07/16/whats-wrong-with-this-picture-html/
-thumbnail: "/assets/images/2011/07/IMG_20110718_234628-300x1773-1.jpg"
+image: "/assets/images/2011/07/IMG_20110718_234628-300x1773-1.jpg"
 categories:
     - Uncategorized
 ---

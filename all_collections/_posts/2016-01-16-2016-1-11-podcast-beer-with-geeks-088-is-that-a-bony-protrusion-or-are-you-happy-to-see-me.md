@@ -8,7 +8,7 @@ guid: 'https://34.95.34.211/?p=205'
 permalink: /2016/1/16/podcast-beer-with-geeks-088-is-that-a-bony-protrusion-or-are-you-happy-to-see-me/
 passthrough_url:
     - 'http://www.beerwithgeeks.com/2016/01/088-is-that-bony-protrusion-or-are-you.html'
-thumbnail: "/assets/images/beerwithgeeks-banner.jpg"
+image: "/assets/images/beerwithgeeks-banner.jpg"
 categories:
     - 'Beer With Geeks'
     - Podcasts

@@ -8,7 +8,7 @@ guid: 'https://34.95.34.211/?p=298'
 permalink: /2016/7/26/sega-jumps-back-into-the-console-game/
 passthrough_url:
     - 'http://comicbook.com/2016/07/26/sega-reveals-genesis-classic-edition-rerelease/'
-thumbnail: "/assets/images/2016/07/sega.jpg"
+image: "/assets/images/2016/07/sega.jpg"
 categories:
     - Links
 ---

@@ -8,7 +8,7 @@ guid: 'https://34.95.34.211/?p=213'
 permalink: /2016/1/27/podcast-supergirl-tv-talk-1x11-strange-visitor-from-another-planet/
 passthrough_url:
     - 'http://www.supergirltvtalk.com/2016/01/1x11-strange-visitor-from-another-planet.html'
-thumbnail: "/assets/images/stvt-banner.jpg"
+image: "/assets/images/stvt-banner.jpg"
 categories:
     - Podcasts
     - 'Supergirl TV Talk'

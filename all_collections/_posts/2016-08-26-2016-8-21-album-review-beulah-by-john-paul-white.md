@@ -6,7 +6,7 @@ author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=322'
 permalink: /2016/8/26/album-review-beulah-by-john-paul-white/
-thumbnail: "/assets/images/2016/08/beulah.jpg"
+image: "/assets/images/2016/08/beulah.jpg"
 categories:
     - Music
     - Review

@@ -8,7 +8,7 @@ guid: 'https://34.95.34.211/?p=367'
 permalink: /2016/10/28/beer-with-geeks-131-which-max-shreck/
 passthrough_url:
     - 'http://www.beerwithgeeks.com/2016/10/131-which-max-shreck.html'
-thumbnail: "/assets/images/beerwithgeeks-banner.jpg"
+image: "/assets/images/beerwithgeeks-banner.jpg"
 categories:
     - 'Beer With Geeks'
     - Podcasts

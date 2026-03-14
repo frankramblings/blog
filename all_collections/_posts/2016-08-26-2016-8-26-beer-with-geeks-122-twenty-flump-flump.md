@@ -9,7 +9,7 @@ guid: 'https://34.95.34.211/?p=316'
 permalink: /2016/8/26/beer-with-geeks-122-twenty-flump-flump/
 passthrough_url:
     - 'http://www.beerwithgeeks.com/2016/08/122-twenty-flump-flump.html'
-thumbnail: "/assets/images/beerwithgeeks-banner.jpg"
+image: "/assets/images/beerwithgeeks-banner.jpg"
 categories:
     - 'Beer With Geeks'
     - Podcasts

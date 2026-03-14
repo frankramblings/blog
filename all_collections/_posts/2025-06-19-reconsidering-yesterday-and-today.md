@@ -7,7 +7,7 @@ excerpt: 'Capitol’s most famously Frankenstein’d Beatles album... is actuall
 layout: post
 guid: 'https://www.frankramblings.com/?p=497'
 permalink: /2025/06/19/reconsidering-yesterday-and-today/
-thumbnail: "/assets/images/2025/06/yesterday-and-today.jpg"
+image: "/assets/images/2025/06/yesterday-and-today.jpg"
 
 categories:
     - Beatles

@@ -8,7 +8,7 @@ guid: 'https://34.95.34.211/?p=325'
 permalink: /2016/8/23/the-marketers-next-door-002-this-is-fine/
 passthrough_url:
     - 'http://www.marketersnextdoor.com/2016/08/002-this-is-fine22.html'
-thumbnail: "/assets/images/mnd-banner.jpg"
+image: "/assets/images/mnd-banner.jpg"
 categories:
     - Podcasts
     - 'The Marketers Next Door'

@@ -8,7 +8,7 @@ guid: 'https://34.95.34.211/?p=306'
 permalink: /blog/2016/08/02/2016-8-2-instagram-stories-puts-snapchat-on-notice/
 passthrough_url:
     - 'http://mashable.com/2016/08/02/instagram-stories-update/#q6r_Ii5RIgq7'
-thumbnail: "/assets/images/2016/08/image-asset.jpeg"
+image: "/assets/images/2016/08/image-asset.jpeg"
 categories:
     - Facebook
     - Instagram

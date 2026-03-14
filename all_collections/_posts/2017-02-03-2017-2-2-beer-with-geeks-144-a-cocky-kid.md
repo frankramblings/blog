@@ -8,7 +8,7 @@ guid: 'https://34.95.34.211/?p=448'
 permalink: /2017/2/3/beer-with-geeks-144-a-cocky-kid/
 passthrough_url:
     - 'http://www.beerwithgeeks.com/2017/02/144-cocky-kid.html'
-thumbnail: "/assets/images/beerwithgeeks-banner.jpg"
+image: "/assets/images/beerwithgeeks-banner.jpg"
 categories:
     - 'Beer With Geeks'
     - Podcasts

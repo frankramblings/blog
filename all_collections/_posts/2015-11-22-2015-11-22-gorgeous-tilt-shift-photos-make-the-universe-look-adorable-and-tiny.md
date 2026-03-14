@@ -8,7 +8,7 @@ guid: 'https://34.95.34.211/?p=179'
 permalink: /2015/11/22/gorgeous-tilt-shift-photos-make-the-universe-look-adorable-and-tiny/
 passthrough_url:
     - 'http://sploid.gizmodo.com/beautiful-tilt-shift-photos-turn-the-universe-into-prec-1684026109'
-thumbnail: "/assets/images/2015/11/image.jpg"
+image: "/assets/images/2015/11/image.jpg"
 categories:
     - Links
 ---

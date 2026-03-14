@@ -8,7 +8,7 @@ guid: 'https://34.95.34.211/?p=407'
 permalink: /2016/12/7/ge-integrates-alexa-into-a-desk-lamp/
 passthrough_url:
     - 'http://www.theverge.com/2016/12/7/13859092/ge-made-a-circular-lamp-with-alexa-in-it?utm_campaign=theverge&utm_content=chorus&utm_medium=social&utm_source=twitter'
-thumbnail: "/assets/images/2016/12/CzFCIssWQAA3woQ5B15D.jpg"
+image: "/assets/images/2016/12/CzFCIssWQAA3woQ5B15D.jpg"
 categories:
     - Links
     - Technology

@@ -8,7 +8,7 @@ guid: 'https://34.95.34.211/?p=351'
 permalink: /2016/10/12/supergirl-tv-talk-2x01-the-adventures-of-supergirl/
 passthrough_url:
     - 'http://www.supergirltvtalk.com/2016/10/2x01-adventures-of-supergirl.html'
-thumbnail: "/assets/images/stvt-banner.jpg"
+image: "/assets/images/stvt-banner.jpg"
 categories:
     - Podcasts
     - 'Supergirl TV Talk'

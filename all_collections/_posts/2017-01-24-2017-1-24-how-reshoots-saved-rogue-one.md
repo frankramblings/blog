@@ -8,7 +8,7 @@ guid: 'https://34.95.34.211/?p=442'
 permalink: /2017/1/24/how-reshoots-saved-rogue-one/
 passthrough_url:
     - 'http://www.theverge.com/2017/1/15/14268850/star-wars-rogue-one-reshoots-disney-gareth-edwards-tony-gilroy?utm_campaign=theverge&utm_content=chorus&utm_medium=social&utm_source=twitter'
-thumbnail: "/assets/images/2017/01/IMG_0408.jpg"
+image: "/assets/images/2017/01/IMG_0408.jpg"
 categories:
     - Links
 ---
