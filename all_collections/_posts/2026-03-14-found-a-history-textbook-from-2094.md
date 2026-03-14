@@ -35,4 +35,4 @@ The most unsettling part of finding a U.S. history textbook from 2094 would be s
 
 ---
 
-*This is a work of fiction. The textbook, publisher, and 2094 edition do not exist. All historical events referenced through 2025 are real. Interpretive framing, future events, and editorial voice are invented. No affiliation with McGraw Hill.*
+*This is a work of fiction. The textbook, publisher, and 2094 edition do not exist (yet). All historical events referenced through 2026 are real. Interpretive framing, future events, and editorial voice are invented. No affiliation with McGraw-Hill.*
