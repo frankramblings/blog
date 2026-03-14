@@ -20,7 +20,7 @@ tags:
 - 'indie app'
 ---
 
-**UPDATE:** [Public Beta is now open! 🥳](https://testflight.apple.com/join/EhYZnjd2)
+**UPDATE: [Public Beta is now open! 🥳](https://testflight.apple.com/join/EhYZnjd2)**
 
 There was a stretch where Twitter was *the* internet town square. Messy, fun, chaotic, but central.
 
@@ -84,11 +84,11 @@ Also:
 
 If you want to inspect it, fork it, or contribute, you can.
 
-## Launch
+<h2><del>Launching Thursday</del></h2>
 
-~~SocialFusion public beta goes live **Thursday, March 5** on TestFlight.~~
+<del>SocialFusion public beta goes live <strong>Thursday, March 5</strong> on TestFlight.</del>
 
-**Public Beta is now on TestFlight!** [Get it  here!](https://testflight.apple.com/join/EhYZnjd2)
+<strong>Public Beta is now live on TestFlight!</strong> <a href="https://testflight.apple.com/join/EhYZnjd2">Get it here!</a>
 
  [More info here.](https://frankramblings.com/socialfusion/)
 
