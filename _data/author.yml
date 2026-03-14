@@ -10,3 +10,7 @@ contact:
     url: https://frankramblings.github.io
   - title: mastodon
     url: https://ramblings.social/@frank
+  - title: bluesky
+    url: https://bsky.app/profile/frankramblings.com
+  - title: rss
+    url: https://frankramblings.github.io/blog/feed.xml

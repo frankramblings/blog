@@ -2,6 +2,16 @@
   font-size: 3rem;
 }
 
+header:has(.article-page) {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+header #social-links {
+  margin: 0;
+}
+
 #article .article-thumbnail {
   margin: 0;
   width: inherit;

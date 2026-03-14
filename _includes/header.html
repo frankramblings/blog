@@ -1,6 +1,7 @@
 {% if page.layout == "post" %}
 <header>
   <a class="site-title article-page" href="{{site.baseurl}}/">{{site.title}}</a>
+  {% include social-links.html %}
 </header>
 {% else %}
 <header>
