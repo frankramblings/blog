@@ -20,6 +20,8 @@ tags:
 - 'indie app'
 ---
 
+**UPDATE: [Public Beta is now open! 🥳] (https://testflight.apple.com/join/EhYZnjd2)**
+
 There was a stretch where Twitter was *the* internet town square. Messy, fun, chaotic, but central.
 
 Then came the Great Scattering of 2022.
@@ -82,9 +84,13 @@ Also:
 
 If you want to inspect it, fork it, or contribute, you can.
 
-## Launching Thursday
+~~## Launching Thursday
 
-SocialFusion public beta goes live **Thursday, March 5** on TestFlight. [More info here.](https://frankramblings.com/socialfusion/)
+SocialFusion public beta goes live **Thursday, March 5** on TestFlight.~~
+
+**[Public Beta is now on TestFlight!] (https://testflight.apple.com/join/EhYZnjd2)**
+
+ [More info here.](https://frankramblings.com/socialfusion/)
 
 If you’re on Mastodon, Bluesky, or both, I built this for you.
 
