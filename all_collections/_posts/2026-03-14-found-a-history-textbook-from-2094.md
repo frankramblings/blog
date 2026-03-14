@@ -1,14 +1,15 @@
 ---
 id: 499
-title: 'Chapter 14: The American Unraveling in Global Context'
+title: 'Found: A History Textbook From 2094'
 date: '2026-03-14T00:00:00+00:00'
 author: Frank
 excerpt: 'The most unsettling part of finding a U.S. history textbook from 2094 would be seeing our current chaos explained with the clarity of hindsight.'
 layout: post
 guid: 'https://www.frankramblings.com/?p=499'
-permalink: /2026/03/14/chapter-14-the-american-unraveling-in-global-context/
+permalink: /2026/03/14/found-a-history-textbook-from-2094/
 thumbnail: "/assets/images/2026/03/chapter14-banner.jpg"
 categories:
+- Speculative History
 - Creative Writing
 - Politics
 tags:
