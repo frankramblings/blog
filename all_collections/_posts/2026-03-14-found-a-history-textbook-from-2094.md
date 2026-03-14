@@ -31,7 +31,7 @@ The most unsettling part of finding a U.S. history textbook from 2094 would be s
 </div>
 
 <p style="text-align:center;margin:1.5rem 0 2rem;">
-  <a href="{{site.url}}{{site.baseurl}}/assets/images/2026/03/chapter14_scanned.pdf" download style="display:inline-block;font-family:sans-serif;font-size:0.85rem;font-weight:600;letter-spacing:0.04em;color:#6b6560;text-decoration:none;border:1px solid #d4cfc8;padding:0.5rem 1.2rem;border-radius:3px;">Download PDF</a>
+  <a href="{{site.url}}{{site.baseurl}}/assets/images/2026/03/chapter14_scanned.pdf" download style="display:inline-block;font-family:sans-serif;font-size:0.85rem;font-weight:600;letter-spacing:0.04em;color:#e8e2da;text-decoration:none;border:1px solid #e8e2da;padding:0.5rem 1.2rem;border-radius:3px;">Download PDF</a>
 </p>
 
 ---
