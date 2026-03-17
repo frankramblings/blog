@@ -6,6 +6,8 @@ author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=417'
 permalink: /2017/1/6/2017-1-6-beer-with-geeks-140-mustafar-far-away/
+redirect_from:
+  - /2017/1/6/beer-with-geeks-140-mustafar-far-away
 passthrough_url:
     - 'http://www.beerwithgeeks.com/2017/01/140-mustafar-far-away.html'
 image: "/assets/images/beerwithgeeks-banner.jpg"

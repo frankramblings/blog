@@ -6,6 +6,8 @@ author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=223'
 permalink: /2016/2/12/podcast-beer-with-geeks-092-hes-just-the-russian-kid-it-doesnt-really-matter/
+redirect_from:
+  - /2016/2/11/podcast-beer-with-geeks-092-hes-just-the-russian-kid-it-doesnt-really-matter
 image: "/assets/images/beerwithgeeks-banner.jpg"
 categories:
     - 'Beer With Geeks'

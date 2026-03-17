@@ -6,6 +6,8 @@ author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=79'
 permalink: /2008/10/07/podcastin-part-2-geek-out-loud-html/
+redirect_from:
+  - /2008/10/7/podcastin-part-2-geek-out-loud-html
 categories:
     - 'Comic Books'
     - Entertainment

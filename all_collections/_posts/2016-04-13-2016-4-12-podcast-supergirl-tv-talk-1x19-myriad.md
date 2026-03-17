@@ -6,6 +6,8 @@ author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=253'
 permalink: /2016/4/13/podcast-supergirl-tv-talk-1x19-myriad/
+redirect_from:
+  - /2016/4/12/podcast-supergirl-tv-talk-1x19-myriad
 image: "/assets/images/stvt-banner.jpg"
 categories:
     - Podcasts

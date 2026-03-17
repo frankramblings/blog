@@ -6,6 +6,8 @@ author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=419'
 permalink: /2017/1/13/beer-with-geeks-141-state-of-the-geek-union-2017/
+redirect_from:
+  - /2017/1/5/beer-with-geeks-141-state-of-the-geek-union-2017
 passthrough_url:
     - 'http://www.beerwithgeeks.com/2017/01/141-state-of-geek-union-2017.html'
 image: "/assets/images/beerwithgeeks-banner.jpg"

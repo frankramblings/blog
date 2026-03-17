@@ -6,6 +6,8 @@ author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=8'
 permalink: /2009/08/28/social-networking-just-the-beginning-html/
+redirect_from:
+  - /2009/8/28/social-networking-just-the-beginning-html
 categories:
     - Uncategorized
 ---

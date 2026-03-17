@@ -6,6 +6,8 @@ author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=118'
 permalink: /2009/08/08/great-day-by-paul-mccartney-html/
+redirect_from:
+  - /2009/8/8/great-day-by-paul-mccartney-html
 categories:
     - Movies
     - Music

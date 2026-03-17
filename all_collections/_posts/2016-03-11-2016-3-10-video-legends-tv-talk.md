@@ -5,7 +5,7 @@ date: '2016-03-11T01:53:52+00:00'
 author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=236'
-permalink: /blog/2016/03/11/2016-3-10-video-legends-tv-talk/
+permalink: /2016/3/10/video-legends-tv-talk/
 passthrough_url:
     - 'https://www.youtube.com/watch?v=Co3tFcMQuO0'
 categories:

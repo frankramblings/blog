@@ -6,6 +6,8 @@ author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=86'
 permalink: /2009/01/20/obama-gave-biden-choice-vp-or-secretary-of-state-html/
+redirect_from:
+  - /2009/1/20/obama-gave-biden-choice-vp-or-secretary-of-state-html
 categories:
     - 'Current Events'
     - Internet

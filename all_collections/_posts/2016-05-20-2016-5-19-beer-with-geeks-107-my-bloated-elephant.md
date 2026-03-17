@@ -6,6 +6,8 @@ author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=266'
 permalink: /2016/5/20/beer-with-geeks-107-my-bloated-elephant/
+redirect_from:
+  - /2016/5/19/beer-with-geeks-107-my-bloated-elephant
 image: "/assets/images/beerwithgeeks-banner.jpg"
 categories:
     - 'Beer With Geeks'

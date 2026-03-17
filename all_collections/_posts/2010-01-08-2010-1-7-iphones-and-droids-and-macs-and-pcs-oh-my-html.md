@@ -7,6 +7,8 @@ excerpt: '<div src="v5">Almost three years ago, Apple really gave the smartphone
 layout: post
 guid: 'https://34.95.34.211/?p=23'
 permalink: /2010/01/08/iphones-and-droids-and-macs-and-pcs-oh-my-html/
+redirect_from:
+  - /2010/1/7/iphones-and-droids-and-macs-and-pcs-oh-my-html
 categories:
     - 'Current Events'
     - 'Geek Culture'

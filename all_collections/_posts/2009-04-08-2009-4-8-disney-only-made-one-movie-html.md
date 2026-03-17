@@ -6,6 +6,8 @@ author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=106'
 permalink: /2009/04/08/disney-only-made-one-movie-html/
+redirect_from:
+  - /2009/4/8/disney-only-made-one-movie-html
 categories:
     - Movies
     - 'Odd Stuff'

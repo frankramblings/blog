@@ -6,6 +6,8 @@ author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=26'
 permalink: /2010/04/12/sure-i-can-do-that-html/
+redirect_from:
+  - /2010/4/12/sure-i-can-do-that-html
 categories:
     - Entertainment
     - 'Geek Culture'

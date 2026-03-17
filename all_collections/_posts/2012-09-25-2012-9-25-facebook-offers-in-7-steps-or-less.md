@@ -7,6 +7,8 @@ excerpt: '<p><em><strong>Originally posted at the&nbsp;<a href="http://www.likea
 layout: post
 guid: 'https://34.95.34.211/?p=141'
 permalink: /2012/09/25/facebook-offers-in-7-steps-or-less/
+redirect_from:
+  - /2012/9/25/facebook-offers-in-7-steps-or-less
 categories:
     - 'Big Brands'
 tags:

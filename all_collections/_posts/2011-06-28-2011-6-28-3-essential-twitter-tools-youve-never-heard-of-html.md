@@ -7,6 +7,8 @@ excerpt: "<p><em><strong>Originally posted at the&nbsp;<a href=\"http://www.like
 layout: post
 guid: 'https://34.95.34.211/?p=154'
 permalink: /2011/06/28/3-essential-twitter-tools-youve-never-heard-of-html/
+redirect_from:
+  - /2011/6/28/3-essential-twitter-tools-youve-never-heard-of-html
 categories:
     - Uncategorized
 ---

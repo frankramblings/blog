@@ -6,6 +6,8 @@ author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=227'
 permalink: /2016/02/17twitter-rolls-out-gif-search-the-verge/
+redirect_from:
+  - /2016/2/17/twitter-rolls-out-gif-search-the-verge
 passthrough_url:
     - 'http://www.theverge.com/2016/2/17/11027724/twitter-gif-search-giphy-riffsy'
 categories:

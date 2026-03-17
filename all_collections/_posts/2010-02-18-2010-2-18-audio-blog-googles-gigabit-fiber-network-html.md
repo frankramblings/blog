@@ -6,6 +6,8 @@ author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=25'
 permalink: /2010/02/18/audio-blog-googles-gigabit-fiber-network-html/
+redirect_from:
+  - /2010/2/18/audio-blog-googles-gigabit-fiber-network-html
 categories:
     - Uncategorized
 ---

@@ -6,6 +6,8 @@ author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=343'
 permalink: /2016/9/30/beer-with-geeks-127-thats-not-how-the-holodeck-works/
+redirect_from:
+  - /2016/9/27/beer-with-geeks-127-thats-not-how-the-holodeck-works
 passthrough_url:
     - 'http://www.beerwithgeeks.com/2016/09/127-thats-not-how-holodeck-works.html'
 image: "/assets/images/beerwithgeeks-banner.jpg"

@@ -6,6 +6,8 @@ author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=90'
 permalink: /2008/10/07/podcastin-part-3-the-force-cast-html/
+redirect_from:
+  - /2008/10/7/podcastin-part-3-the-force-cast-html
 categories:
     - 'Comic Books'
     - Entertainment

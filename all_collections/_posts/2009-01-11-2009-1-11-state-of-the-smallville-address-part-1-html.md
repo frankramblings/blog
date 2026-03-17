@@ -6,6 +6,8 @@ author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=82'
 permalink: /2009/01/11/state-of-the-smallville-address-part-1-html/
+redirect_from:
+  - /2009/1/11/state-of-the-smallville-address-part-1-html
 categories:
     - 'Comic Books'
     - Entertainment

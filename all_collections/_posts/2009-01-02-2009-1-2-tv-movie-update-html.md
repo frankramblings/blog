@@ -6,6 +6,8 @@ author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=80'
 permalink: /2009/01/02/tv-movie-update-html/
+redirect_from:
+  - /2009/1/2/tv-movie-update-html
 categories:
     - 'Current Events'
     - Entertainment

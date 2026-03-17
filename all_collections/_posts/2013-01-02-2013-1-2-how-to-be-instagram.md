@@ -7,6 +7,8 @@ excerpt: '<p><em><strong>riginally posted at&nbsp;<a href="http://allthings.womm
 layout: post
 guid: 'https://34.95.34.211/?p=130'
 permalink: /2013/01/02/how-to-be-instagram/
+redirect_from:
+  - /2013/1/2/how-to-be-instagram
 categories:
     - Content
     - Instagram

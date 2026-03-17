@@ -6,6 +6,8 @@ author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=59'
 permalink: /2008/11/06/a-time-for-choosing-html/
+redirect_from:
+  - /2008/11/6/a-time-for-choosing-html
 categories:
     - 'Current Events'
     - Life

@@ -6,6 +6,8 @@ author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=174'
 permalink: /2015/12/11/podcast-beer-with-geeks-085-floose-flammy/
+redirect_from:
+  - /2015/12/8/podcast-beer-with-geeks-085-floose-flammy
 passthrough_url:
     - 'http://www.beerwithgeeks.com/2015/12/085-floose-flammy.html'
 image: "/assets/images/beerwithgeeks-banner.jpg"

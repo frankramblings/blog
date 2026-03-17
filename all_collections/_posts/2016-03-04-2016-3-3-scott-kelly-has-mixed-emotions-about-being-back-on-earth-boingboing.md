@@ -6,6 +6,8 @@ author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=232'
 permalink: /2016/03/04/scott-kelly-has-mixed-emotions-about-being-back-on-earth-boingboing/
+redirect_from:
+  - /2016/3/3/scott-kelly-has-mixed-emotions-about-being-back-on-earth-boingboing
 passthrough_url:
     - 'http://boingboing.net/2016/03/02/astronaut-scott-kelly-on-what.html'
 categories:

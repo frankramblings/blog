@@ -6,6 +6,8 @@ author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=105'
 permalink: /2009/04/06/donald-wheres-your-trousers-html/
+redirect_from:
+  - /2009/4/6/donald-wheres-your-trousers-html
 categories:
     - 'Geek Culture'
     - Music

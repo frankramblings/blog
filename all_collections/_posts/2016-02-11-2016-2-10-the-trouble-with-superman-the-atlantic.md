@@ -6,6 +6,8 @@ author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=222'
 permalink: /2016/02/11/the-trouble-with-superman-the-atlantic/
+redirect_from:
+  - /2016/2/10/the-trouble-with-superman-the-atlantic
 passthrough_url:
     - 'http://www.theatlantic.com/entertainment/archive/2016/02/the-trouble-with-superman/435408/'
 categories:

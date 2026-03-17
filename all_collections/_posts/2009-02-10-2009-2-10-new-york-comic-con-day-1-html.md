@@ -6,6 +6,8 @@ author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=95'
 permalink: /2009/02/10/new-york-comic-con-day-1-html/
+redirect_from:
+  - /2009/2/10/new-york-comic-con-day-1-html
 categories:
     - 'Comic Books'
     - Entertainment

@@ -6,6 +6,8 @@ author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=353'
 permalink: /2016/10/19/supergirl-tv-talk-2x02-the-last-children-of-krypton/
+redirect_from:
+  - /2016/10/18/supergirl-tv-talk-2x02-the-last-children-of-krypton
 passthrough_url:
     - 'http://www.supergirltvtalk.com/2016/10/2x02-last-children-of-krypton.html'
 image: "/assets/images/stvt-banner.jpg"

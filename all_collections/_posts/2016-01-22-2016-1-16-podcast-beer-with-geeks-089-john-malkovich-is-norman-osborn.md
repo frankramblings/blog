@@ -6,6 +6,8 @@ author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=206'
 permalink: /2016/01/22/podcast-beer-with-geeks-089-john-malkovich-is-norman-osborn/
+redirect_from:
+  - /2016/1/16/podcast-beer-with-geeks-089-john-malkovich-is-norman-osborn
 passthrough_url:
     - 'http://www.beerwithgeeks.com/2016/01/089-john-malkovich-is-norman-osborn.html'
 image: "/assets/images/beerwithgeeks-banner.jpg"

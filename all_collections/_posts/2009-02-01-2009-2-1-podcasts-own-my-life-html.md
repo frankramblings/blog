@@ -6,6 +6,8 @@ author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=91'
 permalink: /2009/02/01/podcasts-own-my-life-html/
+redirect_from:
+  - /2009/2/1/podcasts-own-my-life-html
 categories:
     - 'Comic Books'
     - 'Echo Alert Podcast'

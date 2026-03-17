@@ -6,6 +6,8 @@ author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=81'
 permalink: /2009/01/03/christmas-birthday-loot-html/
+redirect_from:
+  - /2009/1/3/christmas-birthday-loot-html
 categories:
     - 'Geek Culture'
     - Life

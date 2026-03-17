@@ -6,6 +6,8 @@ author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=391'
 permalink: /2016/11/17/twitter-just-copied-snapchats-least-interesting-feature/
+redirect_from:
+  - /2016/11/16/twitter-just-copied-snapchats-least-interesting-feature
 passthrough_url:
     - 'http://www.theverge.com/2016/11/16/13657140/twitter-qr-codes-snapcodes'
 image: "/assets/images/2016/11/image-asset-copy.png"

@@ -7,6 +7,8 @@ excerpt: 'The remixed White Album proves that The Beatles are as relevant today 
 layout: post
 guid: 'https://34.95.34.211/?p=492'
 permalink: /2018/11/30/fifty-years-of-the-white-album/
+redirect_from:
+  - /2018/11/6/fifty-years-of-the-white-album
 image: "/assets/images/2018/11/iu.jpeg"
 categories:
     - Beatles

@@ -6,6 +6,8 @@ author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=181'
 permalink: /2015/12/2/podcast-supergirl-tv-talk-1x05-how-does-she-do-it/
+redirect_from:
+  - /2015/12/1/podcast-supergirl-tv-talk-1x05-how-does-she-do-it
 passthrough_url:
     - 'http://www.supergirltvtalk.com/2015/12/1x06-red-faced.html'
 image: "/assets/images/stvt-banner.jpg"

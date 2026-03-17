@@ -6,6 +6,8 @@ author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=24'
 permalink: /2010/02/01/why-i-want-an-ipad-html/
+redirect_from:
+  - /2010/2/1/why-i-want-an-ipad-html
 categories:
     - Uncategorized
 ---

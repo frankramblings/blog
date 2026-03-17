@@ -7,6 +7,8 @@ excerpt: '<p style="margin-left:0px; margin-right:0px"><em><strong>Originally po
 layout: post
 guid: 'https://34.95.34.211/?p=135'
 permalink: /2013/06/20/facebook-comments-go-wild/
+redirect_from:
+  - /2014/1/26/facebook-comments-go-wild
 categories:
     - Uncategorized
 ---

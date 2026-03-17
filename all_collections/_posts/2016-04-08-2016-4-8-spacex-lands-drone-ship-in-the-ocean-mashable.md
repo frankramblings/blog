@@ -5,7 +5,7 @@ date: '2016-04-08T21:58:16+00:00'
 author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=251'
-permalink: /blog/2016/04/08/2016-4-8-spacex-lands-drone-ship-in-the-ocean-mashable/
+permalink: /2016/4/8/spacex-lands-drone-ship-in-the-ocean-mashable/
 passthrough_url:
     - 'http://mashable.com/2016/04/08/spacex-success-ship-landing/'
 categories:

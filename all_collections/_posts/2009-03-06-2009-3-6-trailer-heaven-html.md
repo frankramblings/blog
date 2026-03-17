@@ -6,6 +6,8 @@ author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=99'
 permalink: /2009/03/06/trailer-heaven-html/
+redirect_from:
+  - /2009/3/6/trailer-heaven-html
 categories:
     - Entertainment
     - 'Geek Culture'

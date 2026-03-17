@@ -6,6 +6,8 @@ author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=324'
 permalink: /2016/8/10/the-marketers-next-door-001-gimme-that-low-cpl/
+redirect_from:
+  - /2016/8/9/the-marketers-next-door-001-gimme-that-low-cpl
 passthrough_url:
     - 'http://www.marketersnextdoor.com/2016/08/001-gimme-that-low-cpl.html'
 image: "/assets/images/mnd-banner.jpg"

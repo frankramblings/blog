@@ -6,6 +6,8 @@ author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=104'
 permalink: /2009/03/31/this-song-just-wont-quit-html/
+redirect_from:
+  - /2009/3/31/this-song-just-wont-quit-html
 categories:
     - Entertainment
     - Music

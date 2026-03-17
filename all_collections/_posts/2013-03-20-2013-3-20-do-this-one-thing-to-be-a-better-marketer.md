@@ -7,6 +7,8 @@ excerpt: '<p><em><strong>Originally posted at&nbsp;<a href="http://www.likeable.
 layout: post
 guid: 'https://34.95.34.211/?p=137'
 permalink: /2013/03/20/do-this-one-thing-to-be-a-better-marketer/
+redirect_from:
+  - /2013/3/20/do-this-one-thing-to-be-a-better-marketer
 categories:
     - Marketing
     - Productivity

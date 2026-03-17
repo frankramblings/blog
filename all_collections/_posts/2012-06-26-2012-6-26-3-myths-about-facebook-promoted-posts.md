@@ -7,6 +7,8 @@ excerpt: '<p><span style="font-size:12px"></span><em><strong>Originally posted a
 layout: post
 guid: 'https://34.95.34.211/?p=143'
 permalink: /2012/06/26/3-myths-about-facebook-promoted-posts/
+redirect_from:
+  - /2012/6/26/3-myths-about-facebook-promoted-posts
 categories:
     - Advertising
     - Facebook

@@ -6,6 +6,8 @@ author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=379'
 permalink: /2016/11/04/could-the-mac-make-a-comeback/
+redirect_from:
+  - /2016/11/4/could-the-mac-make-a-comeback
 passthrough_url:
     - 'http://transition.io/the-mac-is-back/'
 image: "/assets/images/2016/11/Screen+Shot+2016-11-04+at+7.53.05+AM.png"

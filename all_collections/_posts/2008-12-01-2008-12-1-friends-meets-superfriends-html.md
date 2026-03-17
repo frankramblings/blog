@@ -6,6 +6,8 @@ author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=73'
 permalink: /2008/12/01/friends-meets-superfriends-html/
+redirect_from:
+  - /2008/12/1/friends-meets-superfriends-html
 categories:
     - 'Comic Books'
     - Entertainment

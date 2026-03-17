@@ -6,6 +6,8 @@ author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=226'
 permalink: /2016/2/19/podcast-beer-with-geeks-093-theyre-called-optic-blasts/
+redirect_from:
+  - /2016/2/16/podcast-beer-with-geeks-093-theyre-called-optic-blasts
 image: "/assets/images/beerwithgeeks-banner.jpg"
 categories:
     - 'Beer With Geeks'

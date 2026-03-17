@@ -6,6 +6,8 @@ author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=440'
 permalink: /2017/1/24/star-wars-episode-viii-the-last-jedi/
+redirect_from:
+  - /2017/1/23/star-wars-episode-viii-the-last-jedi
 passthrough_url:
     - 'http://www.starwars.com/news/the-official-title-for-star-wars-episode-viii-revealed'
 image: "/assets/images/2017/01/image-asset.jpeg"

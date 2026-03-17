@@ -6,6 +6,8 @@ author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=89'
 permalink: /2009/01/22/diggnation-and-felicia-day-on-late-night-with-jimmy-fallon-html/
+redirect_from:
+  - /2009/1/22/diggnation-and-felicia-day-on-late-night-with-jimmy-fallon-html
 categories:
     - Entertainment
     - 'Geek Culture'

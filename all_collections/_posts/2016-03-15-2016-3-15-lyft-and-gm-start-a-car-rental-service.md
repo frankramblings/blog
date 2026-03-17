@@ -6,6 +6,8 @@ author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=237'
 permalink: /2016/03/15/lyft-and-gm-start-a-car-rental-service/
+redirect_from:
+  - /2016/3/15/lyft-and-gm-start-a-car-rental-service
 passthrough_url:
     - 'http://www.fastcompany.com/3057858/fast-feed/lyft-and-gm-are-starting-a-car-rental-service-together?utm_content=buffer88546&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer'
 categories:

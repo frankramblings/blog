@@ -6,6 +6,8 @@ author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=119'
 permalink: /2009/08/11/confessions-of-an-uninspired-blogger-html/
+redirect_from:
+  - /2009/8/11/confessions-of-an-uninspired-blogger-html
 categories:
     - Uncategorized
 ---

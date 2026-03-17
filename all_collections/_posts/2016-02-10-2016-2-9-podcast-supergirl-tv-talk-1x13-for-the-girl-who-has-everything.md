@@ -6,6 +6,8 @@ author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=221'
 permalink: /2016/2/10/podcast-supergirl-tv-talk-1x13-for-the-girl-who-has-everything/
+redirect_from:
+  - /2016/2/9/podcast-supergirl-tv-talk-1x13-for-the-girl-who-has-everything
 passthrough_url:
     - 'http://www.supergirltvtalk.com/2016/02/1x13-for-girl-who-has-everything.html'
 image: "/assets/images/stvt-banner.jpg"

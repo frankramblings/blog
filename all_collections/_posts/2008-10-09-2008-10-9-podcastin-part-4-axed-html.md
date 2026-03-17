@@ -6,6 +6,8 @@ author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=7'
 permalink: /2008/10/09/podcastin-part-4-axed-html/
+redirect_from:
+  - /2008/10/9/podcastin-part-4-axed-html
 categories:
     - Entertainment
     - 'Geek Culture'

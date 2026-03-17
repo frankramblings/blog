@@ -6,6 +6,8 @@ author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=274'
 permalink: /2016/5/31/these-star-trek-beyond-posters-will-pump-you-up-trekmovie/
+redirect_from:
+  - /2016/5/30/these-star-trek-beyond-posters-will-pump-you-up-trekmovie
 passthrough_url:
     - 'http://trekmovie.com/2016/05/30/three-new-star-trek-beyond-character-posters-released-today-scotty-sulu-uhura/'
 categories:

@@ -6,6 +6,8 @@ author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=11'
 permalink: /2009/09/15/norwegian-wood-this-bird-has-flown-html/
+redirect_from:
+  - /2009/9/15/norwegian-wood-this-bird-has-flown-html
 categories:
     - Uncategorized
 ---

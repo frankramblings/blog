@@ -6,6 +6,8 @@ author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=110'
 permalink: /2009/05/05/windows-7-best-os-ever-html/
+redirect_from:
+  - /2009/5/5/windows-7-best-os-ever-html
 categories:
     - 'Geek Culture'
     - Technology

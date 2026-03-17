@@ -7,6 +7,8 @@ excerpt: '<p><em><strong>​Originally posted at&nbsp;<a href="http://allthings.
 layout: post
 guid: 'https://34.95.34.211/?p=129'
 permalink: /2012/08/17/dont-sell-out-on-twitter/
+redirect_from:
+  - /2012/8/17/dont-sell-out-on-twitter
 categories:
     - Uncategorized
 ---

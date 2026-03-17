@@ -6,6 +6,8 @@ author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=210'
 permalink: /2016/1/20/podcast-supergirl-tv-talk-1x10-childish-things/
+redirect_from:
+  - /2016/1/19/podcast-supergirl-tv-talk-1x10-childish-things
 image: "/assets/images/stvt-banner.jpg"
 categories:
     - Podcasts

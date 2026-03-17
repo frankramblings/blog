@@ -6,6 +6,8 @@ author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=102'
 permalink: /2009/03/26/musics-power-of-emotion-html/
+redirect_from:
+  - /2009/3/26/musics-power-of-emotion-html
 categories:
     - Music
 ---

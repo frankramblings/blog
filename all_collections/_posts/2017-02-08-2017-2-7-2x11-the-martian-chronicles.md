@@ -6,6 +6,8 @@ author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=454'
 permalink: /2017/2/8/2x11-the-martian-chronicles/
+redirect_from:
+  - /2017/2/7/2x11-the-martian-chronicles
 passthrough_url:
     - 'http://www.supergirltvtalk.com/2017/02/2x11-martian-chronicles.html'
 image: "/assets/images/2017/02/lego-coverart-twittercard.jpg"

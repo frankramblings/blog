@@ -7,6 +7,8 @@ excerpt: '<p><span style="font-size:16px">Since the launch of Facebook’s mobil
 layout: post
 guid: 'https://34.95.34.211/?p=134'
 permalink: /2013/05/14/facebook-mobile-ads-for-dummies/
+redirect_from:
+  - /2014/1/26/facebook-mobile-ads-for-dummies
 categories:
     - Uncategorized
 ---

@@ -6,6 +6,8 @@ author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=160'
 permalink: /2015/11/23/livingsocial-offers-a-cautionary-tale-to-todays-unicorns-the-new-york-times/
+redirect_from:
+  - /2015/11/22/livingsocial-offers-a-cautionary-tale-to-todays-unicorns-the-new-york-times
 categories:
     - Links
 ---

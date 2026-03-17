@@ -5,7 +5,7 @@ date: '2016-04-13T16:16:02+00:00'
 author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=254'
-permalink: /blog/2016/04/13/2016-4-13-nasa-really-is-trying-to-grow-potatoes-on-mars-wsj/
+permalink: /2016/4/13/nasa-really-is-trying-to-grow-potatoes-on-mars-wsj/
 categories:
     - Links
     - Science

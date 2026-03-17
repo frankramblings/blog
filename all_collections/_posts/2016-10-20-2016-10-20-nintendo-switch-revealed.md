@@ -6,6 +6,8 @@ author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=357'
 permalink: /2016/10/20/2016-10-20-nintendo-switch-revealed/
+redirect_from:
+  - /2016/10/20/nintendo-switch-revealed
 passthrough_url:
     - 'http://www.theverge.com/games/2016/10/20/13342308/nintendo-switch-nx-console-reveal-video-trailer-release'
 image: "/assets/images/2016/10/maxresdefault.jpg"

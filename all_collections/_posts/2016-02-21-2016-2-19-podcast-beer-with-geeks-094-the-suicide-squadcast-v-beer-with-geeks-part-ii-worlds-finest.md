@@ -6,6 +6,8 @@ author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=228'
 permalink: /2016/2/21/podcast-beer-with-geeks-094-the-suicide-squadcast-v-beer-with-geeks-part-ii-worlds-finest/
+redirect_from:
+  - /2016/2/19/podcast-beer-with-geeks-094-the-suicide-squadcast-v-beer-with-geeks-part-ii-worlds-finest
 image: "/assets/images/beerwithgeeks-banner.jpg"
 categories:
     - 'Beer With Geeks'

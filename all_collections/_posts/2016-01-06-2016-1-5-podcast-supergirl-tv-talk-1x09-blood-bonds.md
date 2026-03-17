@@ -6,6 +6,8 @@ author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=203'
 permalink: /2016/1/6/podcast-supergirl-tv-talk-1x09-blood-bonds/
+redirect_from:
+  - /2016/1/5/podcast-supergirl-tv-talk-1x09-blood-bonds
 passthrough_url:
     - 'http://www.supergirltvtalk.com/2016/01/1x09-blood-bonds.html'
 image: "/assets/images/stvt-banner.jpg"

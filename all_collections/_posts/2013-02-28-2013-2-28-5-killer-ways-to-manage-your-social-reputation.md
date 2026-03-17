@@ -7,6 +7,8 @@ excerpt: "<p><em><strong>Originally posted at&nbsp;<a href=\"http://www.likeable
 layout: post
 guid: 'https://34.95.34.211/?p=138'
 permalink: /2013/02/28/5-killer-ways-to-manage-your-social-reputation/
+redirect_from:
+  - /2013/2/28/5-killer-ways-to-manage-your-social-reputation
 categories:
     - 'Brand Management'
     - Influence

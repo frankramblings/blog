@@ -6,6 +6,8 @@ author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=351'
 permalink: /2016/10/12/supergirl-tv-talk-2x01-the-adventures-of-supergirl/
+redirect_from:
+  - /2016/10/11/supergirl-tv-talk-2x01-the-adventures-of-supergirl
 passthrough_url:
     - 'http://www.supergirltvtalk.com/2016/10/2x01-adventures-of-supergirl.html'
 image: "/assets/images/stvt-banner.jpg"

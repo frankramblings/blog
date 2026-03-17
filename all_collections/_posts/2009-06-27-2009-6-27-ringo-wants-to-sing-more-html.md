@@ -6,6 +6,8 @@ author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=115'
 permalink: /2009/06/27/ringo-wants-to-sing-more-html/
+redirect_from:
+  - /2009/6/27/ringo-wants-to-sing-more-html
 categories:
     - Beatles
     - Entertainment

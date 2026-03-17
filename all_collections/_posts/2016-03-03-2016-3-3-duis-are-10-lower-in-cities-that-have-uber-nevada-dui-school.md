@@ -6,6 +6,8 @@ author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=230'
 permalink: /2016/03/03/duis-are-10-lower-in-cities-that-have-uber-nevada-dui-school/
+redirect_from:
+  - /2016/3/3/duis-are-10-lower-in-cities-that-have-uber-nevada-dui-school
 passthrough_url:
     - 'http://duischoolnv.com/2016/01/01/uber-creates-a-10-drop-in-duis/'
 categories:

@@ -7,6 +7,8 @@ excerpt: '<p><em><strong>Originally posted at the&nbsp;<a href="http://www.likea
 layout: post
 guid: 'https://34.95.34.211/?p=142'
 permalink: /2012/08/07/social-relevance-the-marscuriosity-story/
+redirect_from:
+  - /2012/8/7/social-relevance-the-marscuriosity-story
 categories:
     - 'Brand Management'
     - Content

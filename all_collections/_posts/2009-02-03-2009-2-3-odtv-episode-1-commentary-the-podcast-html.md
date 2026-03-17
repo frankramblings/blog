@@ -6,6 +6,8 @@ author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=94'
 permalink: /2009/02/03/odtv-episode-1-commentary-the-podcast-html/
+redirect_from:
+  - /2009/2/3/odtv-episode-1-commentary-the-podcast-html
 categories:
     - Movies
     - 'Obiter Dictum Podcast'

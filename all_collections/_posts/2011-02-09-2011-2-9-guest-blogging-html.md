@@ -6,6 +6,8 @@ author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=35'
 permalink: /2011/02/09/guest-blogging-html/
+redirect_from:
+  - /2011/2/9/guest-blogging-html
 categories:
     - Beatles
     - Blogging

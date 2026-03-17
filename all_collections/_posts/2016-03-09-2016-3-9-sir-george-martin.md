@@ -6,6 +6,8 @@ author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=234'
 permalink: /2016/03/09/sir-george-martin/
+redirect_from:
+  - /2016/3/9/sir-george-martin
 passthrough_url:
     - 'http://www.nytimes.com/2016/03/10/arts/music/george-martin-producer-of-the-beatles-dies-at-90.html'
 categories:

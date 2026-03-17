@@ -6,6 +6,8 @@ author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=111'
 permalink: /2009/06/03/just-so-much-podcasting-html/
+redirect_from:
+  - /2009/6/3/just-so-much-podcasting-html
 categories:
     - 'Echo Alert Podcast'
     - Entertainment

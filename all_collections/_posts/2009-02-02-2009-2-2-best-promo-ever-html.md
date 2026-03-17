@@ -6,6 +6,8 @@ author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=93'
 permalink: /2009/02/02/best-promo-ever-html/
+redirect_from:
+  - /2009/2/2/best-promo-ever-html
 categories:
     - 'Geek Culture'
     - Humor

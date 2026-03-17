@@ -6,6 +6,8 @@ author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=120'
 permalink: /2009/08/18/an-oldie-but-a-goodie-html/
+redirect_from:
+  - /2009/8/18/an-oldie-but-a-goodie-html
 categories:
     - Technology
 ---

@@ -6,6 +6,8 @@ author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=361'
 permalink: /2016/10/26/supergirl-tv-talk-2x03-welcome-to-earth/
+redirect_from:
+  - /2016/10/25/supergirl-tv-talk-2x03-welcome-to-earth
 passthrough_url:
     - 'http://www.supergirltvtalk.com/2016/10/2x03-welcome-to-earth.html'
 image: "/assets/images/stvt-banner.jpg"

@@ -6,6 +6,8 @@ author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=216'
 permalink: /2016/02/01/why-self-driving-cars-wont-replace-human-drivers-for-at-least-a-decade-robert-scoble/
+redirect_from:
+  - /2016/1/31/why-self-driving-cars-wont-replace-human-drivers-for-at-least-a-decade-robert-scoble
 passthrough_url:
     - 'https://medium.com/@scobleizer/don-t-worry-uber-lyft-drivers-self-driving-cars-won-t-take-your-job-for-at-least-a-decade-3b8c58a7f102#.s6w7lrnx4'
 categories:

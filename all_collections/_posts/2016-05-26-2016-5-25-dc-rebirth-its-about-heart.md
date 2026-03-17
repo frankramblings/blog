@@ -6,6 +6,8 @@ author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=271'
 permalink: /2016/5/26/dc-rebirth-its-about-heart/
+redirect_from:
+  - /2016/5/25/dc-rebirth-its-about-heart
 image: "/assets/images/2016/05/Rebirth-Splash.jpg"
 categories:
     - 'Comic Books'

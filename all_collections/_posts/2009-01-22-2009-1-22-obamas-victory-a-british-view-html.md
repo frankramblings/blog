@@ -6,6 +6,8 @@ author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=88'
 permalink: /2009/01/22/obamas-victory-a-british-view-html/
+redirect_from:
+  - /2009/1/22/obamas-victory-a-british-view-html
 categories:
     - 'Current Events'
     - Essay

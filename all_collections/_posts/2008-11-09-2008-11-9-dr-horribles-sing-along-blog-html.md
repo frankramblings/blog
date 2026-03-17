@@ -6,6 +6,8 @@ author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=60'
 permalink: /2008/11/09/dr-horribles-sing-along-blog-html/
+redirect_from:
+  - /2008/11/9/dr-horribles-sing-along-blog-html
 categories:
     - Uncategorized
 ---

@@ -6,6 +6,8 @@ author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=224'
 permalink: /2016/2/26/podcast-beer-with-geeks-093-70-podcasts/
+redirect_from:
+  - /2016/2/11/podcast-beer-with-geeks-093-70-podcasts
 image: "/assets/images/beerwithgeeks-banner.jpg"
 categories:
     - 'Beer With Geeks'

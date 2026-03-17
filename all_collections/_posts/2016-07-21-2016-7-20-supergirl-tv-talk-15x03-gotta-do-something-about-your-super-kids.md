@@ -6,6 +6,8 @@ author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=296'
 permalink: /2016/7/21/supergirl-tv-talk-15x03-gotta-do-something-about-your-super-kids/
+redirect_from:
+  - /2016/7/20/supergirl-tv-talk-15x03-gotta-do-something-about-your-super-kids
 image: "/assets/images/stvt-banner.jpg"
 categories:
     - Podcasts

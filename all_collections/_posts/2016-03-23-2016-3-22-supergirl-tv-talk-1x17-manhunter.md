@@ -6,6 +6,8 @@ author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=242'
 permalink: /2016/3/23/supergirl-tv-talk-1x17-manhunter/
+redirect_from:
+  - /2016/3/22/supergirl-tv-talk-1x17-manhunter
 passthrough_url:
     - 'http://www.supergirltvtalk.com/2016/03/1x17-manhunter.html'
 image: "/assets/images/stvt-banner.jpg"

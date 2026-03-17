@@ -6,6 +6,8 @@ author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=208'
 permalink: /2016/01/19/networks-want-netflix-to-share-ratings-nytwsj/
+redirect_from:
+  - /2016/1/19/networks-want-netflix-to-share-ratings-nytwsj
 categories:
     - Links
     - 'New Media'

@@ -7,6 +7,8 @@ excerpt: '<p><span style="font-size:16px">In the marketing field, there are some
 layout: post
 guid: 'https://34.95.34.211/?p=132'
 permalink: /2013/04/15/3-habits-of-highly-effective-marketers/
+redirect_from:
+  - /2014/1/26/3-habits-of-highly-effective-marketers
 categories:
     - Uncategorized
 ---

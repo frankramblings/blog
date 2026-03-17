@@ -6,6 +6,8 @@ author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=337'
 permalink: /2016/9/23/beer-with-geeks-126-fat-mans-theme/
+redirect_from:
+  - /2016/9/8/beer-with-geeks-126-fat-mans-theme
 passthrough_url:
     - 'http://www.beerwithgeeks.com/2016/09/126-fat-mans-theme.html'
 image: "/assets/images/beerwithgeeks-banner.jpg"

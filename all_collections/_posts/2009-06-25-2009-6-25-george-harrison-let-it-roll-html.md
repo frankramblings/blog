@@ -6,6 +6,8 @@ author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=114'
 permalink: /2009/06/25/george-harrison-let-it-roll-html/
+redirect_from:
+  - /2009/6/25/george-harrison-let-it-roll-html
 categories:
     - Uncategorized
 ---

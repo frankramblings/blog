@@ -6,6 +6,8 @@ author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=16'
 permalink: /2009/11/02/guest-appearances-on-castlecast-html/
+redirect_from:
+  - /2009/11/2/guest-appearances-on-castlecast-html
 categories:
     - Uncategorized
 ---

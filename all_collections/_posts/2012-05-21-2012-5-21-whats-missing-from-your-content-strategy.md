@@ -7,6 +7,8 @@ excerpt: '<p><em><strong>Originally posted at the&nbsp;<a href="http://www.likea
 layout: post
 guid: 'https://34.95.34.211/?p=144'
 permalink: /2012/05/21/whats-missing-from-your-content-strategy/
+redirect_from:
+  - /2012/5/21/whats-missing-from-your-content-strategy
 categories:
     - 'Brand Management'
 tags:

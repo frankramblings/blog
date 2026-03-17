@@ -6,6 +6,8 @@ author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=187'
 permalink: /2015/11/23/miss-piggy-covered-adeles-hello-and-it-was-perfect/
+redirect_from:
+  - /2015/11/22/miss-piggy-covered-adeles-hello-and-it-was-perfect
 passthrough_url:
     - 'https://www.youtube.com/watch?v=h7Q5gcScKa8'
 structured_content:

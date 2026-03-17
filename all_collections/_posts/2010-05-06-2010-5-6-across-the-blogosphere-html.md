@@ -6,6 +6,8 @@ author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=27'
 permalink: /2010/05/06/across-the-blogosphere-html/
+redirect_from:
+  - /2010/5/6/across-the-blogosphere-html
 categories:
     - Beatles
     - Blogging

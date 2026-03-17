@@ -6,6 +6,8 @@ author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=10'
 permalink: /2009/09/15/my-cover-of-across-the-universe-html/
+redirect_from:
+  - /2009/9/15/my-cover-of-across-the-universe-html
 categories:
     - Uncategorized
 ---

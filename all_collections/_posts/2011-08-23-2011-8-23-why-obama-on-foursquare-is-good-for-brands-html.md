@@ -7,6 +7,8 @@ excerpt: '<p><em><strong>Originally posted at the&nbsp;<a href="http://www.likea
 layout: post
 guid: 'https://34.95.34.211/?p=151'
 permalink: /2011/08/23/why-obama-on-foursquare-is-good-for-brands-html/
+redirect_from:
+  - /2011/8/23/why-obama-on-foursquare-is-good-for-brands-html
 categories:
     - Uncategorized
 ---

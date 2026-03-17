@@ -6,6 +6,8 @@ author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=167'
 permalink: /2015/12/08/insanely-ugly-iphone-battery-case-shows-up-on-apple-website-mashable/
+redirect_from:
+  - /2015/12/8/insanely-ugly-iphone-battery-case-shows-up-on-apple-website-mashable
 passthrough_url:
     - 'http://mashable.com/2015/12/08/smart-battery-case-iphone/?utm_cid=mash-com-Tw-main-link#f0zs6QAR4EqD'
 categories:

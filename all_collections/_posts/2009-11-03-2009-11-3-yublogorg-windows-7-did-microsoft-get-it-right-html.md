@@ -6,6 +6,8 @@ author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=17'
 permalink: /2009/11/03/yublogorg-windows-7-did-microsoft-get-it-right-html/
+redirect_from:
+  - /2009/11/3/yublogorg-windows-7-did-microsoft-get-it-right-html
 categories:
     - Blogging
     - Technology

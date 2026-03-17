@@ -6,6 +6,8 @@ author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=225'
 permalink: /2016/02/16/the-smithsonian-is-restoring-the-original-uss-enterprise-ars-technica/
+redirect_from:
+  - /2016/2/16/the-smithsonian-is-restoring-the-original-uss-enterprise-ars-technica
 passthrough_url:
     - 'http://arstechnica.com/the-multiverse/2016/01/how-the-smithsonian-is-restoring-the-original-uss-enterprise-to-full-1967-glory/'
 categories:

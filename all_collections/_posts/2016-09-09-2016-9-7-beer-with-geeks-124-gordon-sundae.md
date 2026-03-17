@@ -6,6 +6,8 @@ author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=333'
 permalink: /2016/9/9/beer-with-geeks-124-gordon-sundae/
+redirect_from:
+  - /2016/9/7/beer-with-geeks-124-gordon-sundae
 passthrough_url:
     - 'http://www.beerwithgeeks.com/2016/09/124-gordon-sundae.html'
 image: "/assets/images/beerwithgeeks-banner.jpg"

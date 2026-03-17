@@ -6,6 +6,8 @@ author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=116'
 permalink: /2009/07/14/branching-out-html/
+redirect_from:
+  - /2009/7/14/branching-out-html
 categories:
     - Opinion
     - Technology

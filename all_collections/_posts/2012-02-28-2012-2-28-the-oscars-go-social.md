@@ -7,6 +7,8 @@ excerpt: '<p><em><strong>Originally posted at the&nbsp;<a href="http://www.likea
 layout: post
 guid: 'https://34.95.34.211/?p=131'
 permalink: /2012/02/28/the-oscars-go-social/
+redirect_from:
+  - /2012/2/28/the-oscars-go-social
 categories:
     - Entertainment
 tags:

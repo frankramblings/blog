@@ -6,6 +6,8 @@ author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=452'
 permalink: /2017/2/7/the-marketers-next-door-008-snapchat-pre-mortem/
+redirect_from:
+  - /2017/2/6/the-marketers-next-door-008-snapchat-pre-mortem
 passthrough_url:
     - 'http://www.marketersnextdoor.com/2017/02/008-snapchat-pre-mortem.html'
 image: "/assets/images/mnd-banner.jpg"

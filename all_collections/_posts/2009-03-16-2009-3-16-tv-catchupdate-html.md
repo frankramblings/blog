@@ -6,6 +6,8 @@ author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=100'
 permalink: /2009/03/16/tv-catchupdate-html/
+redirect_from:
+  - /2009/3/16/tv-catchupdate-html
 categories:
     - Entertainment
     - 'Geek Culture'

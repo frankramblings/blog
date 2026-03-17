@@ -7,6 +7,8 @@ excerpt: '<p><strong>Originally posted at the&nbsp;<a href="http://www.likeable.
 layout: post
 guid: 'https://34.95.34.211/?p=155'
 permalink: /2011/05/29/5-ways-you-should-be-using-twitter-but-probably-arent-html/
+redirect_from:
+  - /2011/5/29/5-ways-you-should-be-using-twitter-but-probably-arent-html
 categories:
     - Entertainment
     - Food

@@ -6,6 +6,8 @@ author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=214'
 permalink: /2016/01/30/nasa-reveals-plutos-blue-atmosphere-abc-news/
+redirect_from:
+  - /2016/1/30/nasa-reveals-plutos-blue-atmosphere-abc-news
 passthrough_url:
     - 'http://abcnews.go.com/Technology/plutos-blue-atmosphere-close/story?id=36594663&nwltr=abcn_tco'
 categories:

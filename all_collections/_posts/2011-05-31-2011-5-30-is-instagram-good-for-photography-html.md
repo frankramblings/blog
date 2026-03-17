@@ -7,6 +7,8 @@ excerpt: '<p>I''ve always been fascinated by photography. When I was younger, my
 layout: post
 guid: 'https://34.95.34.211/?p=127'
 permalink: /2011/05/31/is-instagram-good-for-photography-html/
+redirect_from:
+  - /2011/5/30/is-instagram-good-for-photography-html
 image: "/assets/images/2011/05/image_14-300x300-1.jpg"
 categories:
     - Instagram

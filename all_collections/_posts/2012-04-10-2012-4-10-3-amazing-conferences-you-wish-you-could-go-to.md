@@ -7,6 +7,8 @@ excerpt: '<p><em><strong>Originally posted at the&nbsp;<a href="http://www.likea
 layout: post
 guid: 'https://34.95.34.211/?p=145'
 permalink: /2012/04/10/3-amazing-conferences-you-wish-you-could-go-to/
+redirect_from:
+  - /2012/4/10/3-amazing-conferences-you-wish-you-could-go-to
 categories:
     - Marketing
     - 'Small Business'

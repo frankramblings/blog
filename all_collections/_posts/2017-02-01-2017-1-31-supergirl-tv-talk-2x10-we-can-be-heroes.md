@@ -6,6 +6,8 @@ author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=446'
 permalink: /2017/2/1/supergirl-tv-talk-2x10-we-can-be-heroes/
+redirect_from:
+  - /2017/1/31/supergirl-tv-talk-2x10-we-can-be-heroes
 passthrough_url:
     - 'http://www.supergirltvtalk.com/2017/01/2x10-we-can-be-heroes.html'
 image: "/assets/images/stvt-banner.jpg"

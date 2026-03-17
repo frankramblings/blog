@@ -6,6 +6,8 @@ author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=36'
 permalink: /2008/10/03/and-now-for-something-completely-irrelevant-html/
+redirect_from:
+  - /2008/10/3/and-now-for-something-completely-irrelevant-html
 categories:
     - Entertainment
     - 'Geek Culture'

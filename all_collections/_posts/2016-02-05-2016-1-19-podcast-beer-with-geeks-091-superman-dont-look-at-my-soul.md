@@ -6,6 +6,8 @@ author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=209'
 permalink: /2016/2/5/podcast-beer-with-geeks-091-superman-dont-look-at-my-soul/
+redirect_from:
+  - /2016/1/19/podcast-beer-with-geeks-091-superman-dont-look-at-my-soul
 cthumbnail: "/assets/images/beerwithgeeks-banner.jpg"
 categories:
     - 'Beer With Geeks'

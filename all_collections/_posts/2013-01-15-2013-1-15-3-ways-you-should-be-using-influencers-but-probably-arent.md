@@ -7,6 +7,8 @@ excerpt: '<p><em><strong>Originally posted at&nbsp;<a href="http://www.likeable.
 layout: post
 guid: 'https://34.95.34.211/?p=133'
 permalink: /2013/01/15/3-ways-you-should-be-using-influencers-but-probably-arent/
+redirect_from:
+  - /2013/1/15/3-ways-you-should-be-using-influencers-but-probably-arent
 categories:
     - Uncategorized
 tags:

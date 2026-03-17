@@ -6,6 +6,8 @@ author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=448'
 permalink: /2017/2/3/beer-with-geeks-144-a-cocky-kid/
+redirect_from:
+  - /2017/2/2/beer-with-geeks-144-a-cocky-kid
 passthrough_url:
     - 'http://www.beerwithgeeks.com/2017/02/144-cocky-kid.html'
 image: "/assets/images/beerwithgeeks-banner.jpg"

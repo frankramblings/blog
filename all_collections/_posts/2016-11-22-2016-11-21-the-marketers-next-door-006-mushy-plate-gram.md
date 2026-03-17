@@ -6,6 +6,8 @@ author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=393'
 permalink: /2016/11/22/the-marketers-next-door-006-mushy-plate-gram/
+redirect_from:
+  - /2016/11/21/the-marketers-next-door-006-mushy-plate-gram
 passthrough_url:
     - 'http://www.marketersnextdoor.com/2016/11/006-mushy-plate-gram.html'
 image: "/assets/images/mnd-banner.jpg"

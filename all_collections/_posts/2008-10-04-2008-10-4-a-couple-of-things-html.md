@@ -6,6 +6,8 @@ author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=46'
 permalink: /2008/10/04/a-couple-of-things-html/
+redirect_from:
+  - /2008/10/4/a-couple-of-things-html
 categories:
     - Life
     - Opinion

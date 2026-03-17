@@ -6,6 +6,8 @@ author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=229'
 permalink: /2016/3/2/podcast-supergirl-tv-talk-1x15-solitude/
+redirect_from:
+  - /2016/3/1/podcast-supergirl-tv-talk-1x15-solitude
 image: "/assets/images/stvt-banner.jpg"
 categories:
     - Podcasts

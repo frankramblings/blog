@@ -6,6 +6,8 @@ author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=68'
 permalink: /2008/10/06/podcastin-part-1-shoe-and-10th-wonder-html/
+redirect_from:
+  - /2008/10/6/podcastin-part-1-shoe-and-10th-wonder-html
 categories:
     - 'Comic Books'
     - Entertainment

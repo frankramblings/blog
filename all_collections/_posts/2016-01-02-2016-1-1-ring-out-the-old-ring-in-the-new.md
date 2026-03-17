@@ -6,6 +6,8 @@ author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=202'
 permalink: /2016/01/02/ring-out-the-old-ring-in-the-new/
+redirect_from:
+  - /2016/1/1/ring-out-the-old-ring-in-the-new
 categories:
     - Music
 ---

@@ -6,6 +6,8 @@ author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=265'
 permalink: /2016/5/18/supergirl-tv-talk-15x01-james-and-winn-arent-dead/
+redirect_from:
+  - /2016/5/17/supergirl-tv-talk-15x01-james-and-winn-arent-dead
 image: "/assets/images/stvt-banner.jpg"
 categories:
     - Podcasts

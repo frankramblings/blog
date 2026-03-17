@@ -6,6 +6,8 @@ author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=109'
 permalink: /2009/05/04/what-would-i-look-like-as-a-vulcan-html/
+redirect_from:
+  - /2009/5/4/what-would-i-look-like-as-a-vulcan-html
 categories:
     - 'Geek Culture'
     - Humor

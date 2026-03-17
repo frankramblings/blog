@@ -6,6 +6,8 @@ author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=220'
 permalink: /2016/02/05/some-users-can-now-easily-switch-between-instagram-accounts-on-ios-latergramme/
+redirect_from:
+  - /2016/2/5/some-users-can-now-easily-switch-between-instagram-accounts-on-ios-latergramme
 categories:
     - Links
     - Technology

@@ -6,6 +6,8 @@ author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=371'
 permalink: /2016/11/2/supergirl-tv-talk-2x04-survivors/
+redirect_from:
+  - /2016/11/1/supergirl-tv-talk-2x04-survivors
 passthrough_url:
     - 'http://www.supergirltvtalk.com/2016/11/2x04-survivors.html'
 image: "/assets/images/stvt-banner.jpg"

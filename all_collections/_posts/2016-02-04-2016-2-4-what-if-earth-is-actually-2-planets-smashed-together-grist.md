@@ -6,6 +6,8 @@ author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=219'
 permalink: /2016/02/04/what-if-earth-is-actually-2-planets-smashed-together-grist/
+redirect_from:
+  - /2016/2/4/what-if-earth-is-actually-2-planets-smashed-together-grist
 passthrough_url:
     - 'http://grist.org/science/everything-you-know-is-a-lie-earth-might-actually-be-2-planets-smashed-together/'
 categories:

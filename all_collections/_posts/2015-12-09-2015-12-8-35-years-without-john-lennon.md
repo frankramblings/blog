@@ -6,6 +6,8 @@ author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=192'
 permalink: /2015/12/09/35-years-without-john-lennon/
+redirect_from:
+  - /2015/12/8/35-years-without-john-lennon
 categories:
     - Uncategorized
 ---

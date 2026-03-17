@@ -6,6 +6,8 @@ author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=198'
 permalink: /2016/1/8/podcast-beer-with-geeks-087-kltpzyxm/
+redirect_from:
+  - /2015/12/8/podcast-beer-with-geeks-087-kltpzyxm
 passthrough_url:
     - 'http://www.beerwithgeeks.com/2016/01/087-kltpzyxm.html'
 image: "/assets/images/beerwithgeeks-banner.jpg"

@@ -6,6 +6,8 @@ author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=98'
 permalink: /2009/03/05/enhanced-aac-podcasts-in-windows-html/
+redirect_from:
+  - /2009/3/5/enhanced-aac-podcasts-in-windows-html
 categories:
     - 'Geek Culture'
     - Internet

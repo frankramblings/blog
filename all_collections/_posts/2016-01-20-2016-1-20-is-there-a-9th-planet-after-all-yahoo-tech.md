@@ -6,6 +6,8 @@ author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=211'
 permalink: /2016/01/20/is-there-a-9th-planet-after-all-yahoo-tech/
+redirect_from:
+  - /2016/1/20/is-there-a-9th-planet-after-all-yahoo-tech
 passthrough_url:
     - 'https://www.yahoo.com/tech/planet-nine-evidence-grows-for-1347529463955510.html://'
 categories:

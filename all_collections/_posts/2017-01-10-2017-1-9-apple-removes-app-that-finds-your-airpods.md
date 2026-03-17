@@ -6,6 +6,8 @@ author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=427'
 permalink: /2017/1/10/apple-removes-app-that-finds-your-airpods/
+redirect_from:
+  - /2017/1/9/apple-removes-app-that-finds-your-airpods
 passthrough_url:
     - 'http://www.theverge.com/2017/1/9/14211068/airpods-finder-app-removed-app-store?utm_campaign=theverge&utm_content=chorus&utm_medium=social&utm_source=twitter'
 image: "/assets/images/2017/01/IMG_0316.jpg"

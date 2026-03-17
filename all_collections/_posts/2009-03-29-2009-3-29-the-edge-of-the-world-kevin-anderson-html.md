@@ -6,6 +6,8 @@ author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=103'
 permalink: /2009/03/29/the-edge-of-the-world-kevin-anderson-html/
+redirect_from:
+  - /2009/3/29/the-edge-of-the-world-kevin-anderson-html
 categories:
     - 'Geek Culture'
 ---

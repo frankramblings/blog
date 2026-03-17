@@ -6,6 +6,8 @@ author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=399'
 permalink: /2016/11/30/supergirl-tv-talk-2x08-medusa/
+redirect_from:
+  - /2016/11/29/supergirl-tv-talk-2x08-medusa
 passthrough_url:
     - 'http://www.supergirltvtalk.com/2016/11/2x08-medusa.html'
 image: "/assets/images/stvt-banner.jpg"

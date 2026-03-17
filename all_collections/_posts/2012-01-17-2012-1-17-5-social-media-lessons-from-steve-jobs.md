@@ -7,6 +7,8 @@ excerpt: '<p><span style="font-size:12px"></span><em><strong>Originally posted a
 layout: post
 guid: 'https://34.95.34.211/?p=146'
 permalink: /2012/01/17/5-social-media-lessons-from-steve-jobs/
+redirect_from:
+  - /2012/1/17/5-social-media-lessons-from-steve-jobs
 categories:
     - 'Big Brands'
     - Business

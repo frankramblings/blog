@@ -6,6 +6,8 @@ author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=245'
 permalink: /2016/3/30/podcast-supergirl-tv-talk-1x18-worlds-finest/
+redirect_from:
+  - /2016/3/29/podcast-supergirl-tv-talk-1x18-worlds-finest
 passthrough_url:
     - 'http://www.supergirltvtalk.com/2016/03/1x18-worlds-finest.html'
 image: "/assets/images/stvt-banner.jpg"

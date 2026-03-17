@@ -6,6 +6,8 @@ author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=122'
 permalink: /2009/08/27/disillusioned-disappointed-but-not-really-html/
+redirect_from:
+  - /2009/8/27/disillusioned-disappointed-but-not-really-html
 categories:
     - Uncategorized
 ---

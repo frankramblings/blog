@@ -6,6 +6,8 @@ author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=233'
 permalink: /2016/03/04/mcdonalds-happy-meals-get-a-virtual-reality-makeover-newsweek/
+redirect_from:
+  - /2016/3/3/mcdonalds-happy-meals-get-a-virtual-reality-makeover-newsweek
 passthrough_url:
     - 'http://www.newsweek.com/virtual-reality-mcdonalds-happy-meals-433019'
 categories:

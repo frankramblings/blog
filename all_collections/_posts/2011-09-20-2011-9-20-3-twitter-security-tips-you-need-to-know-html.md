@@ -7,6 +7,8 @@ excerpt: '<p><em><strong>Originally posted at the&nbsp;<a href="http://www.likea
 layout: post
 guid: 'https://34.95.34.211/?p=150'
 permalink: /2011/09/20/3-twitter-security-tips-you-need-to-know-html/
+redirect_from:
+  - /2011/9/20/3-twitter-security-tips-you-need-to-know-html
 categories:
     - Uncategorized
 ---

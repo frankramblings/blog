@@ -6,6 +6,8 @@ author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=108'
 permalink: /2009/04/23/enemies-allies-html/
+redirect_from:
+  - /2009/4/23/enemies-allies-html
 categories:
     - 'Comic Books'
     - 'Geek Culture'

@@ -6,6 +6,8 @@ author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=57'
 permalink: /2008/10/06/celebrations-abound-html/
+redirect_from:
+  - /2008/10/6/celebrations-abound-html
 categories:
     - Internet
     - Life

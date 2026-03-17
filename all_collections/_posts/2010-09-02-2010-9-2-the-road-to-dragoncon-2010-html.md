@@ -6,6 +6,8 @@ author: Frank
 layout: post
 guid: 'https://34.95.34.211/?p=28'
 permalink: /2010/09/02/the-road-to-dragoncon-2010-html/
+redirect_from:
+  - /2010/9/2/the-road-to-dragoncon-2010-html
 categories:
     - 'Comic Books'
     - 'Geek Culture'
