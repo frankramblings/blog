@@ -1,0 +1,15 @@
+---
+layout: archive-list
+title: "Podcasts"
+description: "Every podcast I've hosted, co-hosted, or appeared on."
+permalink: /archive/podcasts/
+archive_section: podcasts
+---
+
+{% for show in site.data.podcasts %}
+{% assign show_entries = site.archive | where: "type", "podcast" | where: "podcast", show.slug %}
+{% if show_entries.size > 0 %}
+<h3><a href="{{ site.baseurl }}/archive/podcasts/{{ show.slug }}/">{{ show.title }}</a> ({{ show_entries.size }})</h3>
+{% if show.description %}<p class="section-desc">{{ show.description }}</p>{% endif %}
+{% endif %}
+{% endfor %}

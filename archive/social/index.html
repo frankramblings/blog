@@ -1,0 +1,14 @@
+---
+layout: archive-list
+title: "Social Media"
+description: "Archived posts from Twitter, Mastodon, and Bluesky."
+permalink: /archive/social/
+archive_section: social
+---
+
+{% assign social_entries = site.archive | where: "type", "social" %}
+{% assign platforms = social_entries | map: "platform" | uniq | sort %}
+{% for platform in platforms %}
+{% assign platform_entries = social_entries | where: "platform", platform %}
+<h3><a href="{{ site.baseurl }}/archive/social/{{ platform }}/">{{ platform | capitalize }}</a> ({{ platform_entries.size }})</h3>
+{% endfor %}
