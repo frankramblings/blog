@@ -75,7 +75,7 @@
   title: "Superman & Lois TV Talk"
   description: "Episode-by-episode commentary on Superman & Lois."
   numbering: season
-  feed_url: ""
+  feed_url: "https://feeds.fireside.fm/supermantvtalk/rss"
   web_url: "https://www.superhouseofel.com/posts?tag=superman-and-lois"
   active: false
 
@@ -83,7 +83,7 @@
   title: "SHoE: Krypton"
   description: "Episode-by-episode commentary on Krypton."
   numbering: season
-  feed_url: ""
+  feed_url: "https://feeds.fireside.fm/supermantvtalk/rss"
   web_url: "https://www.superhouseofel.com/posts?tag=krypton"
   active: false
 

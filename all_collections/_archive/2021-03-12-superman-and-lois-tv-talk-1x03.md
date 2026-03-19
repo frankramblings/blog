@@ -1,0 +1,16 @@
+---
+title: "Superman and Lois | 1x03 – \"The Perks of Not Being a Wallflower\""
+date: "2021-03-12"
+type: "podcast"
+platform: "podcast"
+podcast: "superman-and-lois-tv-talk"
+podcast_title: "Superman & Lois TV Talk"
+season: 1
+episode: 3
+episode_id: "1x03"
+permalink: "/archive/podcasts/superman-and-lois-tv-talk/1x03/"
+original_url: "https://www.supermantvtalk.com/superman-and-lois-the-perks-of-not-being-a-wallflower"
+audio_url: "https://aphid.fireside.fm/d/1437767933/ca06e266-f5ac-4159-baf5-35ad203e8279/54218fa9-53f4-48e7-83aa-194ca07fbc6e.mp3"
+---
+
+Clark shares some of his Kryptonian history with Jordan and Jonathan during a family breakfast. Meanwhile, Lois and Chrissy dig deeper to uncover the truth about Morgan Edge.Links:‘Superman & Lois’ Temporarily Moves Off The CW Schedule Due To Previous Covid-19 Pause, ‘Supergirl’ Flies In To Help – DeadlineSuperman & Lois Theory: The Twins' Power Requires Them to Be TogetherElizabeth Tulloch on Twitter: "Hey @cwsupermanlois fans! I love nicknames 🤗. On #Grimm we called the fans #Grimmsters. What should our #SupermanAndLois fans be called? I’m polling some of my faves. And don’t forget to tune in tonight 9/8c for a new episode!" / TwitterThe Perks of Being a Wallflower (film) - Wikipedia
