@@ -143,7 +143,10 @@ def write_tweet(tweet_id, date, text, original_url, media_paths=None):
         return False, filename
 
     permalink = f"/archive/social/twitter/{tweet_id}/"
-    yaml_title = title.replace('"', '\\"')
+    # Sanitize title for YAML: remove backslashes and control chars, escape quotes
+    yaml_title = title.replace('\\', '')
+    yaml_title = re.sub(r'[\x00-\x08\x0b\x0c\x0e-\x1f\x7f]', '', yaml_title)
+    yaml_title = yaml_title.replace('"', '\\"')
 
     lines = [
         '---',
