@@ -1,0 +1,63 @@
+{% comment %}
+  Archive card component — Ford-style content box.
+  Expects: entry (page object with archive front matter)
+{% endcomment %}
+
+{% assign platform = entry.platform | default: entry.type %}
+
+<article class="archive-card-inner archive-card--{{ platform }}">
+  {% comment %} Platform icon top-right {% endcomment %}
+  {% if platform == "twitter" or platform == "mastodon" or platform == "bluesky" or platform == "linkedin" %}
+  <div class="archive-card-icon">
+    <img src="{{ site.baseurl }}/assets/icons/{{ platform }}.svg" alt="{{ platform }}">
+  </div>
+  {% elsif entry.type == "podcast" %}
+  <div class="archive-card-icon">
+    <img src="{{ site.baseurl }}/assets/icons/podcast.svg" alt="podcast">
+  </div>
+  {% endif %}
+
+  {% comment %} Meta line: date + platform label {% endcomment %}
+  <div class="archive-card-meta">
+    <time datetime="{{ entry.date | date_to_xmlschema }}">
+      {{ entry.date | date: "%b %-d, %Y" }}
+    </time>
+    <span class="platform-label platform-label--{{ platform }}">
+      {% if entry.type == "podcast" %}Podcast{% else %}{{ platform | capitalize }}{% endif %}
+    </span>
+    {% if entry.podcast_title %}
+    <span>{{ entry.podcast_title }}</span>
+    {% endif %}
+    {% if entry.episode_id %}
+    <span>Episode {{ entry.episode_id }}</span>
+    {% endif %}
+  </div>
+
+  {% comment %} Title {% endcomment %}
+  <h1 class="archive-card-title">
+    {% if entry.original_url %}
+    <a href="{{ entry.original_url }}" rel="noopener" target="_blank">{{ entry.title }}</a>
+    {% else %}
+    {{ entry.title }}
+    {% endif %}
+  </h1>
+
+  {% comment %} Content {% endcomment %}
+  <div class="archive-card-content">
+    {{ entry.content }}
+  </div>
+
+  {% comment %} Audio player for podcasts {% endcomment %}
+  {% if entry.audio_url %}
+  <div class="archive-card-audio">
+    {% include embed-audio.html src=entry.audio_url %}
+  </div>
+  {% endif %}
+
+  {% comment %} Source link {% endcomment %}
+  {% if entry.original_url %}
+  <div class="archive-card-source">
+    <a href="{{ entry.original_url }}" rel="noopener" target="_blank">View original</a>
+  </div>
+  {% endif %}
+</article>

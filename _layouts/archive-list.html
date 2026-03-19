@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+  {% include head.html %}
+  <body>
+    <main class="blogfeed">
+      {% include header.html %}
+
+      <div class="archive-breadcrumb">
+        <a href="{{ site.baseurl }}/archive/">Archive</a>
+        {% if page.archive_section == "podcasts" %}
+        <span class="sep"></span><a href="{{ site.baseurl }}/archive/podcasts/">Podcasts</a>
+        {% elsif page.archive_section == "social" %}
+        <span class="sep"></span><a href="{{ site.baseurl }}/archive/social/">Social Media</a>
+        {% endif %}
+      </div>
+
+      <section class="archive-section">
+        <h1>{{ page.title }}</h1>
+        {% if page.description %}
+        <p class="section-desc">{{ page.description }}</p>
+        {% endif %}
+
+        {{ content }}
+
+        {% comment %} Filter archive entries for this page {% endcomment %}
+        {% if page.archive_type == "podcast" %}
+          {% assign entries = site.archive | where: "type", "podcast" | where: "podcast", page.archive_podcast | sort: "date" | reverse %}
+        {% elsif page.archive_type == "social" %}
+          {% assign entries = site.archive | where: "platform", page.archive_platform | sort: "date" | reverse %}
+        {% else %}
+          {% assign entries = nil %}
+        {% endif %}
+
+        {% if entries.size > 0 %}
+        <ul class="archive-entry-list">
+          {% for entry in entries %}
+          <li>
+            <a href="{{ site.baseurl }}{{ entry.url }}">
+              {% if entry.episode_id %}
+              <span class="entry-id">{{ entry.episode_id }}</span>
+              {% endif %}
+              <span class="entry-title">{{ entry.title }}</span>
+              <span class="entry-date">{{ entry.date | date: "%b %-d, %Y" }}</span>
+            </a>
+          </li>
+          {% endfor %}
+        </ul>
+        {% else %}
+        <p class="section-desc">No entries yet.</p>
+        {% endif %}
+      </section>
+
+      {% include footer.html %}
+    </main>
+  </body>
+</html>

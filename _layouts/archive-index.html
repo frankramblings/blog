@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+  {% include head.html %}
+  <body>
+    <main class="blogfeed">
+      {% include header.html %}
+
+      <section class="archive-section">
+        <h1>{{ page.title }}</h1>
+        {% if page.description %}
+        <p class="section-desc">{{ page.description }}</p>
+        {% endif %}
+
+        {{ content }}
+
+        {% comment %} Podcasts Section {% endcomment %}
+        <h2>Podcasts</h2>
+        <ul class="archive-show-list">
+          {% for show in site.data.podcasts %}
+          {% assign show_entries = site.archive | where: "type", "podcast" | where: "podcast", show.slug %}
+          <li>
+            <a href="{{ site.baseurl }}/archive/podcasts/{{ show.slug }}/">
+              <span class="show-title">{{ show.title }}</span>
+              <span class="show-count">({{ show_entries.size }})</span>
+              {% if show.description %}
+              <span class="show-desc">{{ show.description }}</span>
+              {% endif %}
+            </a>
+          </li>
+          {% endfor %}
+        </ul>
+
+        {% comment %} Social Media Section {% endcomment %}
+        <h2>Social Media</h2>
+        <ul class="archive-show-list">
+          {% assign social_entries = site.archive | where: "type", "social" %}
+          {% assign platforms = social_entries | map: "platform" | uniq %}
+          {% for platform in platforms %}
+          {% assign platform_entries = social_entries | where: "platform", platform %}
+          <li>
+            <a href="{{ site.baseurl }}/archive/social/{{ platform }}/">
+              <span class="show-title">{{ platform | capitalize }}</span>
+              <span class="show-count">({{ platform_entries.size }})</span>
+            </a>
+          </li>
+          {% endfor %}
+        </ul>
+      </section>
+
+      {% include footer.html %}
+    </main>
+  </body>
+</html>

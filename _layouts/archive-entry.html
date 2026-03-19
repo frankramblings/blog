@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+  {% include head.html %}
+  <body>
+    <main class="blogfeed">
+      {% include header.html %}
+
+      <div class="archive-breadcrumb">
+        <a href="{{ site.baseurl }}/archive/">Archive</a>
+        {% if page.type == "podcast" %}
+        <span class="sep"></span><a href="{{ site.baseurl }}/archive/podcasts/">Podcasts</a>
+        <span class="sep"></span><a href="{{ site.baseurl }}/archive/podcasts/{{ page.podcast }}/">{{ page.podcast_title }}</a>
+        {% else %}
+        <span class="sep"></span><a href="{{ site.baseurl }}/archive/social/">Social Media</a>
+        <span class="sep"></span><a href="{{ site.baseurl }}/archive/social/{{ page.platform }}/">{{ page.platform | capitalize }}</a>
+        {% endif %}
+      </div>
+
+      <div class="archive-card">
+        {% assign entry = page %}
+        {% include archive-card.html entry=entry %}
+      </div>
+
+      {% assign entry = page %}
+      {% include archive-nav.html entry=entry %}
+
+      {% include footer.html %}
+    </main>
+  </body>
+</html>

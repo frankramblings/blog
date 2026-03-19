@@ -1,0 +1,87 @@
+{% comment %}
+  Archive dual navigation — By Time / By Structure.
+  Expects: entry (current page object)
+{% endcomment %}
+
+{% assign all_archive = site.archive | sort: "date" %}
+
+{% comment %} Find prev/next by time (across all archive entries) {% endcomment %}
+{% assign prev_time = nil %}
+{% assign next_time = nil %}
+{% assign found = false %}
+{% for item in all_archive %}
+  {% if found and next_time == nil %}
+    {% assign next_time = item %}
+  {% endif %}
+  {% if item.url == entry.url %}
+    {% assign found = true %}
+  {% endif %}
+  {% if found == false %}
+    {% assign prev_time = item %}
+  {% endif %}
+{% endfor %}
+
+{% comment %} Find prev/next by structure (same type + platform/podcast) {% endcomment %}
+{% if entry.type == "podcast" %}
+  {% assign siblings = site.archive | where: "type", "podcast" | where: "podcast", entry.podcast | sort: "date" %}
+{% else %}
+  {% assign siblings = site.archive | where: "platform", entry.platform | sort: "date" %}
+{% endif %}
+
+{% assign prev_struct = nil %}
+{% assign next_struct = nil %}
+{% assign found_struct = false %}
+{% for item in siblings %}
+  {% if found_struct and next_struct == nil %}
+    {% assign next_struct = item %}
+  {% endif %}
+  {% if item.url == entry.url %}
+    {% assign found_struct = true %}
+  {% endif %}
+  {% if found_struct == false %}
+    {% assign prev_struct = item %}
+  {% endif %}
+{% endfor %}
+
+<nav class="archive-nav">
+  {% comment %} By Time {% endcomment %}
+  <div class="archive-nav-section">
+    <h4>By Time</h4>
+    <div class="archive-nav-links">
+      <span class="nav-prev">
+        {% if prev_time %}
+        <a href="{{ site.baseurl }}{{ prev_time.url }}">← {{ prev_time.title | truncate: 40 }}</a>
+        {% endif %}
+      </span>
+      <span class="nav-next">
+        {% if next_time %}
+        <a href="{{ site.baseurl }}{{ next_time.url }}">{{ next_time.title | truncate: 40 }} →</a>
+        {% endif %}
+      </span>
+    </div>
+  </div>
+
+  {% comment %} By Structure {% endcomment %}
+  <div class="archive-nav-section">
+    <h4>By Structure</h4>
+    <div class="archive-nav-links">
+      <span class="nav-prev">
+        {% if prev_struct %}
+        <a href="{{ site.baseurl }}{{ prev_struct.url }}">← {{ prev_struct.title | truncate: 40 }}</a>
+        {% endif %}
+      </span>
+      <span class="nav-up">
+        {% if entry.type == "podcast" %}
+        <a href="{{ site.baseurl }}/archive/podcasts/{{ entry.podcast }}/">↑ {{ entry.podcast_title }}</a>
+        {% else %}
+        <a href="{{ site.baseurl }}/archive/social/{{ entry.platform }}/">↑ {{ entry.platform | capitalize }}</a>
+        {% endif %}
+      </span>
+      <span class="nav-next">
+        {% if next_struct %}
+        <a href="{{ site.baseurl }}{{ next_struct.url }}">{{ next_struct.title | truncate: 40 }} →</a>
+        {% endif %}
+      </span>
+    </div>
+  </div>
+</nav>
