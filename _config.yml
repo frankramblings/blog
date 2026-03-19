@@ -27,7 +27,9 @@ collections:
   posts:
     output: true
   images:
-    output: true  
+    output: true
+  archive:
+    output: true
 
 defaults:
   - scope:
@@ -40,6 +42,11 @@ defaults:
       path: "/assets/images"
     values:
       image: true
+  - scope:
+      path: ""
+      type: "archive"
+    values:
+      layout: "archive-entry"
 exclude:
   - Gemfile
   - Gemfile.lock
