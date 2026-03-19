@@ -5,17 +5,17 @@
 
 /* --- Override font-weight: 900 from main.blogfeed * --- */
 
-.archive-section *,
-.archive-card *,
-.archive-nav *,
-.archive-breadcrumb * {
+main.blogfeed .archive-section *,
+main.blogfeed .archive-card *,
+main.blogfeed .archive-nav *,
+main.blogfeed .archive-breadcrumb * {
   font-weight: 400;
 }
 
-.archive-section h1,
-.archive-section h2,
-.archive-section h3,
-.archive-card-title {
+main.blogfeed .archive-section h1,
+main.blogfeed .archive-section h2,
+main.blogfeed .archive-section h3,
+main.blogfeed .archive-card-title {
   font-weight: 700;
 }
 
