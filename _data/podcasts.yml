@@ -1,0 +1,51 @@
+# Podcast show metadata
+# numbering: "sequential" (episode 12) or "season" (6x01)
+
+- slug: beer-with-geeks
+  title: "Beer With Geeks"
+  description: "A geek culture podcast."
+  numbering: sequential
+  feed_url: ""  # To be filled when crawling
+  active: false
+
+- slug: supergirl-tv-talk
+  title: "Supergirl TV Talk"
+  description: "Episode-by-episode commentary on Supergirl."
+  numbering: season
+  feed_url: ""
+  active: false
+
+- slug: echo-alert
+  title: "Echo Alert"
+  description: "A Dollhouse podcast."
+  numbering: season
+  feed_url: ""
+  active: false
+
+- slug: obiter-dictum
+  title: "Obiter Dictum Podcast"
+  description: "Fan commentary on TV shows."
+  numbering: sequential
+  feed_url: ""
+  active: false
+
+- slug: the-marketers-next-door
+  title: "The Marketers Next Door"
+  description: "A marketing and business podcast."
+  numbering: sequential
+  feed_url: ""
+  active: false
+
+- slug: franks-music-free-for-all
+  title: "Frank's Music Free-For-All"
+  description: "A music-focused podcast."
+  numbering: sequential
+  feed_url: ""
+  active: false
+
+- slug: appearances
+  title: "Guest Appearances"
+  description: "One-off appearances on other people's podcasts."
+  numbering: none
+  feed_url: ""
+  active: true
