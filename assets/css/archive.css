@@ -1,0 +1,413 @@
+/* ==========================================================================
+   Archive Styles
+   Follows existing design system from main.css / post.css
+   ========================================================================== */
+
+/* --- Override font-weight: 900 from main.blogfeed * --- */
+
+.archive-section *,
+.archive-card *,
+.archive-nav *,
+.archive-breadcrumb * {
+  font-weight: 400;
+}
+
+.archive-section h1,
+.archive-section h2,
+.archive-section h3,
+.archive-card-title {
+  font-weight: 700;
+}
+
+/* --- Archive Index & List Pages --- */
+
+.archive-section {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 1rem 1.5rem;
+}
+
+.archive-section h1 {
+  font-size: 2rem;
+  margin-bottom: 0.5rem;
+}
+
+.archive-section h2 {
+  font-size: 1.5rem;
+  margin-top: 2rem;
+  margin-bottom: 0.75rem;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.15);
+  padding-bottom: 0.5rem;
+}
+
+.archive-section h3 {
+  font-size: 1.2rem;
+  margin-top: 1.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.archive-section p.section-desc {
+  opacity: 0.7;
+  margin-bottom: 1.5rem;
+}
+
+/* Show / platform link cards on index pages */
+.archive-show-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.archive-show-list li {
+  margin-bottom: 0.75rem;
+}
+
+.archive-show-list a {
+  display: block;
+  padding: 0.75rem 1rem;
+  background: rgba(255, 255, 255, 0.05);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: 0.75rem;
+  color: inherit;
+  text-decoration: none;
+  transition: background 0.2s, border-color 0.2s;
+}
+
+.archive-show-list a:hover {
+  background: rgba(255, 255, 255, 0.1);
+  border-color: rgba(255, 255, 255, 0.25);
+}
+
+.archive-show-list .show-title {
+  font-weight: 600;
+  font-size: 1.05rem;
+}
+
+.archive-show-list .show-count {
+  opacity: 0.5;
+  font-size: 0.85rem;
+  margin-left: 0.5rem;
+}
+
+.archive-show-list .show-desc {
+  display: block;
+  opacity: 0.6;
+  font-size: 0.85rem;
+  margin-top: 0.25rem;
+}
+
+/* Episode / post list on show pages */
+.archive-entry-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.archive-entry-list li {
+  border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+.archive-entry-list li:last-child {
+  border-bottom: none;
+}
+
+.archive-entry-list a {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  padding: 0.6rem 0.25rem;
+  color: inherit;
+  text-decoration: none;
+  transition: background 0.15s;
+}
+
+.archive-entry-list a:hover {
+  background: rgba(255, 255, 255, 0.05);
+}
+
+.archive-entry-list .entry-id {
+  font-family: monospace;
+  font-size: 0.85rem;
+  opacity: 0.5;
+  min-width: 3.5rem;
+}
+
+.archive-entry-list .entry-title {
+  flex: 1;
+  margin: 0 0.75rem;
+}
+
+.archive-entry-list .entry-date {
+  font-size: 0.8rem;
+  opacity: 0.5;
+  white-space: nowrap;
+}
+
+/* --- Ford-Style Content Card (Individual Entry) --- */
+
+.archive-card {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 1.5rem;
+}
+
+.archive-card-inner {
+  background: rgba(255, 255, 255, 0.04);
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  border-radius: 1rem;
+  padding: 1.5rem;
+  position: relative;
+}
+
+/* Platform icon in top-right corner */
+.archive-card-icon {
+  position: absolute;
+  top: 1rem;
+  right: 1rem;
+  width: 20px;
+  height: 20px;
+  opacity: 0.4;
+}
+
+.archive-card-icon img {
+  width: 100%;
+  height: 100%;
+  filter: brightness(0) invert(1);
+}
+
+/* Meta line: date + platform label */
+.archive-card-meta {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  font-size: 0.82rem;
+  opacity: 0.6;
+  margin-bottom: 0.75rem;
+  flex-wrap: wrap;
+}
+
+.archive-card-meta time {
+  /* no special styling, inherits */
+}
+
+.archive-card-meta .platform-label {
+  background: rgba(255, 255, 255, 0.1);
+  padding: 0.1rem 0.5rem;
+  border-radius: 0.3rem;
+  font-size: 0.75rem;
+  text-transform: capitalize;
+}
+
+/* Platform-specific label colors */
+.platform-label--twitter {
+  background: rgba(29, 161, 242, 0.2);
+  color: #1da1f2;
+}
+
+.platform-label--mastodon {
+  background: rgba(99, 100, 255, 0.2);
+  color: #858afa;
+}
+
+.platform-label--bluesky {
+  background: rgba(0, 133, 255, 0.2);
+  color: #52acfe;
+}
+
+.platform-label--linkedin {
+  background: rgba(0, 119, 181, 0.2);
+  color: #5eb2d8;
+}
+
+.platform-label--podcast {
+  background: rgba(149, 78, 230, 0.2);
+  color: #b78de8;
+}
+
+/* Card title */
+.archive-card-title {
+  font-size: 1.3rem;
+  margin: 0 0 0.75rem 0;
+  padding-right: 2rem; /* leave room for platform icon */
+}
+
+.archive-card-title a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.archive-card-title a:hover {
+  text-decoration: underline;
+}
+
+/* Card content — the actual post text */
+.archive-card-content {
+  font-size: 1rem;
+  line-height: 1.65;
+}
+
+.archive-card-content p {
+  margin: 0 0 0.75rem 0;
+}
+
+.archive-card-content a {
+  color: #52acfe;
+}
+
+/* Original source link */
+.archive-card-source {
+  margin-top: 1rem;
+  font-size: 0.85rem;
+}
+
+.archive-card-source a {
+  color: #52acfe;
+  text-decoration: none;
+  opacity: 0.7;
+  transition: opacity 0.15s;
+}
+
+.archive-card-source a:hover {
+  opacity: 1;
+}
+
+.archive-card-source a::after {
+  content: " →";
+}
+
+/* Audio player for podcast entries */
+.archive-card-audio {
+  margin-top: 1rem;
+}
+
+.archive-card-audio audio {
+  width: 100%;
+  border-radius: 0.5rem;
+}
+
+/* --- Dual Navigation (By Time / By Structure) --- */
+
+.archive-nav {
+  max-width: 800px;
+  margin: 2rem auto;
+  padding: 0 1.5rem;
+}
+
+.archive-nav-section {
+  margin-bottom: 1.5rem;
+}
+
+.archive-nav-section h4 {
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  opacity: 0.4;
+  margin: 0 0 0.5rem 0;
+}
+
+.archive-nav-links {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 1rem;
+}
+
+.archive-nav-links a {
+  color: #52acfe;
+  text-decoration: none;
+  font-size: 0.9rem;
+}
+
+.archive-nav-links a:hover {
+  text-decoration: underline;
+}
+
+.archive-nav-links .nav-prev {
+  text-align: left;
+}
+
+.archive-nav-links .nav-up {
+  text-align: center;
+  opacity: 0.6;
+}
+
+.archive-nav-links .nav-next {
+  text-align: right;
+}
+
+/* --- Social Post Styling (mimic original platform look) --- */
+
+/* Tweet-style posts */
+.archive-card--twitter .archive-card-content {
+  font-size: 1.05rem;
+  line-height: 1.5;
+}
+
+/* Mastodon-style posts */
+.archive-card--mastodon .archive-card-content {
+  font-size: 1rem;
+}
+
+/* Bluesky-style posts */
+.archive-card--bluesky .archive-card-content {
+  font-size: 1rem;
+}
+
+/* LinkedIn-style posts */
+.archive-card--linkedin .archive-card-content {
+  font-size: 0.95rem;
+  line-height: 1.6;
+}
+
+/* --- Breadcrumb --- */
+
+.archive-breadcrumb {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 1rem 1.5rem 0;
+  font-size: 0.82rem;
+  opacity: 0.5;
+}
+
+.archive-breadcrumb a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.archive-breadcrumb a:hover {
+  text-decoration: underline;
+}
+
+.archive-breadcrumb span.sep::before {
+  content: " / ";
+}
+
+/* --- Responsive --- */
+
+@media screen and (max-width: 750px) {
+  .archive-section {
+    padding: 1rem;
+  }
+
+  .archive-card {
+    padding: 1rem;
+  }
+
+  .archive-card-inner {
+    padding: 1rem;
+  }
+
+  .archive-entry-list a {
+    flex-direction: column;
+    gap: 0.25rem;
+  }
+
+  .archive-entry-list .entry-date {
+    font-size: 0.75rem;
+  }
+
+  .archive-nav-links {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+}
