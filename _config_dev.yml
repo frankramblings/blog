@@ -1,0 +1,7 @@
+# Dev overrides — use with: bundle exec jekyll serve --config _config.yml,_config_dev.yml
+# Removes the archive collection entirely for fast builds
+collections:
+  posts:
+    output: true
+  images:
+    output: true

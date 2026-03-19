@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "Jekyll Dev Server",
+      "runtimeExecutable": "bundle",
+      "runtimeArgs": ["exec", "jekyll", "serve", "--livereload", "--config", "_config.yml,_config_dev.yml"],
+      "port": 4000
+    }
+  ]
+}
