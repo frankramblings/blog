@@ -1,12 +1,10 @@
 {% if page.layout == "post" %}
-<header>
+<header class="site-header">
   <a class="site-title article-page" href="{{site.baseurl}}/">{{site.title}}</a>
-  <a class="nav-archive-link" href="{{site.baseurl}}/archive/">archive</a>
   {% include social-links.html %}
 </header>
 {% else %}
-<header>
+<header class="site-header">
   <a class="site-title" href="{{site.baseurl}}/">{{site.title}}</a>
-  <a class="nav-archive-link" href="{{site.baseurl}}/archive/">archive</a>
 </header>
 {% endif %}

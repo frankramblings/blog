@@ -2,6 +2,11 @@
 {% for i in site.data.author.contact %}
   <a href="{{i.url}}" target="_blank">
     <img src="{{site.baseurl}}/assets/icons/{{i.title}}.svg" alt="" />
+    <span>{{i.title}}</span>
   </a>
 {%endfor%}
+  <a href="{{site.baseurl}}/archive/">
+    <img src="{{site.baseurl}}/assets/icons/podcast.svg" alt="" />
+    <span>podcasts & socials</span>
+  </a>
 </section>

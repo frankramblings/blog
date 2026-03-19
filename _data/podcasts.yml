@@ -1,46 +1,98 @@
 # Podcast show metadata
-# numbering: "sequential" (episode 12) or "season" (6x01)
+# numbering: "sequential" (episode 12) or "season" (6x01) or "none"
 
 - slug: beer-with-geeks
   title: "Beer With Geeks"
-  description: "A geek culture podcast."
+  description: "A couple of guys, a couple of beers, and a whole lot of pop culture nostalgia."
   numbering: sequential
-  feed_url: ""  # To be filled when crawling
-  active: false
+  feed_url: "https://feeds.fireside.fm/beerwithgeeks/rss"
+  active: true
 
 - slug: supergirl-tv-talk
   title: "Supergirl TV Talk"
-  description: "Episode-by-episode commentary on Supergirl."
+  description: "Episode-by-episode commentary on the CW hit series Supergirl."
   numbering: season
-  feed_url: ""
+  feed_url: "https://feeds.fireside.fm/supergirltvtalk/rss"
   active: false
 
 - slug: echo-alert
   title: "Echo Alert"
   description: "A Dollhouse podcast."
-  numbering: season
-  feed_url: ""
+  numbering: sequential
+  feed_url: "https://feeds.feedburner.com/echoalert"
   active: false
 
 - slug: obiter-dictum
   title: "Obiter Dictum Podcast"
-  description: "Fan commentary on TV shows."
+  description: "A TV fan commentary podcast covering any and all geeky TV shows."
   numbering: sequential
-  feed_url: ""
+  feed_url: "https://odtvpodcast.blogspot.com/feeds/posts/default?alt=rss"
   active: false
 
 - slug: the-marketers-next-door
   title: "The Marketers Next Door"
-  description: "A marketing and business podcast."
+  description: "A social media marketing podcast."
   numbering: sequential
-  feed_url: ""
+  feed_url: "https://feeds.feedburner.com/marketersnextdoor"
   active: false
 
 - slug: franks-music-free-for-all
   title: "Frank's Music Free-For-All"
-  description: "A music-focused podcast."
+  description: "Music spanning from the 1950s through the 21st century."
+  numbering: sequential
+  feed_url: "http://feeds.feedburner.com/frankpodcast"
+  active: false
+
+- slug: the-gospel-according-to-lucas
+  title: "The Gospel According to Lucas"
+  description: "A Star Wars Bible study podcast."
+  numbering: sequential
+  feed_url: "https://feeds.fireside.fm/thegospelaccordingtolucas/rss"
+  active: false
+
+- slug: 4th-times-the-charm
+  title: "4th Time's the Charm"
+  description: "Watching popular media four times and providing live commentary."
+  numbering: season
+  feed_url: "https://feeds.feedburner.com/4thTimepodcast"
+  active: false
+
+- slug: save-me-the-smallville-anthology
+  title: "Save Me: The Smallville Anthology"
+  description: "An oral history of Smallville for its 20th anniversary."
+  numbering: sequential
+  feed_url: "https://feeds.feedburner.com/smallvilleanthology"
+  active: false
+
+- slug: untitled-tech-podcast
+  title: "Untitled Tech Podcast"
+  description: "A tech podcast."
+  numbering: sequential
+  feed_url: "https://feeds.feedburner.com/untitledtech"
+  active: false
+
+- slug: superman-and-lois-tv-talk
+  title: "Superman & Lois TV Talk"
+  description: "Episode-by-episode commentary on Superman & Lois."
+  numbering: season
+  feed_url: ""
+  web_url: "https://www.superhouseofel.com/posts?tag=superman-and-lois"
+  active: false
+
+- slug: shoe-krypton
+  title: "SHoE: Krypton"
+  description: "Episode-by-episode commentary on Krypton."
+  numbering: season
+  feed_url: ""
+  web_url: "https://www.superhouseofel.com/posts?tag=krypton"
+  active: false
+
+- slug: this-month-in-superman
+  title: "This Month In Superman"
+  description: "A monthly Superman video series."
   numbering: sequential
   feed_url: ""
+  youtube_playlist: "https://www.youtube.com/playlist?list=PLUkbAYtVoF2QdY5qf8cCLKda6Rl38Hs8n"
   active: false
 
 - slug: appearances

@@ -1,0 +1,19 @@
+---
+title: "Episode 317: Drive-In Ramblings"
+date: "2020-08-19"
+type: "podcast"
+platform: "podcast"
+podcast: "beer-with-geeks"
+podcast_title: "Beer With Geeks"
+episode: 317
+episode_id: "317"
+permalink: "/archive/podcasts/beer-with-geeks/317/"
+original_url: "https://www.beerwithgeeks.com/317"
+audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893849267f/75dfcbc3-4cc0-4d8d-bbad-2e5dd6fa1990.mp3"
+---
+
+Tim and Frank swap stories about their experience with the 2020 resurgence of summer drive-ins. Cheers!
+
+Beers of the Week
+Night Shift Night Lite Lager
+Mayflower Resistant Is FruitileSupport Beer With GeeksLinks:The Big Fella: Babe Ruth and the World He Created: Leavy, Jane: 9780062380227: Amazon.com: BooksTim’s Ted Williams Photo
