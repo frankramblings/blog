@@ -1,0 +1,47 @@
+{% comment %} Lightbox overlay for archive media images {% endcomment %}
+<div id="lightbox" role="dialog" aria-modal="true" aria-label="Image viewer">
+  <button id="lightbox-close" aria-label="Close">&times;</button>
+  <img id="lightbox-img" src="" alt="">
+</div>
+
+<script>
+(function () {
+  var lb     = document.getElementById('lightbox');
+  var lbImg  = document.getElementById('lightbox-img');
+  var lbClose = document.getElementById('lightbox-close');
+
+  function open(src, alt) {
+    lbImg.src = src;
+    lbImg.alt = alt || '';
+    lb.classList.add('is-open');
+    document.body.style.overflow = 'hidden';
+    lbClose.focus();
+  }
+
+  function close() {
+    lb.classList.remove('is-open');
+    document.body.style.overflow = '';
+    lbImg.src = '';
+  }
+
+  // Delegate clicks on archive card images
+  document.addEventListener('click', function (e) {
+    var img = e.target;
+    if (img.tagName !== 'IMG') return;
+    var inCard = img.closest('.archive-card-content, .archive-card-media');
+    if (!inCard) return;
+    e.preventDefault();
+    open(img.src, img.alt);
+  });
+
+  lbClose.addEventListener('click', close);
+
+  lb.addEventListener('click', function (e) {
+    if (e.target === lb) close();
+  });
+
+  document.addEventListener('keydown', function (e) {
+    if (e.key === 'Escape' && lb.classList.contains('is-open')) close();
+  });
+})();
+</script>

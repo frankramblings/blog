@@ -299,6 +299,53 @@ main.blogfeed .archive-card-title {
   display: block;
 }
 
+/* Clickable images in archive cards */
+.archive-card-content img,
+.archive-card-media img {
+  cursor: zoom-in;
+}
+
+/* Lightbox */
+#lightbox {
+  display: none;
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.92);
+  z-index: 1000;
+  align-items: center;
+  justify-content: center;
+}
+
+#lightbox.is-open {
+  display: flex;
+}
+
+#lightbox-img {
+  max-width: 92vw;
+  max-height: 92vh;
+  object-fit: contain;
+  border-radius: 0.25rem;
+  box-shadow: 0 0 60px rgba(0, 0, 0, 0.8);
+}
+
+#lightbox-close {
+  position: fixed;
+  top: 1rem;
+  right: 1.25rem;
+  background: none;
+  border: none;
+  color: #fff;
+  font-size: 2rem;
+  line-height: 1;
+  cursor: pointer;
+  opacity: 0.7;
+  padding: 0.25rem 0.5rem;
+}
+
+#lightbox-close:hover {
+  opacity: 1;
+}
+
 /* Original source link */
 .archive-card-source {
   margin-top: 1rem;
