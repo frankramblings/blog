@@ -13,12 +13,4 @@ original_url: "https://4thtimepodcast.blogspot.com/2020/03/003-snip-snap.html"
 audio_url: "https://archive.org/download/4tc-s1/4tc%20-%20003.mp3"
 ---
 
-Marissa and Frank are past halftime, and they’re ready to see what their third viewing of “Dinner Party” has in store. This might be the best one yet!
- 
-
-
-      
-
-Download: MP3
-
-Subscribe: Apple / Spotify / RSS
+Marissa and Frank are past halftime, and they’re ready to see what their third viewing of “Dinner Party” has in store. This might be the best one yet! Download: MP3 Subscribe: Apple / Spotify / RSS

@@ -12,8 +12,8 @@ original_url: "https://www.beerwithgeeks.com/472"
 audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893849267f/f1b5a356-74d6-417d-8eb4-b3b8865afd28.mp3"
 ---
 
-Frank tells Tim about a brand new documentary about the Star Wars Holiday Special in this Hit Me With Your Best Shot episode. Happy Life Day. Cheers!
+<p>Frank tells Tim about a brand new documentary about the Star Wars Holiday Special in this Hit Me With Your Best Shot episode. Happy Life Day. Cheers!</p>
 
-Beers of the Week
-Weihenstephaner Festbier
-Samuel Adams Old Fezziwig AleSupport Beer With GeeksLinks:A Disturbance in the ForceHoliday Special 2017 — Tim and Frank are joined by Kirstie and Kelsey from Hatewatch With Us for this year's Thought Bubble Holiday Special, in which they hatewatch 1978's Star Wars Holiday Special. Happy Life Day from us to you! Cheers!
+<p><strong>Beers of the Week</strong><br />
+Weihenstephaner Festbier<br />
+Samuel Adams Old Fezziwig Ale</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p><p>Links:</p><ul><li><a href="https://en.wikipedia.org/wiki/A_Disturbance_in_the_Force" rel="nofollow" title="A Disturbance in the Force">A Disturbance in the Force</a></li><li><a href="https://www.beerwithgeeks.com/189" rel="nofollow" title="Holiday Special 2017">Holiday Special 2017</a> — Tim and Frank are joined by Kirstie and Kelsey from Hatewatch With Us for this year's Thought Bubble Holiday Special, in which they hatewatch 1978's Star Wars Holiday Special. Happy Life Day from us to you! Cheers!</li></ul>

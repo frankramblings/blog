@@ -12,9 +12,9 @@ original_url: "https://www.beerwithgeeks.com/319"
 audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893849267f/1f1a6e27-edfe-470f-9306-d5ac0a1fc79d.mp3"
 ---
 
-Tim and Frank realize Batman and Robin isn't as bad as they remembered. Cheers!
-(NOTE: This episode was recorded before DC Fandome.)
+<p>Tim and Frank realize Batman and Robin isn't as bad as they remembered. Cheers!<br />
+(NOTE: This episode was recorded before DC Fandome.)</p>
 
-Beers of the Week
-Night Shift Night Heavy American Lager
-Revival Mercy Brown Imperial AleSupport Beer With Geeks
+<p><strong>Beers of the Week</strong><br />
+Night Shift Night Heavy American Lager<br />
+Revival Mercy Brown Imperial Ale</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>

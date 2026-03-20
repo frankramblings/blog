@@ -12,8 +12,8 @@ original_url: "https://www.beerwithgeeks.com/160"
 audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893849267f/c9f5bc06-fdd6-4423-9553-d5070302159d.mp3"
 ---
 
-Frank, Tim, and guest Palmer bring you this super-sized edition all about WB's newest DCEU outing: Wonder Woman. Cheers!
+<p>Frank, Tim, and guest Palmer bring you this super-sized edition all about WB's newest DCEU outing: <i>Wonder Woman.</i> Cheers!</p>
 
-Beers of the Week
-Sam Adams Irish Red
-Ballast Point Unfiltered SculpinSpecial Guest: Palmer.Support Beer With Geeks
+<p><b>Beers of the Week</b><br />
+Sam Adams Irish Red<br />
+Ballast Point Unfiltered Sculpin</p><p>Special Guest: Palmer.</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>

@@ -12,8 +12,8 @@ original_url: "https://www.beerwithgeeks.com/284"
 audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893849267f/5ac6a2c5-b4d5-4275-8b1f-6829692ad270.mp3"
 ---
 
-Frank and Tim put on their Retro Specs to break down the influence that the Star Wars Prequels could have on The Rise of Skywalker.
+<p>Frank and Tim put on their Retro Specs to break down the influence that the Star Wars Prequels could have on The Rise of Skywalker.</p>
 
-Beers of the Week
-Night Shift Phone Home Peanut Butter Porter
-Sam Adams OctoberfestSupport Beer With Geeks
+<p><strong>Beers of the Week</strong><br />
+Night Shift Phone Home Peanut Butter Porter<br />
+Sam Adams Octoberfest</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>

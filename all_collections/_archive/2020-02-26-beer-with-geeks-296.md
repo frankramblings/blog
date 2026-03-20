@@ -12,8 +12,8 @@ original_url: "https://www.beerwithgeeks.com/296"
 audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893849267f/bf3295b0-9d82-4dd8-8d7d-ee7c5275264d.mp3"
 ---
 
-Tim and Frank are together in person! Having just watched Jay and Silent Bob Reboot, the guys talk about Kevin Smith’s View Askewniverse (and a few of his other films). Cheers!
+<p>Tim and Frank are together in person! Having just watched <em>Jay and Silent Bob Reboot,</em> the guys talk about Kevin Smith’s View Askewniverse (and a few of his other films). Cheers!</p>
 
-Beers of the Week
-Props Brewery Ghost Rider
-Pipe Dream CT Crunch StoutSupport Beer With Geeks
+<p><strong>Beers of the Week</strong><br />
+Props Brewery Ghost Rider<br />
+Pipe Dream CT Crunch Stout</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>

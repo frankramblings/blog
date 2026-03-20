@@ -252,7 +252,38 @@ main.blogfeed .archive-card-title {
 
 .archive-card-content a {
   color: #52acfe;
+  text-decoration: underline;
 }
+
+.archive-card-content ul,
+.archive-card-content ol {
+  padding-left: 1.5rem;
+  margin: 0 0 0.75rem 0;
+}
+
+.archive-card-content ul {
+  list-style: disc;
+}
+
+.archive-card-content ol {
+  list-style: decimal;
+}
+
+.archive-card-content li {
+  margin-bottom: 0.25rem;
+}
+
+.archive-card-content h2,
+.archive-card-content h3,
+.archive-card-content h4 {
+  font-weight: 700;
+  margin: 1rem 0 0.4rem 0;
+  line-height: 1.3;
+}
+
+.archive-card-content h2 { font-size: 1.2rem; }
+.archive-card-content h3 { font-size: 1.05rem; }
+.archive-card-content h4 { font-size: 1rem; }
 
 /* Original source link */
 .archive-card-source {

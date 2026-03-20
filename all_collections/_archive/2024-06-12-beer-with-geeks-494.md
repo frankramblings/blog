@@ -12,8 +12,8 @@ original_url: "https://www.beerwithgeeks.com/494"
 audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893849267f/6b342042-8106-4365-b6a1-731cc7d3deea.mp3"
 ---
 
-Frank and Tim go full 90s with a review of X-Men '97 on Disney+. Cheers!
+<p>Frank and Tim go full 90s with a review of <em>X-Men '97</em> on Disney+. Cheers!</p>
 
-Beers of the Week
-Tuckerman Yellow Llama Lager
-Bell's Oberon EclipseSupport Beer With Geeks
+<p><strong>Beers of the Week</strong><br />
+Tuckerman Yellow Llama Lager<br />
+Bell's Oberon Eclipse</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>

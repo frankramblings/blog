@@ -12,8 +12,8 @@ original_url: "https://www.beerwithgeeks.com/148"
 audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893849267f/57cd52fa-a584-4d93-8487-03bc9c7ec0f8.mp3"
 ---
 
-Tim puts on his Professor hat and elbow patches, and regales Frank with the history of Wolverine, with a few X-Men twists and turns along the way. Cheers!
+<p>Tim puts on his Professor hat and elbow patches, and regales Frank with the history of Wolverine, with a few X-Men twists and turns along the way. Cheers!</p>
 
-Beers of the Week</>
-Omission Lager
-Harpoon Brewing Winter WarmerSupport Beer With Geeks
+<p><b>Beers of the Week</><br />
+Omission Lager<br />
+Harpoon Brewing Winter Warmer</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>

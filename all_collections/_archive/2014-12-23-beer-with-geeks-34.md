@@ -12,4 +12,4 @@ original_url: "https://www.beerwithgeeks.com/34"
 audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893849267f/f442cf89-cceb-4fae-a72e-3867f03aac11.mp3"
 ---
 
-Bonus episode! This time out, Frank and Tim are talking about their favorite Christmas movies, especially every version of "A Christmas Carol" you've ever heard of. Probably. Merry Christmas! Cheers!Support Beer With Geeks
+<p>Bonus episode! This time out, Frank and Tim are talking about their favorite Christmas movies, especially every version of "A Christmas Carol" you've ever heard of. Probably. Merry Christmas! Cheers!</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>

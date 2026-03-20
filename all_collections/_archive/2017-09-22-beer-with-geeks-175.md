@@ -12,10 +12,10 @@ original_url: "https://www.beerwithgeeks.com/175"
 audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893849267f/7a8d2634-9175-41c8-8964-3705f33a9527.mp3"
 ---
 
-Frank and Tim just saw "The Big Sick" so they're all about indie films right now. 
+<p>Frank and Tim just saw "The Big Sick" so they're all about indie films right now. </p>
 
-Beers of the Week
-Sam Adams Porch Rocker
-Narragansett Del's Shandy 
+<p><b>Beers of the Week</b><br />
+Sam Adams Porch Rocker<br />
+Narragansett Del's Shandy </p>
 
-Proud member of the Thought Bubble Audio Network!Support Beer With Geeks
+<p>Proud member of the <a href="http://www.thoughtbubbleaudio.com">Thought Bubble Audio Network</a>!</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>

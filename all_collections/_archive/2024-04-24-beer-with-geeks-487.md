@@ -12,8 +12,8 @@ original_url: "https://www.beerwithgeeks.com/487"
 audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893849267f/5f34d1b9-5edd-402c-b026-6b62404f33db.mp3"
 ---
 
-Frank & Tim ponder what makes a good film adaptation: sticking closely to the source material, or creative license? Cheers!
+<p>Frank & Tim ponder what makes a good film adaptation: sticking closely to the source material, or creative license? Cheers!</p>
 
-Beers of the Week
-York Beach Beer Long Weekend Pale Ale
-Exhibit 'A' Brewing Goody Two Shoes KölschSupport Beer With Geeks
+<p><strong>Beers of the Week</strong><br />
+York Beach Beer Long Weekend Pale Ale<br />
+Exhibit 'A' Brewing Goody Two Shoes Kölsch</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>

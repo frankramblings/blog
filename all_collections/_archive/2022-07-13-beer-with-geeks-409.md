@@ -12,8 +12,8 @@ original_url: "https://www.beerwithgeeks.com/409"
 audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893849267f/df9d39e0-9c54-4654-a4aa-f7efdb787708.mp3"
 ---
 
-Tim is joined by Bobby this week to discuss Thor: Love & Thunder
+<p>Tim is joined by Bobby this week to discuss Thor: Love & Thunder</p>
 
-Beers of the Week
-Water
-Polar Seltzer: LemonSupport Beer With Geeks
+<p><strong>Beers of the Week</strong><br />
+Water<br />
+Polar Seltzer: Lemon</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>

@@ -12,8 +12,8 @@ original_url: "https://www.beerwithgeeks.com/375"
 audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893849267f/fad29f3b-cba0-472b-86b1-8838cc9009b0.mp3"
 ---
 
-Frank and Tim look back at EVERY "Hit Me With Your Best Shot" segment they've ever done on Beer With Geeks and recount the ones where they followed through. Cheers!
+<p>Frank and Tim look back at EVERY "Hit Me With Your Best Shot" segment they've ever done on Beer With Geeks and recount the ones where they followed through. Cheers!</p>
 
-Beers of the Week
-Unibroue Éphémère 
-Omission Golden LagerSupport Beer With Geeks
+<p><strong>Beers of the Week</strong><br />
+Unibroue Éphémère <br />
+Omission Golden Lager</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>

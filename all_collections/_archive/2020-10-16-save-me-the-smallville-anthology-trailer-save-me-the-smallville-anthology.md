@@ -11,19 +11,4 @@ original_url: "https://smallvilleanthology.blogspot.com/2020/10/introducing-save
 audio_url: "http://dts.podtrac.com/redirect.mp3/embed-ssl.wistia.com/deliveries/99923e1f9fa38f16316d8e3efe53eee5a1090d2a/file.mp3"
 ---
 
-As we approach the 20th anniversary of Smallville, this unauthorized documentary podcast shares an oral history of the groundbreaking series from its creators, its stars, and its legions of fans.
-
-
-Go back with us to the day when a kindly couple met a young traveler from the stars. 
-
-
-Premieres May 13, 2021.
-
-
-Subscribe today.
-
-
-
-
-
-Download: MP3
+As we approach the 20th anniversary of Smallville, this unauthorized documentary podcast shares an oral history of the groundbreaking series from its creators, its stars, and its legions of fans. Go back with us to the day when a kindly couple met a young traveler from the stars. Premieres May 13, 2021. Subscribe today. Download: MP3

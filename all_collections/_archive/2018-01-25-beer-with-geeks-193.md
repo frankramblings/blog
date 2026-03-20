@@ -12,8 +12,8 @@ original_url: "https://www.beerwithgeeks.com/193"
 audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893849267f/13d26625-50a7-457a-9411-51cfc825674e.mp3"
 ---
 
-Frank and Tim look back at the first half of the TV season for their favorite CW superhero shows and the all-new Star Trek: Discovery on CBS All Access. Cheers!
+<p>Frank and Tim look back at the first half of the TV season for their favorite CW superhero shows and the all-new <em>Star Trek: Discovery</em> on CBS All Access. Cheers!</p>
 
-Beers of the Week
-Tim's Hot Toddy
-Mission St. Belgian Style White AleSupport Beer With Geeks
+<p><strong>Beers of the Week</strong><br />
+Tim's Hot Toddy<br />
+Mission St. Belgian Style White Ale</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>

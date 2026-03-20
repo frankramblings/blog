@@ -12,9 +12,9 @@ original_url: "https://www.beerwithgeeks.com/221"
 audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893849267f/4cd3648e-6a8f-42e0-9e67-90af289f3fdf.mp3"
 ---
 
-Frank and Tim are joined by Palmer from Academy Rewind for a little fan casting game: if it were the 90s, who would play the Justice League AND the Avengers? Cheers!
+<p>Frank and Tim are joined by Palmer from <a href="http://www.academyrewind.com/" rel="nofollow">Academy Rewind</a> for a little fan casting game: if it were the 90s, who would play the Justice League AND the Avengers? Cheers!</p>
 
-Beers of the Week
-Brooklyn Summer Ale
-Arrogant Bastard Ale
-Goose Island IPASpecial Guest: Palmer.Support Beer With Geeks
+<p><strong>Beers of the Week</strong><br />
+Brooklyn Summer Ale<br />
+Arrogant Bastard Ale<br />
+Goose Island IPA</p><p>Special Guest: Palmer.</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>

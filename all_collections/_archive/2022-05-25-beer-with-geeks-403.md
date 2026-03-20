@@ -12,8 +12,8 @@ original_url: "https://www.beerwithgeeks.com/403"
 audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893849267f/24b32df8-de70-4fc2-85df-0916dc471277.mp3"
 ---
 
-Frank and Tim wrap up the first season of Marvel's "Moon Knight." Cheers!
+<p>Frank and Tim wrap up the first season of Marvel's "Moon Knight." Cheers!</p>
 
-Beers of the Week
-Northwoods Brewing Landlocks and Brookies Pale Ale
-Peak Organic Happy Hour PilsnerSupport Beer With Geeks
+<p><strong>Beers of the Week</strong><br />
+Northwoods Brewing Landlocks and Brookies Pale Ale<br />
+Peak Organic Happy Hour Pilsner</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>

@@ -11,6 +11,4 @@ original_url: "https://smallvilleanthology.blogspot.com/2021/10/bonus-exclusive-
 audio_url: "https://traffic.libsyn.com/secure/starkville/Al_Miles.m4a"
 ---
 
-To celebrate the 20th Anniversary of Smallville, Save Me and Starkville House of El sit down with executive producers Al Gough and Miles Millar to discuss the legacy of the series two decades after its premiere.
-
-Download: MP3
+To celebrate the 20th Anniversary of Smallville, Save Me and Starkville House of El sit down with executive producers Al Gough and Miles Millar to discuss the legacy of the series two decades after its premiere. Download: MP3

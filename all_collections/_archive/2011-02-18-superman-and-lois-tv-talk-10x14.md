@@ -1,0 +1,16 @@
+---
+title: "Smallville | 10x14 – ‘Masquerade’"
+date: "2011-02-18"
+type: "podcast"
+platform: "podcast"
+podcast: "superman-and-lois-tv-talk"
+podcast_title: "Superman & Lois TV Talk"
+season: 10
+episode: 14
+episode_id: "10x14"
+permalink: "/archive/podcasts/superman-and-lois-tv-talk/10x14/"
+original_url: "https://www.supermantvtalk.com/smallville-masquerade"
+audio_url: "https://aphid.fireside.fm/d/1437767933/ca06e266-f5ac-4159-baf5-35ad203e8279/b4403c49-38e9-4cea-b0da-e8a0e1454474.mp3"
+---
+
+<p>February 18, 2011 – <em>As Clark makes more saves around the world, resulting in more exposure of his face, Lois suggests that he develop a better secret identity. Meanwhile, Clark discovers the work of a serial killer in Metropolis and learns that the killer is a man named Desaad, a disciple of Darkseid. Desaad finds Chloe investigating his club so he kidnaps and tortures her. Clark saves Chloe before Desaad can turn Chloe into a Darkseid follower, but a confrontation between Oliver and Desaad leaves the former with an Omega tattoo on his skull. Later, Clark explains to Lois that his real identity is “The Blur”, and that the persona of “Clark Kent” will be his true mask to the world. To accomplish this, Clark begins wearing eye glasses and changing his mannerisms to be more mild mannered. </em>In this week’s episode, Damian and Derek discuss the latest Bryan Q. Miller penned episode, ‘Masquerade’ and what its events mean for Clark Kent. Plus we talk about Michael Rosenbaum returning for the finale, what could fill up those two hours, more casting for the Superman film franchise reboot, and spoilers for ‘Fortune.’</p>

@@ -11,11 +11,4 @@ original_url: "http://echoalert.blogspot.com/2010/09/ea-special-dragoncon-2010-w
 audio_url: "http://www.podtrac.com/pts/redirect.mp3/blip.tv/file/get/Echoalertmp3-EASpecialDragonCon2010Wrapup692.mp3"
 ---
 
-Faith gives us a great recap of the final hours of the Con as real life sets back in...
-
-
-[MP3]/[Length: 14:43]
- 
-[Subscribe AAC] 
-
-[Subscribe MP3]
+Faith gives us a great recap of the final hours of the Con as real life sets back in... [MP3]/[Length: 14:43]   [Subscribe AAC]  [Subscribe MP3]

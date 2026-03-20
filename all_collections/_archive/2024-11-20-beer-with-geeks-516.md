@@ -12,8 +12,8 @@ original_url: "https://www.beerwithgeeks.com/516"
 audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893849267f/e266fb63-e052-4786-8e14-ee6f1b356d22.mp3"
 ---
 
-Frank and Tim are Thinking and Drinking!
+<p>Frank and Tim are Thinking and Drinking!</p>
 
-Beers of the Week
-Sam Adams Summer Ale
-Switchback AleSupport Beer With Geeks
+<p><strong>Beers of the Week</strong><br />
+Sam Adams Summer Ale<br />
+Switchback Ale</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>

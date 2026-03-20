@@ -12,8 +12,8 @@ original_url: "https://www.beerwithgeeks.com/311"
 audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893849267f/393e6350-0b94-41f4-b2fe-3386a4efae48.mp3"
 ---
 
-Tim and Frank share the comics they've been reading at home as they continue social distancing. Cheers!
+<p>Tim and Frank share the comics they've been reading at home as they continue social distancing. Cheers!</p>
 
-Beers of the Week
-Bell's Two-Hearted American IPA
-Skyroc Geno LagerSupport Beer With GeeksLinks:Tim’s Goodreads Account
+<p><strong>Beers of the Week</strong><br />
+Bell's Two-Hearted American IPA<br />
+Skyroc Geno Lager</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p><p>Links:</p><ul><li><a href="https://www.goodreads.com/timothypg13" rel="nofollow" title="Tim’s Goodreads Account">Tim’s Goodreads Account</a></li></ul>

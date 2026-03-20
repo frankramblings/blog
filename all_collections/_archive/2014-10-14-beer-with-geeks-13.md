@@ -12,4 +12,4 @@ original_url: "https://www.beerwithgeeks.com/13"
 audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893849267f/4140d413-daee-43e4-9188-b8482d3619d9.mp3"
 ---
 
-Snakes. Why did it have to be snakes? That's the question on Frank & Tim's minds today as they discuss the life, times, and adventures of Indiana Jones. Cheers!Support Beer With Geeks
+<p>Snakes. Why did it have to be snakes? That's the question on Frank & Tim's minds today as they discuss the life, times, and adventures of Indiana Jones. Cheers!</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>

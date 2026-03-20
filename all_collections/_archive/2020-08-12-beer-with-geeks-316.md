@@ -12,8 +12,8 @@ original_url: "https://www.beerwithgeeks.com/316"
 audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893849267f/6da1e0f6-ec76-458a-85f1-8cc3a8d0acc9.mp3"
 ---
 
-Tim challenges Frank to a game of Marvel Comics trivia. It's a struggle. Will he emerge victorious? Listen and find out. Cheers!
+<p>Tim challenges Frank to a game of Marvel Comics trivia. It's a struggle. Will he emerge victorious? Listen and find out. Cheers!</p>
 
-Beers of the Week
-Notch Lojko Polish Lager
-Kentucky Vanilla Barrel Cream AleSupport Beer With Geeks
+<p><strong>Beers of the Week</strong><br />
+Notch Lojko Polish Lager<br />
+Kentucky Vanilla Barrel Cream Ale</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>

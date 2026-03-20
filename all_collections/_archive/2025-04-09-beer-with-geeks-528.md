@@ -12,8 +12,8 @@ original_url: "https://www.beerwithgeeks.com/528"
 audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893849267f/e816cb9e-5669-4ec7-a47a-09712b6343f8.mp3"
 ---
 
-Frank and Tim rank the most legendary DC characters in an epic tier list. Cheers!
+<p>Frank and Tim rank the most legendary DC characters in an epic tier list. Cheers!</p>
 
-Beers of the Week
-Machine Czech Style Pilz
-Collective Arts Brewing Stranger Than Fiction PorterSupport Beer With Geeks
+<p><strong>Beers of the Week</strong><br />
+Machine Czech Style Pilz<br />
+Collective Arts Brewing Stranger Than Fiction Porter</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>

@@ -11,4 +11,4 @@ original_url: "http://echoalert.blogspot.com/2009/11/ea-special-report-cancellat
 audio_url: "http://www.podtrac.com/pts/redirect.mp3/blip.tv/file/get/Echoalert-EASpecialReportCancellation575.mp3"
 ---
 
-By now maybe you've heard, but Dollhouse is officially cancelled. We're here to give you the details, our reactions, and a look at the future of Dollhouse as well as Echo Alert.[MP3]/[Length: 15:14][Subscribe AAC] [Subscribe MP3]
+By now maybe you've heard, but Dollhouse is officially cancelled. We're here to give you the details, our reactions, and a look at the future of Dollhouse as well as Echo Alert. [MP3]/[Length: 15:14] [Subscribe AAC] [Subscribe MP3]

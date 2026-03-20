@@ -12,4 +12,4 @@ original_url: "http://frankpodcast.blogspot.com/2009/05/episode-33-beatle-giveaw
 audio_url: "http://frankpodcast2.podomatic.com/enclosure/2009-05-31T10_26_10-07_00.mp3"
 ---
 
-Ok, so imagine you're in the most popular band of all time, and you sell a bunch of your best songs to some random bands no one has ever heard of. Crazy? No. Beatles? Yes! In this episode, Frank plays a selection of songs written by the Beatles, but recorded exclusively by other artists.Subscribe in iTunesDownload the EpisodeDownload the Episode Playlist
+Ok, so imagine you're in the most popular band of all time, and you sell a bunch of your best songs to some random bands no one has ever heard of. Crazy? No. Beatles? Yes! In this episode, Frank plays a selection of songs written by the Beatles, but recorded exclusively by other artists. Subscribe in iTunes Download the Episode Download the Episode Playlist

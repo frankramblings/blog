@@ -12,11 +12,4 @@ original_url: "https://smallvilleanthology.blogspot.com/2021/06/02-day-is-coming
 audio_url: "http://dts.podtrac.com/redirect.mp3/embed-ssl.wistia.com/deliveries/67397279dc8a9ab78313f8c04716fbfd09000635/file.mp3"
 ---
 
-Smallville followed the journey of a young Clark Kent before he became Superman. In this chapter, hear the creators, cast, and crew recount how the show got off the ground in its first four seasons.
-
-Trigger warning: This episode mentions postpartum depression, pregnancy loss, and the 9/11 terror attacks. Listener discretion advised.
-
-
-
-
-Download: MP3
+Smallville followed the journey of a young Clark Kent before he became Superman. In this chapter, hear the creators, cast, and crew recount how the show got off the ground in its first four seasons. Trigger warning: This episode mentions postpartum depression, pregnancy loss, and the 9/11 terror attacks. Listener discretion advised. Download: MP3

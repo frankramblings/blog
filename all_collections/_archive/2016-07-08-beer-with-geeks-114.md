@@ -12,6 +12,6 @@ original_url: "https://www.beerwithgeeks.com/114"
 audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893849267f/d88132b8-e9cf-4bcf-a9ad-ab9c57da56c0.mp3"
 ---
 
-Ever get the feeling things aren't quite right? Like a parallel universe? Frank and Tim are talking about their favorite parallel universes in comics this week. Cheers!
+<p>Ever get the feeling things aren't quite right? Like a parallel universe? Frank and Tim are talking about their favorite parallel universes in comics this week. Cheers!</p>
 
-Beers of the Week: Sam Adams Porch Rocker Sam Adams Summer AleSupport Beer With Geeks
+<p><b>Beers of the Week: </b><br />Sam Adams Porch Rocker <br />Sam Adams Summer Ale</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>

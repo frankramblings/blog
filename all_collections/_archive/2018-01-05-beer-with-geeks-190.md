@@ -12,8 +12,8 @@ original_url: "https://www.beerwithgeeks.com/190"
 audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893849267f/85987c65-a3c6-4aa9-9852-4684b2fee0a9.mp3"
 ---
 
-Happy New Year! Frank is joined by his sister Steph on a journey to the merry old land of Oz. Cheers to 2018!
+<p>Happy New Year! Frank is joined by his sister Steph on a journey to the merry old land of Oz. Cheers to 2018!</p>
 
-Beers of the Week
-Naparbier Black Christmas
-Mikkeller Red/White ChristmasSpecial Guest: Steph.Support Beer With Geeks
+<p><strong>Beers of the Week</strong><br />
+Naparbier Black Christmas<br />
+Mikkeller Red/White Christmas</p><p>Special Guest: Steph.</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>

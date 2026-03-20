@@ -11,4 +11,4 @@ original_url: "https://supergirltvtalk.fireside.fm/crisis3"
 audio_url: "https://aphid.fireside.fm/d/1437767933/a7e375a6-6b1c-4fd0-b43d-ea2063feaac0/aeebaa18-914a-439b-8d89-77de57039ea7.mp3"
 ---
 
-Frank is joined by Robin Burdge for night 3 of our Crisis on Infinite Earths live aftershow!Special Guest: Robin Burdge.Support Supergirl TV Talk
+<p>Frank is joined by Robin Burdge for night 3 of our Crisis on Infinite Earths live aftershow!</p><p>Special Guest: Robin Burdge.</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Supergirl TV Talk</a></p>

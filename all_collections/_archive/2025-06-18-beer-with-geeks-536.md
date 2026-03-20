@@ -12,9 +12,9 @@ original_url: "https://www.beerwithgeeks.com/536"
 audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893849267f/35ab0a5a-3f07-4ad9-a927-3946ccb92c3e.mp3"
 ---
 
-Frank and Tim return to the 252 DC character tier list, this time conquering letters N through R! Cheers!
+<p>Frank and Tim return to the 252 DC character tier list, this time conquering letters N through R! Cheers!</p>
 
-[Watch this episode on YouTube]
+<p>[Watch this episode on YouTube]</p>
 
-Beers of the Week
-Samuel Adams Porch RockerSupport Beer With Geeks
+<p><strong>Beers of the Week</strong><br />
+Samuel Adams Porch Rocker</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>

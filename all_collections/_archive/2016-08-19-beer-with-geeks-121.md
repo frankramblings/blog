@@ -12,6 +12,6 @@ original_url: "https://www.beerwithgeeks.com/121"
 audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893849267f/5ef3c177-5c72-462c-b870-75a0f61cf26d.mp3"
 ---
 
-If you've kept up with the internet, Frank and Tim's review of Suicide Squad might surprise you. Take a listen and tell the guys what YOU thought of the movie. Cheers!
+<p>If you've kept up with the internet, Frank and Tim's review of Suicide Squad might surprise you. Take a listen and tell the guys what YOU thought of the movie. Cheers!</p>
 
-Beers of the Week: Harpoon Brewery Sweet SpotDogfish Head Festina PêcheSupport Beer With Geeks
+<p><b>Beers of the Week: </b><br />Harpoon Brewery Sweet Spot<br />Dogfish Head Festina Pêche</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>

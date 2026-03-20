@@ -12,12 +12,4 @@ original_url: "https://marketersnextdoor.blogspot.com/2016/08/000-coming-soon.ht
 audio_url: "https://d1490khl9dq1ow.cloudfront.net/music/mp3preview/bnm-0715-no-hurry-stinger.mp3"
 ---
 
-Marissa and Frank are social media managers. They're also about to get married. Each episode, live from their living room couch, they talk about all the craziness happening in the social media marketing industry.
-
-     Your browser does not support this audio  
-
-Download: MP3
-
-Subscribe: iTunes / RSS / Overcast
-
-Social: @NextDoorPodcast
+Marissa and Frank are social media managers. They're also about to get married. Each episode, live from their living room couch, they talk about all the craziness happening in the social media marketing industry. Your browser does not support this audio Download: MP3 Subscribe: iTunes / RSS / Overcast Social: @NextDoorPodcast

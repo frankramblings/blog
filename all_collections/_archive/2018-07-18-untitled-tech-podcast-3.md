@@ -12,4 +12,4 @@ original_url: "http://www.untitledtechpodcast.com/2018/07/003-piece-of-siri-pizz
 audio_url: "http://dts.podtrac.com/redirect.mp3/archive.org/download/UTP003/UTP003.mp3"
 ---
 
-Brent and Frank discuss the Shortcuts Beta, MacOS Mojave, and the state of Siri before a brief detour into the 2018 MacBook Pro update.Tweet @untitledtechpod,  @FrankRamblings, and @brentacPrime, or email untitledtechpodcast@gmail.com.
+Brent and Frank discuss the Shortcuts Beta, MacOS Mojave, and the state of Siri before a brief detour into the 2018 MacBook Pro update.<br /><br />Tweet <a href="http://twitter.com/untitledtechpod" target="_blank">@untitledtechpod</a>,  <a href="http://twitter.com/FrankRamblings" target="_blank">@FrankRamblings</a>, and <a href="http://twitter.com/brentacPrime" target="_blank">@brentacPrime</a>, or email <a href="mailto:untitledtechpodcast@gmail.com">untitledtechpodcast@gmail.com</a>.

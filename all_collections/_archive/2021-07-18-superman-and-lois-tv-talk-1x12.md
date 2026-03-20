@@ -13,4 +13,4 @@ original_url: "https://www.supermantvtalk.com/superman-and-lois-through-the-vall
 audio_url: "https://aphid.fireside.fm/d/1437767933/ca06e266-f5ac-4159-baf5-35ad203e8279/778c0fe4-ace4-409a-8b34-aa621dbeac34.mp3"
 ---
 
-Lois and John Henry Irons can’t seem to agree on the best way to stop Morgan Edge. Meanwhile, Jonathan encourages Jordan to focus on strengthening his powers to help locate their dad. Lastly, an old friend is brought in to help with the search.
+<p>Lois and John Henry Irons can’t seem to agree on the best way to stop Morgan Edge. Meanwhile, Jonathan encourages Jordan to focus on strengthening his powers to help locate their dad. Lastly, an old friend is brought in to help with the search.</p>

@@ -12,8 +12,8 @@ original_url: "https://www.beerwithgeeks.com/293"
 audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893849267f/67ede427-d651-4053-a090-26ebdf4192b6.mp3"
 ---
 
-Frank and Tim have watched the Watchmen, and they have many thoughts. Cheers!
+<p>Frank and Tim have watched the Watchmen, and they have many thoughts. Cheers!</p>
 
-Beers of the Week
-Sam Adams Cold Snap
-Sierra Nevada Celebration IPASupport Beer With Geeks
+<p><strong>Beers of the Week</strong><br />
+Sam Adams Cold Snap<br />
+Sierra Nevada Celebration IPA</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>

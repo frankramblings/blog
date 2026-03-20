@@ -12,9 +12,9 @@ original_url: "https://www.beerwithgeeks.com/496"
 audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893849267f/a4333847-6c23-415b-8c21-980c8da1702b.mp3"
 ---
 
-Frank and Tim beam aboard the U.S.S. Discovery to bid farewell to Star Trek: Discovery. Cheers
+<p>Frank and Tim beam aboard the U.S.S. Discovery to bid farewell to <em>Star Trek: Discovery</em>. Cheers</p>
 
-Beers of the Week
+<p><strong>Beers of the Week</strong></p>
 
-Jameson irish Whiskey Stout Edition
-Banded PilsnerSupport Beer With Geeks
+<p>Jameson irish Whiskey Stout Edition<br />
+Banded Pilsner</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>

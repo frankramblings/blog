@@ -13,4 +13,4 @@ original_url: "https://www.supermantvtalk.com/superman-and-lois-worlds-war-bizar
 audio_url: "https://aphid.fireside.fm/d/1437767933/ca06e266-f5ac-4159-baf5-35ad203e8279/45ff69d3-0f5f-4dab-b368-2d0a66a674ce.mp3"
 ---
 
-A weary Lois holds vigil at Superman’s bedside. Meanwhile, Jonathan and Jordan continue to worry about their father who seems more human now than ever. Lastly, John Henry and Natalie work together to figure out the best way to defend against Ally Allston’s powers.
+<p>A weary Lois holds vigil at Superman’s bedside. Meanwhile, Jonathan and Jordan continue to worry about their father who seems more human now than ever. Lastly, John Henry and Natalie work together to figure out the best way to defend against Ally Allston’s powers.</p>

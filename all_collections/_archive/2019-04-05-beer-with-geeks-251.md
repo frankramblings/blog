@@ -12,8 +12,8 @@ original_url: "https://www.beerwithgeeks.com/251"
 audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893849267f/b76e4a81-8eb7-4b53-bbfa-aa8618adf5ae.mp3"
 ---
 
-Frank and Tim fill out their brackets! No, not for basketball. It's another arena fight! Classic TV & movie aliens characters face off - this time on a basketball court. Cheers!
+<p>Frank and Tim fill out their brackets! No, not for basketball. It's another arena fight! Classic TV & movie aliens characters face off - this time on a basketball court. Cheers!</p>
 
-Beers of the Week
-Revival Break Free Fanny Pale Ale
-Ipswich Defrost Weizenbock Style AleSupport Beer With GeeksLinks:BwG Tournament of Aliens 2019 Bracket
+<p><strong>Beers of the Week</strong><br />
+Revival Break Free Fanny Pale Ale<br />
+Ipswich Defrost Weizenbock Style Ale</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p><p>Links:</p><ul><li><a href="https://files.fireside.fm/file/fireside-uploads/images/a/af6e5adc-2f5e-4d17-8b13-86893849267f/sJKAyWxQ.jpeg" rel="nofollow" title="BwG Tournament of Aliens 2019 Bracket">BwG Tournament of Aliens 2019 Bracket</a></li></ul>

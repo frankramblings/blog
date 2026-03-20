@@ -12,8 +12,8 @@ original_url: "https://www.beerwithgeeks.com/355"
 audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893849267f/28685487-86cc-45bd-83ec-89521d1bf3ba.mp3"
 ---
 
-Frank hits Tim with his best shot: an impassioned pitch about the AppleTV+ alternate history drama For All Mankind.
+<p>Frank hits Tim with his best shot: an impassioned pitch about the AppleTV+ alternate history drama <em>For All Mankind</em>.</p>
 
-Beers of the Week
-Bota Box Pinot Grigio
-Leffe Belgian Blonde AleSupport Beer With Geeks
+<p><strong>Beers of the Week</strong><br />
+Bota Box Pinot Grigio<br />
+Leffe Belgian Blonde Ale</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>

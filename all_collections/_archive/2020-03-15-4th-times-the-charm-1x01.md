@@ -13,12 +13,4 @@ original_url: "https://4thtimepodcast.blogspot.com/2020/03/001-no-room-for-your-
 audio_url: "https://archive.org/download/4tc-s1/4tc%20-%20001.mp3"
 ---
 
-In their premiere episode, Marissa and Frank watch The Office 4x09 “Dinner Party” for the first of 4 times in a single evening. 
-  
-
-
-      
-
-Download: MP3
-
-Subscribe: Apple / Spotify / RSS
+In their premiere episode, Marissa and Frank watch The Office 4x09 “Dinner Party” for the first of 4 times in a single evening. Download: MP3 Subscribe: Apple / Spotify / RSS

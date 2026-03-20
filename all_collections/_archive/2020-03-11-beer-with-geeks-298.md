@@ -12,9 +12,9 @@ original_url: "https://www.beerwithgeeks.com/298"
 audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893849267f/811e5281-c476-43ce-bd2b-d110f59bfcde.mp3"
 ---
 
-Frank and Tim are joined by friend of the show Andrew for a game of "Thinking and Drinking." Cheers!
+<p>Frank and Tim are joined by friend of the show Andrew for a game of "Thinking and Drinking." Cheers!</p>
 
-Beers of the Week
-New Planet Tread Lightly Session Ale
-New Belgium Glutiny
-Oolong TeaSpecial Guest: Andrew.Support Beer With GeeksLinks:Fathom Events | Apollo 13 25th AnniversaryFathom Events | King KongThinking & Drinking - The Craft Beer Card Game
+<p><strong>Beers of the Week</strong><br />
+New Planet Tread Lightly Session Ale<br />
+New Belgium Glutiny<br />
+Oolong Tea</p><p>Special Guest: Andrew.</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p><p>Links:</p><ul><li><a href="https://www.fathomevents.com/events/apollo-13-25th-anniversary?utm_source=fathom&utm_medium=press+releases&utm_campaign=apollo+13" rel="nofollow" title="Fathom Events | Apollo 13 25th Anniversary">Fathom Events | Apollo 13 25th Anniversary</a></li><li><a href="https://www.fathomevents.com/events/tcm2020-king-kong-1933" rel="nofollow" title="Fathom Events | King Kong">Fathom Events | King Kong</a></li><li><a href="https://thinkingdrinking.beer/" rel="nofollow" title="Thinking & Drinking - The Craft Beer Card Game">Thinking & Drinking - The Craft Beer Card Game</a></li></ul>

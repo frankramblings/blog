@@ -12,8 +12,8 @@ original_url: "https://www.beerwithgeeks.com/274"
 audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893849267f/6592716c-a46d-4138-bf48-c062199e565c.mp3"
 ---
 
-Psych! There was so much Marvel and Star Wars news from Disney's D23 Expo, Tim & Frank just had to dedicate a second episode to it this week. Cheers!
+<p>Psych! There was so much Marvel and Star Wars news from Disney's D23 Expo, Tim & Frank just had to dedicate a second episode to it this week. Cheers!</p>
 
-Drinks of the Week
-Finch Beer Co. Planet Caravan
-90+ Cellars CabernetSupport Beer With Geeks
+<p><strong>Drinks of the Week</strong><br />
+Finch Beer Co. Planet Caravan<br />
+90+ Cellars Cabernet</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>

@@ -1,0 +1,16 @@
+---
+title: "Smallville | 10x11 – ‘Icarus’"
+date: "2010-12-10"
+type: "podcast"
+platform: "podcast"
+podcast: "superman-and-lois-tv-talk"
+podcast_title: "Superman & Lois TV Talk"
+season: 10
+episode: 11
+episode_id: "10x11"
+permalink: "/archive/podcasts/superman-and-lois-tv-talk/10x11/"
+original_url: "https://www.supermantvtalk.com/smallville-icarus"
+audio_url: "https://aphid.fireside.fm/d/1437767933/ca06e266-f5ac-4159-baf5-35ad203e8279/d9f5d972-4db3-4d58-b76a-67226cb45593.mp3"
+---
+
+<p>December 10, 2010 – <em>Clark proposes marriage to Lois and she accepts, but shortly after their engagement party Oliver is attacked by Metropolis citizens which sparks a manhunt for Queen and the rest of the heroes. Realizing General Slade is still alive, Clark orders all heroes underground until he can find a way to stop Slade. Subsequently, Slade brings in Emil, Tess, and Lois for questioning to find out where the Blur is. Carter Hall arrives and rescues Lois, but sacrifices his own life in the process. To stop Slade for good, Clark banishes him to the Phantom Zone. The heroes come together to bury Carter in his home country of Egypt, but are knocked unconscious by an unknown object that sprouts in Carter’s burial chamber. </em>Happy Holidays! The gang is all here as Damian, Joe, Derek, and Robin discuss the winter cliffhanger, ‘Icarus’. We’ve got a full look at the eleventh episode of the final season inside, plus news, our casting picks for the new Superman film, a lot of laughs, and some spoilers for 2011!</p>

@@ -12,8 +12,8 @@ original_url: "https://www.beerwithgeeks.com/321"
 audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893849267f/bf075507-ac6c-4cf0-ad53-02b1d1392d60.mp3"
 ---
 
-Tim got his master's degree! Frank asks Tim to share his master's thesis on monsters in cinema. You'll learn what Dumbo, King Kong, and The Shape of Water all have in common. Cheers!
+<p>Tim got his master's degree! Frank asks Tim to share his master's thesis on monsters in cinema. You'll learn what <em>Dumbo</em>, <em>King Kong</em>, and <em>The Shape of Water</em> all have in common. Cheers!</p>
 
-Beers of the Week
-Weihenstephaner Festbier
-Blue Point Mother Pumpkin AleSupport Beer With Geeks
+<p><strong>Beers of the Week</strong><br />
+Weihenstephaner Festbier<br />
+Blue Point Mother Pumpkin Ale</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>

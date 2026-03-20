@@ -13,4 +13,4 @@ original_url: "https://www.supermantvtalk.com/superman-and-lois-when-the-lights-
 audio_url: "https://aphid.fireside.fm/d/1437767933/ca06e266-f5ac-4159-baf5-35ad203e8279/8e649984-714d-4e10-9cde-0f9e23b95d91.mp3"
 ---
 
-Luthor plans to move LuthorCorp to Smallville, but finds opposition in Lana. Sarah faces a difficult decision, and Clark confronts Luthor face-to-face.
+<p>Luthor plans to move LuthorCorp to Smallville, but finds opposition in Lana. Sarah faces a difficult decision, and Clark confronts Luthor face-to-face.</p>

@@ -12,7 +12,7 @@ original_url: "https://www.beerwithgeeks.com/164"
 audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893849267f/448721d7-2c8e-4a5d-bf89-c29138d04c2e.mp3"
 ---
 
-Frank, Tim, and Damon are SO ready for Spider-Man Homecoming that they take a walk down memory lane with this commentary track of 2002's original Spider-Man film starring Tobey Maguire and directed by Sam Raimi. Cheers!
+<p>Frank, Tim, and Damon are SO ready for <i>Spider-Man Homecoming</i> that they take a walk down memory lane with this commentary track of 2002's original <i>Spider-Man</i> film starring Tobey Maguire and directed by Sam Raimi. Cheers!</p>
 
-Beer of the Week
-Trillium Pocket Pigeon American Pale AleSpecial Guest: Damon Warnock.Support Beer With Geeks
+<p><b>Beer of the Week</b><br />
+Trillium Pocket Pigeon American Pale Ale</p><p>Special Guest: Damon Warnock.</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>

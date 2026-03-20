@@ -12,6 +12,6 @@ original_url: "https://www.beerwithgeeks.com/129"
 audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893849267f/9e0a36c5-c6d1-4283-b0b7-e90aa26d9436.mp3"
 ---
 
-Tim and Frank remember their favorite extended film cuts. Don't worry, it's still a normal-sized episode! Cheers!
+<p>Tim and Frank remember their favorite extended film cuts. Don't worry, it's still a normal-sized episode! Cheers!</p>
 
-Beers of the Week: Sam Adams OctoberfestHenry's Hard Orange SodaSupport Beer With Geeks
+<p><b>Beers of the Week: </b><br />Sam Adams Octoberfest<br />Henry's Hard Orange Soda</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>

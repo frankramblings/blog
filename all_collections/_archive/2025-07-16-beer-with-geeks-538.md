@@ -12,9 +12,9 @@ original_url: "https://www.beerwithgeeks.com/538"
 audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893849267f/2d6de948-c86b-4fed-94e4-fe16309df0d0.mp3"
 ---
 
-Frank challenges Tim to a “Name That Tune” game using scores by the legendary Danny Elfman. Cheers!
+<p>Frank challenges Tim to a “Name That Tune” game using scores by the legendary Danny Elfman. Cheers!</p>
 
-Beers of the Week
-Jack Daniels Tennessee Honey
-Bird Dog Maple Flavored Whiskey
-Tuckerman Lime After LimeSupport Beer With Geeks
+<p><strong>Beers of the Week</strong><br />
+Jack Daniels Tennessee Honey<br />
+Bird Dog Maple Flavored Whiskey<br />
+Tuckerman Lime After Lime</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>

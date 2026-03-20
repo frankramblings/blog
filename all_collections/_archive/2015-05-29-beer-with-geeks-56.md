@@ -12,4 +12,4 @@ original_url: "https://www.beerwithgeeks.com/56"
 audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893849267f/b828da38-e042-445d-9e5c-30d9098ddf15.mp3"
 ---
 
-Tim and Frank continue their Year of Star Wars by closing out the prequel trilogy. Here's their commentary track for Star Wars Episode III: Revenge of the Sith. Why is Palpatine so sassy?!Support Beer With Geeks
+<p>Tim and Frank continue their <i>Year of Star Wars</i> by closing out the prequel trilogy. Here's their commentary track for <i>Star Wars Episode III: Revenge of the Sith</i>. Why is Palpatine so sassy?!</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>

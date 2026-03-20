@@ -12,8 +12,8 @@ original_url: "https://www.beerwithgeeks.com/500"
 audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893849267f/5f6d3048-63c3-4bce-b436-1a67292043d0.mp3"
 ---
 
-Frank and Tim mark their 500th episode by answering questions from some friends of the show. Cheers to 500 more!
+<p>Frank and Tim mark their 500th episode by answering questions from some friends of the show. Cheers to 500 more!</p>
 
-Beers of the Week
-Maine Beer Co. Thank You 2024 IPA
-Spoetzl Shiner BockSpecial Guests: Andrew, Brent Clark, Damon Warnock, Dan Swartz, Derek Russell, Scott, and Vactor.Support Beer With Geeks
+<p><strong>Beers of the Week</strong><br />
+Maine Beer Co. Thank You 2024 IPA<br />
+Spoetzl Shiner Bock</p><p>Special Guests: Andrew, Brent Clark, Damon Warnock, Dan Swartz, Derek Russell, Scott, and Vactor.</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>

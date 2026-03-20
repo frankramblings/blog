@@ -12,4 +12,4 @@ original_url: "https://www.beerwithgeeks.com/7"
 audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893849267f/9c237fc8-9dc3-41ab-b737-00dbb0fdb3b7.mp3"
 ---
 
-It's our seventh episode, and the guys couldn't think of any better topic than 007 himself: Bond, James Bond. They run through their first Bond experiences and look back at their favorite moments from the books and films. Cheers!Support Beer With Geeks
+<p>It's our seventh episode, and the guys couldn't think of any better topic than 007 himself: Bond, James Bond. They run through their first Bond experiences and look back at their favorite moments from the books and films. Cheers!</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>

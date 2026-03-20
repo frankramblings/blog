@@ -12,4 +12,4 @@ original_url: "https://www.beerwithgeeks.com/79rebroadcast"
 audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893849267f/76296a97-dec5-41f2-8544-b4f6a885eafc.mp3"
 ---
 
-Happy Halloween! All the Universal Movie Monsters enter the ring. Only one leaves. Can you guess who it is? Tim and Frank break it down this week. Cheers!Support Beer With Geeks
+<p>Happy Halloween! All the Universal Movie Monsters enter the ring. Only one leaves. Can you guess who it is? Tim and Frank break it down this week. Cheers!</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>

@@ -12,8 +12,8 @@ original_url: "https://www.beerwithgeeks.com/455"
 audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893849267f/183c935a-13bd-4710-ad0a-6db7be3d4434.mp3"
 ---
 
-Frank and Tim journey into the past to 
+<p>Frank and Tim journey into the past to </p>
 
-Beers of the Week
-Switchback Ale
-Jameson LemonadeSupport Beer With Geeks
+<p><strong>Beers of the Week</strong><br />
+Switchback Ale<br />
+Jameson Lemonade</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>

@@ -11,11 +11,4 @@ original_url: "http://echoalert.blogspot.com/2010/09/ea-special-dragoncon-2010-d
 audio_url: "http://www.podtrac.com/pts/redirect.mp3/blip.tv/file/get/Echoalertmp3-EASpecialDragonCon2010Day2371.mp3"
 ---
 
-Our heroes are joined by Chris for the drive from North Carolina to Atlanta and arrive at the convention triumphantly! Surrounded by trumpets and cheerleaders! Or at least, that's how they'd like to remember it. Oh, and Morena Baccarin was there too. That part's true.
-
-
-[MP3]/[Length: 9:32]
- 
-[Subscribe AAC] 
-
-[Subscribe MP3]
+Our heroes are joined by Chris for the drive from North Carolina to Atlanta and arrive at the convention triumphantly! Surrounded by trumpets and cheerleaders! Or at least, that's how they'd like to remember it. Oh, and Morena Baccarin was there too. That part's true. [MP3]/[Length: 9:32]   [Subscribe AAC]  [Subscribe MP3]

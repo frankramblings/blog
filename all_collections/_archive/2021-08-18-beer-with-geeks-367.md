@@ -12,8 +12,8 @@ original_url: "https://www.beerwithgeeks.com/367"
 audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893849267f/c6dab717-7022-4650-866f-6a27ce6dee39.mp3"
 ---
 
-Tim and Frank are together in person to review the new DC animated film Batman: The Long Halloween. Cheers!
+<p>Tim and Frank are together in person to review the new DC animated film <em>Batman: The Long Halloween</em>. Cheers!</p>
 
-Beers of the Week
-Oskar Blue Can-O-Bliss Tropical IPA
-Stella Artois Solstice LagerSupport Beer With Geeks
+<p><strong>Beers of the Week</strong><br />
+Oskar Blue Can-O-Bliss Tropical IPA<br />
+Stella Artois Solstice Lager</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>

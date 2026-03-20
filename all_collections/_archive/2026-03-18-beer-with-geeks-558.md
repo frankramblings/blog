@@ -12,9 +12,9 @@ original_url: "https://www.beerwithgeeks.com/558"
 audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893849267f/bf1dfa60-a325-4652-b676-c6396db780a0.mp3"
 ---
 
-Frank, Tim, and returning guest Vactor crack open some very different drinks and dive into DC K.O., DC’s latest big event comic. They dig into Superman as the emotional center of the event, whether the story had more substance than people gave it credit for, how the tie-ins held up, and whether this was just a flashy event or something more lasting.
+<p>Frank, Tim, and returning guest Vactor crack open some very different drinks and dive into DC K.O., DC’s latest big event comic. They dig into Superman as the emotional center of the event, whether the story had more substance than people gave it credit for, how the tie-ins held up, and whether this was just a flashy event or something more lasting.</p>
 
-Beers of the Week
-Bero Kingston Golden Pils
-Newport Craft Brewing Amber Ale
-Olipop Classic Grape Prebiotic SodaSpecial Guest: Vactor.Support Beer With Geeks
+<p><strong>Beers of the Week</strong><br />
+Bero Kingston Golden Pils<br />
+Newport Craft Brewing Amber Ale<br />
+Olipop Classic Grape Prebiotic Soda</p><p>Special Guest: Vactor.</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>

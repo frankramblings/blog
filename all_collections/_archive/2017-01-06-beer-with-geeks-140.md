@@ -12,8 +12,8 @@ original_url: "https://www.beerwithgeeks.com/140"
 audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893849267f/ac1b2eb3-fb1a-4fca-8b5a-aa2dcf906162.mp3"
 ---
 
-Tim and Frank go Rogue and talk about a band of rebels who stole the plans to an evil Empire's ultimate weapon. It's Rogue One: A Star Wars Story. Cheers!
+<p>Tim and Frank go Rogue and talk about a band of rebels who stole the plans to an evil Empire's ultimate weapon. It's Rogue One: A Star Wars Story. Cheers!</p>
 
-Drinks of the Week: 
-Weyerbacher Merry Monks Ale
-Bigelow Green TeaSupport Beer With Geeks
+<p><b>Drinks of the Week: </b><br />
+Weyerbacher Merry Monks Ale<br />
+Bigelow Green Tea</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>

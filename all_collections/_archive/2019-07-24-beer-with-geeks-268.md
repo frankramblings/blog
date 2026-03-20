@@ -12,7 +12,7 @@ original_url: "https://www.beerwithgeeks.com/268"
 audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893849267f/828186ae-4f7b-4b04-862f-ee76faa8a759.mp3"
 ---
 
-Frank stepped out and was replaced by Tim's wife, Mary! They talk spoilers on Disney's newest remake outing: The Lion King!
+<p>Frank stepped out and was replaced by Tim's wife, Mary! They talk <strong>spoilers</strong> on Disney's newest remake outing: <em>The Lion King</em>!</p>
 
-Beers of the Week
-Jack's Abbey Lager (Bier)Special Guest: Mary.Support Beer With Geeks
+<p><strong>Beers of the Week</strong><br />
+Jack's Abbey Lager (Bier)</p><p>Special Guest: Mary.</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>

@@ -13,4 +13,4 @@ original_url: "https://www.supermantvtalk.com/superman-and-lois-truth-and-conseq
 audio_url: "https://aphid.fireside.fm/d/1437767933/ca06e266-f5ac-4159-baf5-35ad203e8279/da8f8da3-2e62-47eb-a037-5c81b2a658eb.mp3"
 ---
 
-We pick up right where we left off with Jon-El smirking at Lois, who is still standing on the porch with Jordan. Jon-El catches sight of his doppelganger Jonathan, standing not too far away. He lunges at him and Jordan tries to intervene but Jon-El appears to be stronger and faster than him.
+<p>We pick up right where we left off with Jon-El smirking at Lois, who is still standing on the porch with Jordan. Jon-El catches sight of his doppelganger Jonathan, standing not too far away. He lunges at him and Jordan tries to intervene but Jon-El appears to be stronger and faster than him.</p>

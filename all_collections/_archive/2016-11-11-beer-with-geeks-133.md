@@ -12,7 +12,7 @@ original_url: "https://www.beerwithgeeks.com/133"
 audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893849267f/bf3f69d7-622c-48ac-a2bc-df05796c9b22.mp3"
 ---
 
-It's a magical episode as Frank and Tim list their all-time favorite wizards from TV, film, and books. Cheers!
+<p>It's a magical episode as Frank and Tim list their all-time favorite wizards from TV, film, and books. Cheers!</p>
 
-Beers of the Week: 
-Leffe Blonde AleSupport Beer With Geeks
+<p><b>Beers of the Week: </b><br />
+Leffe Blonde Ale</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>

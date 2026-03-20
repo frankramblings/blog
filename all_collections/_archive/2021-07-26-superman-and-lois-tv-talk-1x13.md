@@ -13,4 +13,4 @@ original_url: "https://www.supermantvtalk.com/superman-and-lois-fail-safe"
 audio_url: "https://aphid.fireside.fm/d/1437767933/ca06e266-f5ac-4159-baf5-35ad203e8279/53372cb7-50da-4215-afdb-e49ca3966fdd.mp3"
 ---
 
-TENSION – Superman pays a visit to Morgan Edge. Meanwhile, Lois and Chrissy work together on a story. Lastly, Jonathan finds a welcome distraction during a very stressful school day.
+<p>TENSION – Superman pays a visit to Morgan Edge. Meanwhile, Lois and Chrissy work together on a story. Lastly, Jonathan finds a welcome distraction during a very stressful school day.</p>

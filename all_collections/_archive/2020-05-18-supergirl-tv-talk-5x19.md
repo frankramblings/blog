@@ -13,4 +13,4 @@ original_url: "https://supergirltvtalk.fireside.fm/5x19"
 audio_url: "https://aphid.fireside.fm/d/1437767933/a7e375a6-6b1c-4fd0-b43d-ea2063feaac0/929727c5-8410-41cb-a405-cf4a59589331.mp3"
 ---
 
-Frank and Tim recap the Season 5 finale “Immortal Kombat”! Send your voicemails and emails to mail@supergirltvtalk.com and hear yourself on our upcoming Listener Feedback episode. See you during hiatus! Support Supergirl TV Talk
+<p>Frank and Tim recap the Season 5 finale “Immortal Kombat”! Send your voicemails and emails to <a href="Mailto:mail@supergirltvtalk.com" rel="nofollow">mail@supergirltvtalk.com</a> and hear yourself on our upcoming Listener Feedback episode. See you during hiatus! </p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Supergirl TV Talk</a></p>

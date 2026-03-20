@@ -12,8 +12,8 @@ original_url: "https://www.beerwithgeeks.com/470"
 audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893849267f/037cd719-84ab-4da5-ab86-69c9ecc96659.mp3"
 ---
 
-Tim and Frank think about what it would be like to hang out with the classic Disney Princesses (and a few surprises, too). Cheers!
+<p>Tim and Frank think about what it would be like to hang out with the classic Disney Princesses (and a few surprises, too). Cheers!</p>
 
-Beers of the Week
-Guinness Extra Stout
-Smuttynose Old Brown Dog American Brown AleSupport Beer With Geeks
+<p><strong>Beers of the Week</strong><br />
+Guinness Extra Stout<br />
+Smuttynose Old Brown Dog American Brown Ale</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>

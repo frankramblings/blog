@@ -13,4 +13,4 @@ original_url: "https://www.supermantvtalk.com/superman-and-lois-a-regular-guy"
 audio_url: "https://aphid.fireside.fm/d/1437767933/ca06e266-f5ac-4159-baf5-35ad203e8279/d66e6a31-c2e4-4224-9053-05d2f79d2d40.mp3"
 ---
 
-After some concerning interactions in town, Clark is determined to protect the secret that he’s Superman – a task complicated by Jonathan and Jordan. Lois  considers the future of the Gazette after Chrissy proposes something drastic.
+<p>After some concerning interactions in town, Clark is determined to protect the secret that he’s Superman – a task complicated by Jonathan and Jordan. Lois  considers the future of the Gazette after Chrissy proposes something drastic.</p>

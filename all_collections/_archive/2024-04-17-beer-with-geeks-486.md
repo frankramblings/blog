@@ -12,8 +12,8 @@ original_url: "https://www.beerwithgeeks.com/486"
 audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893849267f/416c40bc-1571-4974-b27b-951eb263e4cf.mp3"
 ---
 
-Tim and Frank discuss the movies that they'd stop to watch while channel surfing, even if it was only halfway through. Cheers!
+<p>Tim and Frank discuss the movies that they'd stop to watch while channel surfing, even if it was only halfway through. Cheers!</p>
 
-Drinks of the Week
-Sam Adams Cold IPA
-Chateau Michel RoséSupport Beer With Geeks
+<p><strong>Drinks of the Week</strong><br />
+Sam Adams Cold IPA<br />
+Chateau Michel Rosé</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>

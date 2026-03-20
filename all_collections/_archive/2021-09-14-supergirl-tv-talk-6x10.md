@@ -13,6 +13,6 @@ original_url: "https://supergirltvtalk.fireside.fm/6x10"
 audio_url: "https://aphid.fireside.fm/d/1437767933/a7e375a6-6b1c-4fd0-b43d-ea2063feaac0/ae1ae976-392e-4895-91f3-531f1166760f.mp3"
 ---
 
-Tim and Frank break down Supergirl advocating for the formerly incarcerated, the return of Nia's mom, and Nyxly's big gamble. 
+<p>Tim and Frank break down Supergirl advocating for the formerly incarcerated, the return of Nia's mom, and Nyxly's big gamble. </p>
 
-NIA SPENDS TIME WITH HER MOM – Supergirl intervenes when a building in the Heights that was set aside for low income housing is suddenly at risk to be sold to a major corporation. Supergirl recruits Orlando to help her win over the city, but things go awry when Nyxly shows up. Meanwhile, Nia trains with her mother.Support Supergirl TV Talk
+<p><code>NIA SPENDS TIME WITH HER MOM – Supergirl intervenes when a building in the Heights that was set aside for low income housing is suddenly at risk to be sold to a major corporation. Supergirl recruits Orlando to help her win over the city, but things go awry when Nyxly shows up. Meanwhile, Nia trains with her mother.</code></p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Supergirl TV Talk</a></p>

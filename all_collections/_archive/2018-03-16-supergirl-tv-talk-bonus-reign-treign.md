@@ -11,6 +11,6 @@ original_url: "https://supergirltvtalk.fireside.fm/3x13mailbag"
 audio_url: "https://aphid.fireside.fm/d/1437767933/a7e375a6-6b1c-4fd0-b43d-ea2063feaac0/bafcc815-778b-4480-bf4e-d11a000d2f6d.mp3"
 ---
 
-Your emails are front and center! While Supergirl is still on hiatus, Tim and Frank stop by to say hi and clear out the listener mailbag.
+<p>Your emails are front and center! While Supergirl is still on hiatus, Tim and Frank stop by to say hi and clear out the listener mailbag.</p>
 
-Proud member of the Thought Bubble Audio Network and DC TV Talk!Support Supergirl TV Talk
+<p>Proud member of the <a href="http://www.thoughtbubbleaudio.com">Thought Bubble Audio Network</a> and <a href="http://dctvtalk.com">DC TV Talk</a>!</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Supergirl TV Talk</a></p>

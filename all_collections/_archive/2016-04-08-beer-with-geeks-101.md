@@ -12,7 +12,7 @@ original_url: "https://www.beerwithgeeks.com/101"
 audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893849267f/dc765427-880c-4ae8-8880-e8879a8acdbf.mp3"
 ---
 
-Frank and Tim have their brand new home video copies of Star Wars: The Force Awakens, so they sat down for one of their trademark commentaries. Beer, Star Wars, and space lasers. Who could ask for anything more? Cheers!
+<p>Frank and Tim have their brand new home video copies of <i>Star Wars: The Force Awakens</i>, so they sat down for one of their trademark commentaries. Beer, Star Wars, and space lasers. Who could ask for anything more? Cheers!</p>
 
-Beer of the Week: 
-Goose Island SofieSupport Beer With Geeks
+<p><b>Beer of the Week: </b><br />
+Goose Island Sofie</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>

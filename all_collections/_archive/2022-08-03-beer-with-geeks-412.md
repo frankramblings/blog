@@ -12,9 +12,9 @@ original_url: "https://www.beerwithgeeks.com/412"
 audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893849267f/018c050c-380e-4156-9c40-679a3c8a85d9.mp3"
 ---
 
-Tim is joined by Scott of the DC Squadcast to discuss the DC Animated "TomorrowVerse," especially Green Lantern: Beware My Power.
+<p>Tim is joined by Scott of the DC Squadcast to discuss the DC Animated "TomorrowVerse," especially Green Lantern: Beware My Power.</p>
 
-Beers of the Week
-Morning coffees
+<p><strong>Beers of the Week</strong><br />
+Morning coffees</p>
 
-Find more of Scott on DC SquadcastSpecial Guest: Scott.Support Beer With Geeks
+<p>Find more of Scott on <a href="https://suicidesquadcast.libsyn.com" rel="nofollow">DC Squadcast</a></p><p>Special Guest: Scott.</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>

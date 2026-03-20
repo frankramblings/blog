@@ -12,8 +12,8 @@ original_url: "https://www.beerwithgeeks.com/531"
 audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893849267f/1ee14a09-2edf-43e8-8d15-c59959763732.mp3"
 ---
 
-Tim and Frank are always happy to have a new MCU movie to discuss. This time around, it's Thunderbolts* (2025).  Cheers!
+<p>Tim and Frank are always happy to have a new MCU movie to discuss. This time around, it's <em>Thunderbolts*</em> (2025).  Cheers!</p>
 
-Beers of the Week
-Bunker Brewing Co. Machine Pilz
-Daura Damm LagerSupport Beer With Geeks
+<p><strong>Beers of the Week</strong><br />
+Bunker Brewing Co. Machine Pilz<br />
+Daura Damm Lager</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>

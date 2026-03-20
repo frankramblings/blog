@@ -12,8 +12,8 @@ original_url: "https://www.beerwithgeeks.com/305"
 audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893849267f/f8e54316-1cd5-45f9-93bd-01908cfffb9d.mp3"
 ---
 
-Frank and Tim look back at the DC Animated Movie Universe. How do the movies hold up? Cheers!
+<p>Frank and Tim look back at the DC Animated Movie Universe. How do the movies hold up? Cheers!</p>
 
-Beers of the Week
-Shiner S'more Chocolate & Marshmallow Ale
-Mast Landing Gunner's Daughter Milk StoutSupport Beer With GeeksLinks:DC Animated Movie Universe - Wikipedia
+<p><strong>Beers of the Week</strong><br />
+Shiner S'more Chocolate & Marshmallow Ale<br />
+Mast Landing Gunner's Daughter Milk Stout</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p><p>Links:</p><ul><li><a href="https://en.wikipedia.org/wiki/DC_Animated_Movie_Universe" rel="nofollow" title="DC Animated Movie Universe - Wikipedia">DC Animated Movie Universe - Wikipedia</a></li></ul>

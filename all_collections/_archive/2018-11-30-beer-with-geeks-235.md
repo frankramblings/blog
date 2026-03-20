@@ -12,8 +12,8 @@ original_url: "https://www.beerwithgeeks.com/235"
 audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893849267f/2d30ab5d-9ee7-4c40-a33e-d1d1e5f025a3.mp3"
 ---
 
-It's no secret that Frank and Tim love film scores. Today they crack open some beers and talk about their favorite movie music. Cheers!
+<p>It's no secret that Frank and Tim love film scores. Today they crack open some beers and talk about their favorite movie music. Cheers!</p>
 
-Beers of the Week
-New Belgium Bohemian Style Pilsener
-Omission Gluten-Free LagerSupport Beer With Geeks
+<p><strong>Beers of the Week</strong><br />
+New Belgium Bohemian Style Pilsener<br />
+Omission Gluten-Free Lager</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>

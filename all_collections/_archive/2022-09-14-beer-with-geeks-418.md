@@ -12,7 +12,7 @@ original_url: "https://www.beerwithgeeks.com/418"
 audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893849267f/1a769d57-3455-484d-9068-ad222687bf5b.mp3"
 ---
 
-Mary is back (again) with Tim to continue their Disney chronological rewatch! 
+<p>Mary is back (again) with Tim to continue their Disney chronological rewatch! </p>
 
-Beers of the Week
-N/ASpecial Guest: Mary.Support Beer With Geeks
+<p><strong>Beers of the Week</strong><br />
+N/A</p><p>Special Guest: Mary.</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>

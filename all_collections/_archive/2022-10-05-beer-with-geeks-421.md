@@ -12,8 +12,8 @@ original_url: "https://www.beerwithgeeks.com/421"
 audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893849267f/c688fd58-1194-48e9-a931-613f3c0df9d9.mp3"
 ---
 
-Hit me with your best shot! Tim tells Frank all about FX's dramedy Reservation Dogs, the first and only TV series where every writer, director and series regular is Indigenous. Cheers!
+<p>Hit me with your best shot! Tim tells Frank all about FX's dramedy <em>Reservation Dogs,</em> the first and only TV series where every writer, director and series regular is Indigenous. Cheers!</p>
 
-Drinks of the Week
-Definitive Brewing Contee Kölsch-Style Ale
-Dogadan Blueberry TeaSupport Beer With GeeksLinks:Reservation Dogs on Hulu
+<p><strong>Drinks of the Week</strong><br />
+Definitive Brewing Contee Kölsch-Style Ale<br />
+Dogadan Blueberry Tea</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p><p>Links:</p><ul><li><a href="https://www.hulu.com/series/reservation-dogs-5a310c23-e2db-4c9f-a66c-27c2fee43d92" rel="nofollow" title="Reservation Dogs on Hulu">Reservation Dogs on Hulu</a></li></ul>

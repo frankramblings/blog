@@ -12,8 +12,8 @@ original_url: "https://www.beerwithgeeks.com/555"
 audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893849267f/b2bd022e-c677-43db-aa74-4be7a70bb806.mp3"
 ---
 
-Frank and Tim love Star Trek. Tim loves costumes. Frank thought up a tier list to bring those passions together. Cheers!
+<p>Frank and Tim love Star Trek. Tim loves costumes. Frank thought up a tier list to bring those passions together. Cheers!</p>
 
-Beers of the Week
-Quarter Horse Whiskey
-Sam Adams Old Fezziwig AleSupport Beer With Geeks
+<p><strong>Beers of the Week</strong><br />
+Quarter Horse Whiskey<br />
+Sam Adams Old Fezziwig Ale</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>

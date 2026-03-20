@@ -12,8 +12,8 @@ original_url: "https://www.beerwithgeeks.com/543"
 audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893849267f/7a9f9a5d-1496-41d4-a2b4-280802398e4c.mp3"
 ---
 
-Tim and Frank are all-in on season 3 of Star Trek: Strange New Worlds!
+<p>Tim and Frank are all-in on season 3 of <em>Star Trek: Strange New Worlds</em>!</p>
 
-Beers of the Week
-Sam Adams Blueberry Lager
-Sam Adams Harvest HellesSupport Beer With Geeks
+<p><strong>Beers of the Week</strong><br />
+Sam Adams Blueberry Lager<br />
+Sam Adams Harvest Helles</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>

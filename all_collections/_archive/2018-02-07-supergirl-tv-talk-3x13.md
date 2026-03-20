@@ -13,6 +13,6 @@ original_url: "https://supergirltvtalk.fireside.fm/3x13"
 audio_url: "https://aphid.fireside.fm/d/1437767933/a7e375a6-6b1c-4fd0-b43d-ea2063feaac0/9c1d000d-680a-4b07-967a-bb2ebb12d45d.mp3"
 ---
 
-Tim and Frank contemplate a 9-week hiatus, plus the mysteries of Imra & Mon-El, three worldkillers, and what does Lena know about Sam?!
+<p>Tim and Frank contemplate a 9-week hiatus, plus the mysteries of Imra & Mon-El, three worldkillers, and what does Lena know about Sam?!</p>
 
-Proud member of the Thought Bubble Audio Network and DC TV Talk!Support Supergirl TV Talk
+<p>Proud member of the <a href="http://www.thoughtbubbleaudio.com">Thought Bubble Audio Network</a> and <a href="http://dctvtalk.com">DC TV Talk</a>!</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Supergirl TV Talk</a></p>

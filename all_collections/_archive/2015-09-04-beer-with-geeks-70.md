@@ -12,4 +12,4 @@ original_url: "https://www.beerwithgeeks.com/70"
 audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893849267f/b708c976-fea9-42ee-bd1f-8dfc99997dcc.mp3"
 ---
 
-Back to school time! Frank & Tim discuss their memories of summer vacations and heading back to class. And math camp is a real thing, apparently. Cheers!Support Beer With Geeks
+<p>Back to school time! Frank & Tim discuss their memories of summer vacations and heading back to class. And math camp is a real thing, apparently. Cheers!</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>

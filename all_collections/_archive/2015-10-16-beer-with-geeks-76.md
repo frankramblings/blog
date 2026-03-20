@@ -12,4 +12,4 @@ original_url: "https://www.beerwithgeeks.com/76"
 audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893849267f/8882890a-478f-4518-b9d2-a580c411bad4.mp3"
 ---
 
-Frank and Tim may not be the world's biggest gamers, but this week they're looking back on their favorite consoles. Cheers!Support Beer With Geeks
+<p>Frank and Tim may not be the world's biggest gamers, but this week they're looking back on their favorite consoles. Cheers!</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>

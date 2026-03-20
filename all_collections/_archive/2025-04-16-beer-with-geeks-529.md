@@ -12,8 +12,8 @@ original_url: "https://www.beerwithgeeks.com/529"
 audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893849267f/0b5d3781-f921-497f-89fb-70dc4aeba5cd.mp3"
 ---
 
-Tim and Frank continue their spirited tier-ranking of DC characters. Cheers!
+<p>Tim and Frank continue their spirited tier-ranking of DC characters. Cheers!</p>
 
-Beers of the Week
-Samuel Adams Cold Snap
-Maine Beer Co. Lunch IPASupport Beer With Geeks
+<p><strong>Beers of the Week</strong><br />
+Samuel Adams Cold Snap<br />
+Maine Beer Co. Lunch IPA</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>

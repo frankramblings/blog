@@ -12,8 +12,8 @@ original_url: "https://www.beerwithgeeks.com/369"
 audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893849267f/ddbcd77c-99cc-4de1-b849-038261130abf.mp3"
 ---
 
-Frank hits Tim with his Best Shot as he makes a case for watching Bo Burnham's new Netflix special Inside. Cheers!
+<p>Frank hits Tim with his Best Shot as he makes a case for watching Bo Burnham's new Netflix special <em>Inside</em>. Cheers!</p>
 
-Beers of the Week
-White Claw Blackberry Hard Seltzer
-Sam Adams Wicked Easy LagerSupport Beer With GeeksLinks:Bo Burnham: Inside | Netflix Official Site
+<p><strong>Beers of the Week</strong><br />
+White Claw Blackberry Hard Seltzer<br />
+Sam Adams Wicked Easy Lager</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p><p>Links:</p><ul><li><a href="https://www.netflix.com/title/81289483" rel="nofollow" title="Bo Burnham: Inside | Netflix Official Site">Bo Burnham: Inside | Netflix Official Site</a></li></ul>

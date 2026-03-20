@@ -12,9 +12,4 @@ original_url: "http://frankpodcast.blogspot.com/2009/11/fmf-episode-36-tornadoca
 audio_url: "http://blip.tv/file/get/Frankpodcast-FMFEpisode36TornadoCast2009320.mp3"
 ---
 
-It's finally here! Friend of the show Shannon joins Frank for this public service episode of FMF. We hope you will learn much from this totally serious and not at all tongue-in-cheek episode. If you like Tornados, Muppets, Terminators, Texas, or One Tree Hill, then this is the podcast for you!
-
-
-Subscribe in iTunes
-
-Download the Episode
+It's finally here! Friend of the show Shannon joins Frank for this public service episode of FMF. We hope you will learn much from this totally serious and not at all tongue-in-cheek episode. If you like Tornados, Muppets, Terminators, Texas, or One Tree Hill, then this is the podcast for you! Subscribe in iTunes Download the Episode

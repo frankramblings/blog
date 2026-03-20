@@ -12,6 +12,6 @@ original_url: "https://www.beerwithgeeks.com/130"
 audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893849267f/a576d7b1-b25d-40ff-b716-952b96d475fc.mp3"
 ---
 
-Frank gives Tim a lesson in Beatles history on another edition of Hit Me With Your Best Shot. Cheers!
+<p>Frank gives Tim a lesson in Beatles history on another edition of Hit Me With Your Best Shot. Cheers!</p>
 
-Beers of the Week: Sam Adams OctoberfestHenry's Hard Orange SodaSupport Beer With Geeks
+<p><b>Beers of the Week: </b><br />Sam Adams Octoberfest<br />Henry's Hard Orange Soda</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>

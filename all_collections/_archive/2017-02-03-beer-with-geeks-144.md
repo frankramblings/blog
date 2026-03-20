@@ -12,8 +12,8 @@ original_url: "https://www.beerwithgeeks.com/144"
 audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893849267f/4337f287-c622-48e0-b142-08b173cb70d7.mp3"
 ---
 
-Tim and Frank battle each other in a Star Wars trivia face-off. Who will win? Who will lose? Who will be thrown to the Sarlacc? Listen and find out. Cheers!
+<p>Tim and Frank battle each other in a Star Wars trivia face-off. Who will win? Who will lose? Who will be thrown to the Sarlacc? Listen and find out. Cheers!</p>
 
-Beer of the Week: 
-Sam Adams Old Fezziwig Ale
-Sam Adams Octoberfest Support Beer With Geeks
+<p><b>Beer of the Week: </b><br />
+Sam Adams Old Fezziwig Ale<br />
+Sam Adams Octoberfest </p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>

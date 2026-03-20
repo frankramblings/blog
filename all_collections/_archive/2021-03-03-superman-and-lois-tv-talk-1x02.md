@@ -13,4 +13,4 @@ original_url: "https://www.supermantvtalk.com/superman-and-lois-heritage"
 audio_url: "https://aphid.fireside.fm/d/1437767933/ca06e266-f5ac-4159-baf5-35ad203e8279/21e26db9-fba0-4ecb-b473-7182dc29375b.mp3"
 ---
 
-THERE’S NO PLACE LIKE HOME – While adjusting to their new lives in Smallville, Lois and Clark make an important decision concerning one of their sons. Meanwhile, tensions begin to rise between Lois and Morgan Edge. Lastly, Lana Lang-Cushing invites the Kent family over for a barbecue.
+<p>THERE’S NO PLACE LIKE HOME – While adjusting to their new lives in Smallville, Lois and Clark make an important decision concerning one of their sons. Meanwhile, tensions begin to rise between Lois and Morgan Edge. Lastly, Lana Lang-Cushing invites the Kent family over for a barbecue.</p>

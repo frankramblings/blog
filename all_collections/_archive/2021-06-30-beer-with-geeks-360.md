@@ -12,8 +12,8 @@ original_url: "https://www.beerwithgeeks.com/360"
 audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893849267f/26f1a756-a3e0-4782-b08d-b5986978c6cf.mp3"
 ---
 
-Frank and Tim give Superhero Slapback a theme song as they discuss the next superhero film in their lineup: 1978's Superman: The Movie starring Christopher Reeve. Cheers!
+<p>Frank and Tim give Superhero Slapback a theme song as they discuss the next superhero film in their lineup: 1978's <em>Superman: The Movie</em> starring Christopher Reeve. Cheers!</p>
 
-Beers of the Week
-Sam Adams Lawn Chair Lager
-10th District Brewery Watermelon WheatSupport Beer With Geeks
+<p><strong>Beers of the Week</strong><br />
+Sam Adams Lawn Chair Lager<br />
+10th District Brewery Watermelon Wheat</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>

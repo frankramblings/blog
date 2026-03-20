@@ -13,6 +13,6 @@ original_url: "https://supergirltvtalk.fireside.fm/3x21"
 audio_url: "https://aphid.fireside.fm/d/1437767933/a7e375a6-6b1c-4fd0-b43d-ea2063feaac0/af3c62e9-5e9c-4a1b-822d-d636368747f8.mp3"
 ---
 
-Frank returns from Argo City to join Tim for this week's recap: Black Kryptonite? Flamebird? Grand theft spaceship? All these topics are covered and your questions are answered.
+<p>Frank returns from Argo City to join Tim for this week's recap: Black Kryptonite? Flamebird? Grand theft spaceship? All these topics are covered and your questions are answered.</p>
 
-Proud member of the Thought Bubble Audio Network and DC TV Talk!Support Supergirl TV Talk
+<p>Proud member of the <a href="http://www.thoughtbubbleaudio.com">Thought Bubble Audio Network</a> and <a href="http://dctvtalk.com">DC TV Talk</a>!</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Supergirl TV Talk</a></p>

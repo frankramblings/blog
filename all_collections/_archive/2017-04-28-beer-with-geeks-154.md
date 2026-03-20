@@ -12,9 +12,9 @@ original_url: "https://www.beerwithgeeks.com/154"
 audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893849267f/fef7cbc6-ed8f-4301-b76e-c7b48e54017e.mp3"
 ---
 
-Tim returns to the USA! Before Guardians of the Galaxy Vol. 2 drops, Frank and Tim look back at the original and everything that made it so special. Cheers!
+<p>Tim returns to the USA! Before Guardians of the Galaxy Vol. 2 drops, Frank and Tim look back at the original and everything that made it so special. Cheers!</p>
 
-Beers Drinks of the Week
-Wachusett Brewing Horseshoe Ale
-Twinings Darjeeling Tea
-Bigelow Green TeaSupport Beer With Geeks
+<p><b><strike>Beers</strike> Drinks of the Week</b><br />
+Wachusett Brewing Horseshoe Ale<br />
+Twinings Darjeeling Tea<br />
+Bigelow Green Tea</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>

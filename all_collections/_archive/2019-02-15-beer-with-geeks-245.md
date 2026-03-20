@@ -12,7 +12,7 @@ original_url: "https://www.beerwithgeeks.com/245"
 audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893849267f/39febc71-da3e-4619-8f12-1372ef927699.mp3"
 ---
 
-Tim is joined by his fiancée Mary for a whimsical discussion of Netflix's "A Series of Unfortunate Events" and the Lemony Snicket books that inspired it. Cheers!
+<p>Tim is joined by his fiancée Mary for a whimsical discussion of Netflix's "A Series of Unfortunate Events" and the Lemony Snicket books that inspired it. Cheers!</p>
 
-Drink of the Week
-Seltzer!Special Guest: Mary.Support Beer With Geeks
+<p><strong>Drink of the Week</strong><br />
+Seltzer!</p><p>Special Guest: Mary.</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>

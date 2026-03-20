@@ -12,7 +12,7 @@ original_url: "https://www.beerwithgeeks.com/134"
 audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893849267f/87ee2a7d-7756-4140-a0d0-7e8897efce1b.mp3"
 ---
 
-Grab your Vaulting Boots of Valtorr and your Cloak of Levitation! Tim and Frank review Marvel's Doctor Strange this week. Cheers!
+<p>Grab your Vaulting Boots of Valtorr and your Cloak of Levitation! Tim and Frank review Marvel's <i>Doctor Strange</i> this week. Cheers!</p>
 
-Beers Meal of the Week: 
-Shawarma! Support Beer With Geeks
+<p><b><strike>Beers</strike> Meal of the Week: </b><br />
+Shawarma! </p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>

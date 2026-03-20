@@ -12,8 +12,8 @@ original_url: "https://www.beerwithgeeks.com/163"
 audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893849267f/40c8413c-9dc6-4f32-8b7c-eb312a4a7b49.mp3"
 ---
 
-Tim and Frank play geek MASH! They pull together their fantasy planets, dwellings, transportation, careers, hangouts, and hobbies. Plus a few honorable mentions. Cheers!
+<p>Tim and Frank play geek MASH! They pull together their fantasy planets, dwellings, transportation, careers, hangouts, and hobbies. Plus a few honorable mentions. Cheers!</p>
 
-Beers of the Week
-Switchback Ale
-Sam Adams Porch RockerSupport Beer With Geeks
+<p><b>Beers of the Week</b><br />
+Switchback Ale<br />
+Sam Adams Porch Rocker</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>

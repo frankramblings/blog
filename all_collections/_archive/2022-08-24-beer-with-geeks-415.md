@@ -12,7 +12,7 @@ original_url: "https://www.beerwithgeeks.com/415"
 audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893849267f/688e700e-84c7-4e23-997e-8a4ab86e5f30.mp3"
 ---
 
-Tim is joined by his wife, Mary, to talk about The Chronicles of Narnia! 
+<p>Tim is joined by his wife, Mary, to talk about The Chronicles of Narnia! </p>
 
-Beers of the Week
-Polar Blueberry Lemonade SeltzerSpecial Guest: Mary.Support Beer With Geeks
+<p><strong>Beers of the Week</strong><br />
+Polar Blueberry Lemonade Seltzer</p><p>Special Guest: Mary.</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>

@@ -12,8 +12,8 @@ original_url: "https://www.beerwithgeeks.com/337"
 audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893849267f/f2465ecb-7794-4a08-aae6-8df82188664c.mp3"
 ---
 
-Frank and Tim think Wonder Woman 1984 is good, but it can be better. Cheers!
+<p>Frank and Tim think <em>Wonder Woman 1984</em> is good, but it can be better. Cheers!</p>
 
-Beers of the Week
-Hoegaarden Belgian Wheat
-Corsendonk Christmas Brown AleSupport Beer With GeeksLinks:Zack Snyder Shares Wonder Woman Crimean War Photo
+<p><strong>Beers of the Week</strong><br />
+Hoegaarden Belgian Wheat<br />
+Corsendonk Christmas Brown Ale</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p><p>Links:</p><ul><li><a href="https://twitter.com/ZackSnyder/status/1346545263788191744" rel="nofollow" title="Zack Snyder Shares Wonder Woman Crimean War Photo">Zack Snyder Shares Wonder Woman Crimean War Photo</a></li></ul>

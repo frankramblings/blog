@@ -12,8 +12,8 @@ original_url: "https://www.beerwithgeeks.com/244"
 audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893849267f/e488e0c8-e76c-4bff-b08b-2ff2dafd4589.mp3"
 ---
 
-Tim and Frank loved the latest DC animated films "The Death of Superman" and "Reign of the Supermen" and they have a lot to say. Cheers!
+<p>Tim and Frank loved the latest DC animated films "The Death of Superman" and "Reign of the Supermen" and they have a lot to say. Cheers!</p>
 
-Beers of the Week
-Revival Brewing Co. Fanny IPA
-Fiddlehead Brewing Co. Second Fiddle Double IPASupport Beer With GeeksLinks:Reign of the Supermen (film) - Wikipedia
+<p><strong>Beers of the Week</strong><br />
+Revival Brewing Co. Fanny IPA<br />
+Fiddlehead Brewing Co. Second Fiddle Double IPA</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p><p>Links:</p><ul><li><a href="https://en.wikipedia.org/wiki/Reign_of_the_Supermen_(film)" rel="nofollow" title="Reign of the Supermen (film) - Wikipedia">Reign of the Supermen (film) - Wikipedia</a></li></ul>

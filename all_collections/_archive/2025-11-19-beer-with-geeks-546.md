@@ -12,8 +12,8 @@ original_url: "https://www.beerwithgeeks.com/546"
 audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893849267f/28295733-ca30-4b31-833e-4593f205eca0.mp3"
 ---
 
-Tim and Frank map the split between things you use and things you just display. Physical media and toys that invite play vs digital files and NFTs that create fake scarcity. Collecting has shifted. Minimalist “millennial beige” homes and how that vibe bleeds into hobby culture. Funko’s oversupply and debt stories. Expensive replicas that stop being toys once the price climbs. LEGO scale display pieces vs sets made to be handled. The difference between collecting for personal joy and buying for resale.
+<p>Tim and Frank map the split between things you use and things you just display. Physical media and toys that invite play vs digital files and NFTs that create fake scarcity. Collecting has shifted. Minimalist “millennial beige” homes and how that vibe bleeds into hobby culture. Funko’s oversupply and debt stories. Expensive replicas that stop being toys once the price climbs. LEGO scale display pieces vs sets made to be handled. The difference between collecting for personal joy and buying for resale.</p>
 
-Beers of the Week
-Hobbs Brewing Virgil Pumpkin Ale
-Sam Adams OctoberfestSupport Beer With Geeks
+<p><strong>Beers of the Week</strong><br />
+Hobbs Brewing Virgil Pumpkin Ale<br />
+Sam Adams Octoberfest</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>

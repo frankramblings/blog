@@ -12,8 +12,8 @@ original_url: "https://www.beerwithgeeks.com/258"
 audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893849267f/c687c296-540f-49ea-a62d-d279c0a3bf28.mp3"
 ---
 
-Tim and Frank look back at Arrow Season 7 and The Flash Season 5. Cheers!
+<p>Tim and Frank look back at Arrow Season 7 and The Flash Season 5. Cheers!</p>
 
-Beers of the Week
-Omission Golden Ale
-Two Road Tanker Truck Passion Fruit GoseSupport Beer With GeeksLinks:The Zeta Project - WikipediaHarrison Wells - Wikipedia
+<p><strong>Beers of the Week</strong><br />
+Omission Golden Ale<br />
+Two Road Tanker Truck Passion Fruit Gose</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p><p>Links:</p><ul><li><a href="https://en.m.wikipedia.org/wiki/The_Zeta_Project" rel="nofollow" title="The Zeta Project - Wikipedia">The Zeta Project - Wikipedia</a></li><li><a href="https://en.m.wikipedia.org/wiki/Harrison_Wells" rel="nofollow" title="Harrison Wells - Wikipedia">Harrison Wells - Wikipedia</a></li></ul>

@@ -12,8 +12,8 @@ original_url: "https://www.beerwithgeeks.com/338-rebroadcast"
 audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893849267f/8e3e67d6-5157-4961-89ed-afa70d426ca8.mp3"
 ---
 
-Tim and Frank test their memory of ancient Greek mythology and grade themselves on the results. Cheers!
+<p>Tim and Frank test their memory of ancient Greek mythology and grade themselves on the results. Cheers!</p>
 
-Beers of the Week
-Von Trapp Berliner Weisse
-Piraat Belgian AleSupport Beer With Geeks
+<p><strong>Beers of the Week</strong><br />
+Von Trapp Berliner Weisse<br />
+Piraat Belgian Ale</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>

@@ -12,8 +12,8 @@ original_url: "https://www.beerwithgeeks.com/299"
 audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893849267f/2a610b00-b719-4b21-a89e-ba2ecad6ae55.mp3"
 ---
 
-Frank and Tim absolutely loved DC Universe’s animated series “Harley Quinn” and they want to tell you why. Cheers!
+<p>Frank and Tim absolutely loved DC Universe’s animated series “Harley Quinn” and they want to tell you why. Cheers!</p>
 
-Beers of the Week
-Boulevard Limited Release Chocolate Ale
-New Belgium GlutinySupport Beer With GeeksLinks:Harley Quinn (TV series) - Wikipedia
+<p><strong>Beers of the Week</strong><br />
+Boulevard Limited Release Chocolate Ale<br />
+New Belgium Glutiny</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p><p>Links:</p><ul><li><a href="https://en.wikipedia.org/wiki/Harley_Quinn_(TV_series)" rel="nofollow" title="Harley Quinn (TV series) - Wikipedia">Harley Quinn (TV series) - Wikipedia</a></li></ul>

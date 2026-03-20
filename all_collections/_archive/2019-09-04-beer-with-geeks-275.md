@@ -12,9 +12,9 @@ original_url: "https://www.beerwithgeeks.com/275"
 audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893849267f/279ef0c9-b160-4d69-8cbc-4a70e2bed0ea.mp3"
 ---
 
-Lauren guests spots to talk DCUniverse's Titans with Tim!
+<p>Lauren guests spots to talk DCUniverse's Titans with Tim!</p>
 
-Beers of the Week
+<p><strong>Beers of the Week</strong></p>
 
-Feyborn: Berliner Weisse Blueberry from Down the Road Beer Co.
-Lacroix SeltzerSpecial Guest: Lauren.Support Beer With Geeks
+<p>Feyborn: Berliner Weisse Blueberry from Down the Road Beer Co.<br />
+Lacroix Seltzer</p><p>Special Guest: Lauren.</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>

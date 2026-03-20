@@ -12,8 +12,8 @@ original_url: "https://www.beerwithgeeks.com/278"
 audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893849267f/e7996b54-6ad9-4a2b-b9eb-c9b583897bec.mp3"
 ---
 
-Tim and Frank talk about the celebrities they want to meet so badly, they would lose their sh_t if it happened. They're calling it "What Happened To My Poop?" Cheers!
+<p>Tim and Frank talk about the celebrities they want to meet so badly, they would lose their sh_t if it happened. They're calling it "What Happened To My Poop?" Cheers!</p>
 
-Beers of the Week
-Hot Toddy (Jim Beam + Bigelow Green Tea + Honey)
-Revival HAMR Pale AleSupport Beer With Geeks
+<p><strong>Beers of the Week</strong><br />
+Hot Toddy (Jim Beam + Bigelow Green Tea + Honey)<br />
+Revival HAMR Pale Ale</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>

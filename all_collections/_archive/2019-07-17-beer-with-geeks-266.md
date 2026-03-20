@@ -12,8 +12,8 @@ original_url: "https://www.beerwithgeeks.com/266"
 audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893849267f/1c97e8f7-b36d-412d-9d1e-d2273da1b2a5.mp3"
 ---
 
-Frank and Tim swing by for a friendly neighborhood podcast about Spider-Man: Far From Home. Cheers!
+<p>Frank and Tim swing by for a friendly neighborhood podcast about <em>Spider-Man: Far From Home</em>. Cheers!</p>
 
-Beers of the Week
-Unknown Hoppy Pilsner (Tim says its good)
-Abita Turbodog Brown AleSupport Beer With Geeks
+<p><strong>Beers of the Week</strong><br />
+Unknown Hoppy Pilsner (Tim says its good)<br />
+Abita Turbodog Brown Ale</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>

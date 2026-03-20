@@ -12,8 +12,8 @@ original_url: "https://www.beerwithgeeks.com/213"
 audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893849267f/69b5dbfa-8eea-4716-845f-0335c42994ee.mp3"
 ---
 
-Tim and Frank tackle that third rail of a topic: what works, and what doesn't work in the DCEU? Cheers!
+<p>Tim and Frank tackle that third rail of a topic: what works, and what doesn't work in the DCEU? Cheers!</p>
 
-Beers of the Week
-Newburyport Maritime Lager
-Josephsbrau Alternate DimensionSupport Beer With Geeks
+<p><strong>Beers of the Week</strong><br />
+Newburyport Maritime Lager<br />
+Josephsbrau Alternate Dimension</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>

@@ -12,6 +12,6 @@ original_url: "https://www.beerwithgeeks.com/107"
 audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893849267f/beda6843-f639-453a-a95c-21883bd0ea3c.mp3"
 ---
 
-Tim and Frank saw Captain America: Civil War, and they are here to talk about it. SPOILER WARNING: don't listen to this one until you've seen the movie. Cheers!<
+<p>Tim and Frank saw <i>Captain America: Civil War</i>, and they are here to talk about it. SPOILER WARNING: don't listen to this one until you've seen the movie. Cheers!<</p>
 
-Beers Beverages of the Week: Barefoot Red MoscatoBombay Sapphire Gin on the rocksSupport Beer With Geeks
+<p><b><strike>Beers</strike> Beverages of the Week: </b><br />Barefoot Red Moscato<br />Bombay Sapphire Gin on the rocks</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>

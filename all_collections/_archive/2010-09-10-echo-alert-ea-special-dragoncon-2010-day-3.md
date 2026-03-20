@@ -11,11 +11,4 @@ original_url: "http://echoalert.blogspot.com/2010/09/ea-special-dragoncon-2010-d
 audio_url: "http://www.podtrac.com/pts/redirect.mp3/blip.tv/file/get/Echoalertmp3-EASpecialDragonCon2010Day3408.mp3"
 ---
 
-WE MET SUMMER GLAU! Yeah. Take that.
-
-
-[MP3]/[Length: 2:56]
- 
-[Subscribe AAC] 
-
-[Subscribe MP3]
+WE MET SUMMER GLAU! Yeah. Take that. [MP3]/[Length: 2:56]   [Subscribe AAC]  [Subscribe MP3]

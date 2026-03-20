@@ -12,4 +12,4 @@ original_url: "https://www.beerwithgeeks.com/98"
 audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893849267f/749d01ef-c0a3-4c01-9d52-2f2c69400bf5.mp3"
 ---
 
-Tim and Frank prepare for Batman v. Superman with a re-watch of some classic crossover episodes of Superman: The Animated Series featuring appearances by the Dark Knight. It's a throwback to 1997! Cheers!Support Beer With Geeks
+<p>Tim and Frank prepare for Batman v. Superman with a re-watch of some classic crossover episodes of Superman: The Animated Series featuring appearances by the Dark Knight. It's a throwback to 1997! Cheers!</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>

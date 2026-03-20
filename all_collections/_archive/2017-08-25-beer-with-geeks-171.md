@@ -12,6 +12,6 @@ original_url: "https://www.beerwithgeeks.com/171"
 audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893849267f/8ae46767-1de2-4604-b833-ace90d0729f4.mp3"
 ---
 
-Tim and Frank binge-watched Marvel's The Defenders and they have so, so many thoughts. Cheers!
+<p>Tim and Frank binge-watched Marvel's <i>The Defenders</i> and they have so, so many thoughts. Cheers!</p>
 
-Proud member of the Thought Bubble Audio Network!Support Beer With Geeks
+<p>Proud member of the <a href="http://www.thoughtbubbleaudio.com">Thought Bubble Audio Network</a>!</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>

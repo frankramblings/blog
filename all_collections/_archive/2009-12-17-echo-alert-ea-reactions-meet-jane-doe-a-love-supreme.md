@@ -11,11 +11,4 @@ original_url: "http://echoalert.blogspot.com/2009/12/ea-reactions-meet-jane-doe-
 audio_url: "http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/EchoAlertADollhousePodcast/EAReactionsJaneDoeLoveSupreme.mp3"
 ---
 
-Time is a rare and precious commodity! Sadly, we don't have any! At the height of their finals week, Andrew and Frank are joined by Tim to give their initial reactions on "Meet Jane Doe" and "A Love Supreme". A full podcast is on its way, so check back soon! Until then, Merry Christmas, Happy Hanukkah, and enjoy this Friday's episodes "Stop Loss" and "The Attic."
-
-
-[MP3]/[Length: 24:44]
- 
-[Subscribe AAC] 
-
-[Subscribe MP3]
+Time is a rare and precious commodity! Sadly, we don't have any! At the height of their finals week, Andrew and Frank are joined by Tim to give their initial reactions on "Meet Jane Doe" and "A Love Supreme". A full podcast is on its way, so check back soon! Until then, Merry Christmas, Happy Hanukkah, and enjoy this Friday's episodes "Stop Loss" and "The Attic." [MP3]/[Length: 24:44]   [Subscribe AAC]  [Subscribe MP3]

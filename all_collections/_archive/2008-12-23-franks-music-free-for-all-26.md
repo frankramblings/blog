@@ -12,4 +12,4 @@ original_url: "http://frankpodcast.blogspot.com/2008/12/episode-26-122308-christ
 audio_url: "http://frankpodcast2.podomatic.com/enclosure/2008-12-23T14_56_19-08_00.mp3"
 ---
 
-Merry Christmas, all! My sister Stephanie joins me in this annual Frank's Music Free-For-All tradition as we bring you the gift of music. A very happy and blessed Christmas to you and yours!Subscribe in iTunesDownload the EpisodeDownload the Episode Playlist
+Merry Christmas, all! My sister Stephanie joins me in this annual Frank's Music Free-For-All tradition as we bring you the gift of music. A very happy and blessed Christmas to you and yours! Subscribe in iTunes Download the Episode Download the Episode Playlist

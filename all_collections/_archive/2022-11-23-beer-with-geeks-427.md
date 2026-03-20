@@ -12,8 +12,8 @@ original_url: "https://www.beerwithgeeks.com/427"
 audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893849267f/648c8f54-2163-443d-81d8-70079760c5e0.mp3"
 ---
 
-Frank and Tim thoroughly enjoyed the new Star Wars animated anthology Tales of the Jedi on Disney+. Cheers!
+<p>Frank and Tim thoroughly enjoyed the new Star Wars animated anthology <em>Tales of the Jedi</em> on Disney+. Cheers!</p>
 
-Beers of the Week
-Wormtown Brewery Octoberfest Marzen
-Line 39 Pinot NoirSupport Beer With Geeks
+<p><strong>Beers of the Week</strong><br />
+Wormtown Brewery Octoberfest Marzen<br />
+Line 39 Pinot Noir</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>

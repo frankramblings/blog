@@ -13,6 +13,6 @@ original_url: "https://www.supermantvtalk.com/superman-and-lois-a-perfectly-good
 audio_url: "https://aphid.fireside.fm/d/1437767933/ca06e266-f5ac-4159-baf5-35ad203e8279/d5d135e1-a9b1-4c91-a62f-0a9a4823311f.mp3"
 ---
 
-"The Kents struggle to adjust to their new normal. Lois helps throw Kyle and Chrissy an impromptu wedding that doesn’t quite go as planned."
+<p>"The Kents struggle to adjust to their new normal. Lois helps throw Kyle and Chrissy an impromptu wedding that doesn’t quite go as planned."</p>
 
-"Lois makes increasingly bold moves as she tries to stop Luthor. Jonathan struggles to balance his personal life and responsibilities, while Clark learns an unsettling truth."
+<p>"Lois makes increasingly bold moves as she tries to stop Luthor. Jonathan struggles to balance his personal life and responsibilities, while Clark learns an unsettling truth."</p>

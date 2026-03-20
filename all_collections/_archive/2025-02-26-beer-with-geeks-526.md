@@ -12,8 +12,8 @@ original_url: "https://www.beerwithgeeks.com/526"
 audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893849267f/0bc6802d-89e7-4990-89be-659752f95141.mp3"
 ---
 
-Frank and Tim dive into Marvel's Captain America: Brave New World (2025). Cheers!
+<p>Frank and Tim dive into Marvel's <em>Captain America: Brave New World</em> (2025). Cheers!</p>
 
-Beers of the Week
-Chimay Grande Reserve (Blue) Trappist Ale
-Burlington Beer Co. Little Wizard IPASupport Beer With Geeks
+<p><strong>Beers of the Week</strong><br />
+Chimay Grande Reserve (Blue) Trappist Ale<br />
+Burlington Beer Co. Little Wizard IPA</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>

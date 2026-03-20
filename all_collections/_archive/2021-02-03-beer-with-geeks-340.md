@@ -12,8 +12,8 @@ original_url: "https://www.beerwithgeeks.com/340"
 audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893849267f/a523fcfa-3868-4779-9b9f-911cfa36050f.mp3"
 ---
 
-Frank and Tim dust off their Thinking and Drinking card game and hilarity ensues, as per usual. Cheers!
+<p>Frank and Tim dust off their <em>Thinking and Drinking</em> card game and hilarity ensues, as per usual. Cheers!</p>
 
-Beers Drinks of the Week
-Alchemy Brewing Heady Topper
-Von Trapp BerlinerweisseSupport Beer With GeeksLinks:The Gospel According to Lucas: A Star Wars Bible Study Podcast
+<p><strong>Beers Drinks of the Week</strong><br />
+Alchemy Brewing Heady Topper<br />
+Von Trapp Berlinerweisse</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p><p>Links:</p><ul><li><a href="https://www.thegospelaccordingtolucas.com/" rel="nofollow" title="The Gospel According to Lucas: A Star Wars Bible Study Podcast">The Gospel According to Lucas: A Star Wars Bible Study Podcast</a></li></ul>

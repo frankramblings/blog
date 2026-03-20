@@ -12,4 +12,4 @@ original_url: "http://www.untitledtechpodcast.com/2018/06/002-one-after-high-sie
 audio_url: "http://dts.podtrac.com/redirect.mp3/archive.org/download/UTP002/UTP_002.mp3"
 ---
 
-Brent and Frank discuss iOS 12 Beta 2, the appeal of MeMoji, macOS Mojave's dark mode and suite of new features, plus Brent advises Frank on which iPad to buy next.What iPad should Frank buy? Have you tried the iOS or macOS beta? Tweet @untitledtechpod,  @FrankRamblings, and @brentacPrime, or email untitledtechpodcast@gmail.com.
+Brent and Frank discuss iOS 12 Beta 2, the appeal of MeMoji, macOS Mojave's dark mode and suite of new features, plus Brent advises Frank on which iPad to buy next.<br /><br />What iPad should Frank buy? Have you tried the iOS or macOS beta? Tweet <a href="http://twitter.com/untitledtechpod" target="_blank">@untitledtechpod</a>,  <a href="http://twitter.com/FrankRamblings" target="_blank">@FrankRamblings</a>, and <a href="http://twitter.com/brentacPrime" target="_blank">@brentacPrime</a>, or email <a href="mailto:untitledtechpodcast@gmail.com">untitledtechpodcast@gmail.com</a>.

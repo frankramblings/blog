@@ -12,8 +12,8 @@ original_url: "https://www.beerwithgeeks.com/503"
 audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893849267f/c67515cc-3ad7-43d6-81f3-b0847d533ed5.mp3"
 ---
 
-Frank and Tim join Vactor Verse and Animation Fascination to talk about the second season of My Adventures with Superman!
+<p>Frank and Tim join Vactor Verse and Animation Fascination to talk about the second season of <em>My Adventures with Superman</em>!</p>
 
-Beers of the Week
-Sierra Nevada Trailpass Golden Ale
-A&W Root Beer Zero SugarSpecial Guests: Marc Vibbert and Vactor.Support Beer With Geeks
+<p><strong>Beers of the Week</strong><br />
+Sierra Nevada Trailpass Golden Ale<br />
+A&W Root Beer Zero Sugar</p><p>Special Guests: Marc Vibbert and Vactor.</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>

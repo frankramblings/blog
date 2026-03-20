@@ -1,0 +1,16 @@
+---
+title: "Smallville | 10x08 – ‘Abandoned’"
+date: "2010-11-12"
+type: "podcast"
+platform: "podcast"
+podcast: "superman-and-lois-tv-talk"
+podcast_title: "Superman & Lois TV Talk"
+season: 10
+episode: 8
+episode_id: "10x08"
+permalink: "/archive/podcasts/superman-and-lois-tv-talk/10x08/"
+original_url: "https://www.supermantvtalk.com/smallville-abandoned"
+audio_url: "https://aphid.fireside.fm/d/1437767933/ca06e266-f5ac-4159-baf5-35ad203e8279/421bb68d-d13d-4803-8f64-415e5581072f.mp3"
+---
+
+<p>November 12, 2010 – <em>Lois watches a video tape left by her mother, where Ella Lane tells Lois not to let the loss of a loved one keep her from living up to her full potential. Subsequently, Lois goes to the Fortress of Solitude and pleads with Jor-El to reconcile with Clark so that Clark can be the hero he needs to be. Meanwhile, Clark helps Tess uncover the truth about a dream Tess had about being in an orphanage. Tess eventually learns she is the illegitimate child of Lionel Luthor, who abandoned her at 5 years of age; her birth name is Lutessa Lena Luthor. Tess was left with Granny Goodness, who turns out to be one of a trinity of prophets for the dark lord Darkseid, the other two being Gordon Godfrey and club owner Desaad. </em>Damian and Derek discuss the eighth episode of the season, ‘Abandoned’ and all the Superman universe goodies that it provides, including appearances of Teri Hatcher as Lois’ mother, Julian Sands and Helen Slater returning as Jor-El and Lara, and our first glimpse at Darkseid’s minion Granny Goodness.</p>

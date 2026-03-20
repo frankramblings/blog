@@ -11,4 +11,4 @@ permalink: "/archive/podcasts/obiter-dictum/0/"
 original_url: "https://odtvpodcast.blogspot.com/2009/01/episode-0-microcast.html"
 ---
 
-Welcome to Obiter Dictum! Are you a TV addict? Are you a self-proclaimed geek? Well then ODTV is the podcast for you! OD is a fan commentary podcast on all of our favorite shows. In this microcast, our hosts Faith, Ky, Tim, and Frank introduce themselves and give you a taste of what's to come. Come back soon for our first official episode covering that instant classic Dr. Horrible's Sing-Along Blog!!Download EpisodeSubscribe in iTunes
+Welcome to Obiter Dictum! Are you a TV addict? Are you a self-proclaimed geek? Well then ODTV is the podcast for you! OD is a fan commentary podcast on all of our favorite shows. In this microcast, our hosts Faith, Ky, Tim, and Frank introduce themselves and give you a taste of what's to come. Come back soon for our first official episode covering that instant classic <span style="font-style: italic;">Dr. Horrible's Sing-Along Blog</span>!!<br /><br /><a href="http://media.switchpod.com/users/odtvpodcast/ODEpisode1.mp3">Download Episode</a><br /><br /><a href="">Subscribe in iTunes</a>

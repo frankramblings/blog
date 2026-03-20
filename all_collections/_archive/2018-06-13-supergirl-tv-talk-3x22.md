@@ -13,6 +13,6 @@ original_url: "https://supergirltvtalk.fireside.fm/3x22"
 audio_url: "https://aphid.fireside.fm/d/1437767933/a7e375a6-6b1c-4fd0-b43d-ea2063feaac0/e464091e-cfed-41b4-a5c7-01e7915ad81e.mp3"
 ---
 
-Tim and Frank make it rain with “Reign” puns while discussing the penultimate episode of Season 3. Plus predictions for the finale!
+<p>Tim and Frank make it rain with “Reign” puns while discussing the penultimate episode of Season 3. Plus predictions for the finale!</p>
 
-Proud member of the Thought Bubble Audio Network and DC TV Talk!Support Supergirl TV Talk
+<p>Proud member of the <a href="http://www.thoughtbubbleaudio.com">Thought Bubble Audio Network</a> and <a href="http://dctvtalk.com">DC TV Talk</a>!</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Supergirl TV Talk</a></p>

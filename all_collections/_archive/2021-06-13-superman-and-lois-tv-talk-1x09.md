@@ -13,4 +13,4 @@ original_url: "https://www.supermantvtalk.com/superman-and-lois-loyal-subjekts"
 audio_url: "https://aphid.fireside.fm/d/1437767933/ca06e266-f5ac-4159-baf5-35ad203e8279/1ad5b644-44cd-4ef6-bdf4-08ded55e24a0.mp3"
 ---
 
-DETAILS – Lois, Chrissy and Clark team up to piece together the significance of Smallville to Morgan Edge.
+<p>DETAILS – Lois, Chrissy and Clark team up to piece together the significance of Smallville to Morgan Edge.</p>

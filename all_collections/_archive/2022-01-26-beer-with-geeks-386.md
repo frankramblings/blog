@@ -12,8 +12,8 @@ original_url: "https://www.beerwithgeeks.com/386"
 audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893849267f/e5019739-53f7-4ed8-9334-3f2493767c01.mp3"
 ---
 
-Frank and Tim chat about Netflix's Tick, Tick... Boom!, the directorial debut of Lin Manuel Miranda starring Andrew Garfield. Cheers!
+<p>Frank and Tim chat about Netflix's <em>Tick, Tick... Boom!</em>, the directorial debut of Lin Manuel Miranda starring Andrew Garfield. Cheers!</p>
 
-Beers of the Week
-Harpoon Dunkin Pumpkin
-Stella ArtoisSupport Beer With Geeks
+<p><strong>Beers of the Week</strong><br />
+Harpoon Dunkin Pumpkin<br />
+Stella Artois</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>

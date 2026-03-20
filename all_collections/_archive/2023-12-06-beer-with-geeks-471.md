@@ -12,8 +12,8 @@ original_url: "https://www.beerwithgeeks.com/471"
 audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893849267f/465a0e4c-83a6-4738-b273-5faa1732c47e.mp3"
 ---
 
-Frank and Tim explore what makes a quintessential Superman story. Cheers!
+<p>Frank and Tim explore what makes a quintessential Superman story. Cheers!</p>
 
-Beers of the Week
-Stormalong "Happy Holidays" Holiday Spiced Cider
-Guinness StoutSupport Beer With Geeks
+<p><strong>Beers of the Week</strong><br />
+Stormalong "Happy Holidays" Holiday Spiced Cider<br />
+Guinness Stout</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>

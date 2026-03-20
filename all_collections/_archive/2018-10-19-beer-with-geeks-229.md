@@ -12,8 +12,8 @@ original_url: "https://www.beerwithgeeks.com/229"
 audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893849267f/fc192560-ac28-4120-8f3f-0f614fedf05f.mp3"
 ---
 
-Tim challenges Frank to a round of Marvel Comics trivia. The results are...interesting. Cheers!
+<p>Tim challenges Frank to a round of Marvel Comics trivia. The results are...interesting. Cheers!</p>
 
-Beers of the Week
-Devil’s Purse Surfman’s Chest English-Style Pale Ale
-Shipyard Pumpkinhead AleSupport Beer With GeeksLinks:S.H.I.E.L.D. - Wikipedia — The acronym originally stood for Supreme Headquarters, International Espionage, Law-Enforcement Division.
+<p><strong>Beers of the Week</strong><br />
+Devil’s Purse Surfman’s Chest English-Style Pale Ale<br />
+Shipyard Pumpkinhead Ale</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p><p>Links:</p><ul><li><a href="https://en.wikipedia.org/wiki/S.H.I.E.L.D." rel="nofollow" title="S.H.I.E.L.D. - Wikipedia">S.H.I.E.L.D. - Wikipedia</a> — The acronym originally stood for Supreme Headquarters, International Espionage, Law-Enforcement Division. </li></ul>

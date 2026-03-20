@@ -12,8 +12,8 @@ original_url: "https://www.beerwithgeeks.com/458"
 audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893849267f/6742b15d-8d7b-4dc7-bd88-c2b626ad3276.mp3"
 ---
 
-Tim and Frank grab a beer and hop over to Barbieland to discuss Greta Gerwig's Barbie. Cheers!
+<p>Tim and Frank grab a beer and hop over to Barbieland to discuss Greta Gerwig's <em>Barbie</em>. Cheers!</p>
 
-Beers of the Week
-Switchback Ale
-Von Trapp Bohemian PilsnerSupport Beer With Geeks
+<p><strong>Beers of the Week</strong><br />
+Switchback Ale<br />
+Von Trapp Bohemian Pilsner</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>

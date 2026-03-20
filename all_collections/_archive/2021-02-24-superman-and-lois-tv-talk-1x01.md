@@ -13,4 +13,4 @@ original_url: "https://www.supermantvtalk.com/superman-and-lois-pilot"
 audio_url: "https://aphid.fireside.fm/d/1437767933/ca06e266-f5ac-4159-baf5-35ad203e8279/d89e27c1-fa9c-4eed-a83f-593a7b78b082.mp3"
 ---
 
-We discuss the new faces, characters and places - and some familiar ones – in the pilot episode of Superman and Lois.
+<p>We discuss the new faces, characters and places - and some familiar ones – in the pilot episode of Superman and Lois.</p>

@@ -12,9 +12,9 @@ original_url: "https://www.beerwithgeeks.com/499"
 audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893849267f/e802cb24-d2b6-432f-874c-43e8d5f54d1c.mp3"
 ---
 
-Star Wars: The Acolyte with Tim, Frank, and Vactor! 
+<p>Star Wars: The Acolyte with Tim, Frank, and Vactor! </p>
 
-Beers of the Week
-A&W Root Beer Zero Sugar
-Citizen Cider Wit's Up Dry Ale-Style Cider
-Sierra Nevada Trail PassSpecial Guest: Vactor.Support Beer With Geeks
+<p><strong>Beers of the Week</strong><br />
+A&W Root Beer Zero Sugar<br />
+Citizen Cider Wit's Up Dry Ale-Style Cider<br />
+Sierra Nevada Trail Pass</p><p>Special Guest: Vactor.</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>

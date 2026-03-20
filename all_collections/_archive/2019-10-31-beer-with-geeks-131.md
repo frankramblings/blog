@@ -12,9 +12,9 @@ original_url: "https://www.beerwithgeeks.com/131rebroadcast"
 audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893849267f/6ce978a8-73ee-4e46-b7e4-df6ef3b8b07b.mp3"
 ---
 
-Happy Halloween! This week, we present one of our SPOOKY favorites from the BwG archives.
+<p>Happy Halloween! This week, we present one of our SPOOKY favorites from the BwG archives.</p>
 
-Tim and Frank bring you their third annual Halloween Spooktacular! This year they bring you their favorite TV and movie vampires of all time. Happy Halloween!
+<p>Tim and Frank bring you their third annual Halloween Spooktacular! This year they bring you their favorite TV and movie vampires of all time. Happy Halloween!</p>
 
-Beers Blood of the Week: 
-YOURS! Mwahaha!Support Beer With Geeks
+<p><b><strike>Beers</strike> Blood of the Week: </b><br />
+<b><i>YOURS!</i></b> Mwahaha!</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>

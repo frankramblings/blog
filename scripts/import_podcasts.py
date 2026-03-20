@@ -32,10 +32,9 @@ def slugify(text):
     return text.strip('-')
 
 def clean_html(text):
-    """Strip HTML tags and decode entities."""
+    """Decode HTML entities while preserving tags (for display in Jekyll)."""
     if not text:
         return ""
-    text = re.sub(r'<[^>]+>', '', text)
     text = html.unescape(text)
     return text.strip()
 
@@ -93,8 +92,15 @@ def get_audio_url(entry):
     return ""
 
 def get_episode_description(entry):
-    """Get episode description/summary, cleaned of HTML."""
-    for attr in ('summary', 'description', 'content'):
+    """Get episode description/summary, preserving HTML formatting."""
+    # Prefer content:encoded (rich HTML) over summary (often plain text)
+    content = getattr(entry, 'content', None)
+    if content:
+        if isinstance(content, list) and content:
+            val = content[0].get('value', '')
+            if val:
+                return clean_html(val)
+    for attr in ('summary', 'description'):
         val = getattr(entry, attr, None)
         if val:
             if isinstance(val, list):
@@ -121,15 +127,17 @@ def make_filename(date, show_slug, episode_id):
     safe_id = slugify(episode_id) if not episode_id.replace('x', '').replace('X', '').isdigit() else episode_id
     return f"{date_str}-{show_slug}-{safe_id}.md"
 
-def episode_exists(filename):
+def episode_exists(filename, force=False):
     """Check if an episode file already exists."""
+    if force:
+        return False
     return (ARCHIVE_DIR / filename).exists()
 
-def write_episode(show, entry, date, season, episode, seq_num, episode_id, audio_url, description):
+def write_episode(show, entry, date, season, episode, seq_num, episode_id, audio_url, description, force=False):
     """Write a single episode markdown file."""
     filename = make_filename(date, show['slug'], episode_id)
 
-    if episode_exists(filename):
+    if episode_exists(filename, force):
         return False, filename
 
     permalink = make_permalink(show['slug'], episode_id)
@@ -174,8 +182,8 @@ def write_episode(show, entry, date, season, episode, seq_num, episode_id, audio
     lines.append('')
 
     # Truncate very long descriptions
-    if description and len(description) > 2000:
-        description = description[:2000] + '...'
+    if description and len(description) > 10000:
+        description = description[:10000] + '...'
 
     if description:
         lines.append(description)
@@ -187,7 +195,7 @@ def write_episode(show, entry, date, season, episode, seq_num, episode_id, audio
 
     return True, filename
 
-def import_show(show):
+def import_show(show, force=False):
     """Import all episodes from a single podcast show."""
     feed_url = show.get('feed_url', '')
     if not feed_url:
@@ -250,7 +258,7 @@ def import_show(show):
 
             created, filename = write_episode(
                 show, entry, date, season, episode, seq_num,
-                episode_id, audio_url, description
+                episode_id, audio_url, description, force=force
             )
 
             if created:
@@ -290,8 +298,15 @@ archive_podcast: {show['slug']}
     print(f"  Created show page: archive/podcasts/{show['slug']}/index.html")
 
 def main():
+    import argparse
+    parser = argparse.ArgumentParser()
+    parser.add_argument('--force', action='store_true', help='Overwrite existing episode files')
+    args = parser.parse_args()
+
     print("Podcast RSS Importer")
     print("=" * 60)
+    if args.force:
+        print("Force mode: overwriting existing files")
 
     podcasts = load_podcasts()
     ARCHIVE_DIR.mkdir(parents=True, exist_ok=True)
@@ -300,7 +315,7 @@ def main():
     for show in podcasts:
         if show.get('feed_url'):
             ensure_show_page(show)
-            count = import_show(show)
+            count = import_show(show, force=args.force)
             total += count
 
     print(f"\n{'='*60}")
