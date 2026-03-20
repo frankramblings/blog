@@ -12,4 +12,6 @@ original_url: "https://www.beerwithgeeks.com/66"
 audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893849267f/250aef31-6345-4018-93dc-32521c2ac8fa.mp3"
 ---
 
-<p>Back to school season is almost upon us. Almost feels like we should be doing our summer reading. What classics do you remember reading before heading back to class?</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>
+<p>Back to school season is almost upon us. Almost feels like we should be doing our summer reading. What classics do you remember reading before heading back to class?</p>
+
+<p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>

@@ -16,4 +16,18 @@ audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893
 
 <p><strong>Beers of the Week</strong><br />
 Stoneface Imperial Red Rye<br />
-Sam Adams Alpine Lager</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p><p>Links:</p><ul><li><a href="https://en.wikipedia.org/wiki/The_Batman_(TV_series)" rel="nofollow" title="The Batman (TV series)">The Batman (TV series)</a></li><li><a href="https://en.wikipedia.org/wiki/The_Batman_(film)" rel="nofollow" title="The Batman (film) - Wikipedia">The Batman (film) - Wikipedia</a></li><li><a href="https://en.wikipedia.org/wiki/The_Man_Who_Laughs_(1928_film)" rel="nofollow" title="The Man Who Laughs (1928 film) - Wikipedia">The Man Who Laughs (1928 film) - Wikipedia</a></li></ul>
+Sam Adams Alpine Lager</p>
+
+<p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>
+
+<p>Links:</p>
+
+<ul>
+
+<li><a href="https://en.wikipedia.org/wiki/The_Batman_(TV_series)" rel="nofollow" title="The Batman (TV series)">The Batman (TV series)</a></li>
+
+<li><a href="https://en.wikipedia.org/wiki/The_Batman_(film)" rel="nofollow" title="The Batman (film) - Wikipedia">The Batman (film) - Wikipedia</a></li>
+
+<li><a href="https://en.wikipedia.org/wiki/The_Man_Who_Laughs_(1928_film)" rel="nofollow" title="The Man Who Laughs (1928 film) - Wikipedia">The Man Who Laughs (1928 film) - Wikipedia</a></li>
+
+</ul>

@@ -16,4 +16,6 @@ audio_url: "https://aphid.fireside.fm/d/1437767933/a7e375a6-6b1c-4fd0-b43d-ea206
 <p>Tim and Frank break down "Dream Weaver" and its important messages about systemic racism, for-profit prisons, and the foster care system, as well as major new developments for Kelly and Nia.</p>
 
 <pre><code>SUPERGIRL AND KELLY TEAM UP – Kelly meets Joey, a young orphaned alien boy, who is acting out in foster care because he fears there is something wrong with his brother Orlando, who is incarcerated. Kelly asks Kara to help her investigate and they stumble upon abuse at the prison. Meanwhile, Nyxly crashes one of Nia’s (Nicole Maines) dreams and asks her for help.```
-</code></pre><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Supergirl TV Talk</a></p>
+</code></pre>
+
+<p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Supergirl TV Talk</a></p>

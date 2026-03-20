@@ -16,4 +16,14 @@ audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893
 
 <p><strong>Beers of the Week</strong><br />
 La Fin Du Monde Triple-Style Golden Ale<br />
-Tim-Tini (gin + olives)</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p><p>Links:</p><ul><li><a href="https://www.beerwithgeeks.com/7" rel="nofollow" title="Beer With Geeks Ep 007">Beer With Geeks Ep 007</a> — It's our seventh episode, and the guys couldn't think of any better topic than 007 himself: Bond, James Bond. They run through their first Bond experiences and look back at their favorite moments from the books and films. Cheers!</li></ul>
+Tim-Tini (gin + olives)</p>
+
+<p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>
+
+<p>Links:</p>
+
+<ul>
+
+<li><a href="https://www.beerwithgeeks.com/7" rel="nofollow" title="Beer With Geeks Ep 007">Beer With Geeks Ep 007</a> — It's our seventh episode, and the guys couldn't think of any better topic than 007 himself: Bond, James Bond. They run through their first Bond experiences and look back at their favorite moments from the books and films. Cheers!</li>
+
+</ul>

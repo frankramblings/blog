@@ -17,4 +17,16 @@ audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893
 <b>Beers of the Week</b><br />
 Budweiser 1933 Repeal Reserve<br />
 <br /><br />
-Proud member of the <a href="http://www.thoughtbubbleaudio.com">Thought Bubble Audio Network</a>!</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p><p>Links:</p><ul><li><a href="https://www.youtube.com/watch?v=7vfqkvwW2fs" rel="nofollow" title="The Marvel Symphonic Universe - YouTube">The Marvel Symphonic Universe - YouTube</a></li><li><a href="http://disorder.libsyn.com/dis-order-10-melody-time" rel="nofollow" title="Dis-Order #10 - Melody Time">Dis-Order #10 - Melody Time</a></li></ul>
+Proud member of the <a href="http://www.thoughtbubbleaudio.com">Thought Bubble Audio Network</a>!</p>
+
+<p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>
+
+<p>Links:</p>
+
+<ul>
+
+<li><a href="https://www.youtube.com/watch?v=7vfqkvwW2fs" rel="nofollow" title="The Marvel Symphonic Universe - YouTube">The Marvel Symphonic Universe - YouTube</a></li>
+
+<li><a href="http://disorder.libsyn.com/dis-order-10-melody-time" rel="nofollow" title="Dis-Order #10 - Melody Time">Dis-Order #10 - Melody Time</a></li>
+
+</ul>

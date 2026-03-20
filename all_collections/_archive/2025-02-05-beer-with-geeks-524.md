@@ -16,4 +16,14 @@ audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893
 
 <p><strong>Beers of the Week</strong><br />
 Smuttynose Old Brown Dog American Brown Ale<br />
-Samuel Adams Holiday White Ale</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p><p>Links:</p><ul><li><a href="https://www.youtube.com/watch?v=AzMo-FgRp64" rel="nofollow" title="The Fantastic Four: First Steps | Official Teaser">The Fantastic Four: First Steps | Official Teaser</a></li></ul>
+Samuel Adams Holiday White Ale</p>
+
+<p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>
+
+<p>Links:</p>
+
+<ul>
+
+<li><a href="https://www.youtube.com/watch?v=AzMo-FgRp64" rel="nofollow" title="The Fantastic Four: First Steps | Official Teaser">The Fantastic Four: First Steps | Official Teaser</a></li>
+
+</ul>

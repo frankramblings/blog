@@ -16,4 +16,16 @@ audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893
 
 <p><strong>Beers of the Week</strong><br />
 Allagash Curieux Belgian-Style Golden Ale<br />
-Jack Daniels Tennessee Honey</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p><p>Links:</p><ul><li><a href="https://ew.com/movies/star-wars-celebration-2023-big-reveals/" rel="nofollow" title="All the biggest reveals from Star Wars Celebration 2023">All the biggest reveals from Star Wars Celebration 2023</a></li><li><a href="https://www.msn.com/en-us/movies/news/star-wars-celebration-2023-all-the-biggest-announcements-and-trailers/ar-AA19AWM0" rel="nofollow" title="Star Wars Celebration 2023: All the biggest announcements and trailers">Star Wars Celebration 2023: All the biggest announcements and trailers</a></li></ul>
+Jack Daniels Tennessee Honey</p>
+
+<p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>
+
+<p>Links:</p>
+
+<ul>
+
+<li><a href="https://ew.com/movies/star-wars-celebration-2023-big-reveals/" rel="nofollow" title="All the biggest reveals from Star Wars Celebration 2023">All the biggest reveals from Star Wars Celebration 2023</a></li>
+
+<li><a href="https://www.msn.com/en-us/movies/news/star-wars-celebration-2023-all-the-biggest-announcements-and-trailers/ar-AA19AWM0" rel="nofollow" title="Star Wars Celebration 2023: All the biggest announcements and trailers">Star Wars Celebration 2023: All the biggest announcements and trailers</a></li>
+
+</ul>

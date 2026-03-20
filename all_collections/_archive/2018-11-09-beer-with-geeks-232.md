@@ -16,4 +16,14 @@ audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893
 
 <p><strong>Beers of the Week</strong><br />
 Harpoon Dunkin' Coffee Porter<br />
-Omission Ultimate Light Golden Ale</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p><p>Links:</p><ul><li><a href="https://www.hypable.com/daredevil-season-3-breaking-down-the-brilliance-of-bullseye/" rel="nofollow" title="'Daredevil' season 3: Breaking down the brilliance of Bullseye">'Daredevil' season 3: Breaking down the brilliance of Bullseye</a></li></ul>
+Omission Ultimate Light Golden Ale</p>
+
+<p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>
+
+<p>Links:</p>
+
+<ul>
+
+<li><a href="https://www.hypable.com/daredevil-season-3-breaking-down-the-brilliance-of-bullseye/" rel="nofollow" title="'Daredevil' season 3: Breaking down the brilliance of Bullseye">'Daredevil' season 3: Breaking down the brilliance of Bullseye</a></li>
+
+</ul>

@@ -12,4 +12,6 @@ original_url: "https://www.beerwithgeeks.com/49"
 audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893849267f/d049708c-b52c-4061-b998-cf0e24c5594c.mp3"
 ---
 
-<p>Snacks! Wikipedia! Kevin Bacon! This episode has it all. Remember Dunkaroos? This one's for you.</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>
+<p>Snacks! Wikipedia! Kevin Bacon! This episode has it all. Remember Dunkaroos? This one's for you.</p>
+
+<p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>

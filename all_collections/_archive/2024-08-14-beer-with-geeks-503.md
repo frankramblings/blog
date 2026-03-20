@@ -16,4 +16,8 @@ audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893
 
 <p><strong>Beers of the Week</strong><br />
 Sierra Nevada Trailpass Golden Ale<br />
-A&W Root Beer Zero Sugar</p><p>Special Guests: Marc Vibbert and Vactor.</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>
+A&W Root Beer Zero Sugar</p>
+
+<p>Special Guests: Marc Vibbert and Vactor.</p>
+
+<p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>

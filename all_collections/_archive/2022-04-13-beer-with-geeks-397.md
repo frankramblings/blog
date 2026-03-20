@@ -16,4 +16,18 @@ audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893
 
 <p><strong>Beers of the Week</strong><br />
 Woodland Farms Big Effin' Porter<br />
-Jack Daniel's Tennessee Honey</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p><p>Links:</p><ul><li><a href="https://en.wikipedia.org/wiki/Swamp_Thing_(film)" rel="nofollow" title="Swamp Thing (film) - Wikipedia">Swamp Thing (film) - Wikipedia</a></li><li><a href="https://www.edx.org/course/the-rise-of-superheroes-and-their-impact-on-pop-cu" rel="nofollow" title="The Rise of Superheroes and Their Impact On Pop Culture">The Rise of Superheroes and Their Impact On Pop Culture</a></li><li><a href="https://en.wikipedia.org/wiki/Man-Thing" rel="nofollow" title="Man-Thing - Wikipedia">Man-Thing - Wikipedia</a></li></ul>
+Jack Daniel's Tennessee Honey</p>
+
+<p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>
+
+<p>Links:</p>
+
+<ul>
+
+<li><a href="https://en.wikipedia.org/wiki/Swamp_Thing_(film)" rel="nofollow" title="Swamp Thing (film) - Wikipedia">Swamp Thing (film) - Wikipedia</a></li>
+
+<li><a href="https://www.edx.org/course/the-rise-of-superheroes-and-their-impact-on-pop-cu" rel="nofollow" title="The Rise of Superheroes and Their Impact On Pop Culture">The Rise of Superheroes and Their Impact On Pop Culture</a></li>
+
+<li><a href="https://en.wikipedia.org/wiki/Man-Thing" rel="nofollow" title="Man-Thing - Wikipedia">Man-Thing - Wikipedia</a></li>
+
+</ul>

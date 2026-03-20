@@ -16,4 +16,16 @@ audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893
 
 <p><strong>Beers of the Week</strong><br />
 Farm Island Organic Session IPA<br />
-Polar Cranberry Lime Seltzer</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p><p>Links:</p><ul><li><a href="https://en.wikipedia.org/wiki/Superman_(1978_film)" rel="nofollow" title="Superman (1978 film) - Wikipedia">Superman (1978 film) - Wikipedia</a></li><li><a href="https://en.wikipedia.org/wiki/Avengers%3A_Infinity_War" rel="nofollow" title="Avengers: Infinity War - Wikipedia">Avengers: Infinity War - Wikipedia</a> — Budget: $316–400 million</li></ul>
+Polar Cranberry Lime Seltzer</p>
+
+<p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>
+
+<p>Links:</p>
+
+<ul>
+
+<li><a href="https://en.wikipedia.org/wiki/Superman_(1978_film)" rel="nofollow" title="Superman (1978 film) - Wikipedia">Superman (1978 film) - Wikipedia</a></li>
+
+<li><a href="https://en.wikipedia.org/wiki/Avengers%3A_Infinity_War" rel="nofollow" title="Avengers: Infinity War - Wikipedia">Avengers: Infinity War - Wikipedia</a> — Budget: $316–400 million</li>
+
+</ul>

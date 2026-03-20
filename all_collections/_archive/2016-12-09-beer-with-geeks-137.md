@@ -15,4 +15,6 @@ audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893
 <p>Tim and Frank throw it back to the 90s, when PBS was a staple of kids' TV. From Mister Rogers to Bill Nye the Science Guy, this is a trip in the wayback machine. Cheers!</p>
 
 <p><b>Beer of the Week:  </b><br />
-Leinenkugel Ginger Shandy</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>
+Leinenkugel Ginger Shandy</p>
+
+<p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>

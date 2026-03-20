@@ -15,4 +15,6 @@ audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893
 <p>Tim and Frank enjoy a throwback to 2008 with the musical dramedy web series that captured the hearts of geeks everywhere: Dr. Horrible's Sing-Along Blog. Cheers!</p>
 
 <p><b>Beer of the Week: </b><br />
-Weyerbacher Merry Monks Ale</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>
+Weyerbacher Merry Monks Ale</p>
+
+<p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>

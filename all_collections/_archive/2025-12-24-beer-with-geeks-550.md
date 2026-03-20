@@ -16,4 +16,48 @@ audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893
 
 <p><strong>Beers of the Week</strong><br />
 Quarter Horse Kentucky Dry Whiskey<br />
-Traditional Medicinals Organic Immune Zoom</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p><p>Links:</p><ul><li><a href="https://en.wikipedia.org/wiki/Pluribus_(TV_series)" rel="nofollow" title="Pluribus (TV series) - Wikipedia">Pluribus (TV series) - Wikipedia</a></li><li><a href="https://en.wikipedia.org/wiki/Breaking_Bad" rel="nofollow" title="Breaking Bad - Wikipedia">Breaking Bad - Wikipedia</a></li><li><a href="https://en.wikipedia.org/wiki/Better_Call_Saul" rel="nofollow" title="Better Call Saul - Wikipedia">Better Call Saul - Wikipedia</a></li><li><a href="https://en.wikipedia.org/wiki/Do_the_Right_Thing" rel="nofollow" title="Do the Right Thing - Wikipedia">Do the Right Thing - Wikipedia</a></li><li><a href="https://en.wikipedia.org/wiki/Godzilla_Minus_One" rel="nofollow" title="Godzilla Minus One - Wikipedia">Godzilla Minus One - Wikipedia</a></li><li><a href="https://en.wikipedia.org/wiki/The_Secret_Life_of_Walter_Mitty_(2013_film)" rel="nofollow" title="The Secret Life of Walter Mitty (2013 film) - Wikipedia">The Secret Life of Walter Mitty (2013 film) - Wikipedia</a></li><li><a href="https://en.wikipedia.org/wiki/The_Lobster" rel="nofollow" title="The Lobster - Wikipedia">The Lobster - Wikipedia</a></li><li><a href="https://en.wikipedia.org/wiki/Poor_Things_(film)" rel="nofollow" title="Poor Things (film) - Wikipedia">Poor Things (film) - Wikipedia</a></li><li><a href="https://en.wikipedia.org/wiki/Kinds_of_Kindness" rel="nofollow" title="Kinds of Kindness - Wikipedia">Kinds of Kindness - Wikipedia</a></li><li><a href="https://en.wikipedia.org/wiki/The_Favourite" rel="nofollow" title="The Favourite - Wikipedia">The Favourite - Wikipedia</a></li><li><a href="https://en.wikipedia.org/wiki/Frankenstein_(2025_film)" rel="nofollow" title="Frankenstein (2025 film) - Wikipedia">Frankenstein (2025 film) - Wikipedia</a></li><li><a href="https://en.wikipedia.org/wiki/Frankenstein_(1931_film)" rel="nofollow" title="Frankenstein (1931 film) - Wikipedia">Frankenstein (1931 film) - Wikipedia</a></li><li><a href="https://en.wikipedia.org/wiki/Frankenstein" rel="nofollow" title="Frankenstein - Wikipedia">Frankenstein - Wikipedia</a></li><li><a href="https://en.wikipedia.org/wiki/Bride_of_Frankenstein" rel="nofollow" title="Bride of Frankenstein - Wikipedia">Bride of Frankenstein - Wikipedia</a></li><li><a href="https://en.wikipedia.org/wiki/Brave_New_World" rel="nofollow" title="Brave New World - Wikipedia">Brave New World - Wikipedia</a></li><li><a href="https://en.wikipedia.org/wiki/Alien:_Earth" rel="nofollow" title="Alien: Earth - Wikipedia">Alien: Earth - Wikipedia</a></li><li><a href="https://en.wikipedia.org/wiki/Alien_(film)" rel="nofollow" title="Alien (film) - Wikipedia">Alien (film) - Wikipedia</a></li><li><a href="https://en.wikipedia.org/wiki/Blade_Runner" rel="nofollow" title="Blade Runner - Wikipedia">Blade Runner - Wikipedia</a></li></ul>
+Traditional Medicinals Organic Immune Zoom</p>
+
+<p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>
+
+<p>Links:</p>
+
+<ul>
+
+<li><a href="https://en.wikipedia.org/wiki/Pluribus_(TV_series)" rel="nofollow" title="Pluribus (TV series) - Wikipedia">Pluribus (TV series) - Wikipedia</a></li>
+
+<li><a href="https://en.wikipedia.org/wiki/Breaking_Bad" rel="nofollow" title="Breaking Bad - Wikipedia">Breaking Bad - Wikipedia</a></li>
+
+<li><a href="https://en.wikipedia.org/wiki/Better_Call_Saul" rel="nofollow" title="Better Call Saul - Wikipedia">Better Call Saul - Wikipedia</a></li>
+
+<li><a href="https://en.wikipedia.org/wiki/Do_the_Right_Thing" rel="nofollow" title="Do the Right Thing - Wikipedia">Do the Right Thing - Wikipedia</a></li>
+
+<li><a href="https://en.wikipedia.org/wiki/Godzilla_Minus_One" rel="nofollow" title="Godzilla Minus One - Wikipedia">Godzilla Minus One - Wikipedia</a></li>
+
+<li><a href="https://en.wikipedia.org/wiki/The_Secret_Life_of_Walter_Mitty_(2013_film)" rel="nofollow" title="The Secret Life of Walter Mitty (2013 film) - Wikipedia">The Secret Life of Walter Mitty (2013 film) - Wikipedia</a></li>
+
+<li><a href="https://en.wikipedia.org/wiki/The_Lobster" rel="nofollow" title="The Lobster - Wikipedia">The Lobster - Wikipedia</a></li>
+
+<li><a href="https://en.wikipedia.org/wiki/Poor_Things_(film)" rel="nofollow" title="Poor Things (film) - Wikipedia">Poor Things (film) - Wikipedia</a></li>
+
+<li><a href="https://en.wikipedia.org/wiki/Kinds_of_Kindness" rel="nofollow" title="Kinds of Kindness - Wikipedia">Kinds of Kindness - Wikipedia</a></li>
+
+<li><a href="https://en.wikipedia.org/wiki/The_Favourite" rel="nofollow" title="The Favourite - Wikipedia">The Favourite - Wikipedia</a></li>
+
+<li><a href="https://en.wikipedia.org/wiki/Frankenstein_(2025_film)" rel="nofollow" title="Frankenstein (2025 film) - Wikipedia">Frankenstein (2025 film) - Wikipedia</a></li>
+
+<li><a href="https://en.wikipedia.org/wiki/Frankenstein_(1931_film)" rel="nofollow" title="Frankenstein (1931 film) - Wikipedia">Frankenstein (1931 film) - Wikipedia</a></li>
+
+<li><a href="https://en.wikipedia.org/wiki/Frankenstein" rel="nofollow" title="Frankenstein - Wikipedia">Frankenstein - Wikipedia</a></li>
+
+<li><a href="https://en.wikipedia.org/wiki/Bride_of_Frankenstein" rel="nofollow" title="Bride of Frankenstein - Wikipedia">Bride of Frankenstein - Wikipedia</a></li>
+
+<li><a href="https://en.wikipedia.org/wiki/Brave_New_World" rel="nofollow" title="Brave New World - Wikipedia">Brave New World - Wikipedia</a></li>
+
+<li><a href="https://en.wikipedia.org/wiki/Alien:_Earth" rel="nofollow" title="Alien: Earth - Wikipedia">Alien: Earth - Wikipedia</a></li>
+
+<li><a href="https://en.wikipedia.org/wiki/Alien_(film)" rel="nofollow" title="Alien (film) - Wikipedia">Alien (film) - Wikipedia</a></li>
+
+<li><a href="https://en.wikipedia.org/wiki/Blade_Runner" rel="nofollow" title="Blade Runner - Wikipedia">Blade Runner - Wikipedia</a></li>
+
+</ul>

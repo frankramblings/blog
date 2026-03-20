@@ -14,4 +14,6 @@ audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893
 
 <p>Star Trek is back in theaters! To gear up for Star Trek Beyond, Frank and Tim recap the reboot universe so far, starting with 2009's Star Trek and 2013's Star Trek Into Darkness. Enjoy this one with some Romulan Ale. Cheers!</p>
 
-<p><b>Beer of the Week: </b><br />Dogfish Head Festina Pêche</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>
+<p><b>Beer of the Week: </b><br />Dogfish Head Festina Pêche</p>
+
+<p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>

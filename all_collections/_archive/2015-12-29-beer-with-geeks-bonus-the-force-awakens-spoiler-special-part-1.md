@@ -11,4 +11,6 @@ original_url: "https://www.beerwithgeeks.com/tfa1"
 audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893849267f/c7fd61d6-204c-4716-b7e8-5ced9233bddd.mp3"
 ---
 
-<p>The Year of Star Wars finale has arrived! Tim and Frank have finally seen Star Wars: The Force Awakens and one podcast can't contain their thoughts about it. Stay tuned for part 2 later this week!</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>
+<p>The Year of Star Wars finale has arrived! Tim and Frank have finally seen Star Wars: The Force Awakens and one podcast can't contain their thoughts about it. Stay tuned for part 2 later this week!</p>
+
+<p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>

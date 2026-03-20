@@ -16,4 +16,14 @@ audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893
 
 <p><strong>Beers of the Week</strong><br />
 Oskar Blues Mama's Little Yella Pils<br />
-Short Path Gin</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p><p>Links:</p><ul><li><a href="https://en.m.wikipedia.org/wiki/Star_Wars:_The_Bad_Batch" rel="nofollow" title="Star Wars: The Bad Batch - Wikipedia">Star Wars: The Bad Batch - Wikipedia</a></li></ul>
+Short Path Gin</p>
+
+<p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>
+
+<p>Links:</p>
+
+<ul>
+
+<li><a href="https://en.m.wikipedia.org/wiki/Star_Wars:_The_Bad_Batch" rel="nofollow" title="Star Wars: The Bad Batch - Wikipedia">Star Wars: The Bad Batch - Wikipedia</a></li>
+
+</ul>

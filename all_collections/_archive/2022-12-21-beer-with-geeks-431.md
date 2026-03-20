@@ -16,4 +16,14 @@ audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893
 
 <p><strong>Beers of the Week</strong><br />
 Peppermint Bailey's Christmas Cocktail (Bailey's + Peppermint Schnapp's)<br />
-Sam Adams Jack-O Pumpkin Ale </p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p><p>Links:</p><ul><li><a href="https://www.youtube.com/watch?v=vGh7ryVZops" rel="nofollow" title="Santa Claus Conquers the Martians (1964) | YouTube">Santa Claus Conquers the Martians (1964) | YouTube</a> — Aliens attack the North Pole! Martians kidnap Santa Claus because there is nobody on Mars to give their children presents.</li></ul>
+Sam Adams Jack-O Pumpkin Ale </p>
+
+<p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>
+
+<p>Links:</p>
+
+<ul>
+
+<li><a href="https://www.youtube.com/watch?v=vGh7ryVZops" rel="nofollow" title="Santa Claus Conquers the Martians (1964) | YouTube">Santa Claus Conquers the Martians (1964) | YouTube</a> — Aliens attack the North Pole! Martians kidnap Santa Claus because there is nobody on Mars to give their children presents.</li>
+
+</ul>

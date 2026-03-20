@@ -15,4 +15,6 @@ audio_url: "https://aphid.fireside.fm/d/1437767933/a7e375a6-6b1c-4fd0-b43d-ea206
 
 <p>The news just keeps piling in! The Supergirl pilot is now in production and Superman family alums Supergirl will be in it! Meanwhile, Melissa Benoist has been seen wearing the House of El crest. Get the week's latest news here and now.</p>
 
-<p>Proud member of <a href="http://dctvtalk.com/">DC TV Talk</a> and the <a href="http://www.supermanpodcastnetwork.com/" target="_blank">Superman Podcast Network</a>!</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Supergirl TV Talk</a></p>
+<p>Proud member of <a href="http://dctvtalk.com/">DC TV Talk</a> and the <a href="http://www.supermanpodcastnetwork.com/" target="_blank">Superman Podcast Network</a>!</p>
+
+<p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Supergirl TV Talk</a></p>

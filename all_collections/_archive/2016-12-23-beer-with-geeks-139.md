@@ -15,4 +15,6 @@ audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893
 <p>We've all seen lots of Santas in movies and TV, but which ones are the most memorable? Tim and Frank talk it out. Merry Christmas and cheers!</p>
 
 <p><b>Beer of the Week: </b><br />
-Egg Nog!</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>
+Egg Nog!</p>
+
+<p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>

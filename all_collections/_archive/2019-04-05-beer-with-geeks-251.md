@@ -16,4 +16,14 @@ audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893
 
 <p><strong>Beers of the Week</strong><br />
 Revival Break Free Fanny Pale Ale<br />
-Ipswich Defrost Weizenbock Style Ale</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p><p>Links:</p><ul><li><a href="https://files.fireside.fm/file/fireside-uploads/images/a/af6e5adc-2f5e-4d17-8b13-86893849267f/sJKAyWxQ.jpeg" rel="nofollow" title="BwG Tournament of Aliens 2019 Bracket">BwG Tournament of Aliens 2019 Bracket</a></li></ul>
+Ipswich Defrost Weizenbock Style Ale</p>
+
+<p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>
+
+<p>Links:</p>
+
+<ul>
+
+<li><a href="https://files.fireside.fm/file/fireside-uploads/images/a/af6e5adc-2f5e-4d17-8b13-86893849267f/sJKAyWxQ.jpeg" rel="nofollow" title="BwG Tournament of Aliens 2019 Bracket">BwG Tournament of Aliens 2019 Bracket</a></li>
+
+</ul>

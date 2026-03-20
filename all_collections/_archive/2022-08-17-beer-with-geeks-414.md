@@ -20,4 +20,8 @@ N/A</p>
 <p>@TimothyPG13<br />
 @ScottDC27<br />
 <a href="http://www.thoughtbubbleaudio.com" rel="nofollow">www.thoughtbubbleaudio.com</a><br />
-<a href="http://www.patreon.com/thoughtbubbleaudio" rel="nofollow">www.patreon.com/thoughtbubbleaudio</a></p><p>Special Guest: Scott.</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>
+<a href="http://www.patreon.com/thoughtbubbleaudio" rel="nofollow">www.patreon.com/thoughtbubbleaudio</a></p>
+
+<p>Special Guest: Scott.</p>
+
+<p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>

@@ -14,4 +14,6 @@ audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893
 
 <p>Tim and Frank continue ramping up for Spider-Man's return to the big screen later this year with a chat about <i>Spider-Man 2</i>, Tobey Maguire's second outing as your friendly neighorhood Spider-Man. Cheers!</p>
 
-<p><b>Beer of the Week: </b><br />Left Hand Milk Stout Nitro<br />Hoegaarden Original White Ale</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>
+<p><b>Beer of the Week: </b><br />Left Hand Milk Stout Nitro<br />Hoegaarden Original White Ale</p>
+
+<p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>

@@ -16,4 +16,14 @@ audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893
 
 <p><strong>Beers of the Week</strong><br />
 Zero Gravity Green State Lager<br />
-Apponaug Brewing Lake Runner Pale Ale</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p><p>Links:</p><ul><li><a href="https://www.instagram.com/p/CYO82sQtQYd/?utm_medium=copy_link" rel="nofollow" title="IMDb on Instagram: “To celebrate #NationalScienceFictionDay, here are the highest rated sci-fi films of all time on IMDb. 🦾👾🚀 Which movies would you add to the…”">IMDb on Instagram: “To celebrate #NationalScienceFictionDay, here are the highest rated sci-fi films of all time on IMDb. 🦾👾🚀 Which movies would you add to the…”</a></li></ul>
+Apponaug Brewing Lake Runner Pale Ale</p>
+
+<p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>
+
+<p>Links:</p>
+
+<ul>
+
+<li><a href="https://www.instagram.com/p/CYO82sQtQYd/?utm_medium=copy_link" rel="nofollow" title="IMDb on Instagram: “To celebrate #NationalScienceFictionDay, here are the highest rated sci-fi films of all time on IMDb. 🦾👾🚀 Which movies would you add to the…”">IMDb on Instagram: “To celebrate #NationalScienceFictionDay, here are the highest rated sci-fi films of all time on IMDb. 🦾👾🚀 Which movies would you add to the…”</a></li>
+
+</ul>

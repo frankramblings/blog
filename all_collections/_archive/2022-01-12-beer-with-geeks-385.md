@@ -16,4 +16,14 @@ audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893
 
 <p><strong>Beers of the Week</strong><br />
 Proclamation Broze Oatmeal Milk Stout<br />
-Banded Brewing Pepperell Pils</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p><p>Links:</p><ul><li><a href="https://www.youtube.com/watch?v=mA5d66AnT7s" rel="nofollow" title="Arctic Police scene from Superman II the Richard Donner Cut REDUX fan edit - YouTube">Arctic Police scene from Superman II the Richard Donner Cut REDUX fan edit - YouTube</a></li></ul>
+Banded Brewing Pepperell Pils</p>
+
+<p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>
+
+<p>Links:</p>
+
+<ul>
+
+<li><a href="https://www.youtube.com/watch?v=mA5d66AnT7s" rel="nofollow" title="Arctic Police scene from Superman II the Richard Donner Cut REDUX fan edit - YouTube">Arctic Police scene from Superman II the Richard Donner Cut REDUX fan edit - YouTube</a></li>
+
+</ul>

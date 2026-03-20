@@ -14,4 +14,6 @@ audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893
 
 <p>San Diego Comic Con brought tons of exciting announcements and trailers, so Tim and Frank are all over it. This episode focuses mostly on the DC TV and movie announcements. Part 2 of 2. Cheers!</p>
 
-<p><b>Beers of the Week: </b><br />Harpoon UFO Big Squeeze Shandy<br />Dogfish Head Festina Pêche</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>
+<p><b>Beers of the Week: </b><br />Harpoon UFO Big Squeeze Shandy<br />Dogfish Head Festina Pêche</p>
+
+<p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>

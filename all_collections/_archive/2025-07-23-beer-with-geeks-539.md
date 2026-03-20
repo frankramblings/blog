@@ -16,4 +16,18 @@ audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893
 
 <p><strong>Beers of the Week</strong><br />
 Sam Adams Blueberry Lager<br />
-Lakefront Gluten-Free New Grist Pilsner-Style</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p><p>Links:</p><ul><li><a href="https://www.superhouseofel.com/posts/superman-celeveland-premiere" rel="nofollow" title="Live from Cleveland feat. Brian Michael Bendis">Live from Cleveland feat. Brian Michael Bendis</a></li><li><a href="https://www.supermanstatuecleveland.org/" rel="nofollow" title="Siegel & Shuster Society Tribute Plaza | Superman">Siegel & Shuster Society Tribute Plaza | Superman</a></li><li><a href="https://gvartwork.com/collections/super-cleveland" rel="nofollow" title="GV Art and Design | Birthplace Collection">GV Art and Design | Birthplace Collection</a></li></ul>
+Lakefront Gluten-Free New Grist Pilsner-Style</p>
+
+<p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>
+
+<p>Links:</p>
+
+<ul>
+
+<li><a href="https://www.superhouseofel.com/posts/superman-celeveland-premiere" rel="nofollow" title="Live from Cleveland feat. Brian Michael Bendis">Live from Cleveland feat. Brian Michael Bendis</a></li>
+
+<li><a href="https://www.supermanstatuecleveland.org/" rel="nofollow" title="Siegel & Shuster Society Tribute Plaza | Superman">Siegel & Shuster Society Tribute Plaza | Superman</a></li>
+
+<li><a href="https://gvartwork.com/collections/super-cleveland" rel="nofollow" title="GV Art and Design | Birthplace Collection">GV Art and Design | Birthplace Collection</a></li>
+
+</ul>

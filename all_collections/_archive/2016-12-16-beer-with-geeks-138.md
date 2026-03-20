@@ -15,4 +15,6 @@ audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893
 <p>Frank and Tim make their lists for Santa -- except their lists are full of toys they wish they had growing up in the 90s. Cheers!</p>
 
 <p><b>Beer of the Week: </b><br />
-Leinenkugel Ginger Shandy</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>
+Leinenkugel Ginger Shandy</p>
+
+<p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>

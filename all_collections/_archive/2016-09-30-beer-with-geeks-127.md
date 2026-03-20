@@ -14,4 +14,6 @@ audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893
 
 <p>Frank and Tim take a topic suggestion from listener @StJohnOfPetra and they cast their favorite superheroes as the crew of the Starship Enterprise. Who is the best captain? Who is the best red shirt? Listen and find out. Cheers!</p>
 
-<p><b>Beers of the Week: </b><br />Sam Adams Porch Rocker<br />Harpoon Flannel Friday</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>
+<p><b>Beers of the Week: </b><br />Sam Adams Porch Rocker<br />Harpoon Flannel Friday</p>
+
+<p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>

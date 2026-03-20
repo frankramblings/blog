@@ -18,4 +18,14 @@ audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893
 
 <p><strong>Beers of the Week</strong><br />
 Brooklyn Brewery Local 1 Ale<br />
-Polar Lemon Seltzer</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p><p>Links:</p><ul><li><a href="http://www.metropolispod.com/" rel="nofollow" title="Metropolis Podcast">Metropolis Podcast</a></li></ul>
+Polar Lemon Seltzer</p>
+
+<p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>
+
+<p>Links:</p>
+
+<ul>
+
+<li><a href="http://www.metropolispod.com/" rel="nofollow" title="Metropolis Podcast">Metropolis Podcast</a></li>
+
+</ul>

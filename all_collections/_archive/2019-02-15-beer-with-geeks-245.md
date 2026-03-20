@@ -15,4 +15,8 @@ audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893
 <p>Tim is joined by his fiancée Mary for a whimsical discussion of Netflix's "A Series of Unfortunate Events" and the Lemony Snicket books that inspired it. Cheers!</p>
 
 <p><strong>Drink of the Week</strong><br />
-Seltzer!</p><p>Special Guest: Mary.</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>
+Seltzer!</p>
+
+<p>Special Guest: Mary.</p>
+
+<p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>

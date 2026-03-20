@@ -13,4 +13,36 @@ original_url: "https://supergirltvtalk.fireside.fm/2x16"
 audio_url: "https://aphid.fireside.fm/d/1437767933/a7e375a6-6b1c-4fd0-b43d-ea2063feaac0/685c78df-d167-4cf3-a414-65f806cbf2cd.mp3"
 ---
 
-<p>The musical crossover is finally here! Tim and Frank reunite to talk Supergirl, The Flash, tap dancing, controlling royal families, and alien art heists. </p><p>Sponsored By:</p><ul><li><a href="http://DCBService.com" rel="nofollow">DCBService.com</a>: <a href="http://DCBService.com" rel="nofollow">Trade paperbacks from Marvel, DC, Image, Dark Horse, and more! Discounted up to 42% off. No shipping on orders over $50. Up to 50% off pre-order, mail order comics, trade paperbacks, and collectibles from DC, Marvel, Dark Horse, Image, Boom!, and more. Great customer service and flat rate US shipping.</a></li><li><a href="http://instocktrades.com" rel="nofollow">Instocktrades.com</a>: <a href="http://instocktrades.com" rel="nofollow">Trade paperbacks from Marvel, DC, Image, Dark Horse, and more! Discounted up to 42% off. No shipping on orders over $50.</a></li><li><a href="http://supergirl.tv" rel="nofollow">Supergirl.tv</a>: <a href="http://supergirl.tv" rel="nofollow">Your one stop website for all the latest Supergirl news, rumors, spoilers, video and media. By fans, for fans.</a></li></ul><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Supergirl TV Talk</a></p><p>Links:</p><ul><li><a href="http://www.superfanconventions.com/" rel="nofollow" title="SuperFan Con">SuperFan Con</a> — Use code sgtvtalk10 for 10% off passes $100USD or higher. Valid now until Aug 31, 2017 (Online Sales only).</li><li><a href="http://www.starkvillelabs.com/" rel="nofollow" title="Supergirl and The Flash - Starkville Super Friends">Supergirl and The Flash - Starkville Super Friends</a></li><li><a href="http://www.podasterynetwork.com/flash-tv-talk-flash-podcast/" rel="nofollow" title="Flash TV Talk - The #1 Rated Flash Podcast">Flash TV Talk - The #1 Rated Flash Podcast</a></li><li><a href="http://www.supergirltvtalk.com/0x01" rel="nofollow" title="0x01: Supergirl vs. Music Meister - Supergirl TV Talk">0x01: Supergirl vs. Music Meister - Supergirl TV Talk</a> — Hosts Tim and Frank kick off this premiere episode with the latest news, a few predictions, and of course some wild speculation.</li><li><a href="http://www.instocktrades.com/TP/Marvel/WINTER-SOLDIER-BY-BRUBAKER-COMPLETE-COLLECTION-TP/JUN140731" rel="nofollow" title="Winter Soldier Complete Collection - InStockTrades">Winter Soldier Complete Collection - InStockTrades</a> — He's been Bucky and Captain America - now, James Barnes returns to the role of the Winter Soldier! </li><li><a href="http://www.instocktrades.com/TP/Marvel/IMMORTAL-IRON-FIST-COMPLETE-COLLECTION-TP-VOL-01/SEP130808" rel="nofollow" title="Immortal Iron Fist Vol 01 - InStockTrades">Immortal Iron Fist Vol 01 - InStockTrades</a> — Orphaned as a child and raised in the lost city of K'un Lun, Danny Rand returned to America as the mystical martial artist Iron Fist - but all his kung-fu skills can't help him find his place in the modern world.</li></ul>
+<p>The musical crossover is finally here! Tim and Frank reunite to talk Supergirl, The Flash, tap dancing, controlling royal families, and alien art heists. </p>
+
+<p>Sponsored By:</p>
+
+<ul>
+
+<li><a href="http://DCBService.com" rel="nofollow">DCBService.com</a>: <a href="http://DCBService.com" rel="nofollow">Trade paperbacks from Marvel, DC, Image, Dark Horse, and more! Discounted up to 42% off. No shipping on orders over $50. Up to 50% off pre-order, mail order comics, trade paperbacks, and collectibles from DC, Marvel, Dark Horse, Image, Boom!, and more. Great customer service and flat rate US shipping.</a></li>
+
+<li><a href="http://instocktrades.com" rel="nofollow">Instocktrades.com</a>: <a href="http://instocktrades.com" rel="nofollow">Trade paperbacks from Marvel, DC, Image, Dark Horse, and more! Discounted up to 42% off. No shipping on orders over $50.</a></li>
+
+<li><a href="http://supergirl.tv" rel="nofollow">Supergirl.tv</a>: <a href="http://supergirl.tv" rel="nofollow">Your one stop website for all the latest Supergirl news, rumors, spoilers, video and media. By fans, for fans.</a></li>
+
+</ul>
+
+<p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Supergirl TV Talk</a></p>
+
+<p>Links:</p>
+
+<ul>
+
+<li><a href="http://www.superfanconventions.com/" rel="nofollow" title="SuperFan Con">SuperFan Con</a> — Use code sgtvtalk10 for 10% off passes $100USD or higher. Valid now until Aug 31, 2017 (Online Sales only).</li>
+
+<li><a href="http://www.starkvillelabs.com/" rel="nofollow" title="Supergirl and The Flash - Starkville Super Friends">Supergirl and The Flash - Starkville Super Friends</a></li>
+
+<li><a href="http://www.podasterynetwork.com/flash-tv-talk-flash-podcast/" rel="nofollow" title="Flash TV Talk - The #1 Rated Flash Podcast">Flash TV Talk - The #1 Rated Flash Podcast</a></li>
+
+<li><a href="http://www.supergirltvtalk.com/0x01" rel="nofollow" title="0x01: Supergirl vs. Music Meister - Supergirl TV Talk">0x01: Supergirl vs. Music Meister - Supergirl TV Talk</a> — Hosts Tim and Frank kick off this premiere episode with the latest news, a few predictions, and of course some wild speculation.</li>
+
+<li><a href="http://www.instocktrades.com/TP/Marvel/WINTER-SOLDIER-BY-BRUBAKER-COMPLETE-COLLECTION-TP/JUN140731" rel="nofollow" title="Winter Soldier Complete Collection - InStockTrades">Winter Soldier Complete Collection - InStockTrades</a> — He's been Bucky and Captain America - now, James Barnes returns to the role of the Winter Soldier! </li>
+
+<li><a href="http://www.instocktrades.com/TP/Marvel/IMMORTAL-IRON-FIST-COMPLETE-COLLECTION-TP-VOL-01/SEP130808" rel="nofollow" title="Immortal Iron Fist Vol 01 - InStockTrades">Immortal Iron Fist Vol 01 - InStockTrades</a> — Orphaned as a child and raised in the lost city of K'un Lun, Danny Rand returned to America as the mystical martial artist Iron Fist - but all his kung-fu skills can't help him find his place in the modern world.</li>
+
+</ul>

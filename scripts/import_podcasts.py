@@ -32,10 +32,22 @@ def slugify(text):
     return text.strip('-')
 
 def clean_html(text):
-    """Decode HTML entities while preserving tags (for display in Jekyll)."""
+    """Decode HTML entities and normalize block element spacing for Kramdown.
+
+    Kramdown only passes block-level HTML through untouched when each element
+    starts at the beginning of a line with a blank line before it. Without this,
+    tags like <ul> that immediately follow </p> on the same line get escaped as
+    raw text instead of being rendered as HTML.
+    """
     if not text:
         return ""
     text = html.unescape(text)
+    # Ensure each closing block tag is followed by a blank line so the next
+    # opening block tag starts on its own line (Kramdown requirement).
+    block = r'(?:p|ul|ol|li|div|h[1-6]|blockquote|section|article|header|footer)'
+    text = re.sub(rf'(</({block})>)\s*', r'\1\n\n', text, flags=re.IGNORECASE)
+    # Also ensure opening block tags start on their own line.
+    text = re.sub(rf'\s*(<({block})[\s>])', r'\n\n\1', text, flags=re.IGNORECASE)
     return text.strip()
 
 def detect_season_episode(title):

@@ -13,4 +13,6 @@ audio_url: "https://aphid.fireside.fm/d/1437767933/a7e375a6-6b1c-4fd0-b43d-ea206
 
 <p>Audio from Frank and Tim's Crisis on Infinite Earths live finale aftershow!</p>
 
-<p>Watch the full video version of this episode here: <a href="https://youtu.be/Cl2Xsf3zJXI" rel="nofollow">https://youtu.be/Cl2Xsf3zJXI</a></p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Supergirl TV Talk</a></p>
+<p>Watch the full video version of this episode here: <a href="https://youtu.be/Cl2Xsf3zJXI" rel="nofollow">https://youtu.be/Cl2Xsf3zJXI</a></p>
+
+<p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Supergirl TV Talk</a></p>

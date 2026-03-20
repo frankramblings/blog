@@ -15,4 +15,22 @@ audio_url: "https://aphid.fireside.fm/d/1437767933/a7e375a6-6b1c-4fd0-b43d-ea206
 
 <p>Tim and Frank cover a truly heartfelt and heartbreaking episode. Everything form the end of Sanvers to Lena's fall from grace, and another preview of Sam's destiny.</p>
 
-<p>Proud member of the <a href="http://www.thoughtbubbleaudio.com">Thought Bubble Audio Network</a> and <a href="http://dctvtalk.com">DC TV Talk</a>!</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Supergirl TV Talk</a></p><p>Links:</p><ul><li><a href="http://www.smodcast.com/channel/fatmanonbatman?audio=187" rel="nofollow" title="Fatman on Batman — SModcast">Fatman on Batman — SModcast</a></li><li><a href="https://www.patreon.com/thoughtbubbleaudio" rel="nofollow" title="Support us on Patreon!">Support us on Patreon!</a> — We'll send you virtual hugs!</li><li><a href="http://www.podasterynetwork.com/2017/11/04/4x04-elongated-journey-into-night/" rel="nofollow" title="4X04 Elongated Journey Into Night – Podastery">4X04 Elongated Journey Into Night – Podastery</a></li><li><a href="https://supergirl.tv/reign-is-revealed" rel="nofollow" title="[SPOILER] Costume is Revealed">[SPOILER] Costume is Revealed</a></li><li><a href="https://supergirl.tv/brainiac-5-is-cast" rel="nofollow" title="[SPOILER] is Cast">[SPOILER] is Cast</a></li></ul>
+<p>Proud member of the <a href="http://www.thoughtbubbleaudio.com">Thought Bubble Audio Network</a> and <a href="http://dctvtalk.com">DC TV Talk</a>!</p>
+
+<p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Supergirl TV Talk</a></p>
+
+<p>Links:</p>
+
+<ul>
+
+<li><a href="http://www.smodcast.com/channel/fatmanonbatman?audio=187" rel="nofollow" title="Fatman on Batman — SModcast">Fatman on Batman — SModcast</a></li>
+
+<li><a href="https://www.patreon.com/thoughtbubbleaudio" rel="nofollow" title="Support us on Patreon!">Support us on Patreon!</a> — We'll send you virtual hugs!</li>
+
+<li><a href="http://www.podasterynetwork.com/2017/11/04/4x04-elongated-journey-into-night/" rel="nofollow" title="4X04 Elongated Journey Into Night – Podastery">4X04 Elongated Journey Into Night – Podastery</a></li>
+
+<li><a href="https://supergirl.tv/reign-is-revealed" rel="nofollow" title="[SPOILER] Costume is Revealed">[SPOILER] Costume is Revealed</a></li>
+
+<li><a href="https://supergirl.tv/brainiac-5-is-cast" rel="nofollow" title="[SPOILER] is Cast">[SPOILER] is Cast</a></li>
+
+</ul>

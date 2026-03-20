@@ -16,4 +16,14 @@ audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893
 
 <p><strong>Beers of the Week</strong><br />
 Left Hand Nitro Milk Stout<br />
-Northwoods Brewing Company Landlocks & Brookies</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p><p>Links:</p><ul><li><a href="https://www.starwars.com/news/loving-the-hobbit-building-the-clone-wars" rel="nofollow" title="Loving The Hobbit, Building The Clone Wars | StarWars.com">Loving The Hobbit, Building The Clone Wars | StarWars.com</a></li></ul>
+Northwoods Brewing Company Landlocks & Brookies</p>
+
+<p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>
+
+<p>Links:</p>
+
+<ul>
+
+<li><a href="https://www.starwars.com/news/loving-the-hobbit-building-the-clone-wars" rel="nofollow" title="Loving The Hobbit, Building The Clone Wars | StarWars.com">Loving The Hobbit, Building The Clone Wars | StarWars.com</a></li>
+
+</ul>

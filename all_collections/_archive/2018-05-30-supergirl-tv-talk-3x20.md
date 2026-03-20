@@ -13,4 +13,8 @@ original_url: "https://supergirltvtalk.fireside.fm/3x20"
 audio_url: "https://aphid.fireside.fm/d/1437767933/a7e375a6-6b1c-4fd0-b43d-ea2063feaac0/35b028ef-7732-4b49-ab9a-129607e40b1c.mp3"
 ---
 
-<p>Move over Frank, Scott is here and he has things to say! Tim & Scott from The Suicide Squadcast breakdown this week's episode, 3x20, of Supergirl!</p><p>Special Guest: Scott.</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Supergirl TV Talk</a></p>
+<p>Move over Frank, Scott is here and he has things to say! Tim & Scott from The Suicide Squadcast breakdown this week's episode, 3x20, of Supergirl!</p>
+
+<p>Special Guest: Scott.</p>
+
+<p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Supergirl TV Talk</a></p>

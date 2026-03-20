@@ -16,4 +16,16 @@ audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893
 
 <p><strong>Beers of the Week</strong><br />
 Tröegs Troegenator<br />
-Southern Tier Pumking Nitro</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p><p>Links:</p><ul><li><a href="https://www.youtube.com/watch?v=nlnrOr2STaE&feature=youtu.be" rel="nofollow" title="Star Wars: The Rise of Skywalker | Final Trailer - YouTube">Star Wars: The Rise of Skywalker | Final Trailer - YouTube</a></li><li><a href="https://twitter.com/starwars/status/1186460828087701505?s=21" rel="nofollow" title="Star Wars on Twitter: "Check out the new poster for @StarWars: #TheRiseOfSkywalker. In theaters December 20. Get your tickets now: https://t.co/MLbzRXrCJb https://t.co/4jwGJOaFZi" / Twitter">Star Wars on Twitter: "Check out the new poster for @StarWars: #TheRiseOfSkywalker. In theaters December 20. Get your tickets now: https://t.co/MLbzRXrCJb https://t.co/4jwGJOaFZi" / Twitter</a></li></ul>
+Southern Tier Pumking Nitro</p>
+
+<p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>
+
+<p>Links:</p>
+
+<ul>
+
+<li><a href="https://www.youtube.com/watch?v=nlnrOr2STaE&feature=youtu.be" rel="nofollow" title="Star Wars: The Rise of Skywalker | Final Trailer - YouTube">Star Wars: The Rise of Skywalker | Final Trailer - YouTube</a></li>
+
+<li><a href="https://twitter.com/starwars/status/1186460828087701505?s=21" rel="nofollow" title="Star Wars on Twitter: "Check out the new poster for @StarWars: #TheRiseOfSkywalker. In theaters December 20. Get your tickets now: https://t.co/MLbzRXrCJb https://t.co/4jwGJOaFZi" / Twitter">Star Wars on Twitter: "Check out the new poster for @StarWars: #TheRiseOfSkywalker. In theaters December 20. Get your tickets now: https://t.co/MLbzRXrCJb https://t.co/4jwGJOaFZi" / Twitter</a></li>
+
+</ul>

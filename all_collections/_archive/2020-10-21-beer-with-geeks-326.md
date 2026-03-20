@@ -16,4 +16,14 @@ audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893
 
 <p><strong>Beers of the Week</strong><br />
 Southern Tier Pumking Imperial Pumpkin Ale<br />
-Shovel Town Brewery Smokey Maple Brown Ale</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p><p>Links:</p><ul><li><a href="https://www.pomegranate.com/k364.html" rel="nofollow" title="It's Alive! A Quiz Deck of Scary Movies">It's Alive! A Quiz Deck of Scary Movies</a></li></ul>
+Shovel Town Brewery Smokey Maple Brown Ale</p>
+
+<p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>
+
+<p>Links:</p>
+
+<ul>
+
+<li><a href="https://www.pomegranate.com/k364.html" rel="nofollow" title="It's Alive! A Quiz Deck of Scary Movies">It's Alive! A Quiz Deck of Scary Movies</a></li>
+
+</ul>

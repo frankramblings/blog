@@ -15,4 +15,6 @@ audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893
 <p>It's a magical episode as Frank and Tim list their all-time favorite wizards from TV, film, and books. Cheers!</p>
 
 <p><b>Beers of the Week: </b><br />
-Leffe Blonde Ale</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>
+Leffe Blonde Ale</p>
+
+<p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>

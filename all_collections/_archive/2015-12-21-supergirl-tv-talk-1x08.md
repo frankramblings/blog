@@ -15,4 +15,8 @@ audio_url: "https://aphid.fireside.fm/d/1437767933/a7e375a6-6b1c-4fd0-b43d-ea206
 
 <p>This week on Supergirl TV Talk, Frank is absent #FindFrank but Tim has recruited consument Supergirl fan, Palmer! Listen and enjoy! Be sure to review us on various podcast apps, e-mail us a <a href="mailto:supergirltvtalk@gmail.com" rel="nofollow">supergirltvtalk@gmail.com</a> or tweet at us @TVSupergirl. Up, up and away!</p>
 
-<p>Proud member of <a href="http://dctvtalk.com/">DC TV Talk</a> and the <a href="http://www.supermanpodcastnetwork.com/" target="_blank">Superman Podcast Network</a>!</p><p>Special Guest: Palmer.</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Supergirl TV Talk</a></p>
+<p>Proud member of <a href="http://dctvtalk.com/">DC TV Talk</a> and the <a href="http://www.supermanpodcastnetwork.com/" target="_blank">Superman Podcast Network</a>!</p>
+
+<p>Special Guest: Palmer.</p>
+
+<p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Supergirl TV Talk</a></p>

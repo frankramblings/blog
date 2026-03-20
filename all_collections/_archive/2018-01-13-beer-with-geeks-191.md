@@ -14,4 +14,8 @@ audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893
 
 <p>This episode originally aired as a Patreon-only exclusive at <a href="https://www.patreon.com/thoughtbubbleaudio" rel="nofollow">patreon.com/thoughtbubbleaudio</a></p>
 
-<p>Tim and Palmer bring you a special bonus just for Patrons. Spinning out of the recent <a href="http://academyrewind.com/" rel="nofollow">Academy Rewind</a> episode on <a href="http://www.academyrewind.com/13" rel="nofollow">1978's Best Picture</a> nominees, the guys are talking all about Star Wars. Why does Palmer have such a complex relationship with the franchise? Tune in to find out.</p><p>Special Guest: Palmer.</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>
+<p>Tim and Palmer bring you a special bonus just for Patrons. Spinning out of the recent <a href="http://academyrewind.com/" rel="nofollow">Academy Rewind</a> episode on <a href="http://www.academyrewind.com/13" rel="nofollow">1978's Best Picture</a> nominees, the guys are talking all about Star Wars. Why does Palmer have such a complex relationship with the franchise? Tune in to find out.</p>
+
+<p>Special Guest: Palmer.</p>
+
+<p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>

@@ -16,4 +16,18 @@ audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893
 
 <p><strong>Beers of the Week</strong><br />
 Chapel & Main Ponyhof Pilsner<br />
-Sam Adams Alpine Lager</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p><p>Links:</p><ul><li><a href="https://supergirltvtalk.fireside.fm/0x06" rel="nofollow" title="Supergirl TV Talk: 0x06: Headcanon">Supergirl TV Talk: 0x06: Headcanon</a> — Frank & Tim's 2015 review of "Supergirl"</li><li><a href="https://supergirltvtalk.fireside.fm/0x12" rel="nofollow" title="Supergirl TV Talk: 0x12: EXCLUSIVE Helen Slater Interview">Supergirl TV Talk: 0x12: EXCLUSIVE Helen Slater Interview</a> — Frank & Tim interview Supergirl actress Helen Slater.</li><li><a href="https://www.youtube.com/watch?v=M6fhyw4alrw" rel="nofollow" title="Look Up in the Sky! | The Amazing Story of Superman - YouTube">Look Up in the Sky! | The Amazing Story of Superman - YouTube</a></li></ul>
+Sam Adams Alpine Lager</p>
+
+<p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>
+
+<p>Links:</p>
+
+<ul>
+
+<li><a href="https://supergirltvtalk.fireside.fm/0x06" rel="nofollow" title="Supergirl TV Talk: 0x06: Headcanon">Supergirl TV Talk: 0x06: Headcanon</a> — Frank & Tim's 2015 review of "Supergirl"</li>
+
+<li><a href="https://supergirltvtalk.fireside.fm/0x12" rel="nofollow" title="Supergirl TV Talk: 0x12: EXCLUSIVE Helen Slater Interview">Supergirl TV Talk: 0x12: EXCLUSIVE Helen Slater Interview</a> — Frank & Tim interview Supergirl actress Helen Slater.</li>
+
+<li><a href="https://www.youtube.com/watch?v=M6fhyw4alrw" rel="nofollow" title="Look Up in the Sky! | The Amazing Story of Superman - YouTube">Look Up in the Sky! | The Amazing Story of Superman - YouTube</a></li>
+
+</ul>

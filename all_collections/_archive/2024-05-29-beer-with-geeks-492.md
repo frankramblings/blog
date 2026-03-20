@@ -16,4 +16,14 @@ audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893
 
 <p><strong>Beers of the Week</strong><br />
 Prairie Artisan Ale Watermelon Girlfriend Sour Ale<br />
-Earth Eagle Piscataqua American Lager</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p><p>Links:</p><ul><li><a href="https://youtu.be/rh-5UhwcBW0?si=Vt1DxxzdBBQsOPKO" rel="nofollow" title="Star Wars From Puppets To Pixels: Digital Characters In Episode II Documentary">Star Wars From Puppets To Pixels: Digital Characters In Episode II Documentary</a> — Documentary from the Episode II DVD bonus disc.</li></ul>
+Earth Eagle Piscataqua American Lager</p>
+
+<p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>
+
+<p>Links:</p>
+
+<ul>
+
+<li><a href="https://youtu.be/rh-5UhwcBW0?si=Vt1DxxzdBBQsOPKO" rel="nofollow" title="Star Wars From Puppets To Pixels: Digital Characters In Episode II Documentary">Star Wars From Puppets To Pixels: Digital Characters In Episode II Documentary</a> — Documentary from the Episode II DVD bonus disc.</li>
+
+</ul>

@@ -16,4 +16,16 @@ audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893
 
 <p><strong>Beers of the Week</strong><br />
 Zero Gravity Green State<br />
-Notch Standard Czech Pils</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p><p>Links:</p><ul><li><a href="https://en.wikipedia.org/wiki/Star_Trek:_Picard" rel="nofollow" title="Star Trek: Picard - Wikipedia">Star Trek: Picard - Wikipedia</a></li><li><a href="https://picard.fireside.fm/" rel="nofollow" title="The Picard">The Picard</a></li></ul>
+Notch Standard Czech Pils</p>
+
+<p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>
+
+<p>Links:</p>
+
+<ul>
+
+<li><a href="https://en.wikipedia.org/wiki/Star_Trek:_Picard" rel="nofollow" title="Star Trek: Picard - Wikipedia">Star Trek: Picard - Wikipedia</a></li>
+
+<li><a href="https://picard.fireside.fm/" rel="nofollow" title="The Picard">The Picard</a></li>
+
+</ul>

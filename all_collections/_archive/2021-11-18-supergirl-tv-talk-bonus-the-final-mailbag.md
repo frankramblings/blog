@@ -13,4 +13,6 @@ audio_url: "https://aphid.fireside.fm/d/1437767933/a7e375a6-6b1c-4fd0-b43d-ea206
 
 <p>It's the final mailbag! In this epilogue, Tim unboxes a real-life mailbag surprise from Frank.</p>
 
-<p><em>Originally aired on <a href="https://www.beerwithgeeks.com/378" rel="nofollow">Beer With Geeks Episode 378</a>.</em></p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Supergirl TV Talk</a></p>
+<p><em>Originally aired on <a href="https://www.beerwithgeeks.com/378" rel="nofollow">Beer With Geeks Episode 378</a>.</em></p>
+
+<p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Supergirl TV Talk</a></p>

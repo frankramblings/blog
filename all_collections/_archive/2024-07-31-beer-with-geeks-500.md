@@ -16,4 +16,8 @@ audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893
 
 <p><strong>Beers of the Week</strong><br />
 Maine Beer Co. Thank You 2024 IPA<br />
-Spoetzl Shiner Bock</p><p>Special Guests: Andrew, Brent Clark, Damon Warnock, Dan Swartz, Derek Russell, Scott, and Vactor.</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>
+Spoetzl Shiner Bock</p>
+
+<p>Special Guests: Andrew, Brent Clark, Damon Warnock, Dan Swartz, Derek Russell, Scott, and Vactor.</p>
+
+<p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>

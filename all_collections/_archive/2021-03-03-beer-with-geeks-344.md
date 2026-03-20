@@ -16,4 +16,16 @@ audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893
 
 <p><strong>Beers of the Week</strong><br />
 Masthead Coffee Stout<br />
-Von Trapp Berliner Weisse</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p><p>Links:</p><ul><li><a href="https://en.wikipedia.org/wiki/Who_Framed_Roger_Rabbit" rel="nofollow" title="Who Framed Roger Rabbit - Wikipedia">Who Framed Roger Rabbit - Wikipedia</a></li><li><a href="https://en.wikipedia.org/wiki/Who_Framed_Roger_Rabbit_(1989_video_game)" rel="nofollow" title="Who Framed Roger Rabbit (1989 video game) - Wikipedia">Who Framed Roger Rabbit (1989 video game) - Wikipedia</a></li></ul>
+Von Trapp Berliner Weisse</p>
+
+<p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>
+
+<p>Links:</p>
+
+<ul>
+
+<li><a href="https://en.wikipedia.org/wiki/Who_Framed_Roger_Rabbit" rel="nofollow" title="Who Framed Roger Rabbit - Wikipedia">Who Framed Roger Rabbit - Wikipedia</a></li>
+
+<li><a href="https://en.wikipedia.org/wiki/Who_Framed_Roger_Rabbit_(1989_video_game)" rel="nofollow" title="Who Framed Roger Rabbit (1989 video game) - Wikipedia">Who Framed Roger Rabbit (1989 video game) - Wikipedia</a></li>
+
+</ul>

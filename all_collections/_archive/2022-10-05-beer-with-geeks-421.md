@@ -16,4 +16,14 @@ audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893
 
 <p><strong>Drinks of the Week</strong><br />
 Definitive Brewing Contee Kölsch-Style Ale<br />
-Dogadan Blueberry Tea</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p><p>Links:</p><ul><li><a href="https://www.hulu.com/series/reservation-dogs-5a310c23-e2db-4c9f-a66c-27c2fee43d92" rel="nofollow" title="Reservation Dogs on Hulu">Reservation Dogs on Hulu</a></li></ul>
+Dogadan Blueberry Tea</p>
+
+<p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>
+
+<p>Links:</p>
+
+<ul>
+
+<li><a href="https://www.hulu.com/series/reservation-dogs-5a310c23-e2db-4c9f-a66c-27c2fee43d92" rel="nofollow" title="Reservation Dogs on Hulu">Reservation Dogs on Hulu</a></li>
+
+</ul>

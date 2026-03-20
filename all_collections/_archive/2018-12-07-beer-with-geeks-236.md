@@ -16,4 +16,14 @@ audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893
 
 <p><strong>Beers of the Week</strong><br />
 Omission Gluten-Free Lager<br />
-New Belgium Voodoo Ranger Imperial IPA</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p><p>Links:</p><ul><li><a href="http://www.maximumfun.org/shows/judge-john-hodgman" rel="nofollow" title="Judge John Hodgman | Maximum Fun">Judge John Hodgman | Maximum Fun</a></li></ul>
+New Belgium Voodoo Ranger Imperial IPA</p>
+
+<p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>
+
+<p>Links:</p>
+
+<ul>
+
+<li><a href="http://www.maximumfun.org/shows/judge-john-hodgman" rel="nofollow" title="Judge John Hodgman | Maximum Fun">Judge John Hodgman | Maximum Fun</a></li>
+
+</ul>

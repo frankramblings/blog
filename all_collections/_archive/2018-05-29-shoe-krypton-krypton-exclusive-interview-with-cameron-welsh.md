@@ -11,5 +11,10 @@ original_url: "https://www.supermantvtalk.com/krypton-cameron-welsh"
 audio_url: "https://aphid.fireside.fm/d/1437767933/ca06e266-f5ac-4159-baf5-35ad203e8279/44e04d9e-99ee-48ab-8ee0-b6118f6426d7.mp3"
 ---
 
-<pre><code>    <p>&quot;Krypton&quot; executive producer, writer and showrunner Cameron Welsh sits down with the House of El for a look back at how season one of the Syfy series came to fruition and what season two holds.</p><p>Special Guest: Cameron Welsh.</p>
+<pre><code>
+
+<p>&quot;Krypton&quot; executive producer, writer and showrunner Cameron Welsh sits down with the House of El for a look back at how season one of the Syfy series came to fruition and what season two holds.</p>
+
+<p>Special Guest: Cameron Welsh.</p>
+
 </code></pre>

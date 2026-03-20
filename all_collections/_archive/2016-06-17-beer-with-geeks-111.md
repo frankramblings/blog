@@ -14,4 +14,6 @@ audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893
 
 <p>Tim and Frank are back and continue their recap of DC TV shows with Arrow season 4 and DC's Legends of Tomorrow season 1. Cheers!</p>
 
-<p><b>Beers of the Week: </b><br />Sam Adams Porch Rocker <br />Narragansett Del's Shandy</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>
+<p><b>Beers of the Week: </b><br />Sam Adams Porch Rocker <br />Narragansett Del's Shandy</p>
+
+<p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>

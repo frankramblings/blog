@@ -15,4 +15,6 @@ audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893
 <p>Tim and Frank discuss their favorite comic book movie adaptations, but with one important rule: no Marvel or DC. What will they come up with? Listen and find out. Cheers!</p>
 
 <p><b>Beer of the Week</b><br />
-Sam Adams Porch Rocker</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>
+Sam Adams Porch Rocker</p>
+
+<p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>

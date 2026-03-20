@@ -16,4 +16,14 @@ audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893
 
 <p><strong>Beers of the Week</strong><br />
 Sam Adams Summer Ale<br />
-Switchback Ale</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p><p>Links:</p><ul><li><a href="https://www.beerwithgeeks.com/102" rel="nofollow" title="Beer With Geeks Episode 102: Lesbian Lizard Lady">Beer With Geeks Episode 102: Lesbian Lizard Lady</a> — It's Frank's turn to change Tim's mind on another edition of Hit Me With Your Best Shot! This time around, the guys talk Doctor Who. Allons-y, Geronimo, and Cheers!</li></ul>
+Switchback Ale</p>
+
+<p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>
+
+<p>Links:</p>
+
+<ul>
+
+<li><a href="https://www.beerwithgeeks.com/102" rel="nofollow" title="Beer With Geeks Episode 102: Lesbian Lizard Lady">Beer With Geeks Episode 102: Lesbian Lizard Lady</a> — It's Frank's turn to change Tim's mind on another edition of Hit Me With Your Best Shot! This time around, the guys talk Doctor Who. Allons-y, Geronimo, and Cheers!</li>
+
+</ul>

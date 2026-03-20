@@ -15,4 +15,14 @@ audio_url: "https://aphid.fireside.fm/d/1437767933/a7e375a6-6b1c-4fd0-b43d-ea206
 
 <p>Tim and Frank have LOTS of thoughts on the mid-season finale, and they're here to bring them to you. Reign, Lena and James, and so much more to cover!<br />
 <br /><br />
-Proud member of the <a href="http://www.thoughtbubbleaudio.com">Thought Bubble Audio Network</a> and <a href="http://dctvtalk.com">DC TV Talk</a>!</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Supergirl TV Talk</a></p><p>Links:</p><ul><li><a href="https://www.amazon.com/dp/B00I3OIG9M/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1" rel="nofollow" title="Amazon.com: The Legion of Super-Heroes: The Great Darkness Saga">Amazon.com: The Legion of Super-Heroes: The Great Darkness Saga</a></li></ul>
+Proud member of the <a href="http://www.thoughtbubbleaudio.com">Thought Bubble Audio Network</a> and <a href="http://dctvtalk.com">DC TV Talk</a>!</p>
+
+<p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Supergirl TV Talk</a></p>
+
+<p>Links:</p>
+
+<ul>
+
+<li><a href="https://www.amazon.com/dp/B00I3OIG9M/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1" rel="nofollow" title="Amazon.com: The Legion of Super-Heroes: The Great Darkness Saga">Amazon.com: The Legion of Super-Heroes: The Great Darkness Saga</a></li>
+
+</ul>

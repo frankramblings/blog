@@ -16,4 +16,14 @@ audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893
 
 <p><strong>Beers Drinks of the Week</strong><br />
 Alchemy Brewing Heady Topper<br />
-Von Trapp Berlinerweisse</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p><p>Links:</p><ul><li><a href="https://www.thegospelaccordingtolucas.com/" rel="nofollow" title="The Gospel According to Lucas: A Star Wars Bible Study Podcast">The Gospel According to Lucas: A Star Wars Bible Study Podcast</a></li></ul>
+Von Trapp Berlinerweisse</p>
+
+<p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>
+
+<p>Links:</p>
+
+<ul>
+
+<li><a href="https://www.thegospelaccordingtolucas.com/" rel="nofollow" title="The Gospel According to Lucas: A Star Wars Bible Study Podcast">The Gospel According to Lucas: A Star Wars Bible Study Podcast</a></li>
+
+</ul>

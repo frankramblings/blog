@@ -16,4 +16,6 @@ audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893
 
 <p><b>Beers of the Week</b><br />
 Heavy Seas Winter Storm Imperial ESB<br />
-Heavy Seas Loose Cannon Hop³ IPA</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>
+Heavy Seas Loose Cannon Hop³ IPA</p>
+
+<p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>

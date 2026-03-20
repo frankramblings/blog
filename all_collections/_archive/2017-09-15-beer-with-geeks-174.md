@@ -18,4 +18,16 @@ audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893
 Switchback Ale<br />
 St. Bernardus Abt 12 Abbey Ale</p>
 
-<p>Proud member of the <a href="http://www.thoughtbubbleaudio.com">Thought Bubble Audio Network</a>!</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p><p>Links:</p><ul><li><a href="https://www.youtube.com/watch?v=J6XmyduTW4s" rel="nofollow" title="My Favorite Movie (Star Trek vs. Star Wars) | YouTube">My Favorite Movie (Star Trek vs. Star Wars) | YouTube</a></li><li><a href="http://www.imdb.com/name/nm0005086/" rel="nofollow" title="Kathleen Kennedy | IMDB">Kathleen Kennedy | IMDB</a></li></ul>
+<p>Proud member of the <a href="http://www.thoughtbubbleaudio.com">Thought Bubble Audio Network</a>!</p>
+
+<p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>
+
+<p>Links:</p>
+
+<ul>
+
+<li><a href="https://www.youtube.com/watch?v=J6XmyduTW4s" rel="nofollow" title="My Favorite Movie (Star Trek vs. Star Wars) | YouTube">My Favorite Movie (Star Trek vs. Star Wars) | YouTube</a></li>
+
+<li><a href="http://www.imdb.com/name/nm0005086/" rel="nofollow" title="Kathleen Kennedy | IMDB">Kathleen Kennedy | IMDB</a></li>
+
+</ul>

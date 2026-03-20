@@ -26,4 +26,12 @@ audio_url: "https://aphid.fireside.fm/d/1437767933/eb8535d6-5f60-4bb6-bd97-6145f
 
 <p>🔵Twitter: <a href="https://twitter.com/GospelofLucas" rel="nofollow">https://twitter.com/GospelofLucas</a><br />
 🟣Instagram: <a href="https://instagram.com/GospelofLucas" rel="nofollow">https://instagram.com/GospelofLucas</a><br />
-🔴YouTube: <a href="https://www.youtube.com/channel/UCwbNFWlsFO0YGokuf1Tb6MA" rel="nofollow">https://www.youtube.com/channel/UCwbNFWlsFO0YGokuf1Tb6MA</a></p><p>Links:</p><ul><li><a href="https://bible.usccb.org/bible/readings/120620.cfm" rel="nofollow" title="Readings: Second Sunday of Advent | USCCB">Readings: Second Sunday of Advent | USCCB</a></li></ul>
+🔴YouTube: <a href="https://www.youtube.com/channel/UCwbNFWlsFO0YGokuf1Tb6MA" rel="nofollow">https://www.youtube.com/channel/UCwbNFWlsFO0YGokuf1Tb6MA</a></p>
+
+<p>Links:</p>
+
+<ul>
+
+<li><a href="https://bible.usccb.org/bible/readings/120620.cfm" rel="nofollow" title="Readings: Second Sunday of Advent | USCCB">Readings: Second Sunday of Advent | USCCB</a></li>
+
+</ul>

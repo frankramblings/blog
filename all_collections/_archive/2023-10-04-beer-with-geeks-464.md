@@ -16,4 +16,16 @@ audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893
 
 <p><strong>Beers of the Week</strong><br />
 Jefferson's Whiskey<br />
-Modelo Cerveza Especial</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p><p>Links:</p><ul><li><a href="https://www.amazon.com/Mistborn-Final-Empire-Book-No/dp/0765350386" rel="nofollow" title="Mistborn: The Final Empire (Book No. 1): Sanderson, Brandon: Amazon.com: Books">Mistborn: The Final Empire (Book No. 1): Sanderson, Brandon: Amazon.com: Books</a></li><li><a href="https://www.audible.com/pd/The-Final-Empire-Audiobook/B002V0QCYU?pf_rd_p=284b47b1-a5db-4711-9667-612f2ac7458e&pf_rd_r=K5W72FC32DDAGGER41CS&pageLoadId=dJyzBOi0U9blwYSb&creativeId=b570234c-250a-43ff-be6b-ca1b4c5d7caa" rel="nofollow" title="The Final Empire by Brandon Sanderson - Audiobook - Audible.com">The Final Empire by Brandon Sanderson - Audiobook - Audible.com</a></li></ul>
+Modelo Cerveza Especial</p>
+
+<p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>
+
+<p>Links:</p>
+
+<ul>
+
+<li><a href="https://www.amazon.com/Mistborn-Final-Empire-Book-No/dp/0765350386" rel="nofollow" title="Mistborn: The Final Empire (Book No. 1): Sanderson, Brandon: Amazon.com: Books">Mistborn: The Final Empire (Book No. 1): Sanderson, Brandon: Amazon.com: Books</a></li>
+
+<li><a href="https://www.audible.com/pd/The-Final-Empire-Audiobook/B002V0QCYU?pf_rd_p=284b47b1-a5db-4711-9667-612f2ac7458e&pf_rd_r=K5W72FC32DDAGGER41CS&pageLoadId=dJyzBOi0U9blwYSb&creativeId=b570234c-250a-43ff-be6b-ca1b4c5d7caa" rel="nofollow" title="The Final Empire by Brandon Sanderson - Audiobook - Audible.com">The Final Empire by Brandon Sanderson - Audiobook - Audible.com</a></li>
+
+</ul>

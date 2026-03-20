@@ -12,4 +12,6 @@ original_url: "https://www.beerwithgeeks.com/113"
 audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893849267f/feeec7c3-a91d-40ea-85ee-cb3f1c311725.mp3"
 ---
 
-<p>Tim doesn't quite get Twitter, so Frank explains it to him in another edition of Hit Me With Your Best Shot. Cheers!</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>
+<p>Tim doesn't quite get Twitter, so Frank explains it to him in another edition of Hit Me With Your Best Shot. Cheers!</p>
+
+<p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>

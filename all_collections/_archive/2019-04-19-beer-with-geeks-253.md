@@ -16,4 +16,18 @@ audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893
 
 <p><strong>Beers of the Week</strong><br />
 Spaten Premium Lager<br />
-Short Path Gin + Fever Tree Tonic Water</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p><p>Links:</p><ul><li><a href="https://m.youtube.com/watch?feature=youtu.be&v=adzYW5DZoWs" rel="nofollow" title="Star Wars: The Rise of Skywalker – Teaser - YouTube">Star Wars: The Rise of Skywalker – Teaser - YouTube</a></li><li><a href="https://en.m.wikipedia.org/wiki/Thrawn_trilogy" rel="nofollow" title="Thrawn trilogy - Wikipedia">Thrawn trilogy - Wikipedia</a></li><li><a href="https://www.starwarscelebration.com/" rel="nofollow" title="Star Wars Celebration - The Ultimate Fan Experience">Star Wars Celebration - The Ultimate Fan Experience</a></li></ul>
+Short Path Gin + Fever Tree Tonic Water</p>
+
+<p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>
+
+<p>Links:</p>
+
+<ul>
+
+<li><a href="https://m.youtube.com/watch?feature=youtu.be&v=adzYW5DZoWs" rel="nofollow" title="Star Wars: The Rise of Skywalker – Teaser - YouTube">Star Wars: The Rise of Skywalker – Teaser - YouTube</a></li>
+
+<li><a href="https://en.m.wikipedia.org/wiki/Thrawn_trilogy" rel="nofollow" title="Thrawn trilogy - Wikipedia">Thrawn trilogy - Wikipedia</a></li>
+
+<li><a href="https://www.starwarscelebration.com/" rel="nofollow" title="Star Wars Celebration - The Ultimate Fan Experience">Star Wars Celebration - The Ultimate Fan Experience</a></li>
+
+</ul>

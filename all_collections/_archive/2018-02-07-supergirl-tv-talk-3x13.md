@@ -15,4 +15,6 @@ audio_url: "https://aphid.fireside.fm/d/1437767933/a7e375a6-6b1c-4fd0-b43d-ea206
 
 <p>Tim and Frank contemplate a 9-week hiatus, plus the mysteries of Imra & Mon-El, three worldkillers, and what does Lena know about Sam?!</p>
 
-<p>Proud member of the <a href="http://www.thoughtbubbleaudio.com">Thought Bubble Audio Network</a> and <a href="http://dctvtalk.com">DC TV Talk</a>!</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Supergirl TV Talk</a></p>
+<p>Proud member of the <a href="http://www.thoughtbubbleaudio.com">Thought Bubble Audio Network</a> and <a href="http://dctvtalk.com">DC TV Talk</a>!</p>
+
+<p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Supergirl TV Talk</a></p>

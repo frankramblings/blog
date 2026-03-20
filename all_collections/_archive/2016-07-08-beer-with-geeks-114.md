@@ -14,4 +14,6 @@ audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893
 
 <p>Ever get the feeling things aren't quite right? Like a parallel universe? Frank and Tim are talking about their favorite parallel universes in comics this week. Cheers!</p>
 
-<p><b>Beers of the Week: </b><br />Sam Adams Porch Rocker <br />Sam Adams Summer Ale</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>
+<p><b>Beers of the Week: </b><br />Sam Adams Porch Rocker <br />Sam Adams Summer Ale</p>
+
+<p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>

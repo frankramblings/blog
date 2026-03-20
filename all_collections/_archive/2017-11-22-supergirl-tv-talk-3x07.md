@@ -15,4 +15,18 @@ audio_url: "https://aphid.fireside.fm/d/1437767933/a7e375a6-6b1c-4fd0-b43d-ea206
 
 <p>Frank is reunited with Tim, just as Mon-El is reunited with Kara. But is the reunion meant to last? You'll just have to listen to find out.</p>
 
-<p>Proud member of the <a href="http://www.thoughtbubbleaudio.com">Thought Bubble Audio Network</a> and <a href="http://dctvtalk.com">DC TV Talk</a>!</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Supergirl TV Talk</a></p><p>Links:</p><ul><li><a href="https://www.patreon.com/thoughtbubbleaudio" rel="nofollow" title="Support us on Patreon! ">Support us on Patreon! </a> — We'll send you virtual hugs!</li><li><a href="https://www.podprofile.com/supergirl" rel="nofollow" title="Take our 90-second survey!">Take our 90-second survey!</a></li><li><a href="http://comicbook.com/dc/2017/01/24/supergirl-just-made-a-big-legion-of-super-heroes-nod-and-basical/" rel="nofollow" title="Supergirl Just Made A Big Legion of Super-Heroes Nod and Basically Told Us What's Up With Mon-El">Supergirl Just Made A Big Legion of Super-Heroes Nod and Basically Told Us What's Up With Mon-El</a> — During the course of the episode, at one point a frustrated Mon-El calls out "grife!" That's basically "Damn it!" In Legion-speak. </li></ul>
+<p>Proud member of the <a href="http://www.thoughtbubbleaudio.com">Thought Bubble Audio Network</a> and <a href="http://dctvtalk.com">DC TV Talk</a>!</p>
+
+<p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Supergirl TV Talk</a></p>
+
+<p>Links:</p>
+
+<ul>
+
+<li><a href="https://www.patreon.com/thoughtbubbleaudio" rel="nofollow" title="Support us on Patreon! ">Support us on Patreon! </a> — We'll send you virtual hugs!</li>
+
+<li><a href="https://www.podprofile.com/supergirl" rel="nofollow" title="Take our 90-second survey!">Take our 90-second survey!</a></li>
+
+<li><a href="http://comicbook.com/dc/2017/01/24/supergirl-just-made-a-big-legion-of-super-heroes-nod-and-basical/" rel="nofollow" title="Supergirl Just Made A Big Legion of Super-Heroes Nod and Basically Told Us What's Up With Mon-El">Supergirl Just Made A Big Legion of Super-Heroes Nod and Basically Told Us What's Up With Mon-El</a> — During the course of the episode, at one point a frustrated Mon-El calls out "grife!" That's basically "Damn it!" In Legion-speak. </li>
+
+</ul>

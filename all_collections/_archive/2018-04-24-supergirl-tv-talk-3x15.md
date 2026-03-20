@@ -15,4 +15,18 @@ audio_url: "https://aphid.fireside.fm/d/1437767933/a7e375a6-6b1c-4fd0-b43d-ea206
 
 <p>Frank is joined by Scott of the Suicide Squadcast to chat about podcast ombudsmen, capes, secret labs, Mercury in retrograde, and psychic battles. Plus listener emails and more! </p>
 
-<p>Proud member of the <a href="http://www.thoughtbubbleaudio.com">Thought Bubble Audio Network</a> and <a href="http://dctvtalk.com">DC TV Talk</a>!</p><p>Special Guest: Scott.</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Supergirl TV Talk</a></p><p>Links:</p><ul><li><a href="http://www.starkvillelabs.com/expo" rel="nofollow" title="Come See Frank at Stark Expo Live!">Come See Frank at Stark Expo Live!</a> — A night of podcasting for charity, benefiting Generosity.org Featuring live appearances by our own Frank Ramblings, plus Brian Austin Green, Derek Russell, Steve Glosson, Graham Hancock & more.</li><li><a href="https://www.suicidesquadcast.com/" rel="nofollow" title="The Suicide Squadcast Network">The Suicide Squadcast Network</a></li></ul>
+<p>Proud member of the <a href="http://www.thoughtbubbleaudio.com">Thought Bubble Audio Network</a> and <a href="http://dctvtalk.com">DC TV Talk</a>!</p>
+
+<p>Special Guest: Scott.</p>
+
+<p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Supergirl TV Talk</a></p>
+
+<p>Links:</p>
+
+<ul>
+
+<li><a href="http://www.starkvillelabs.com/expo" rel="nofollow" title="Come See Frank at Stark Expo Live!">Come See Frank at Stark Expo Live!</a> — A night of podcasting for charity, benefiting Generosity.org Featuring live appearances by our own Frank Ramblings, plus Brian Austin Green, Derek Russell, Steve Glosson, Graham Hancock & more.</li>
+
+<li><a href="https://www.suicidesquadcast.com/" rel="nofollow" title="The Suicide Squadcast Network">The Suicide Squadcast Network</a></li>
+
+</ul>

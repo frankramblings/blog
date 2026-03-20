@@ -18,4 +18,16 @@ audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893
 Harpoon Sweet Spot<br />
 Down The Road Rasenmäher Kölsch</p>
 
-<p>Proud member of the <a href="http://www.thoughtbubbleaudio.com">Thought Bubble Audio Network</a>!</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p><p>Links:</p><ul><li><a href="https://www.youtube.com/watch?v=BbKSr3vb32U" rel="nofollow" title="Blade Runner US Theatrical ending (1982) | YouTube">Blade Runner US Theatrical ending (1982) | YouTube</a></li><li><a href="https://www.youtube.com/watch?v=rh-5UhwcBW0" rel="nofollow" title="Star Wars From Puppets To Pixels: Digital Characters In Episode II Documentary | YouTube">Star Wars From Puppets To Pixels: Digital Characters In Episode II Documentary | YouTube</a> — Frank lied. It's 52 minutes.</li></ul>
+<p>Proud member of the <a href="http://www.thoughtbubbleaudio.com">Thought Bubble Audio Network</a>!</p>
+
+<p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>
+
+<p>Links:</p>
+
+<ul>
+
+<li><a href="https://www.youtube.com/watch?v=BbKSr3vb32U" rel="nofollow" title="Blade Runner US Theatrical ending (1982) | YouTube">Blade Runner US Theatrical ending (1982) | YouTube</a></li>
+
+<li><a href="https://www.youtube.com/watch?v=rh-5UhwcBW0" rel="nofollow" title="Star Wars From Puppets To Pixels: Digital Characters In Episode II Documentary | YouTube">Star Wars From Puppets To Pixels: Digital Characters In Episode II Documentary | YouTube</a> — Frank lied. It's 52 minutes.</li>
+
+</ul>

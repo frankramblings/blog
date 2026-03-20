@@ -16,4 +16,16 @@ audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893
 
 <p><strong>Beers of the Week</strong><br />
 Night Shift Night Lite Lager<br />
-Mayflower Resistant Is Fruitile</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p><p>Links:</p><ul><li><a href="https://www.amazon.com/Big-Fella-Babe-World-Created/dp/0062380222/ref=nodl_" rel="nofollow" title="The Big Fella: Babe Ruth and the World He Created: Leavy, Jane: 9780062380227: Amazon.com: Books">The Big Fella: Babe Ruth and the World He Created: Leavy, Jane: 9780062380227: Amazon.com: Books</a></li><li><a href="https://miro.medium.com/max/1200/1*27JKDmrYKszk9ONUODlcrw@2x.jpeg" rel="nofollow" title="Tim’s Ted Williams Photo">Tim’s Ted Williams Photo</a></li></ul>
+Mayflower Resistant Is Fruitile</p>
+
+<p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>
+
+<p>Links:</p>
+
+<ul>
+
+<li><a href="https://www.amazon.com/Big-Fella-Babe-World-Created/dp/0062380222/ref=nodl_" rel="nofollow" title="The Big Fella: Babe Ruth and the World He Created: Leavy, Jane: 9780062380227: Amazon.com: Books">The Big Fella: Babe Ruth and the World He Created: Leavy, Jane: 9780062380227: Amazon.com: Books</a></li>
+
+<li><a href="https://miro.medium.com/max/1200/1*27JKDmrYKszk9ONUODlcrw@2x.jpeg" rel="nofollow" title="Tim’s Ted Williams Photo">Tim’s Ted Williams Photo</a></li>
+
+</ul>

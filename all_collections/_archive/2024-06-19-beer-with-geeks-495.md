@@ -16,4 +16,8 @@ audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893
 
 <p><strong>Beers of the Week</strong><br />
 Hoegaarden Belgian Wheat Beer<br />
-Baxter Logger Road Lager</p><p>Special Guest: Andrew.</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>
+Baxter Logger Road Lager</p>
+
+<p>Special Guest: Andrew.</p>
+
+<p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>

@@ -17,4 +17,6 @@ audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893
 <p>Tim and Frank bring you their third annual Halloween Spooktacular! This year they bring you their favorite TV and movie vampires of all time. Happy Halloween!</p>
 
 <p><b><strike>Beers</strike> Blood of the Week: </b><br />
-<b><i>YOURS!</i></b> Mwahaha!</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>
+<b><i>YOURS!</i></b> Mwahaha!</p>
+
+<p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>

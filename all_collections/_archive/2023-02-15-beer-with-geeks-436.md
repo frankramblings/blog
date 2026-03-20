@@ -16,4 +16,14 @@ audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893
 
 <p><strong>Beers of the Week</strong><br />
 Stoneface Sidekick Helles Lager<br />
-Sam Adams Cold Snap</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p><p>Links:</p><ul><li><a href="https://files.fireside.fm/file/fireside-uploads/images/a/af6e5adc-2f5e-4d17-8b13-86893849267f/8FeunmRe.jpg" rel="nofollow" title="15 Things That Instantly Ruin A Movie">15 Things That Instantly Ruin A Movie</a></li></ul>
+Sam Adams Cold Snap</p>
+
+<p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>
+
+<p>Links:</p>
+
+<ul>
+
+<li><a href="https://files.fireside.fm/file/fireside-uploads/images/a/af6e5adc-2f5e-4d17-8b13-86893849267f/8FeunmRe.jpg" rel="nofollow" title="15 Things That Instantly Ruin A Movie">15 Things That Instantly Ruin A Movie</a></li>
+
+</ul>

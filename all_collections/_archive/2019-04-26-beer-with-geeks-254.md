@@ -16,4 +16,18 @@ audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893
 
 <p><strong>Beers of the Week</strong><br />
 Victory Hoppy Quad<br />
-Hofbräu Hefe-Weizen</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p><p>Links:</p><ul><li><a href="https://en.m.wikipedia.org/wiki/The_Prince_of_Egypt" rel="nofollow" title="The Prince of Egypt - Wikipedia">The Prince of Egypt - Wikipedia</a></li><li><a href="https://m.youtube.com/watch?feature=youtu.be&v=wNBBNzOB4MY" rel="nofollow" title="The Prince of Egypt - The Making Of (Part 1 of 3) - YouTube">The Prince of Egypt - The Making Of (Part 1 of 3) - YouTube</a></li><li><a href="https://open.spotify.com/album/5l7lj9nJbbTs0vCHhV0hVA?si=u990tfQ5T1KWa-oijwxSKg%27&nd=1" rel="nofollow" title="The Prince of Egypt on Spotify">The Prince of Egypt on Spotify</a></li></ul>
+Hofbräu Hefe-Weizen</p>
+
+<p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>
+
+<p>Links:</p>
+
+<ul>
+
+<li><a href="https://en.m.wikipedia.org/wiki/The_Prince_of_Egypt" rel="nofollow" title="The Prince of Egypt - Wikipedia">The Prince of Egypt - Wikipedia</a></li>
+
+<li><a href="https://m.youtube.com/watch?feature=youtu.be&v=wNBBNzOB4MY" rel="nofollow" title="The Prince of Egypt - The Making Of (Part 1 of 3) - YouTube">The Prince of Egypt - The Making Of (Part 1 of 3) - YouTube</a></li>
+
+<li><a href="https://open.spotify.com/album/5l7lj9nJbbTs0vCHhV0hVA?si=u990tfQ5T1KWa-oijwxSKg%27&nd=1" rel="nofollow" title="The Prince of Egypt on Spotify">The Prince of Egypt on Spotify</a></li>
+
+</ul>

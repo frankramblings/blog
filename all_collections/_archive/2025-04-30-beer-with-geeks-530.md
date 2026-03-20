@@ -16,4 +16,14 @@ audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893
 
 <p><strong>Beers of the Week</strong><br />
 Smuttynose Old Brown Dog Ale<br />
-Daura Damm Lager</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p><p>Links:</p><ul><li><a href="https://www.reddit.com/r/90s/comments/q0inof/mcdonalds_batman_forever_glasses_1995/" rel="nofollow" title="McDonald's Batman Forever Glasses (1995)">McDonald's Batman Forever Glasses (1995)</a></li></ul>
+Daura Damm Lager</p>
+
+<p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>
+
+<p>Links:</p>
+
+<ul>
+
+<li><a href="https://www.reddit.com/r/90s/comments/q0inof/mcdonalds_batman_forever_glasses_1995/" rel="nofollow" title="McDonald's Batman Forever Glasses (1995)">McDonald's Batman Forever Glasses (1995)</a></li>
+
+</ul>

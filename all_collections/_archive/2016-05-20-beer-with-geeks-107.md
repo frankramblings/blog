@@ -14,4 +14,6 @@ audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893
 
 <p>Tim and Frank saw <i>Captain America: Civil War</i>, and they are here to talk about it. SPOILER WARNING: don't listen to this one until you've seen the movie. Cheers!<</p>
 
-<p><b><strike>Beers</strike> Beverages of the Week: </b><br />Barefoot Red Moscato<br />Bombay Sapphire Gin on the rocks</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>
+<p><b><strike>Beers</strike> Beverages of the Week: </b><br />Barefoot Red Moscato<br />Bombay Sapphire Gin on the rocks</p>
+
+<p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>

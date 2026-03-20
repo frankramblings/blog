@@ -11,5 +11,10 @@ original_url: "https://www.supermantvtalk.com/krypton-pilot-review"
 audio_url: "https://aphid.fireside.fm/d/1437767933/ca06e266-f5ac-4159-baf5-35ad203e8279/cb6e2fba-c864-4c26-a942-ca11e45ab879.mp3"
 ---
 
-<pre><code>    <p>Derek and Frank are joined by Craig Byrne of KryptonSite for their non-spoilery review of Krypton&#39;s pilot episode.</p><p>Special Guest: Craig Byrne.</p>
+<pre><code>
+
+<p>Derek and Frank are joined by Craig Byrne of KryptonSite for their non-spoilery review of Krypton&#39;s pilot episode.</p>
+
+<p>Special Guest: Craig Byrne.</p>
+
 </code></pre>

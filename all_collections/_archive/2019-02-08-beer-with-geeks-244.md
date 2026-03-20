@@ -16,4 +16,14 @@ audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893
 
 <p><strong>Beers of the Week</strong><br />
 Revival Brewing Co. Fanny IPA<br />
-Fiddlehead Brewing Co. Second Fiddle Double IPA</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p><p>Links:</p><ul><li><a href="https://en.wikipedia.org/wiki/Reign_of_the_Supermen_(film)" rel="nofollow" title="Reign of the Supermen (film) - Wikipedia">Reign of the Supermen (film) - Wikipedia</a></li></ul>
+Fiddlehead Brewing Co. Second Fiddle Double IPA</p>
+
+<p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>
+
+<p>Links:</p>
+
+<ul>
+
+<li><a href="https://en.wikipedia.org/wiki/Reign_of_the_Supermen_(film)" rel="nofollow" title="Reign of the Supermen (film) - Wikipedia">Reign of the Supermen (film) - Wikipedia</a></li>
+
+</ul>

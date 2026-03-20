@@ -13,4 +13,6 @@ original_url: "https://www.supermantvtalk.com/superman-and-lois-to-live-and-die-
 audio_url: "https://aphid.fireside.fm/d/1437767933/ca06e266-f5ac-4159-baf5-35ad203e8279/4148130e-1c7a-48f4-b38f-07b04ce919fd.mp3"
 ---
 
-<p>PENULTIMATE – Lois struggles against the fallout of the debate. Clark uses Luthor’s tactics against him, while Jonathan and Jordan prepare for an impending battle.</p><p>Special Guest: Steve Glosson.</p>
+<p>PENULTIMATE – Lois struggles against the fallout of the debate. Clark uses Luthor’s tactics against him, while Jonathan and Jordan prepare for an impending battle.</p>
+
+<p>Special Guest: Steve Glosson.</p>

@@ -15,4 +15,6 @@ audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893
 <p>Frank and Tim discuss the <em>Arrow</em> series finale and look back at the series as a whole. Cheers!</p>
 
 <p><strong>Beers of the Week</strong><br />
-Southern Tier Nitro Hot Cocoa Imperial Milk Stout</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>
+Southern Tier Nitro Hot Cocoa Imperial Milk Stout</p>
+
+<p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>

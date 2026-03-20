@@ -26,4 +26,6 @@ Book: Lord of the Rings (Single Volume Edition)</p>
 <p><strong>Frank’s Picks</strong><br />
 Album: Revolver<br />
 Movie: Star Wars Episode IV: A New Hope<br />
-Book: Brave New World</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>
+Book: Brave New World</p>
+
+<p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>

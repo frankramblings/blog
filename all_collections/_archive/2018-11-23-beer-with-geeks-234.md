@@ -16,4 +16,16 @@ audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893
 
 <p><strong>Beers of the Week</strong><br />
 Bent Water Lady Vacay Salted Blonde Ale<br />
-Ipswich Gluten-Free Celia Saison</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p><p>Links:</p><ul><li><a href="http://www.ipswichalebrewery.com/CELIA.PAGE.html" rel="nofollow" title="Ipswich Gluten-Free Celia Saison">Ipswich Gluten-Free Celia Saison</a></li><li><a href="https://en.wikipedia.org/wiki/Batman:_Mask_of_the_Phantasm" rel="nofollow" title="Batman: Mask of the Phantasm - Wikipedia">Batman: Mask of the Phantasm - Wikipedia</a></li></ul>
+Ipswich Gluten-Free Celia Saison</p>
+
+<p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>
+
+<p>Links:</p>
+
+<ul>
+
+<li><a href="http://www.ipswichalebrewery.com/CELIA.PAGE.html" rel="nofollow" title="Ipswich Gluten-Free Celia Saison">Ipswich Gluten-Free Celia Saison</a></li>
+
+<li><a href="https://en.wikipedia.org/wiki/Batman:_Mask_of_the_Phantasm" rel="nofollow" title="Batman: Mask of the Phantasm - Wikipedia">Batman: Mask of the Phantasm - Wikipedia</a></li>
+
+</ul>

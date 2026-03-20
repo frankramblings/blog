@@ -16,4 +16,16 @@ audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893
 
 <p><strong>Beers of the Week</strong><br />
 Smuttynose Brewing Finest Kind IPA<br />
-Hot coffee & Jack Daniel's Tennessee Honey</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p><p>Links:</p><ul><li><a href="https://archive.org/details/action-comics-1-6/Action%20Comics%20001/" rel="nofollow" title="Action Comics # 1">Action Comics # 1</a></li><li><a href="https://archive.org/details/podcast_comicwebcoms-superman-old-ti_119331965" rel="nofollow" title="Superman Old Time Radio">Superman Old Time Radio</a></li></ul>
+Hot coffee & Jack Daniel's Tennessee Honey</p>
+
+<p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>
+
+<p>Links:</p>
+
+<ul>
+
+<li><a href="https://archive.org/details/action-comics-1-6/Action%20Comics%20001/" rel="nofollow" title="Action Comics # 1">Action Comics # 1</a></li>
+
+<li><a href="https://archive.org/details/podcast_comicwebcoms-superman-old-ti_119331965" rel="nofollow" title="Superman Old Time Radio">Superman Old Time Radio</a></li>
+
+</ul>

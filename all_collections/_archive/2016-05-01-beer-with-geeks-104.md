@@ -14,4 +14,6 @@ audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893
 
 <p>Frank and Tim couldn't avoid talking about everyone's least favorite Spidey movie: <i>Spider-Man 3</i>. It's a vent session of Venomous </p>
 
-<p><b>Beers of the Week: </b><br />Cisco Brewers Sankaty Light Lager<br />Westbrook Brewing Co. White Thai</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>
+<p><b>Beers of the Week: </b><br />Cisco Brewers Sankaty Light Lager<br />Westbrook Brewing Co. White Thai</p>
+
+<p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>

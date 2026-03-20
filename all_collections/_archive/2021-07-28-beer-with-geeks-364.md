@@ -16,4 +16,18 @@ audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893
 
 <p><strong>Beers of the Week</strong><br />
 Smuttlabs Ring King Pineapple IPA<br />
-Shaidzon Beer Co. Buffalo Czech Pilsner</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p><p>Links:</p><ul><li><a href="https://www.netflix.com/title/81154670" rel="nofollow" title="Masters of the Universe: Revelation | Netflix Official Site">Masters of the Universe: Revelation | Netflix Official Site</a></li><li><a href="https://en.wikipedia.org/wiki/Masters_of_the_Universe:_Revelation" rel="nofollow" title="Masters of the Universe: Revelation - Wikipedia">Masters of the Universe: Revelation - Wikipedia</a></li><li><a href="https://www.netflix.com/title/80161497" rel="nofollow" title="The Toys That Made Us | Netflix Official Site">The Toys That Made Us | Netflix Official Site</a></li></ul>
+Shaidzon Beer Co. Buffalo Czech Pilsner</p>
+
+<p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>
+
+<p>Links:</p>
+
+<ul>
+
+<li><a href="https://www.netflix.com/title/81154670" rel="nofollow" title="Masters of the Universe: Revelation | Netflix Official Site">Masters of the Universe: Revelation | Netflix Official Site</a></li>
+
+<li><a href="https://en.wikipedia.org/wiki/Masters_of_the_Universe:_Revelation" rel="nofollow" title="Masters of the Universe: Revelation - Wikipedia">Masters of the Universe: Revelation - Wikipedia</a></li>
+
+<li><a href="https://www.netflix.com/title/80161497" rel="nofollow" title="The Toys That Made Us | Netflix Official Site">The Toys That Made Us | Netflix Official Site</a></li>
+
+</ul>

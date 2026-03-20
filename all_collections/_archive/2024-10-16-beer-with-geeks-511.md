@@ -21,26 +21,51 @@ Union Station Brewery 'Avon Nightmare on Thayer Street' Pumpkin Spice Ale</p>
 <p><strong>Movies in the Episode</strong></p>
 
 <ul>
+
 <li>Shaun of the Dead (2004)</li>
+
 <li>The Cabin in the Woods (2012)</li>
+
 <li>Army of Darkness (1992)</li>
+
 <li>Zombieland (2009)</li>
+
 <li>What We Do in the Shadows (2014)</li>
+
 <li>Ghostbusters (1984)</li>
+
 <li>Beetlejuice (1988)</li>
+
 <li>Coraline (2009)</li>
+
 <li>Corpse Bride (2005)</li>
+
 <li>Young Frankenstein (1974)</li>
+
 <li>Dracula: Dead and Loving It (1995)</li>
+
 <li>The Frighteners (1996)</li>
+
 <li>Hocus Pocus (1993)</li>
+
 <li>Little Shop of Horrors (1986)</li>
+
 <li>The Monster Squad (1987)</li>
+
 <li>The Nightmare Before Christmas (1993)</li>
+
 <li>The Sixth Sense (1999)</li>
+
 <li>Signs (2002)</li>
+
 <li>The Addams Family (1991)</li>
+
 <li>Casper (1995)</li>
+
 <li>Sleepy Hollow (1999)</li>
+
 <li>Ready or Not (2019)</li>
-</ul><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>
+
+</ul>
+
+<p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>

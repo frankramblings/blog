@@ -14,4 +14,6 @@ audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893
 
 <p>"Oh my God it's a Lion." Did you know those are actual lyrics from Disney's The Lion King? Tim and Frank are joined again by Damon to chat about their Lion King memories. Cheers!</p>
 
-<p><b>Beers of the Week: </b><br />Narragansett Summertime Citra Ale <br />Cisco Brewers Whale's Tale Pale Ale</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>
+<p><b>Beers of the Week: </b><br />Narragansett Summertime Citra Ale <br />Cisco Brewers Whale's Tale Pale Ale</p>
+
+<p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>

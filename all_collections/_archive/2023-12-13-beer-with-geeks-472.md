@@ -16,4 +16,16 @@ audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893
 
 <p><strong>Beers of the Week</strong><br />
 Weihenstephaner Festbier<br />
-Samuel Adams Old Fezziwig Ale</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p><p>Links:</p><ul><li><a href="https://en.wikipedia.org/wiki/A_Disturbance_in_the_Force" rel="nofollow" title="A Disturbance in the Force">A Disturbance in the Force</a></li><li><a href="https://www.beerwithgeeks.com/189" rel="nofollow" title="Holiday Special 2017">Holiday Special 2017</a> — Tim and Frank are joined by Kirstie and Kelsey from Hatewatch With Us for this year's Thought Bubble Holiday Special, in which they hatewatch 1978's Star Wars Holiday Special. Happy Life Day from us to you! Cheers!</li></ul>
+Samuel Adams Old Fezziwig Ale</p>
+
+<p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>
+
+<p>Links:</p>
+
+<ul>
+
+<li><a href="https://en.wikipedia.org/wiki/A_Disturbance_in_the_Force" rel="nofollow" title="A Disturbance in the Force">A Disturbance in the Force</a></li>
+
+<li><a href="https://www.beerwithgeeks.com/189" rel="nofollow" title="Holiday Special 2017">Holiday Special 2017</a> — Tim and Frank are joined by Kirstie and Kelsey from Hatewatch With Us for this year's Thought Bubble Holiday Special, in which they hatewatch 1978's Star Wars Holiday Special. Happy Life Day from us to you! Cheers!</li>
+
+</ul>

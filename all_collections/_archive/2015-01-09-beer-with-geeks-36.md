@@ -12,4 +12,6 @@ original_url: "https://www.beerwithgeeks.com/36"
 audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893849267f/3d4de9db-b274-4317-a48e-e1444b27bd6c.mp3"
 ---
 
-<p>New year, new stuff to geek out about! Tim and Frank take a look at the year ahead in geekdom. Happy New Year and cheers!</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>
+<p>New year, new stuff to geek out about! Tim and Frank take a look at the year ahead in geekdom. Happy New Year and cheers!</p>
+
+<p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>

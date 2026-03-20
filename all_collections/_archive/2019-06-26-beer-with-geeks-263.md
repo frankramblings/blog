@@ -16,4 +16,14 @@ audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893
 
 <p><strong>Beers of the Week</strong><br />
 Moosehead Light Lager<br />
-Founders All Day IPA Session Ale</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p><p>Links:</p><ul><li><a href="https://www.beerwithgeeks.com/4" rel="nofollow" title="Beer With Geeks Episode 4: Get In My Toy Chest!">Beer With Geeks Episode 4: Get In My Toy Chest!</a></li></ul>
+Founders All Day IPA Session Ale</p>
+
+<p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>
+
+<p>Links:</p>
+
+<ul>
+
+<li><a href="https://www.beerwithgeeks.com/4" rel="nofollow" title="Beer With Geeks Episode 4: Get In My Toy Chest!">Beer With Geeks Episode 4: Get In My Toy Chest!</a></li>
+
+</ul>

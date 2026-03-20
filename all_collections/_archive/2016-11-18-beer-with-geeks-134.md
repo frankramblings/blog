@@ -15,4 +15,6 @@ audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893
 <p>Grab your Vaulting Boots of Valtorr and your Cloak of Levitation! Tim and Frank review Marvel's <i>Doctor Strange</i> this week. Cheers!</p>
 
 <p><b><strike>Beers</strike> Meal of the Week: </b><br />
-Shawarma! </p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>
+Shawarma! </p>
+
+<p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>

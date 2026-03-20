@@ -53,4 +53,6 @@ All for Supergirl<br />
 Joy to the people at the D.E.O.<br />
 Joy to J’onn J’onzz</p>
 
-<p>Proud member of <a href="http://dctvtalk.com/">DC TV Talk</a> and the <a href="http://www.supermanpodcastnetwork.com/" target="_blank">Superman Podcast Network</a>!</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Supergirl TV Talk</a></p>
+<p>Proud member of <a href="http://dctvtalk.com/">DC TV Talk</a> and the <a href="http://www.supermanpodcastnetwork.com/" target="_blank">Superman Podcast Network</a>!</p>
+
+<p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Supergirl TV Talk</a></p>

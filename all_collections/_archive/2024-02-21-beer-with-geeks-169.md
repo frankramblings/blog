@@ -17,4 +17,18 @@ audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893
 <p>Tim makes a compelling argument to Frank about the Planet of the Apes franchise on this latest edition of "Hit Me With Your Best Shot"!</p>
 
 <p><strong>Beers of the Week</strong><br />
-Red Barn Brewing Little Devil IPA</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p><p>Links:</p><ul><li><a href="https://untappd.com/b/red-barn-brewing-little-devil/1608401" rel="nofollow" title="Little Devil - Red Barn Brewing | Untappd">Little Devil - Red Barn Brewing | Untappd</a></li><li><a href="https://imgur.com/a/pRDC7" rel="nofollow" title="Frank & Tim meet Kumail Nanjiani & Emily V. Gordon - Imgur">Frank & Tim meet Kumail Nanjiani & Emily V. Gordon - Imgur</a></li><li><a href="https://www.twitter.com/OnePerfectShot" rel="nofollow" title="@OnePerfectShot – Twitter">@OnePerfectShot – Twitter</a> — NOT Every Frame A Painting. Oops!</li></ul>
+Red Barn Brewing Little Devil IPA</p>
+
+<p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>
+
+<p>Links:</p>
+
+<ul>
+
+<li><a href="https://untappd.com/b/red-barn-brewing-little-devil/1608401" rel="nofollow" title="Little Devil - Red Barn Brewing | Untappd">Little Devil - Red Barn Brewing | Untappd</a></li>
+
+<li><a href="https://imgur.com/a/pRDC7" rel="nofollow" title="Frank & Tim meet Kumail Nanjiani & Emily V. Gordon - Imgur">Frank & Tim meet Kumail Nanjiani & Emily V. Gordon - Imgur</a></li>
+
+<li><a href="https://www.twitter.com/OnePerfectShot" rel="nofollow" title="@OnePerfectShot – Twitter">@OnePerfectShot – Twitter</a> — NOT Every Frame A Painting. Oops!</li>
+
+</ul>

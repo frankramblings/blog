@@ -16,4 +16,24 @@ audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893
 
 <p><strong>Beers of the Week</strong><br />
 Trillium Past, Present, Pretzel IPA<br />
-Gentile Brewing Divergent IPA</p><p>Special Guest: Kelsey.</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p><p>Links:</p><ul><li><a href="https://www.beerwithgeeks.com/189" rel="nofollow" title="Beer With Geeks Episode 189: Holiday Special 2017">Beer With Geeks Episode 189: Holiday Special 2017</a></li><li><a href="https://www.hatewatchwithus.com/102" rel="nofollow" title="Hatewatch With Us: Schitt's Creek">Hatewatch With Us: Schitt's Creek</a></li><li><a href="https://en.m.wikipedia.org/wiki/Parks_and_Recreation" rel="nofollow" title="Parks and Recreation - Wikipedia">Parks and Recreation - Wikipedia</a></li><li><a href="https://brooklyn99.fandom.com/wiki/The_Audit" rel="nofollow" title="The Audit | Brooklyn Nine-Nine Wiki | FANDOM powered by Wikia">The Audit | Brooklyn Nine-Nine Wiki | FANDOM powered by Wikia</a></li><li><a href="https://itunes.apple.com/us/podcast/our-watch-has-ended/id1455983593?mt=2" rel="nofollow" title="Our Watch Has Ended">Our Watch Has Ended</a></li></ul>
+Gentile Brewing Divergent IPA</p>
+
+<p>Special Guest: Kelsey.</p>
+
+<p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>
+
+<p>Links:</p>
+
+<ul>
+
+<li><a href="https://www.beerwithgeeks.com/189" rel="nofollow" title="Beer With Geeks Episode 189: Holiday Special 2017">Beer With Geeks Episode 189: Holiday Special 2017</a></li>
+
+<li><a href="https://www.hatewatchwithus.com/102" rel="nofollow" title="Hatewatch With Us: Schitt's Creek">Hatewatch With Us: Schitt's Creek</a></li>
+
+<li><a href="https://en.m.wikipedia.org/wiki/Parks_and_Recreation" rel="nofollow" title="Parks and Recreation - Wikipedia">Parks and Recreation - Wikipedia</a></li>
+
+<li><a href="https://brooklyn99.fandom.com/wiki/The_Audit" rel="nofollow" title="The Audit | Brooklyn Nine-Nine Wiki | FANDOM powered by Wikia">The Audit | Brooklyn Nine-Nine Wiki | FANDOM powered by Wikia</a></li>
+
+<li><a href="https://itunes.apple.com/us/podcast/our-watch-has-ended/id1455983593?mt=2" rel="nofollow" title="Our Watch Has Ended">Our Watch Has Ended</a></li>
+
+</ul>

@@ -15,4 +15,6 @@ audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893
 <p>Moments after seeing Spider-Man: Homecoming, Frank and Tim bring you their review of one of the most anticipated geek movies of the summer. Put on your tights and grab some web fluid. Cheers</p>
 
 <p><b>Beer of the Week</b><br />
-Narragansett Del's Shandy</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>
+Narragansett Del's Shandy</p>
+
+<p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>

@@ -16,4 +16,16 @@ audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893
 
 <p><strong>Beers of the Week</strong><br />
 Von Trapp Bohemian Pilsner<br />
-Bunker Brewing “We Are Happy To Serve The Servants” Coffee Milk Stout</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p><p>Links:</p><ul><li><a href="https://i.imgur.com/tx4UuP6.jpg" rel="nofollow" title="Frank's "Greek" Beer Can">Frank's "Greek" Beer Can</a></li><li><a href="https://www.eventbrite.com/e/starkexpolive-a-night-of-podcasting-for-charity-tickets-45261205484" rel="nofollow" title="StarkExpoLive! A Night of Podcasting for Charity">StarkExpoLive! A Night of Podcasting for Charity</a></li></ul>
+Bunker Brewing “We Are Happy To Serve The Servants” Coffee Milk Stout</p>
+
+<p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>
+
+<p>Links:</p>
+
+<ul>
+
+<li><a href="https://i.imgur.com/tx4UuP6.jpg" rel="nofollow" title="Frank's "Greek" Beer Can">Frank's "Greek" Beer Can</a></li>
+
+<li><a href="https://www.eventbrite.com/e/starkexpolive-a-night-of-podcasting-for-charity-tickets-45261205484" rel="nofollow" title="StarkExpoLive! A Night of Podcasting for Charity">StarkExpoLive! A Night of Podcasting for Charity</a></li>
+
+</ul>

@@ -12,4 +12,6 @@ original_url: "https://www.beerwithgeeks.com/15"
 audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893849267f/520ae938-9042-4b26-8740-aafa239efad7.mp3"
 ---
 
-<p>Expelliarmus! Fill up your stein with butterbeer and grab your invisibility cloak because we are all about Harry Potter today.</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>
+<p>Expelliarmus! Fill up your stein with butterbeer and grab your invisibility cloak because we are all about Harry Potter today.</p>
+
+<p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>

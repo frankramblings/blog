@@ -16,4 +16,14 @@ audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893
 
 <p><strong>Beers of the Week</strong><br />
 Bell's Two-Hearted American IPA<br />
-Skyroc Geno Lager</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p><p>Links:</p><ul><li><a href="https://www.goodreads.com/timothypg13" rel="nofollow" title="Tim’s Goodreads Account">Tim’s Goodreads Account</a></li></ul>
+Skyroc Geno Lager</p>
+
+<p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>
+
+<p>Links:</p>
+
+<ul>
+
+<li><a href="https://www.goodreads.com/timothypg13" rel="nofollow" title="Tim’s Goodreads Account">Tim’s Goodreads Account</a></li>
+
+</ul>

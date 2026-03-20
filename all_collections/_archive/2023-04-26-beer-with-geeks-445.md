@@ -16,4 +16,16 @@ audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893
 
 <p><strong>Beers of the Week</strong><br />
 Sam Adams Summer Adventure Lager<br />
-Tea (Earl Grey, hot)</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p><p>Links:</p><ul><li><a href="https://youtu.be/f8AbLQOedOo" rel="nofollow" title="Patrick Stewart Had to Be Wrong for Picard to Succeed | Star Trek">Patrick Stewart Had to Be Wrong for Picard to Succeed | Star Trek</a></li><li><a href="https://linktr.ee/Treknopod" rel="nofollow" title="Treknopod">Treknopod</a></li></ul>
+Tea (Earl Grey, hot)</p>
+
+<p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>
+
+<p>Links:</p>
+
+<ul>
+
+<li><a href="https://youtu.be/f8AbLQOedOo" rel="nofollow" title="Patrick Stewart Had to Be Wrong for Picard to Succeed | Star Trek">Patrick Stewart Had to Be Wrong for Picard to Succeed | Star Trek</a></li>
+
+<li><a href="https://linktr.ee/Treknopod" rel="nofollow" title="Treknopod">Treknopod</a></li>
+
+</ul>

@@ -44,4 +44,6 @@ Cheetah — Lauren Bacall <br />
 Michael York — Reverse Flash<br />
 Catwoman — Audrey Hepburn <br />
 Metallo — Christopher Walken <br />
-Lex Luthor — Vince Vaughn </p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>
+Lex Luthor — Vince Vaughn </p>
+
+<p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>

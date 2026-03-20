@@ -22,4 +22,8 @@ audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893
 🦸‍♂️ Suicide Squad: Kill the Justice League and Superman in video games<br />
 ... and much more!</p>
 
-<p>Whether you're a lifelong Superman fan or just getting into the comics, this is the place for you. Join us in celebrating the greatest superhero of all time!</p><p>Special Guest: Vactor.</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>
+<p>Whether you're a lifelong Superman fan or just getting into the comics, this is the place for you. Join us in celebrating the greatest superhero of all time!</p>
+
+<p>Special Guest: Vactor.</p>
+
+<p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>

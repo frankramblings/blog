@@ -19,4 +19,8 @@ Jack's Abbey Hopponius Union<br />
 Two Roads Roadsmary's Baby<br />
 Poland Spring Sparklers Cranberry Raspberry Seltzer</p>
 
-<p>Proud member of the <a href="http://www.thoughtbubbleaudio.com">Thought Bubble Audio Network</a>!</p><p>Special Guest: Damon Warnock.</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>
+<p>Proud member of the <a href="http://www.thoughtbubbleaudio.com">Thought Bubble Audio Network</a>!</p>
+
+<p>Special Guest: Damon Warnock.</p>
+
+<p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>

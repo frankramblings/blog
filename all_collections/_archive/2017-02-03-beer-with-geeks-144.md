@@ -16,4 +16,6 @@ audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893
 
 <p><b>Beer of the Week: </b><br />
 Sam Adams Old Fezziwig Ale<br />
-Sam Adams Octoberfest </p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>
+Sam Adams Octoberfest </p>
+
+<p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>

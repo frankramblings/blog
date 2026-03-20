@@ -15,4 +15,8 @@ audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893
 <p>Tim joins Vactor and SuperTim on "This Comic Cooks" to discuss DC's Absolute Power event and the All-In Special #1.</p>
 
 <p><strong>Beers of the Week</strong><br />
-N/A</p><p>Special Guest: Vactor.</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>
+N/A</p>
+
+<p>Special Guest: Vactor.</p>
+
+<p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>

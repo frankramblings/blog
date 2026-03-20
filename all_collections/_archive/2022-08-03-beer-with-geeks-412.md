@@ -17,4 +17,8 @@ audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893
 <p><strong>Beers of the Week</strong><br />
 Morning coffees</p>
 
-<p>Find more of Scott on <a href="https://suicidesquadcast.libsyn.com" rel="nofollow">DC Squadcast</a></p><p>Special Guest: Scott.</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>
+<p>Find more of Scott on <a href="https://suicidesquadcast.libsyn.com" rel="nofollow">DC Squadcast</a></p>
+
+<p>Special Guest: Scott.</p>
+
+<p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>

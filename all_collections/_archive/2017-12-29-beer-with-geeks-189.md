@@ -19,4 +19,18 @@ audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893
 <p><strong>Beers of the Week</strong><br />
 Lamplighter Brewing Upside Down Dark Saison<br />
 Switchback Ale<br />
-Sam Adams Winter Lager</p><p>Special Guests: Kelsey and Kirstie.</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p><p>Links:</p><ul><li><a href="https://uploads.fireside.fm/images/a/af6e5adc-2f5e-4d17-8b13-86893849267f/W2_ib2VA.jpeg" rel="nofollow" title="Frank’s Chewbacca Koozie">Frank’s Chewbacca Koozie</a></li><li><a href="https://youtu.be/S3a5j8PgQxg" rel="nofollow" title="The Star Wars Holiday Special (Complete)">The Star Wars Holiday Special (Complete)</a></li></ul>
+Sam Adams Winter Lager</p>
+
+<p>Special Guests: Kelsey and Kirstie.</p>
+
+<p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>
+
+<p>Links:</p>
+
+<ul>
+
+<li><a href="https://uploads.fireside.fm/images/a/af6e5adc-2f5e-4d17-8b13-86893849267f/W2_ib2VA.jpeg" rel="nofollow" title="Frank’s Chewbacca Koozie">Frank’s Chewbacca Koozie</a></li>
+
+<li><a href="https://youtu.be/S3a5j8PgQxg" rel="nofollow" title="The Star Wars Holiday Special (Complete)">The Star Wars Holiday Special (Complete)</a></li>
+
+</ul>

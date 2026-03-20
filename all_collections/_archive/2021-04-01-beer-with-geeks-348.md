@@ -15,4 +15,6 @@ audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893
 <p>Frank and Tim play a game of "Would You Rather", and decision paralysis sets in. Cheers!</p>
 
 <p><strong>Beers of the Week</strong><br />
-Throwback El Chupbrewcabra Mexican Chocolate Porter</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>
+Throwback El Chupbrewcabra Mexican Chocolate Porter</p>
+
+<p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>

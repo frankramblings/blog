@@ -13,4 +13,16 @@ original_url: "https://supergirltvtalk.fireside.fm/5x18"
 audio_url: "https://aphid.fireside.fm/d/1437767933/a7e375a6-6b1c-4fd0-b43d-ea2063feaac0/6f8560f4-d266-41ad-9744-737a93019663.mp3"
 ---
 
-<p>Frank and Tim break down the penultimate episode of Season 5 and look ahead at the season finale.</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Supergirl TV Talk</a></p><p>Links:</p><ul><li><a href="https://www.youtube.com/watch?v=84MoLlb_Ua0&feature=youtu.be" rel="nofollow" title="World Unity Festival (Extended / Alternate Scene) - Spider-Man (1080p) - YouTube">World Unity Festival (Extended / Alternate Scene) - Spider-Man (1080p) - YouTube</a></li><li><a href="https://dc.fandom.com/wiki/Rama_Khan_(New_Earth)" rel="nofollow" title="Rama Khan (New Earth) | DC Database | Fandom">Rama Khan (New Earth) | DC Database | Fandom</a> — Rama Khan is the title of a ruler of the nation of Jarhanpur which had existed at least 3,000 years ago. </li></ul>
+<p>Frank and Tim break down the penultimate episode of Season 5 and look ahead at the season finale.</p>
+
+<p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Supergirl TV Talk</a></p>
+
+<p>Links:</p>
+
+<ul>
+
+<li><a href="https://www.youtube.com/watch?v=84MoLlb_Ua0&feature=youtu.be" rel="nofollow" title="World Unity Festival (Extended / Alternate Scene) - Spider-Man (1080p) - YouTube">World Unity Festival (Extended / Alternate Scene) - Spider-Man (1080p) - YouTube</a></li>
+
+<li><a href="https://dc.fandom.com/wiki/Rama_Khan_(New_Earth)" rel="nofollow" title="Rama Khan (New Earth) | DC Database | Fandom">Rama Khan (New Earth) | DC Database | Fandom</a> — Rama Khan is the title of a ruler of the nation of Jarhanpur which had existed at least 3,000 years ago. </li>
+
+</ul>

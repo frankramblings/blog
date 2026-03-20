@@ -83,4 +83,14 @@ be happening in the near future. <br />
 Thanks for reading all this and I cant wait to see what the future<br />
 brings.</p>
 
-<p>C</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Supergirl TV Talk</a></p><p>Links:</p><ul><li><a href="https://www.youtube.com/watch?v=Hl-a0_hlp00" rel="nofollow" title="Supergirl 5x07 Promo "Tremors" (HD) - YouTube">Supergirl 5x07 Promo "Tremors" (HD) - YouTube</a></li></ul>
+<p>C</p>
+
+<p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Supergirl TV Talk</a></p>
+
+<p>Links:</p>
+
+<ul>
+
+<li><a href="https://www.youtube.com/watch?v=Hl-a0_hlp00" rel="nofollow" title="Supergirl 5x07 Promo "Tremors" (HD) - YouTube">Supergirl 5x07 Promo "Tremors" (HD) - YouTube</a></li>
+
+</ul>

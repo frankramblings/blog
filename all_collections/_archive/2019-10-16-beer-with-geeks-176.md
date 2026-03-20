@@ -18,4 +18,16 @@ audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893
 
 <p><strong>Beers of the Week</strong><br />
 Switchback Ale<br />
-St. Bernardus Abt 12 Abbey Ale</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p><p>Links:</p><ul><li><a href="http://www.imdb.com/title/tt0113492/?ref_=nv_sr_1" rel="nofollow" title="Judge Dredd (1995) | IMDB">Judge Dredd (1995) | IMDB</a></li><li><a href="http://www.beerwithgeeks.com/159" rel="nofollow" title="Episode 159: I AM THE LAW | Beer With Geeks">Episode 159: I AM THE LAW | Beer With Geeks</a></li></ul>
+St. Bernardus Abt 12 Abbey Ale</p>
+
+<p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>
+
+<p>Links:</p>
+
+<ul>
+
+<li><a href="http://www.imdb.com/title/tt0113492/?ref_=nv_sr_1" rel="nofollow" title="Judge Dredd (1995) | IMDB">Judge Dredd (1995) | IMDB</a></li>
+
+<li><a href="http://www.beerwithgeeks.com/159" rel="nofollow" title="Episode 159: I AM THE LAW | Beer With Geeks">Episode 159: I AM THE LAW | Beer With Geeks</a></li>
+
+</ul>

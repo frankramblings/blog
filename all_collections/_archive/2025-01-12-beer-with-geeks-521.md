@@ -18,4 +18,14 @@ audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893
 
 <p><strong>Beers of the Week</strong><br />
 Rek-Lis Now That's What I Call Munich Helles Lager<br />
-Dansk Mjød Viking Blod Mead</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p><p>Links:</p><ul><li><a href="https://www.beerwithgeeks.com/507" rel="nofollow" title="Beer With Geeks 507: Pineapple is the Dominant Flavor">Beer With Geeks 507: Pineapple is the Dominant Flavor</a></li></ul>
+Dansk Mjød Viking Blod Mead</p>
+
+<p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>
+
+<p>Links:</p>
+
+<ul>
+
+<li><a href="https://www.beerwithgeeks.com/507" rel="nofollow" title="Beer With Geeks 507: Pineapple is the Dominant Flavor">Beer With Geeks 507: Pineapple is the Dominant Flavor</a></li>
+
+</ul>

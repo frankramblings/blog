@@ -15,4 +15,8 @@ audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893
 <p>Frank is taking the week off to let Tim discuss "The Lord of the Rings: The Rings of Power" with Mary and Alexa!</p>
 
 <p><strong>Beers of the Week</strong><br />
-N/A</p><p>Special Guests: Andrew and Mary.</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>
+N/A</p>
+
+<p>Special Guests: Andrew and Mary.</p>
+
+<p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>

@@ -16,4 +16,18 @@ audio_url: "https://aphid.fireside.fm/d/1437767933/a7e375a6-6b1c-4fd0-b43d-ea206
 <p>Frank and Tim are back together again to discuss the Totems, Esme, and Frank's trip to Vancouver.</p>
 
 <pre><code>NYXLY KIDNAPS WILLIAM – Supergirl continues to fight Nyxly for the remaining totems but after Nyxly kidnaps William, Supergirl realizes she needs to take a more proactive stance to keep National City safe. Meanwhile, Alex faces the biggest challenge of her life.
-</code></pre><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Supergirl TV Talk</a></p><p>Links:</p><ul><li><a href="https://dc.fandom.com/wiki/Corto_Maltese" rel="nofollow" title="Corto Maltese | DC Database | Fandom">Corto Maltese | DC Database | Fandom</a></li><li><a href="https://en.wikipedia.org/wiki/Superman_IV:_The_Quest_for_Peace" rel="nofollow" title="Superman IV: The Quest for Peace - Wikipedia">Superman IV: The Quest for Peace - Wikipedia</a></li><li><a href="https://www.beerwithgeeks.com/374" rel="nofollow" title="Beer With Geeks 374: I Don’t Wanna Live in This Hell Hole">Beer With Geeks 374: I Don’t Wanna Live in This Hell Hole</a> — Frank recaps his visit to Vancouver</li></ul>
+</code></pre>
+
+<p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Supergirl TV Talk</a></p>
+
+<p>Links:</p>
+
+<ul>
+
+<li><a href="https://dc.fandom.com/wiki/Corto_Maltese" rel="nofollow" title="Corto Maltese | DC Database | Fandom">Corto Maltese | DC Database | Fandom</a></li>
+
+<li><a href="https://en.wikipedia.org/wiki/Superman_IV:_The_Quest_for_Peace" rel="nofollow" title="Superman IV: The Quest for Peace - Wikipedia">Superman IV: The Quest for Peace - Wikipedia</a></li>
+
+<li><a href="https://www.beerwithgeeks.com/374" rel="nofollow" title="Beer With Geeks 374: I Don’t Wanna Live in This Hell Hole">Beer With Geeks 374: I Don’t Wanna Live in This Hell Hole</a> — Frank recaps his visit to Vancouver</li>
+
+</ul>

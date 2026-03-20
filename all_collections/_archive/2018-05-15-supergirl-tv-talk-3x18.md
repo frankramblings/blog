@@ -15,4 +15,18 @@ audio_url: "https://aphid.fireside.fm/d/1437767933/a7e375a6-6b1c-4fd0-b43d-ea206
 
 <p>Tim and Frank talk invisible mansions, Luthor mysteries, hand wavey science magic, and more. Plus listeners emails and end-of-season speculation!</p>
 
-<p>Proud member of the <a href="http://www.thoughtbubbleaudio.com">Thought Bubble Audio Network</a> and <a href="http://dctvtalk.com">DC TV Talk</a>!</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Supergirl TV Talk</a></p><p>Links:</p><ul><li><a href="http://starkexpolive.eventbrite.com/" rel="nofollow" title="StarkExpoLive! A Night of Podcasting for Charity">StarkExpoLive! A Night of Podcasting for Charity</a></li><li><a href="http://www.beerwithgeeks.com/164" rel="nofollow" title="Beer With Geeks 164: The Science Award">Beer With Geeks 164: The Science Award</a></li><li><a href="https://www.youtube.com/watch?v=5hKnV3fe5Fk" rel="nofollow" title="Supergirl 3x19 "The Fanatical" Extended Promo ">Supergirl 3x19 "The Fanatical" Extended Promo </a></li></ul>
+<p>Proud member of the <a href="http://www.thoughtbubbleaudio.com">Thought Bubble Audio Network</a> and <a href="http://dctvtalk.com">DC TV Talk</a>!</p>
+
+<p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Supergirl TV Talk</a></p>
+
+<p>Links:</p>
+
+<ul>
+
+<li><a href="http://starkexpolive.eventbrite.com/" rel="nofollow" title="StarkExpoLive! A Night of Podcasting for Charity">StarkExpoLive! A Night of Podcasting for Charity</a></li>
+
+<li><a href="http://www.beerwithgeeks.com/164" rel="nofollow" title="Beer With Geeks 164: The Science Award">Beer With Geeks 164: The Science Award</a></li>
+
+<li><a href="https://www.youtube.com/watch?v=5hKnV3fe5Fk" rel="nofollow" title="Supergirl 3x19 "The Fanatical" Extended Promo ">Supergirl 3x19 "The Fanatical" Extended Promo </a></li>
+
+</ul>

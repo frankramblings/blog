@@ -16,4 +16,20 @@ audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893
 
 <p><strong>Drinks of the Week</strong><br />
 Beringer Pasarobles<br />
-La Finca Tempranillo</p><p>Special Guest: Tooky Kavanagh.</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p><p>Links:</p><ul><li><a href="https://en.wikipedia.org/wiki/Married_at_First_Sight_(American_TV_series)" rel="nofollow" title="Married at First Sight (American TV series) - Wikipedia">Married at First Sight (American TV series) - Wikipedia</a></li><li><a href="https://www.loudwomenpod.com/hosts/tooky" rel="nofollow" title="Loud Women - Tooky Kavanagh">Loud Women - Tooky Kavanagh</a></li><li><a href="http://tookykavanagh.com/" rel="nofollow" title="Tooky’s Website">Tooky’s Website</a></li></ul>
+La Finca Tempranillo</p>
+
+<p>Special Guest: Tooky Kavanagh.</p>
+
+<p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>
+
+<p>Links:</p>
+
+<ul>
+
+<li><a href="https://en.wikipedia.org/wiki/Married_at_First_Sight_(American_TV_series)" rel="nofollow" title="Married at First Sight (American TV series) - Wikipedia">Married at First Sight (American TV series) - Wikipedia</a></li>
+
+<li><a href="https://www.loudwomenpod.com/hosts/tooky" rel="nofollow" title="Loud Women - Tooky Kavanagh">Loud Women - Tooky Kavanagh</a></li>
+
+<li><a href="http://tookykavanagh.com/" rel="nofollow" title="Tooky’s Website">Tooky’s Website</a></li>
+
+</ul>

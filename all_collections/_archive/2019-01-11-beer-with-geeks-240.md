@@ -16,4 +16,14 @@ audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893
 
 <p><strong>Beers of the Week</strong><br />
 Tree House HAZE Double IPA<br />
-Schweppes Black Cherry Seltzer</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p><p>Links:</p><ul><li><a href="https://en.wikipedia.org/wiki/Aquaman_(film)" rel="nofollow" title="Aquaman (film) - Wikipedia">Aquaman (film) - Wikipedia</a></li></ul>
+Schweppes Black Cherry Seltzer</p>
+
+<p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>
+
+<p>Links:</p>
+
+<ul>
+
+<li><a href="https://en.wikipedia.org/wiki/Aquaman_(film)" rel="nofollow" title="Aquaman (film) - Wikipedia">Aquaman (film) - Wikipedia</a></li>
+
+</ul>

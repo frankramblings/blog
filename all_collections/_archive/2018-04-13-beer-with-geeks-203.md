@@ -16,4 +16,20 @@ audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893
 
 <p><strong>Beers of the Week</strong><br />
 Simpler Times Lager<br />
-Jack’s Abbey Hopponius Union</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p><p>Links:</p><ul><li><a href="https://hypebeast.com/2015/11/sam-adams-whiskey" rel="nofollow" title="Sam Adams Whiskey | HYPEBEAST">Sam Adams Whiskey | HYPEBEAST</a></li><li><a href="http://www.indiewire.com/2018/04/tony-gilroy-rogue-one-reshoots-lucasfilm-terrible-trouble-1201949457/" rel="nofollow" title="Tony Gilroy Looks Back at ‘Rogue One’ Reshoots | IndieWire">Tony Gilroy Looks Back at ‘Rogue One’ Reshoots | IndieWire</a></li><li><a href="https://io9.gizmodo.com/the-director-of-rogue-ones-mythic-reshoots-speaks-out-f-1825019244" rel="nofollow" title="The Director of Rogue One's Mythic Reshoots Speaks Out for the First Time">The Director of Rogue One's Mythic Reshoots Speaks Out for the First Time</a></li><li><a href="https://www.amazon.com/Creativity-Inc-Overcoming-Unseen-Inspiration/dp/B00IPJTQQW/ref=tmm_aud_swatch_0?_encoding=UTF8&qid=&sr=" rel="nofollow" title="Creativity, Inc.: Overcoming the Unseen Forces That Stand in the Way of True Inspiration">Creativity, Inc.: Overcoming the Unseen Forces That Stand in the Way of True Inspiration</a></li></ul>
+Jack’s Abbey Hopponius Union</p>
+
+<p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>
+
+<p>Links:</p>
+
+<ul>
+
+<li><a href="https://hypebeast.com/2015/11/sam-adams-whiskey" rel="nofollow" title="Sam Adams Whiskey | HYPEBEAST">Sam Adams Whiskey | HYPEBEAST</a></li>
+
+<li><a href="http://www.indiewire.com/2018/04/tony-gilroy-rogue-one-reshoots-lucasfilm-terrible-trouble-1201949457/" rel="nofollow" title="Tony Gilroy Looks Back at ‘Rogue One’ Reshoots | IndieWire">Tony Gilroy Looks Back at ‘Rogue One’ Reshoots | IndieWire</a></li>
+
+<li><a href="https://io9.gizmodo.com/the-director-of-rogue-ones-mythic-reshoots-speaks-out-f-1825019244" rel="nofollow" title="The Director of Rogue One's Mythic Reshoots Speaks Out for the First Time">The Director of Rogue One's Mythic Reshoots Speaks Out for the First Time</a></li>
+
+<li><a href="https://www.amazon.com/Creativity-Inc-Overcoming-Unseen-Inspiration/dp/B00IPJTQQW/ref=tmm_aud_swatch_0?_encoding=UTF8&qid=&sr=" rel="nofollow" title="Creativity, Inc.: Overcoming the Unseen Forces That Stand in the Way of True Inspiration">Creativity, Inc.: Overcoming the Unseen Forces That Stand in the Way of True Inspiration</a></li>
+
+</ul>

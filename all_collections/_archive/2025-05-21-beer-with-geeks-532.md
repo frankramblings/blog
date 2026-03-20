@@ -17,4 +17,20 @@ audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893
 <p><strong>Beers of the Week</strong><br />
 A&W Zero Sugar Root Beer<br />
 Blue Point Toasted Lager<br />
-Tuckerman Brewing Lime After Lime</p><p>Special Guest: Vactor.</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p><p>Links:</p><ul><li><a href="https://www.youtube.com/@TrustInTheForce" rel="nofollow" title="Trust In The Force">Trust In The Force</a></li><li><a href="https://www.youtube.com/@ThisComicCooks" rel="nofollow" title="This Comic COOKS!">This Comic COOKS!</a></li><li><a href="https://www.youtube.com/@VactorVerse" rel="nofollow" title="Vactor-Verse">Vactor-Verse</a></li></ul>
+Tuckerman Brewing Lime After Lime</p>
+
+<p>Special Guest: Vactor.</p>
+
+<p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>
+
+<p>Links:</p>
+
+<ul>
+
+<li><a href="https://www.youtube.com/@TrustInTheForce" rel="nofollow" title="Trust In The Force">Trust In The Force</a></li>
+
+<li><a href="https://www.youtube.com/@ThisComicCooks" rel="nofollow" title="This Comic COOKS!">This Comic COOKS!</a></li>
+
+<li><a href="https://www.youtube.com/@VactorVerse" rel="nofollow" title="Vactor-Verse">Vactor-Verse</a></li>
+
+</ul>

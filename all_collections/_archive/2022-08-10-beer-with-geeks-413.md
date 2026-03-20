@@ -20,4 +20,6 @@ Stony Creek Brewery: Save the Sound Light Lager</p>
 
 <p><a href="https://www.youtube.com/watch?v=r7NsuKF-frA" rel="nofollow">The Comic Book Kaiju Youtube Channel</a><br />
 <a href="https://twitter.com/cbkpod" rel="nofollow">The CBK Twitter</a><br />
-<a href="https://www.instagram.com/cbkpod/" rel="nofollow">The CBK Instagram</a></p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>
+<a href="https://www.instagram.com/cbkpod/" rel="nofollow">The CBK Instagram</a></p>
+
+<p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>

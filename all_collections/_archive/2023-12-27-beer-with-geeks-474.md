@@ -16,4 +16,14 @@ audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893
 
 <p><strong>Beers of the Week</strong><br />
 Night Shift Ritzy AF Ale<br />
-Cisco Brewing Winter Shredder</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p><p>Links:</p><ul><li><a href="https://open.spotify.com/artist/40FYV9DY8HApGkEpWMLi2h?si=97a32dd27bec43b6" rel="nofollow" title=""Kids Music" (aka Miss Rachel) on Spotify">"Kids Music" (aka Miss Rachel) on Spotify</a></li></ul>
+Cisco Brewing Winter Shredder</p>
+
+<p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>
+
+<p>Links:</p>
+
+<ul>
+
+<li><a href="https://open.spotify.com/artist/40FYV9DY8HApGkEpWMLi2h?si=97a32dd27bec43b6" rel="nofollow" title=""Kids Music" (aka Miss Rachel) on Spotify">"Kids Music" (aka Miss Rachel) on Spotify</a></li>
+
+</ul>

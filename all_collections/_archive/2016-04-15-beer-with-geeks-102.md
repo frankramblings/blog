@@ -14,4 +14,6 @@ audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893
 
 <p>It's Frank's turn to change Tim's mind on another edition of Hit Me With Your Best Shot! This time around, the guys talk Doctor Who. Allons-y, Geronimo, and Cheers!</p>
 
-<p><b>Beer of the Week: </b><br />Samuel Adams Escape Route<br />Jack Daniel's Tennessee Honey</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>
+<p><b>Beer of the Week: </b><br />Samuel Adams Escape Route<br />Jack Daniel's Tennessee Honey</p>
+
+<p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>

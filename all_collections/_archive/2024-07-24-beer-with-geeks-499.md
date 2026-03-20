@@ -17,4 +17,8 @@ audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893
 <p><strong>Beers of the Week</strong><br />
 A&W Root Beer Zero Sugar<br />
 Citizen Cider Wit's Up Dry Ale-Style Cider<br />
-Sierra Nevada Trail Pass</p><p>Special Guest: Vactor.</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>
+Sierra Nevada Trail Pass</p>
+
+<p>Special Guest: Vactor.</p>
+
+<p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>

@@ -16,4 +16,8 @@ audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893
 
 <p><strong>Beers of the Week</strong><br />
 Singlecut Softly Spoken Magic Spells Imperial IPA<br />
-Revival Fanny Session IPA</p><p>Special Guest: Zaki Hasan.</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>
+Revival Fanny Session IPA</p>
+
+<p>Special Guest: Zaki Hasan.</p>
+
+<p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>

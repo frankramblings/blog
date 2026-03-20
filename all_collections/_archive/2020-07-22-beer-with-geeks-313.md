@@ -17,4 +17,14 @@ audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893
 <p><strong>Beers of the Week</strong><br />
 Cellar Cru 2019 Red Wine<br />
 Gnarly Head Chardonnay <br />
-Pipewords First-Rate Rauchbock Lager</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p><p>Links:</p><ul><li><a href="https://www.amazon.com/dp/1450860257/ref=cm_sw_r_cp_tai_4dpdFbATMB7ST" rel="nofollow" title="Pub Time Trivia: Publications International Ltd.: 9781450860253: Amazon.com: Books">Pub Time Trivia: Publications International Ltd.: 9781450860253: Amazon.com: Books</a></li></ul>
+Pipewords First-Rate Rauchbock Lager</p>
+
+<p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>
+
+<p>Links:</p>
+
+<ul>
+
+<li><a href="https://www.amazon.com/dp/1450860257/ref=cm_sw_r_cp_tai_4dpdFbATMB7ST" rel="nofollow" title="Pub Time Trivia: Publications International Ltd.: 9781450860253: Amazon.com: Books">Pub Time Trivia: Publications International Ltd.: 9781450860253: Amazon.com: Books</a></li>
+
+</ul>

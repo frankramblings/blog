@@ -16,4 +16,16 @@ audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893
 
 <p><strong>Beers of the Week</strong><br />
 Toppling Goliath Brewing Company Pseudo Sue<br />
-Simpler Times Lager</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p><p>Links:</p><ul><li><a href="http://thinkingdrinking.beer/" rel="nofollow" title="Thinking & Drinking - The Craft Beer Card Game">Thinking & Drinking - The Craft Beer Card Game</a></li><li><a href="https://www.youtube.com/watch?v=BhiheDcF8SM" rel="nofollow" title="Ballad du Paris by Francois Parisi">Ballad du Paris by Francois Parisi</a></li></ul>
+Simpler Times Lager</p>
+
+<p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>
+
+<p>Links:</p>
+
+<ul>
+
+<li><a href="http://thinkingdrinking.beer/" rel="nofollow" title="Thinking & Drinking - The Craft Beer Card Game">Thinking & Drinking - The Craft Beer Card Game</a></li>
+
+<li><a href="https://www.youtube.com/watch?v=BhiheDcF8SM" rel="nofollow" title="Ballad du Paris by Francois Parisi">Ballad du Paris by Francois Parisi</a></li>
+
+</ul>

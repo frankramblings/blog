@@ -16,4 +16,14 @@ audio_url: "https://aphid.fireside.fm/d/1437767933/af6e5adc-2f5e-4d17-8b13-86893
 
 <p><strong>Drinks of the Week</strong><br />
 Lavazza Coffee & Espresso<br />
-Bones Coffee Frankenbones Chocolate & Hazelnut</p><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p><p>Links:</p><ul><li><a href="https://m.youtube.com/watch?v=6LAPFM3dgag" rel="nofollow" title="Vivaldi's Four Seasons - Spring (Part 1) - YouTube">Vivaldi's Four Seasons - Spring (Part 1) - YouTube</a></li></ul>
+Bones Coffee Frankenbones Chocolate & Hazelnut</p>
+
+<p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Beer With Geeks</a></p>
+
+<p>Links:</p>
+
+<ul>
+
+<li><a href="https://m.youtube.com/watch?v=6LAPFM3dgag" rel="nofollow" title="Vivaldi's Four Seasons - Spring (Part 1) - YouTube">Vivaldi's Four Seasons - Spring (Part 1) - YouTube</a></li>
+
+</ul>

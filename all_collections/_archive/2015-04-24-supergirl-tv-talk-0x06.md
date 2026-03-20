@@ -15,4 +15,14 @@ audio_url: "https://aphid.fireside.fm/d/1437767933/a7e375a6-6b1c-4fd0-b43d-ea206
 
 <p>Your latest Supergirl news and the long-awaited discussion of the 1984 Supergirl movie starring Helen Slater!</p>
 
-<p>Proud member of <a href="http://dctvtalk.com/">DC TV Talk</a> and the <a href="http://www.supermanpodcastnetwork.com/" target="_blank">Superman Podcast Network</a>!</p><p>Sponsored By:</p><ul><li><a href="http://supergirl.tv" rel="nofollow">Supergirl.tv</a>: <a href="http://supergirl.tv" rel="nofollow">Your one stop website for all the latest Supergirl news, rumors, spoilers, video and media. By fans, for fans.</a></li></ul><p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Supergirl TV Talk</a></p>
+<p>Proud member of <a href="http://dctvtalk.com/">DC TV Talk</a> and the <a href="http://www.supermanpodcastnetwork.com/" target="_blank">Superman Podcast Network</a>!</p>
+
+<p>Sponsored By:</p>
+
+<ul>
+
+<li><a href="http://supergirl.tv" rel="nofollow">Supergirl.tv</a>: <a href="http://supergirl.tv" rel="nofollow">Your one stop website for all the latest Supergirl news, rumors, spoilers, video and media. By fans, for fans.</a></li>
+
+</ul>
+
+<p><a href="https://www.patreon.com/thoughtbubbleaudio" rel="payment">Support Supergirl TV Talk</a></p>
