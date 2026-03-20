@@ -2,7 +2,7 @@ backend:
   name: github
   repo: frankramblings/blog
   branch: gh-pages
-  base_url: https://sveltia-cms-auth.your-worker.workers.dev  # replace with your OAuth proxy URL
+  base_url: https://sveltia-cms-auth.frank-481.workers.dev
 
 media_folder: "assets/images"
 public_folder: "/assets/images"
