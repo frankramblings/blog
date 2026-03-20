@@ -37,7 +37,13 @@
         <ul class="archive-entry-list">
           {% for entry in entries %}
           <li>
-            <a href="{{ site.baseurl }}{{ entry.url }}">
+            {% if page.archive_platform == "twitter" %}
+              {% assign tweet_id = entry.original_url | split: "/" | last %}
+              {% assign tweet_year = entry.date | slice: 0, 4 %}
+              <a href="{{ site.baseurl }}/archive/social/twitter/view/?y={{ tweet_year }}&id={{ tweet_id }}">
+            {% else %}
+              <a href="{{ site.baseurl }}{{ entry.url }}">
+            {% endif %}
               {% if entry.episode_id %}
               <span class="entry-id">{{ entry.episode_id }}</span>
               {% endif %}

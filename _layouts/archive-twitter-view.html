@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="en">
+  {% include head.html %}
+  <body>
+    <main class="blogfeed">
+      {% include header.html %}
+
+      <div class="archive-breadcrumb">
+        <a href="{{ site.baseurl }}/archive/">Archive</a>
+        <span class="sep"></span><a href="{{ site.baseurl }}/archive/social/">Social Media</a>
+        <span class="sep"></span><a href="{{ site.baseurl }}/archive/social/twitter/">Twitter</a>
+        <span class="sep"></span><span id="breadcrumb-title">…</span>
+      </div>
+
+      <div class="archive-card">
+        <article class="archive-card-inner archive-card--twitter">
+          <div class="archive-card-icon">
+            <img src="{{ site.baseurl }}/assets/icons/twitter.svg" alt="twitter">
+          </div>
+
+          <div class="archive-card-meta">
+            <time id="tweet-date" datetime=""></time>
+            <span class="platform-label platform-label--twitter">Twitter</span>
+          </div>
+
+          <h1 class="archive-card-title" id="tweet-title">
+            <span class="tweet-loading">Loading…</span>
+          </h1>
+
+          <div class="archive-card-content" id="tweet-content"></div>
+
+          <div class="archive-card-source" id="tweet-source" style="display:none">
+            <a id="tweet-original-link" href="" rel="noopener" target="_blank">View original</a>
+          </div>
+        </article>
+      </div>
+
+      <div class="archive-nav" id="tweet-nav" style="display:none">
+        <div class="archive-nav-section">
+          <div class="archive-nav-links">
+            <a id="nav-prev" href="" style="display:none">← Previous</a>
+            <span></span>
+            <a id="nav-next" href="" style="display:none">Next →</a>
+          </div>
+        </div>
+      </div>
+
+      {% include footer.html %}
+    </main>
+
+    <script>
+      (function () {
+        const BASEURL = "{{ site.baseurl }}";
+        const params = new URLSearchParams(window.location.search);
+        const id = params.get('id');
+        const year = params.get('y');
+
+        if (!id || !year) {
+          showError('Missing tweet ID or year.');
+          return;
+        }
+
+        fetch(BASEURL + '/assets/data/tweets-' + year + '.json')
+          .then(function (r) {
+            if (!r.ok) throw new Error('Failed to load tweets-' + year + '.json');
+            return r.json();
+          })
+          .then(function (tweets) {
+            const idx = tweets.findIndex(function (t) {
+              return t.original_url && t.original_url.split('/').pop() === id;
+            });
+            if (idx === -1) {
+              showError('Tweet not found.');
+              return;
+            }
+            render(tweets[idx], tweets, idx, year);
+          })
+          .catch(function (err) {
+            showError(err.message);
+          });
+
+        function render(tweet, tweets, idx, year) {
+          // Breadcrumb
+          document.getElementById('breadcrumb-title').textContent = truncate(tweet.title || tweet.content, 40);
+
+          // Date
+          var dateEl = document.getElementById('tweet-date');
+          var d = new Date(tweet.date + 'T12:00:00');
+          dateEl.setAttribute('datetime', tweet.date);
+          dateEl.textContent = d.toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' });
+
+          // Title + content
+          document.getElementById('tweet-title').innerHTML =
+            '<a href="' + escHtml(tweet.original_url) + '" rel="noopener" target="_blank">'
+            + escHtml(tweet.title || tweet.content) + '</a>';
+
+          document.getElementById('tweet-content').innerHTML = renderContent(tweet.content);
+
+          // Source link
+          var src = document.getElementById('tweet-source');
+          src.style.display = '';
+          document.getElementById('tweet-original-link').href = tweet.original_url;
+
+          // Prev / next within same year
+          var nav = document.getElementById('tweet-nav');
+          nav.style.display = '';
+
+          if (idx + 1 < tweets.length) {
+            var prevTweet = tweets[idx + 1];
+            var prevId = prevTweet.original_url.split('/').pop();
+            var prevEl = document.getElementById('nav-prev');
+            prevEl.href = BASEURL + '/archive/social/twitter/view/?y=' + year + '&id=' + prevId;
+            prevEl.textContent = '← ' + truncate(prevTweet.title || prevTweet.content, 35);
+            prevEl.style.display = '';
+          }
+          if (idx - 1 >= 0) {
+            var nextTweet = tweets[idx - 1];
+            var nextId = nextTweet.original_url.split('/').pop();
+            var nextEl = document.getElementById('nav-next');
+            nextEl.href = BASEURL + '/archive/social/twitter/view/?y=' + year + '&id=' + nextId;
+            nextEl.textContent = truncate(nextTweet.title || nextTweet.content, 35) + ' →';
+            nextEl.style.display = '';
+          }
+
+          // Page title
+          document.title = (tweet.title || truncate(tweet.content, 60)) + ' — Twitter Archive';
+        }
+
+        function renderContent(text) {
+          if (!text) return '';
+          // Convert markdown links [text](url) → <a>
+          var html = text.replace(/\[([^\]]+)\]\((https?:\/\/[^\)]+)\)/g, function (_, label, url) {
+            return '<a href="' + escHtml(url) + '" rel="noopener" target="_blank">' + escHtml(label) + '</a>';
+          });
+          // Convert bare URLs
+          html = html.replace(/(^|[\s>])(https?:\/\/[^\s<]+)/g, function (_, pre, url) {
+            return pre + '<a href="' + escHtml(url) + '" rel="noopener" target="_blank">' + escHtml(url) + '</a>';
+          });
+          // Newlines → <br>
+          html = html.replace(/\n/g, '<br>');
+          return '<p>' + html + '</p>';
+        }
+
+        function showError(msg) {
+          document.getElementById('tweet-title').textContent = 'Tweet not found';
+          document.getElementById('tweet-content').textContent = msg;
+        }
+
+        function escHtml(str) {
+          return String(str)
+            .replace(/&/g, '&amp;')
+            .replace(/</g, '&lt;')
+            .replace(/>/g, '&gt;')
+            .replace(/"/g, '&quot;');
+        }
+
+        function truncate(str, len) {
+          if (!str) return '';
+          return str.length <= len ? str : str.slice(0, len).trimEnd() + '…';
+        }
+      })();
+    </script>
+  </body>
+</html>
