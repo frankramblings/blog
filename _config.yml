@@ -29,7 +29,7 @@ collections:
   images:
     output: true
   archive:
-    output: false
+    output: true
 
 defaults:
   - scope:
