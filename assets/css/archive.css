@@ -285,6 +285,20 @@ main.blogfeed .archive-card-title {
 .archive-card-content h3 { font-size: 1.05rem; }
 .archive-card-content h4 { font-size: 1rem; }
 
+/* Tweet media grid */
+.archive-card-media {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 0.5rem;
+  margin-top: 0.75rem;
+}
+
+.tweet-media-img {
+  width: 100%;
+  border-radius: 0.5rem;
+  display: block;
+}
+
 /* Original source link */
 .archive-card-source {
   margin-top: 1rem;

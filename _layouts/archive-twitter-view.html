@@ -29,6 +29,8 @@
 
           <div class="archive-card-content" id="tweet-content"></div>
 
+          <div class="archive-card-media" id="tweet-media"></div>
+
           <div class="archive-card-source" id="tweet-source" style="display:none">
             <a id="tweet-original-link" href="" rel="noopener" target="_blank">View original</a>
           </div>
@@ -95,6 +97,18 @@
             + escHtml(tweet.title || tweet.content) + '</a>';
 
           document.getElementById('tweet-content').innerHTML = renderContent(tweet.content);
+
+          // Media
+          if (tweet.media && tweet.media.length > 0) {
+            var mediaEl = document.getElementById('tweet-media');
+            tweet.media.forEach(function (path) {
+              var img = document.createElement('img');
+              img.src = BASEURL + path;
+              img.alt = '';
+              img.className = 'tweet-media-img';
+              mediaEl.appendChild(img);
+            });
+          }
 
           // Source link
           var src = document.getElementById('tweet-source');
