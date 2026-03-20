@@ -33,6 +33,14 @@
         {% comment %} Social Media Section {% endcomment %}
         <h2>Social Media</h2>
         <ul class="archive-show-list">
+          {% comment %} Twitter from data file {% endcomment %}
+          <li>
+            <a href="{{ site.baseurl }}/archive/social/twitter/">
+              <span class="show-title">Twitter</span>
+              <span class="show-count">({{ site.data.tweets.size }})</span>
+            </a>
+          </li>
+          {% comment %} Other platforms from collection {% endcomment %}
           {% assign social_entries = site.archive | where: "type", "social" %}
           {% assign platforms = social_entries | map: "platform" | uniq %}
           {% for platform in platforms %}
