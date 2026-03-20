@@ -37,11 +37,7 @@
         <ul class="archive-entry-list">
           {% for entry in entries %}
           <li>
-            {% if entry.original_url %}
-            <a href="{{ entry.original_url }}" target="_blank">
-            {% else %}
             <a href="{{ site.baseurl }}{{ entry.url }}">
-            {% endif %}
               {% if entry.episode_id %}
               <span class="entry-id">{{ entry.episode_id }}</span>
               {% endif %}
