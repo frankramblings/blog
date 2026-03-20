@@ -68,9 +68,13 @@ main.blogfeed .archive-card-title {
   background: rgba(255, 255, 255, 0.05);
   border: 1px solid rgba(255, 255, 255, 0.1);
   border-radius: 0.75rem;
-  color: inherit;
+  color: #fff;
   text-decoration: none;
   transition: background 0.2s, border-color 0.2s;
+}
+
+.archive-show-list a:visited {
+  color: #fff;
 }
 
 .archive-show-list a:hover {
@@ -116,9 +120,13 @@ main.blogfeed .archive-card-title {
   justify-content: space-between;
   align-items: baseline;
   padding: 0.6rem 0.25rem;
-  color: inherit;
+  color: #fff;
   text-decoration: none;
   transition: background 0.15s;
+}
+
+.archive-entry-list a:visited {
+  color: #fff;
 }
 
 .archive-entry-list a:hover {
@@ -240,27 +248,26 @@ main.blogfeed .archive-card-title {
   text-decoration: underline;
 }
 
-/* Podcast: content + cover art side by side */
-.archive-card-body {
-  display: flex;
-  gap: 1.5rem;
-  align-items: flex-start;
+/* Podcast: cover art floats right alongside content */
+.archive-card-body::after {
+  content: '';
+  display: table;
+  clear: both;
 }
 
 .archive-card-cover {
+  float: right;
   width: 160px;
-  flex-shrink: 0;
+  margin: 0 0 0.75rem 1.5rem;
   border-radius: 0.5rem;
   display: block;
 }
 
 @media (max-width: 500px) {
-  .archive-card-body {
-    flex-direction: column-reverse;
-  }
   .archive-card-cover {
-    width: 100%;
-    max-width: 200px;
+    float: none;
+    width: 120px;
+    margin: 0 0 0.75rem 0;
   }
 }
 
@@ -486,8 +493,12 @@ main.blogfeed .archive-card-title {
 }
 
 .archive-breadcrumb a {
-  color: inherit;
+  color: #fff;
   text-decoration: none;
+}
+
+.archive-breadcrumb a:visited {
+  color: #fff;
 }
 
 .archive-breadcrumb a:hover {
