@@ -6,6 +6,7 @@
   description: "A couple of guys, a couple of beers, and a whole lot of pop culture nostalgia."
   numbering: sequential
   feed_url: "https://feeds.fireside.fm/beerwithgeeks/rss"
+  cover_art: "https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/a/af6e5adc-2f5e-4d17-8b13-86893849267f/cover.jpg?v=2"
   active: true
 
 - slug: supergirl-tv-talk
@@ -13,6 +14,7 @@
   description: "Episode-by-episode commentary on the CW hit series Supergirl."
   numbering: season
   feed_url: "https://feeds.fireside.fm/supergirltvtalk/rss"
+  cover_art: "https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/a/a7e375a6-6b1c-4fd0-b43d-ea2063feaac0/cover.jpg?v=6"
   active: false
 
 - slug: echo-alert
@@ -20,6 +22,7 @@
   description: "A Dollhouse podcast."
   numbering: sequential
   feed_url: "https://feeds.feedburner.com/echoalert"
+  cover_art: "http://i666.photobucket.com/albums/vv25/echoalert/echoalertcoverartBEDS.jpg"
   active: false
 
 - slug: obiter-dictum
@@ -34,6 +37,7 @@
   description: "A social media marketing podcast."
   numbering: sequential
   feed_url: "https://feeds.feedburner.com/marketersnextdoor"
+  cover_art: "http://i.imgur.com/TQczdEB.jpg"
   active: false
 
 - slug: franks-music-free-for-all
@@ -41,6 +45,7 @@
   description: "Music spanning from the 1950s through the 21st century."
   numbering: sequential
   feed_url: "http://feeds.feedburner.com/frankpodcast"
+  cover_art: "http://www.podomatic.com/mymedia/thumb/27723/175x175_307189.jpg"
   active: false
 
 - slug: the-gospel-according-to-lucas
@@ -48,6 +53,7 @@
   description: "A Star Wars Bible study podcast."
   numbering: sequential
   feed_url: "https://feeds.fireside.fm/thegospelaccordingtolucas/rss"
+  cover_art: "https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/e/eb8535d6-5f60-4bb6-bd97-6145fa94ba08/cover.jpg?v=3"
   active: false
 
 - slug: 4th-times-the-charm
@@ -55,6 +61,7 @@
   description: "Watching popular media four times and providing live commentary."
   numbering: season
   feed_url: "https://feeds.feedburner.com/4thTimepodcast"
+  cover_art: "https://1.bp.blogspot.com/-qSFGtbhG7vE/Xm7aCfyeQJI/AAAAAAADPwU/N9vIjpe1BF0ownludX1Ia7udYoog4YmKgCLcBGAsYHQ/s1600/shared.jpeg"
   active: false
 
 - slug: save-me-the-smallville-anthology
@@ -62,6 +69,7 @@
   description: "An oral history of Smallville for its 20th anniversary."
   numbering: sequential
   feed_url: "https://feeds.feedburner.com/smallvilleanthology"
+  cover_art: "https://i.imgur.com/qoBsdTS.jpeg"
   active: false
 
 - slug: untitled-tech-podcast
@@ -76,6 +84,7 @@
   description: "Episode-by-episode commentary on Superman & Lois."
   numbering: season
   feed_url: "https://feeds.fireside.fm/supermantvtalk/rss"
+  cover_art: "https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/c/ca06e266-f5ac-4159-baf5-35ad203e8279/cover.jpg?v=7"
   web_url: "https://www.superhouseofel.com/posts?tag=superman-and-lois"
   active: false
 
@@ -84,6 +93,7 @@
   description: "Episode-by-episode commentary on Krypton."
   numbering: season
   feed_url: "https://feeds.fireside.fm/supermantvtalk/rss"
+  cover_art: "https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/c/ca06e266-f5ac-4159-baf5-35ad203e8279/cover.jpg?v=7"
   web_url: "https://www.superhouseofel.com/posts?tag=krypton"
   active: false
 

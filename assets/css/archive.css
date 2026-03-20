@@ -240,6 +240,30 @@ main.blogfeed .archive-card-title {
   text-decoration: underline;
 }
 
+/* Podcast: content + cover art side by side */
+.archive-card-body {
+  display: flex;
+  gap: 1.5rem;
+  align-items: flex-start;
+}
+
+.archive-card-cover {
+  width: 160px;
+  flex-shrink: 0;
+  border-radius: 0.5rem;
+  display: block;
+}
+
+@media (max-width: 500px) {
+  .archive-card-body {
+    flex-direction: column-reverse;
+  }
+  .archive-card-cover {
+    width: 100%;
+    max-width: 200px;
+  }
+}
+
 /* Card content — the actual post text */
 .archive-card-content {
   font-size: 1rem;

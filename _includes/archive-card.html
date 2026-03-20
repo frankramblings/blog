@@ -42,10 +42,21 @@
     {% endif %}
   </h1>
 
-  {% comment %} Content {% endcomment %}
+  {% comment %} Content + cover art side by side for podcasts {% endcomment %}
+  {% if entry.type == "podcast" %}
+    {% assign show = site.data.podcasts | where: "slug", entry.podcast | first %}
+  {% endif %}
+
+  {% if show and show.cover_art %}
+  <div class="archive-card-body">
+    <div class="archive-card-content">{{ entry.content }}</div>
+    <img class="archive-card-cover" src="{{ show.cover_art }}" alt="{{ show.title }} cover art">
+  </div>
+  {% else %}
   <div class="archive-card-content">
     {{ entry.content }}
   </div>
+  {% endif %}
 
   {% comment %} Audio player for podcasts {% endcomment %}
   {% if entry.audio_url %}
