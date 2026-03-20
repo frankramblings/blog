@@ -1,0 +1,82 @@
+backend:
+  name: github
+  repo: frankramblings/blog
+  branch: gh-pages
+  base_url: https://sveltia-cms-auth.your-worker.workers.dev  # replace with your OAuth proxy URL
+
+media_folder: "assets/images"
+public_folder: "/assets/images"
+
+site_url: https://frankramblings.com/blog
+display_url: https://frankramblings.com/blog
+
+collections:
+
+  # -----------------------------------------------------------------------
+  # Blog Posts
+  # -----------------------------------------------------------------------
+  - name: posts
+    label: Posts
+    label_singular: Post
+    folder: all_collections/_posts
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    preview_path: "{{permalink}}"
+    fields:
+      - { label: Title, name: title, widget: string }
+      - { label: Date, name: date, widget: datetime, date_format: YYYY-MM-DD, time_format: HH:mm:ss, format: "YYYY-MM-DDT00:00:00+00:00" }
+      - { label: Author, name: author, widget: string, default: Frank }
+      - { label: Excerpt, name: excerpt, widget: text, required: false }
+      - { label: Featured Image, name: image, widget: image, required: false }
+      - label: Categories
+        name: categories
+        widget: list
+        required: false
+      - label: Tags
+        name: tags
+        widget: list
+        required: false
+      - { label: Layout, name: layout, widget: hidden, default: post }
+      - { label: Body, name: body, widget: markdown }
+
+  # -----------------------------------------------------------------------
+  # Archive — Podcast Episodes
+  # -----------------------------------------------------------------------
+  - name: archive_podcasts
+    label: Archive — Podcasts
+    label_singular: Episode
+    folder: all_collections/_archive
+    create: false
+    filter: { field: type, value: podcast }
+    slug: "{{date}}-{{podcast}}-{{episode_id}}"
+    preview_path: "{{permalink}}"
+    fields:
+      - { label: Title, name: title, widget: string }
+      - { label: Date, name: date, widget: date, format: "YYYY-MM-DD" }
+      - { label: Podcast, name: podcast, widget: string }
+      - { label: Podcast Title, name: podcast_title, widget: string }
+      - { label: Episode ID, name: episode_id, widget: string }
+      - { label: Original URL, name: original_url, widget: string, required: false }
+      - { label: Audio URL, name: audio_url, widget: string, required: false }
+      - { label: Type, name: type, widget: hidden, default: podcast }
+      - { label: Platform, name: platform, widget: hidden, default: podcast }
+      - { label: Body, name: body, widget: markdown }
+
+  # -----------------------------------------------------------------------
+  # Archive — Social Posts (Mastodon, Bluesky)
+  # -----------------------------------------------------------------------
+  - name: archive_social
+    label: Archive — Social
+    label_singular: Post
+    folder: all_collections/_archive
+    create: false
+    filter: { field: type, value: social }
+    slug: "{{date}}-{{platform}}-{{title}}"
+    preview_path: "{{permalink}}"
+    fields:
+      - { label: Title, name: title, widget: string }
+      - { label: Date, name: date, widget: date, format: "YYYY-MM-DD" }
+      - { label: Platform, name: platform, widget: select, options: [mastodon, bluesky, linkedin] }
+      - { label: Original URL, name: original_url, widget: string, required: false }
+      - { label: Type, name: type, widget: hidden, default: social }
+      - { label: Body, name: body, widget: markdown }
