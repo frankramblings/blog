@@ -4,6 +4,9 @@ date: 2026-04-04T00:00:00+00:00
 author: Frank
 excerpt: '"The whole earth keeps silence because the King is asleep."'
 image: /assets/images/2026/04/resurrection2007.jpg
+categories:
+  - Easter
+  - Religion
 layout: post
 ---
 This ancient homily is like a speed-run of the whole of human history.\
