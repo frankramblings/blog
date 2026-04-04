@@ -3,7 +3,7 @@ title: A Hauntingly Beautiful Reflection for Holy Saturday
 date: 2026-04-04T00:00:00+00:00
 author: Frank
 excerpt: '"The whole earth keeps silence because the King is asleep."'
-image: https://www.orthodoxroad.com/wp-content/uploads/2012/12/resurrection2007.jpg
+image: /assets/images/2026/04/resurrection2007.jpg
 layout: post
 ---
 This ancient homily is like a speed-run of the whole of human history.\
